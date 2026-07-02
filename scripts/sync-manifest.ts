@@ -7,6 +7,7 @@ const ROOT = path.join(__dirname, "..");
 const SNAPSHOT = path.join(ROOT, "preprocessing", "output", "jockey-snapshot.json");
 const OUT_DIR = path.join(ROOT, "app", "data");
 const OUT_FILE = path.join(OUT_DIR, "demo-manifest.json");
+const PLAYBACK_URLS_FILE = path.join(OUT_DIR, "playback-urls.json");
 const PREPROCESSING_ENV = path.join(ROOT, "preprocessing", ".env");
 const APP_ENV = path.join(ROOT, "app", ".env.local");
 
@@ -155,6 +156,27 @@ function main() {
     stores,
     assets,
   };
+
+  if (existsSync(PLAYBACK_URLS_FILE)) {
+    const playbackUrls = JSON.parse(readFileSync(PLAYBACK_URLS_FILE, "utf-8")) as Record<
+      string,
+      string
+    >;
+    for (const [assetId, url] of Object.entries(playbackUrls)) {
+      const asset = manifest.assets[assetId] as { playback_url?: string } | undefined;
+      if (asset && url) asset.playback_url = url;
+    }
+    console.log(`Applied ${Object.keys(playbackUrls).length} playback URLs from ${PLAYBACK_URLS_FILE}`);
+  } else if (existsSync(OUT_FILE)) {
+    const existing = JSON.parse(readFileSync(OUT_FILE, "utf-8")) as {
+      assets?: Record<string, { playback_url?: string }>;
+    };
+    for (const [assetId, asset] of Object.entries(existing.assets ?? {})) {
+      if (!asset.playback_url) continue;
+      const target = manifest.assets[assetId] as { playback_url?: string } | undefined;
+      if (target) target.playback_url = asset.playback_url;
+    }
+  }
 
   mkdirSync(OUT_DIR, { recursive: true });
   writeFileSync(OUT_FILE, JSON.stringify(manifest, null, 2));

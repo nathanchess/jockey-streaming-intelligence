@@ -11,6 +11,7 @@ import { fileURLToPath } from "url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.join(__dirname, "..");
 const MANIFEST_PATH = path.join(ROOT, "app", "data", "demo-manifest.json");
+const PLAYBACK_URLS_PATH = path.join(ROOT, "app", "data", "playback-urls.json");
 const VIDEO_ROOT = path.join(ROOT, "preprocessing", "videos");
 const ENV_LOCAL = path.join(ROOT, "app", ".env.local");
 
@@ -47,6 +48,10 @@ async function main() {
     assets: Record<string, { id: string; processing?: { local_path?: string }; playback_url?: string }>;
   };
 
+  const playbackUrls: Record<string, string> = existsSync(PLAYBACK_URLS_PATH)
+    ? (JSON.parse(readFileSync(PLAYBACK_URLS_PATH, "utf-8")) as Record<string, string>)
+    : {};
+
   for (const asset of Object.values(manifest.assets)) {
     const rel = videoFileName(asset.processing?.local_path, asset.id);
     const filePath = path.join(VIDEO_ROOT, rel);
@@ -73,11 +78,13 @@ async function main() {
 
     const data = (await res.json()) as { url: string };
     asset.playback_url = data.url;
+    playbackUrls[asset.id] = data.url;
     console.log(`Uploaded ${asset.id} → ${data.url}`);
   }
 
   writeFileSync(MANIFEST_PATH, JSON.stringify(manifest, null, 2));
-  console.log("Updated playback_url in demo-manifest.json");
+  writeFileSync(PLAYBACK_URLS_PATH, JSON.stringify(playbackUrls, null, 2));
+  console.log("Updated playback_url in demo-manifest.json and playback-urls.json");
 }
 
 main().catch((err) => {
