@@ -5,7 +5,6 @@ import { SpinnerIcon, ExclamationIcon, cn } from "@twelvelabs-io/react";
 import type { ResolvedClip } from "@/lib/types";
 import { clampMediaTime } from "@/lib/types";
 import { DEMO_VIDEO_SUPPRESS_NATIVE_UI } from "@/lib/demo-video";
-import { isYouTubePlaybackSrc, normalizeClipVideoSrc } from "@/lib/playback";
 
 type Props = {
   clip: ResolvedClip;
@@ -37,8 +36,6 @@ export function ClipPreviewVideo({
 
   const startSec = clampMediaTime(clip.startSec);
   const endSec = clampMediaTime(clip.endSec, startSec + 1);
-  const playbackSrc = normalizeClipVideoSrc(clip);
-  const youtubeMode = isYouTubePlaybackSrc(playbackSrc);
 
   const seekToStart = useCallback(
     (onSeeked?: () => void) => {
@@ -66,13 +63,9 @@ export function ClipPreviewVideo({
     setPlaying(false);
     setHovering(false);
     onPlayingChange?.(false);
-  }, [clip.id, playbackSrc, startSec, onPlayingChange]);
+  }, [clip.id, clip.videoSrc, startSec, onPlayingChange]);
 
   useEffect(() => {
-    if (youtubeMode) {
-      setFrameReady(true);
-      return;
-    }
     const video = videoRef.current;
     if (!video) return;
 
@@ -84,22 +77,19 @@ export function ClipPreviewVideo({
     return () => {
       video.removeEventListener("loadedmetadata", onReady);
     };
-  }, [clip.id, playbackSrc, seekToPosterFrame, youtubeMode]);
+  }, [clip.id, clip.videoSrc, seekToPosterFrame]);
 
   useEffect(() => {
-    if (youtubeMode) return;
     if (!autoPlayAfterMs || !active || hoverPlay) return;
     const id = window.setTimeout(() => setPlaying(true), autoPlayAfterMs);
     return () => window.clearTimeout(id);
-  }, [autoPlayAfterMs, active, hoverPlay, clip.id, youtubeMode]);
+  }, [autoPlayAfterMs, active, hoverPlay, clip.id]);
 
   useEffect(() => {
-    if (youtubeMode) return;
     if (hoverPlay) setPlaying(hovering && active);
-  }, [hoverPlay, hovering, active, youtubeMode]);
+  }, [hoverPlay, hovering, active]);
 
   const syncPlayback = useCallback(() => {
-    if (youtubeMode) return;
     const video = videoRef.current;
     if (!video || !frameReady) return;
 
@@ -132,7 +122,7 @@ export function ClipPreviewVideo({
       setPlaying(false);
     });
     onPlayingChange?.(true);
-  }, [endSec, frameReady, hoverPlay, onPlayingChange, playing, seekToStart, shouldPlay, startSec, youtubeMode]);
+  }, [endSec, frameReady, hoverPlay, onPlayingChange, playing, seekToStart, shouldPlay, startSec]);
 
   useEffect(() => {
     syncPlayback();
@@ -174,7 +164,7 @@ export function ClipPreviewVideo({
           <SpinnerIcon className="size-6 animate-spin text-foreground-subtle/50" />
         </div>
       )}
-      {loadError && !youtubeMode && (
+      {loadError && (
         <div
           className="absolute inset-0 flex flex-col items-center justify-center gap-2 bg-surface-muted px-4 text-center"
           data-testid="clip-preview-error"
@@ -183,29 +173,20 @@ export function ClipPreviewVideo({
           <span className="text-xs text-foreground-subtle">Preview unavailable</span>
         </div>
       )}
-      {youtubeMode ? (
-        // eslint-disable-next-line @next/next/no-img-element
-        <img
-          src={clip.thumbnailUrl}
-          alt=""
-          className="absolute inset-0 size-full object-cover"
-        />
-      ) : (
-        <video
-          ref={videoRef}
-          src={playbackSrc}
-          muted
-          playsInline
-          preload="metadata"
-          {...DEMO_VIDEO_SUPPRESS_NATIVE_UI}
-          className={cn(
-            "pointer-events-none absolute inset-0 size-full object-cover",
-            frameReady && !loadError ? "opacity-100" : "opacity-0",
-          )}
-          onTimeUpdate={handleTimeUpdate}
-          onError={() => setLoadError(true)}
-        />
-      )}
+      <video
+        ref={videoRef}
+        src={clip.videoSrc}
+        muted
+        playsInline
+        preload="metadata"
+        {...DEMO_VIDEO_SUPPRESS_NATIVE_UI}
+        className={cn(
+          "pointer-events-none absolute inset-0 size-full object-cover",
+          frameReady && !loadError ? "opacity-100" : "opacity-0",
+        )}
+        onTimeUpdate={handleTimeUpdate}
+        onError={() => setLoadError(true)}
+      />
     </div>
   );
 }

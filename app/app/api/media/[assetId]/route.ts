@@ -13,7 +13,7 @@ function getVideoPath(assetId: string): string | null {
     };
     const asset = manifest.assets[assetId];
     if (asset?.processing?.local_path) {
-      const rel = asset.processing.local_path.replace(/^videos\//, "");
+      const rel = asset.processing.local_path.replace(/^videos[/\\]/i, "").replace(/\\/g, "/");
       const candidate = path.join(VIDEO_ROOT, rel);
       if (existsSync(candidate)) return candidate;
     }

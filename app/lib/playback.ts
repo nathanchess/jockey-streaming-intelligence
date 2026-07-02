@@ -1,19 +1,12 @@
 import type { DemoManifest, ResolvedClip } from "./types";
 
-/** Resolve clip playback: Vercel Blob URL, local /api/media MP4, or YouTube fallback. */
+/** Resolve clip playback: Vercel Blob URL or local /api/media MP4. */
 
 export const YOUTUBE_SRC_PREFIX = "youtube:";
 
-/** Use YouTube embeds on Vercel/production unless explicitly disabled (local MP4 via /api/media). */
+/** YouTube playback is opt-in only (NEXT_PUBLIC_YOUTUBE_PLAYBACK=true). */
 export function shouldUseYoutubeFallback(): boolean {
-  if (process.env.NEXT_PUBLIC_YOUTUBE_PLAYBACK === "true") return true;
-  if (process.env.NEXT_PUBLIC_YOUTUBE_PLAYBACK === "false") return false;
-  if (process.env.VERCEL === "1") return true;
-  if (typeof window !== "undefined") {
-    const host = window.location.hostname;
-    if (host !== "localhost" && host !== "127.0.0.1") return true;
-  }
-  return false;
+  return process.env.NEXT_PUBLIC_YOUTUBE_PLAYBACK === "true";
 }
 
 export function isYouTubePlaybackSrc(src: string): boolean {
@@ -36,7 +29,7 @@ export function resolvePlaybackUrl(
   return `/api/media/${assetId}`;
 }
 
-/** Re-resolve cached clip URLs for the current runtime (Vercel → YouTube, local → /api/media). */
+/** Re-resolve cached clip URLs from manifest (e.g. Vercel Blob playback_url). */
 export function remapClipsPlaybackUrls(
   clips: ResolvedClip[],
   manifest: DemoManifest,
@@ -58,13 +51,4 @@ export function remapClipPlaybackUrl(
   );
   if (videoSrc === clip.videoSrc) return clip;
   return { ...clip, videoSrc, youtubeId: asset.youtube_metadata.youtube_id };
-}
-
-/** Client-safe normalization when API payloads still carry /api/media paths. */
-export function normalizeClipVideoSrc(clip: ResolvedClip): string {
-  if (isYouTubePlaybackSrc(clip.videoSrc)) return clip.videoSrc;
-  if (clip.videoSrc.startsWith("http") && !clip.videoSrc.includes("/api/media")) {
-    return clip.videoSrc;
-  }
-  return resolvePlaybackUrl(clip.assetId, null, clip.youtubeId);
 }

@@ -12,14 +12,13 @@ import {
 import type { ResolvedClip } from "@/lib/types";
 import { clipLocationLine } from "@/lib/explore-display";
 import { formatDisplayTags } from "@/lib/display-tags";
-import { normalizeClipVideoSrc } from "@/lib/playback";
 import { ClipPreviewVideo } from "@/components/explore/ClipPreviewVideo";
 import { PersonalizationReasoningModal } from "@/components/discover/PersonalizationReasoningModal";
 import { usePlayerStore } from "@/store/player-store";
 
 function openClipPayload(clip: ResolvedClip) {
   return {
-    videoSrc: normalizeClipVideoSrc(clip),
+    videoSrc: clip.videoSrc,
     startSec: clip.startSec,
     endSec: clip.endSec,
     title: clip.title,

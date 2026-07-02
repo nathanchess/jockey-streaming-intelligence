@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T20:59:58.844Z",
+  "updated_at": "2026-07-02T21:06:54.709Z",
   "stores": {
     "hells_kitchen": {
       "knowledge_store_id": "ks_019f075d-93e6-7083-9ec4-023e915533c0",
@@ -308,7 +308,8 @@
       },
       "embed_url": "https://www.youtube.com/embed/n3k6NV9qRsQ?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
       "thumbnail_url": "https://i.ytimg.com/vi/n3k6NV9qRsQ/maxresdefault.jpg",
-      "duration_sec": 2592
+      "duration_sec": 2592,
+      "playback_url": "https://hou7lix7xczgawfz.public.blob.vercel-storage.com/hk-ep01-3huq414nWCF1KOU2Kk4coycn7XhFOp.mp4"
     },
     "hk-ep02": {
       "id": "hk-ep02",
@@ -566,7 +567,8 @@
       },
       "embed_url": "https://www.youtube.com/embed/bX-EzNRe-ws?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
       "thumbnail_url": "https://i.ytimg.com/vi/bX-EzNRe-ws/maxresdefault.jpg",
-      "duration_sec": 2592
+      "duration_sec": 2592,
+      "playback_url": "https://hou7lix7xczgawfz.public.blob.vercel-storage.com/hk-ep02-4mmPki9Rone5iHfdpkjNVD8Fzw9EMI.mp4"
     },
     "hk-ep03": {
       "id": "hk-ep03",
@@ -824,7 +826,8 @@
       },
       "embed_url": "https://www.youtube.com/embed/GAV2plfsiBA?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
       "thumbnail_url": "https://i.ytimg.com/vi/GAV2plfsiBA/maxresdefault.jpg",
-      "duration_sec": 2592
+      "duration_sec": 2592,
+      "playback_url": "https://hou7lix7xczgawfz.public.blob.vercel-storage.com/hk-ep03-Gki0eJtRbFIuf1Y1pji4ZeIP4qgi3v.mp4"
     },
     "hk-ep04": {
       "id": "hk-ep04",
@@ -1081,7 +1084,8 @@
       },
       "embed_url": "https://www.youtube.com/embed/kBheTYko4Z0?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
       "thumbnail_url": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
-      "duration_sec": 2592
+      "duration_sec": 2592,
+      "playback_url": "https://hou7lix7xczgawfz.public.blob.vercel-storage.com/hk-ep04-jcfUUEoAzRFDwje0W6Tpa61BwLab3b.mp4"
     },
     "hk-ep05": {
       "id": "hk-ep05",
@@ -1336,7 +1340,8 @@
       },
       "embed_url": "https://www.youtube.com/embed/NKTyf08aXUY?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
       "thumbnail_url": "https://i.ytimg.com/vi/NKTyf08aXUY/maxresdefault.jpg",
-      "duration_sec": 2592
+      "duration_sec": 2592,
+      "playback_url": "https://hou7lix7xczgawfz.public.blob.vercel-storage.com/hk-ep05-JMJV740Pqejfl3rv3Xem3dfOvIQ6q7.mp4"
     },
     "lbd-ep01": {
       "id": "lbd-ep01",
@@ -1589,7 +1594,8 @@
       },
       "embed_url": "https://www.youtube.com/embed/KisuGP2lcPs?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
       "thumbnail_url": "https://i.ytimg.com/vi/KisuGP2lcPs/maxresdefault.jpg",
-      "duration_sec": 200
+      "duration_sec": 200,
+      "playback_url": "https://hou7lix7xczgawfz.public.blob.vercel-storage.com/lbd-ep01-xooZLE5aoE4ZarAOALNdpNLjFpRZkq.mp4"
     },
     "lbd-ep02": {
       "id": "lbd-ep02",
@@ -1842,7 +1848,8 @@
       },
       "embed_url": "https://www.youtube.com/embed/6Yq7aJ2uVBg?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
       "thumbnail_url": "https://i.ytimg.com/vi/6Yq7aJ2uVBg/maxresdefault.jpg",
-      "duration_sec": 216
+      "duration_sec": 216,
+      "playback_url": "https://hou7lix7xczgawfz.public.blob.vercel-storage.com/lbd-ep02-RtDqyooy34D4JAcP25EpD57nuewh8Z.mp4"
     },
     "lbd-ep03": {
       "id": "lbd-ep03",
@@ -2094,7 +2101,8 @@
       },
       "embed_url": "https://www.youtube.com/embed/e926p_3UXes?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
       "thumbnail_url": "https://i.ytimg.com/vi/e926p_3UXes/maxresdefault.jpg",
-      "duration_sec": 191
+      "duration_sec": 191,
+      "playback_url": "https://hou7lix7xczgawfz.public.blob.vercel-storage.com/lbd-ep03-JvilJo8jcIxeNL0b1WlMPTdNaCrE9i.mp4"
     },
     "lbd-ep04": {
       "id": "lbd-ep04",
@@ -2347,7 +2355,8 @@
       },
       "embed_url": "https://www.youtube.com/embed/2KjOskZJEAc?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
       "thumbnail_url": "https://i.ytimg.com/vi/2KjOskZJEAc/maxresdefault.jpg",
-      "duration_sec": 202
+      "duration_sec": 202,
+      "playback_url": "https://hou7lix7xczgawfz.public.blob.vercel-storage.com/lbd-ep04-JDVmFSa12NpPZCPXn6l39RxfeMmhas.mp4"
     },
     "lbd-ep05": {
       "id": "lbd-ep05",
@@ -2600,7 +2609,8 @@
       },
       "embed_url": "https://www.youtube.com/embed/vV3JJUpwC40?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
       "thumbnail_url": "https://i.ytimg.com/vi/vV3JJUpwC40/maxresdefault.jpg",
-      "duration_sec": 191
+      "duration_sec": 191,
+      "playback_url": "https://hou7lix7xczgawfz.public.blob.vercel-storage.com/lbd-ep05-Qv2TVVuUJS5ozt3vfUqvpzh54qLb0C.mp4"
     },
     "omeleto-ep01": {
       "id": "omeleto-ep01",
@@ -2853,7 +2863,8 @@
       },
       "embed_url": "https://www.youtube.com/embed/gKiFXz1kbO0?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
       "thumbnail_url": "https://i.ytimg.com/vi/gKiFXz1kbO0/maxresdefault.jpg",
-      "duration_sec": 636
+      "duration_sec": 636,
+      "playback_url": "https://hou7lix7xczgawfz.public.blob.vercel-storage.com/omeleto-ep01-spwdqJn6cNi2xyJm6JSpIYZn54IqYF.mp4"
     },
     "omeleto-ep02": {
       "id": "omeleto-ep02",
@@ -3106,7 +3117,8 @@
       },
       "embed_url": "https://www.youtube.com/embed/7mSH86O2qzA?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
       "thumbnail_url": "https://i.ytimg.com/vi/7mSH86O2qzA/maxresdefault.jpg",
-      "duration_sec": 1195
+      "duration_sec": 1195,
+      "playback_url": "https://hou7lix7xczgawfz.public.blob.vercel-storage.com/omeleto-ep02-ZylF97BqeE5CCV9geLKKrFXhpfOQ9P.mp4"
     },
     "omeleto-ep03": {
       "id": "omeleto-ep03",
@@ -3358,7 +3370,8 @@
       },
       "embed_url": "https://www.youtube.com/embed/VBps1IvCyj0?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
       "thumbnail_url": "https://i.ytimg.com/vi/VBps1IvCyj0/maxresdefault.jpg",
-      "duration_sec": 450
+      "duration_sec": 450,
+      "playback_url": "https://hou7lix7xczgawfz.public.blob.vercel-storage.com/omeleto-ep03-Ud5nnZF6891b2OpQ424iok0XhBSeXc.mp4"
     },
     "omeleto-ep04": {
       "id": "omeleto-ep04",
@@ -3611,7 +3624,8 @@
       },
       "embed_url": "https://www.youtube.com/embed/68f27rqP_NY?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
       "thumbnail_url": "https://i.ytimg.com/vi/68f27rqP_NY/maxresdefault.jpg",
-      "duration_sec": 909
+      "duration_sec": 909,
+      "playback_url": "https://hou7lix7xczgawfz.public.blob.vercel-storage.com/omeleto-ep04-7Q6inYWbSY9OkfS3XJxopeiMTMRFvt.mp4"
     },
     "chef-ep04": {
       "id": "chef-ep04",
@@ -3827,7 +3841,8 @@
       },
       "embed_url": "https://www.youtube.com/embed/uruT8FPpeKc?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
       "thumbnail_url": "https://i.ytimg.com/vi/uruT8FPpeKc/maxresdefault.jpg",
-      "duration_sec": 1721
+      "duration_sec": 1721,
+      "playback_url": "https://hou7lix7xczgawfz.public.blob.vercel-storage.com/chef-ep04-PDW7rO7MAeG6NipjUsC63sRG7roVqK.mp4"
     },
     "chef-ep01": {
       "id": "chef-ep01",
@@ -4043,7 +4058,8 @@
       },
       "embed_url": "https://www.youtube.com/embed/vijibDontnU?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
       "thumbnail_url": "https://i.ytimg.com/vi/vijibDontnU/maxresdefault.jpg",
-      "duration_sec": 1720
+      "duration_sec": 1720,
+      "playback_url": "https://hou7lix7xczgawfz.public.blob.vercel-storage.com/chef-ep01-PWz2pIMGNSbIMhlVt23TnWknxODmMr.mp4"
     },
     "chef-ep02": {
       "id": "chef-ep02",
@@ -4258,7 +4274,8 @@
       },
       "embed_url": "https://www.youtube.com/embed/677kAOMwTmo?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
       "thumbnail_url": "https://i.ytimg.com/vi/677kAOMwTmo/maxresdefault.jpg",
-      "duration_sec": 1719
+      "duration_sec": 1719,
+      "playback_url": "https://hou7lix7xczgawfz.public.blob.vercel-storage.com/chef-ep02-E712Qw4QTJ831gL12LjBd2Embh5fGw.mp4"
     },
     "chef-ep03": {
       "id": "chef-ep03",
@@ -4473,7 +4490,8 @@
       },
       "embed_url": "https://www.youtube.com/embed/dMeqIWwF5yk?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
       "thumbnail_url": "https://i.ytimg.com/vi/dMeqIWwF5yk/maxresdefault.jpg",
-      "duration_sec": 1721
+      "duration_sec": 1721,
+      "playback_url": "https://hou7lix7xczgawfz.public.blob.vercel-storage.com/chef-ep03-vRuo7wVuAVjb2PONkohf9WIdiVMBjc.mp4"
     }
   }
 }

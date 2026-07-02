@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import { createPortal } from "react-dom";
 import { CloseIcon, IconButton } from "@twelvelabs-io/react";
 import { usePlayerStore } from "@/store/player-store";
-import { ClipVideoPlayer } from "./ClipVideoPlayer";
+import { TlVideoPlayer } from "./TlVideoPlayer";
 
 export function ClipPlayerModal() {
   const { open, videoSrc, startSec, endSec, title, posterUrl, close } = usePlayerStore();
@@ -52,7 +52,7 @@ export function ClipPlayerModal() {
           </IconButton>
         </div>
         <div className="relative z-0 min-h-0 flex-1 overflow-y-auto">
-          <ClipVideoPlayer
+          <TlVideoPlayer
             videoSrc={videoSrc}
             startSec={startSec}
             endSec={endSec}
