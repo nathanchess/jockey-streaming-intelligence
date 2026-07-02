@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 import { buildDefaultExplorePayload } from "@/lib/explore-browse";
 import { loadDemoManifest } from "@/lib/manifest";
+import { remapClipsPlaybackUrls } from "@/lib/playback";
 import { isStoreKey } from "@/lib/types";
 
 export async function GET(
@@ -26,7 +27,7 @@ export async function GET(
       mode: "browse" as const,
       request: payload.request,
       response: payload.response,
-      resolved_clips: payload.resolved_clips,
+      resolved_clips: remapClipsPlaybackUrls(payload.resolved_clips, manifest),
       follow_ups: [],
     });
   } catch (error) {

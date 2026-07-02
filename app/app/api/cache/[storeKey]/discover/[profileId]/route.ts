@@ -1,5 +1,7 @@
 import { NextResponse } from "next/server";
 import { loadCacheManifest, loadCacheFile } from "@/lib/jockey/load-cache";
+import { loadDemoManifest } from "@/lib/manifest";
+import { remapClipsPlaybackUrls } from "@/lib/playback";
 import type { DiscoverCachePayload } from "@/lib/types";
 import { isStoreKey } from "@/lib/types";
 
@@ -18,6 +20,7 @@ export async function GET(
       return NextResponse.json({ error: "Unknown profile" }, { status: 404 });
     }
     const payload = loadCacheFile<DiscoverCachePayload>(profile.file);
+    const manifest = loadDemoManifest();
     return NextResponse.json({
       source: "cache" as const,
       endpoint: "GET /api/cache/discover",
@@ -26,7 +29,7 @@ export async function GET(
       label: profile.label,
       request: payload.request,
       response: payload.response,
-      resolved_clips: payload.resolved_clips,
+      resolved_clips: remapClipsPlaybackUrls(payload.resolved_clips, manifest),
     });
   } catch (error) {
     return NextResponse.json(

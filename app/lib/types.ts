@@ -154,6 +154,7 @@ export type ResolvedClip = {
   id: string;
   assetId: string;
   assetReference: string;
+  youtubeId?: string;
   videoSrc: string;
   startSec: number;
   endSec: number;

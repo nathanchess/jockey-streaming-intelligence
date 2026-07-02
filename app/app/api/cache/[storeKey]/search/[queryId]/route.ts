@@ -1,5 +1,7 @@
 import { NextResponse } from "next/server";
 import { loadCacheManifest, loadCacheFile } from "@/lib/jockey/load-cache";
+import { loadDemoManifest } from "@/lib/manifest";
+import { remapClipsPlaybackUrls } from "@/lib/playback";
 import type { SearchCachePayload } from "@/lib/types";
 import { isStoreKey } from "@/lib/types";
 
@@ -19,6 +21,7 @@ export async function GET(
       return NextResponse.json({ error: "Unknown query preset" }, { status: 404 });
     }
     const payload = loadCacheFile<SearchCachePayload>(preset.file);
+    const manifest = loadDemoManifest();
     return NextResponse.json({
       source: "cache" as const,
       endpoint: "GET /api/cache/search",
@@ -26,7 +29,7 @@ export async function GET(
       session_id: payload.session_id ?? preset.session_id,
       request: payload.request,
       response: payload.response,
-      resolved_clips: payload.resolved_clips,
+      resolved_clips: remapClipsPlaybackUrls(payload.resolved_clips, manifest),
       explore_presentation: payload.explore_presentation,
       follow_ups: preset.follow_ups ?? [],
     });

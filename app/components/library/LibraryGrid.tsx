@@ -118,7 +118,11 @@ function AssetCard({
 }) {
   const openClip = usePlayerStore((s) => s.openClip);
   const v2 = asset.jockey_v2;
-  const videoSrc = resolvePlaybackUrl(asset.id, asset.playback_url);
+  const videoSrc = resolvePlaybackUrl(
+    asset.id,
+    asset.playback_url,
+    asset.youtube_metadata.youtube_id,
+  );
   const hasV2 = hydrated && Boolean(v2);
 
   const watchEpisode = () =>

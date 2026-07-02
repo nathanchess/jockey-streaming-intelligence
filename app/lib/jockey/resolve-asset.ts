@@ -69,7 +69,12 @@ function clipFromAsset(
     assetId: asset.id,
     assetReference: asset.id,
     episodeLabel: asset.episode_label,
-    videoSrc: resolvePlaybackUrl(asset.id, asset.playback_url),
+    videoSrc: resolvePlaybackUrl(
+      asset.id,
+      asset.playback_url,
+      asset.youtube_metadata.youtube_id,
+    ),
+    youtubeId: asset.youtube_metadata.youtube_id,
     startSec: parseTimestamp(start),
     endSec: parseTimestamp(end),
     thumbnailUrl: asset.thumbnail_url,

@@ -45,7 +45,11 @@ function castForEpisode(seriesCast: SeriesCastMember[] | null | undefined, asset
 export function MetadataModal({ asset, onClose }: Props) {
   const openClip = usePlayerStore((s) => s.openClip);
   const v2 = asset.jockey_v2;
-  const videoSrc = resolvePlaybackUrl(asset.id, asset.playback_url);
+  const videoSrc = resolvePlaybackUrl(
+    asset.id,
+    asset.playback_url,
+    asset.youtube_metadata.youtube_id,
+  );
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => setMounted(true), []);

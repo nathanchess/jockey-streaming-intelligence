@@ -12,6 +12,7 @@ import {
 } from "@twelvelabs-io/react";
 import type { ProgramCachePayload, ProgramLineupItemRaw, ResolvedClip, StoreKey } from "@/lib/types";
 import { parseBriefTargetMinutes } from "@/lib/types";
+import { normalizeClipVideoSrc } from "@/lib/playback";
 import { JockeySearchLoading } from "@/components/explore/JockeySearchLoading";
 import { JOCKEY_PROGRAM_LOADING_MESSAGES } from "@/lib/explore-search-presentation";
 import { ProgramLineupCard } from "@/components/program/ProgramLineupCard";
@@ -293,7 +294,7 @@ export function ProgramPanel({
                       onPlay={() =>
                         clip &&
                         openClip({
-                          videoSrc: clip.videoSrc,
+                          videoSrc: normalizeClipVideoSrc(clip),
                           startSec: clip.startSec,
                           endSec: clip.endSec,
                           title: row.title,

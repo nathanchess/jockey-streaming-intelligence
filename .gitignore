@@ -13,6 +13,9 @@ preprocessing/.env
 preprocessing/.env.*
 !preprocessing/.env.example
 
+# --- Internal docs (not for public repos) ---
+prd.md
+
 # --- Node / Next.js (app/) ---
 node_modules/
 app/node_modules/

@@ -1,5 +1,7 @@
 import { NextResponse } from "next/server";
 import { loadCacheManifest, loadCacheFile } from "@/lib/jockey/load-cache";
+import { loadDemoManifest } from "@/lib/manifest";
+import { remapClipsPlaybackUrls } from "@/lib/playback";
 import type { SearchCachePayload } from "@/lib/types";
 import { isStoreKey } from "@/lib/types";
 
@@ -19,6 +21,7 @@ export async function GET(
       return NextResponse.json({ error: "Unknown follow-up" }, { status: 404 });
     }
     const payload = loadCacheFile<SearchCachePayload>(followUp.file);
+    const manifest = loadDemoManifest();
     return NextResponse.json({
       source: "cache" as const,
       endpoint: "GET /api/cache/search/follow-up",
@@ -27,7 +30,7 @@ export async function GET(
       session_id: payload.session_id ?? followUp.session_id,
       request: payload.request,
       response: payload.response,
-      resolved_clips: payload.resolved_clips,
+      resolved_clips: remapClipsPlaybackUrls(payload.resolved_clips, manifest),
     });
   } catch (error) {
     return NextResponse.json(

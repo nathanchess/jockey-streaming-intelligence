@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.twelvelabs.io">
-    <img src="public/TwelveLabs-Symbol.svg" alt="TwelveLabs" width="80" />
+    <img src="docs/readme/twelvelabs-logo-mark.svg" alt="TwelveLabs" width="80" />
   </a>
 </p>
 
@@ -12,54 +12,13 @@
 </p>
 
 <p align="center">
-  <a href="https://docs.twelvelabs.io/docs/get-started/introduction"><img src="https://img.shields.io/badge/TwelveLabs-Documentation-D9F99D?style=for-the-badge&logo=readthedocs&logoColor=000000" alt="Docs"/></a>
-  <a href="https://playground.twelvelabs.io"><img src="https://img.shields.io/badge/API-Playground-635DFF?style=for-the-badge&logo=graphql&logoColor=white" alt="Playground"/></a>
-  <a href="https://www.twelvelabs.io/research"><img src="https://img.shields.io/badge/Research-Papers-4B5563?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Research"/></a>
-  <a href="https://www.twelvelabs.io/developer-hub"><img src="https://img.shields.io/badge/Developer-Hub-0EA5E9?style=for-the-badge&logo=devdotto&logoColor=white" alt="Developer Hub"/></a>
+  <a href="https://docs.twelvelabs.io/docs/get-started/introduction"><img src="https://img.shields.io/badge/TwelveLabs-Documentation-D9F99D?style=for-the-badge" alt="Docs"/></a>
+  <a href="https://playground.twelvelabs.io"><img src="https://img.shields.io/badge/API-Playground-635DFF?style=for-the-badge" alt="Playground"/></a>
+  <a href="https://www.twelvelabs.io/research"><img src="https://img.shields.io/badge/Research-Papers-4B5563?style=for-the-badge" alt="Research"/></a>
+  <a href="https://www.twelvelabs.io/developer-hub"><img src="https://img.shields.io/badge/Developer-Hub-0EA5E9?style=for-the-badge" alt="Developer Hub"/></a>
 </p>
 
----
-
-## Architecture
-
-<p align="center">
-  <a href="https://www.twelvelabs.io/product/models-overview">
-    <img src="https://img.shields.io/badge/Jockey_1.0-Knowledge_Stores-635DFF?style=for-the-badge&logo=server&logoColor=white" alt="Jockey"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://docs.twelvelabs.io/docs/get-started/introduction">
-    <img src="https://img.shields.io/badge/API-POST__responses-D9F99D?style=for-the-badge&logo=json&logoColor=000000" alt="Responses API"/>
-  </a>
-</p>
-
-```mermaid
-flowchart TB
-  subgraph offline [Offline — preprocessing/]
-    V[collect_videos.py] --> U[upload_to_jockey.py]
-    U --> KS[(Knowledge Stores ×4)]
-    U --> M[library-manifest.json]
-  end
-
-  subgraph build [Build — scripts/]
-    SM[sync-manifest.ts] --> DM[demo-manifest.json]
-    SC[seed-cache.ts] --> JC[jockey-cache/]
-  end
-
-  subgraph runtime [Runtime — app/]
-    UI[Next.js 15 + @twelvelabs-io/react] --> API[Route handlers]
-    API --> CACHE[File cache — instant demo]
-    API --> JOCKEY[Jockey POST /responses]
-    JOCKEY --> KS
-  end
-
-  M --> SM
-  offline --> build
-  build --> runtime
-```
-
-**Data flow:** index assets offline → sync manifest → seed Jockey response cache → serve instant demo paths at runtime. Live `POST /v1.3/responses` calls when `TL_API_KEY` is set.
-
-Full PRD and API schemas: [`prd.md`](./prd.md)
+> README logo is exported from `@twelvelabs-io/react` (`TwelveLabsLogoMark`). Regenerate after package updates: `node scripts/export-readme-assets.mjs` (from repo root, after `cd app && npm install`).
 
 ---
 
@@ -246,6 +205,12 @@ Run from `app/`:
 | `npm run warm-cache` | Regenerate Jockey cache (needs `TL_API_KEY`) |
 | `npm run build` | Production build |
 | `npm run test` | Playwright API + E2E |
+
+From repo root:
+
+| Command | Description |
+|---------|-------------|
+| `node scripts/export-readme-assets.mjs` | Export README logo from `@twelvelabs-io/react` |
 
 ---
 

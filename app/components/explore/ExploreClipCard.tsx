@@ -14,11 +14,12 @@ import { clipDisplayTitle, clipMatchScore, clipLocationLine } from "@/lib/explor
 import { formatDisplayTags } from "@/lib/display-tags";
 import { ClipPreviewVideo } from "./ClipPreviewVideo";
 import { MatchReasoningModal } from "./MatchReasoningModal";
+import { normalizeClipVideoSrc } from "@/lib/playback";
 import { usePlayerStore } from "@/store/player-store";
 
 function openClipPayload(clip: ResolvedClip) {
   return {
-    videoSrc: clip.videoSrc,
+    videoSrc: normalizeClipVideoSrc(clip),
     startSec: clip.startSec,
     endSec: clip.endSec,
     title: clipDisplayTitle(clip),
