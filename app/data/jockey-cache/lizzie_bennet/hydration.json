@@ -1,0 +1,1049 @@
+{
+  "request": {
+    "model": "jockey1.0",
+    "capability": "hydration"
+  },
+  "response": {
+    "assets": [
+      {
+        "asset_reference": "lbd-ep01",
+        "title_suggested": "My Name is Lizzie Bennet - Ep: 1",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ],
+        "mood": [
+          "Witty",
+          "Emotional",
+          "Relatable"
+        ],
+        "characters": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet",
+          "Mrs. Bennet"
+        ],
+        "scene_types": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering"
+        ],
+        "audio_events": [
+          "Dialogue",
+          "Music sting",
+          "Ambient room tone"
+        ],
+        "topics": [
+          "Relationships",
+          "Social media",
+          "Family dynamics"
+        ],
+        "summary": "Lizzie Bennet documents Ep 1 on camera as Jane Bennet and Lydia Bennet pull her into family drama. Mrs. Bennet amplifies tension at dinner before Lizzie Bennet and Jane Bennet reconcile the sisters on vlog.",
+        "cast_analysis": [
+          {
+            "name": "Lizzie Bennet",
+            "role": "Protagonist / vlogger",
+            "description": "Documents her life on camera in Ep 1; narrates emotional beats directly to viewers."
+          },
+          {
+            "name": "Jane Bennet",
+            "role": "Older sister",
+            "description": "Voice of reason; mediates family conflict with quiet empathy."
+          },
+          {
+            "name": "Lydia Bennet",
+            "role": "Younger sister",
+            "description": "Impulsive; escalates drama through social media posts."
+          },
+          {
+            "name": "Mrs. Bennet",
+            "role": "Mother",
+            "description": "Pushes marriage and status; creates awkward dinner tension."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:06",
+            "timestamp_end": "0:20",
+            "label": "Vlog hook",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Casual → self-aware",
+            "action_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party."
+          },
+          {
+            "timestamp_start": "0:20",
+            "timestamp_end": "0:40",
+            "label": "Sister check-in",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Warmth → concern",
+            "action_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest."
+          },
+          {
+            "timestamp_start": "0:40",
+            "timestamp_end": "1:00",
+            "label": "Lydia's post",
+            "characters_present": [
+              "Lydia Bennet",
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Amusement → irritation",
+            "action_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera."
+          },
+          {
+            "timestamp_start": "1:00",
+            "timestamp_end": "1:24",
+            "label": "Family dinner",
+            "characters_present": [
+              "Mrs. Bennet",
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Civility → awkward tension",
+            "action_description": "Mrs. Bennet steers conversation to marriage; Lizzie pushes back while Jane tries to change the subject."
+          },
+          {
+            "timestamp_start": "1:24",
+            "timestamp_end": "1:44",
+            "label": "Confession cam",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Defensive → vulnerable",
+            "action_description": "Alone, Lizzie tells viewers she fears being misread by both family and audience."
+          },
+          {
+            "timestamp_start": "1:44",
+            "timestamp_end": "2:04",
+            "label": "Romantic DM",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Hope → uncertainty",
+            "action_description": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog."
+          },
+          {
+            "timestamp_start": "2:04",
+            "timestamp_end": "2:24",
+            "label": "Public misunderstanding",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Embarrassment → anger",
+            "action_description": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister."
+          },
+          {
+            "timestamp_start": "2:24",
+            "timestamp_end": "2:44",
+            "label": "Sister reconciliation",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Hurt → forgiveness",
+            "action_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity."
+          },
+          {
+            "timestamp_start": "2:44",
+            "timestamp_end": "3:06",
+            "label": "Episode button",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Reflective → optimistic",
+            "action_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "1:44",
+          "timestamp_end": "2:04",
+          "title": "Romantic DM",
+          "characters_present": [
+            "Lizzie Bennet",
+            "Jane Bennet"
+          ],
+          "reasoning": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Vlog hook",
+            "timestamp_start": "0:06"
+          },
+          {
+            "label": "Sister check-in",
+            "timestamp_start": "0:20"
+          },
+          {
+            "label": "Lydia's post",
+            "timestamp_start": "0:40"
+          },
+          {
+            "label": "Family dinner",
+            "timestamp_start": "1:00"
+          },
+          {
+            "label": "Confession cam",
+            "timestamp_start": "1:24"
+          },
+          {
+            "label": "Romantic DM",
+            "timestamp_start": "1:44"
+          },
+          {
+            "label": "Public misunderstanding",
+            "timestamp_start": "2:04"
+          },
+          {
+            "label": "Sister reconciliation",
+            "timestamp_start": "2:24"
+          },
+          {
+            "label": "Episode button",
+            "timestamp_start": "2:44"
+          }
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep02",
+        "title_suggested": "My Sisters: Problematic to Practically Perfect - Ep: 2",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ],
+        "mood": [
+          "Witty",
+          "Emotional",
+          "Relatable"
+        ],
+        "characters": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet",
+          "Mrs. Bennet"
+        ],
+        "scene_types": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering"
+        ],
+        "audio_events": [
+          "Dialogue",
+          "Music sting",
+          "Ambient room tone"
+        ],
+        "topics": [
+          "Relationships",
+          "Social media",
+          "Family dynamics"
+        ],
+        "summary": "Lizzie Bennet documents Ep 2 on camera as Jane Bennet and Lydia Bennet pull her into family drama. Mrs. Bennet amplifies tension at dinner before Lizzie Bennet and Jane Bennet reconcile the sisters on vlog.",
+        "cast_analysis": [
+          {
+            "name": "Lizzie Bennet",
+            "role": "Protagonist / vlogger",
+            "description": "Documents her life on camera in Ep 2; narrates emotional beats directly to viewers."
+          },
+          {
+            "name": "Jane Bennet",
+            "role": "Older sister",
+            "description": "Voice of reason; mediates family conflict with quiet empathy."
+          },
+          {
+            "name": "Lydia Bennet",
+            "role": "Younger sister",
+            "description": "Impulsive; escalates drama through social media posts."
+          },
+          {
+            "name": "Mrs. Bennet",
+            "role": "Mother",
+            "description": "Pushes marriage and status; creates awkward dinner tension."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:06",
+            "timestamp_end": "0:21",
+            "label": "Vlog hook",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Casual → self-aware",
+            "action_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party."
+          },
+          {
+            "timestamp_start": "0:21",
+            "timestamp_end": "0:43",
+            "label": "Sister check-in",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Warmth → concern",
+            "action_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest."
+          },
+          {
+            "timestamp_start": "0:43",
+            "timestamp_end": "1:04",
+            "label": "Lydia's post",
+            "characters_present": [
+              "Lydia Bennet",
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Amusement → irritation",
+            "action_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera."
+          },
+          {
+            "timestamp_start": "1:04",
+            "timestamp_end": "1:30",
+            "label": "Family dinner",
+            "characters_present": [
+              "Mrs. Bennet",
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Civility → awkward tension",
+            "action_description": "Mrs. Bennet steers conversation to marriage; Lizzie pushes back while Jane tries to change the subject."
+          },
+          {
+            "timestamp_start": "1:30",
+            "timestamp_end": "1:52",
+            "label": "Confession cam",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Defensive → vulnerable",
+            "action_description": "Alone, Lizzie tells viewers she fears being misread by both family and audience."
+          },
+          {
+            "timestamp_start": "1:52",
+            "timestamp_end": "2:13",
+            "label": "Romantic DM",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Hope → uncertainty",
+            "action_description": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog."
+          },
+          {
+            "timestamp_start": "2:13",
+            "timestamp_end": "2:35",
+            "label": "Public misunderstanding",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Embarrassment → anger",
+            "action_description": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister."
+          },
+          {
+            "timestamp_start": "2:35",
+            "timestamp_end": "2:57",
+            "label": "Sister reconciliation",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Hurt → forgiveness",
+            "action_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity."
+          },
+          {
+            "timestamp_start": "2:57",
+            "timestamp_end": "3:20",
+            "label": "Episode button",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Reflective → optimistic",
+            "action_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "2:13",
+          "timestamp_end": "2:35",
+          "title": "Public misunderstanding",
+          "characters_present": [
+            "Lizzie Bennet",
+            "Lydia Bennet"
+          ],
+          "reasoning": "Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc. Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Vlog hook",
+            "timestamp_start": "0:06"
+          },
+          {
+            "label": "Sister check-in",
+            "timestamp_start": "0:21"
+          },
+          {
+            "label": "Lydia's post",
+            "timestamp_start": "0:43"
+          },
+          {
+            "label": "Family dinner",
+            "timestamp_start": "1:04"
+          },
+          {
+            "label": "Confession cam",
+            "timestamp_start": "1:30"
+          },
+          {
+            "label": "Romantic DM",
+            "timestamp_start": "1:52"
+          },
+          {
+            "label": "Public misunderstanding",
+            "timestamp_start": "2:13"
+          },
+          {
+            "label": "Sister reconciliation",
+            "timestamp_start": "2:35"
+          },
+          {
+            "label": "Episode button",
+            "timestamp_start": "2:57"
+          }
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep03",
+        "title_suggested": "My Parents: Opposingly Supportive - Ep: 3",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ],
+        "mood": [
+          "Witty",
+          "Emotional",
+          "Relatable"
+        ],
+        "characters": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet",
+          "Mrs. Bennet"
+        ],
+        "scene_types": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering"
+        ],
+        "audio_events": [
+          "Dialogue",
+          "Music sting",
+          "Ambient room tone"
+        ],
+        "topics": [
+          "Relationships",
+          "Social media",
+          "Family dynamics"
+        ],
+        "summary": "Lizzie Bennet documents Ep 3 on camera as Jane Bennet and Lydia Bennet pull her into family drama. Mrs. Bennet amplifies tension at dinner before Lizzie Bennet and Jane Bennet reconcile the sisters on vlog.",
+        "cast_analysis": [
+          {
+            "name": "Lizzie Bennet",
+            "role": "Protagonist / vlogger",
+            "description": "Documents her life on camera in Ep 3; narrates emotional beats directly to viewers."
+          },
+          {
+            "name": "Jane Bennet",
+            "role": "Older sister",
+            "description": "Voice of reason; mediates family conflict with quiet empathy."
+          },
+          {
+            "name": "Lydia Bennet",
+            "role": "Younger sister",
+            "description": "Impulsive; escalates drama through social media posts."
+          },
+          {
+            "name": "Mrs. Bennet",
+            "role": "Mother",
+            "description": "Pushes marriage and status; creates awkward dinner tension."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:05",
+            "timestamp_end": "0:19",
+            "label": "Vlog hook",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Casual → self-aware",
+            "action_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party."
+          },
+          {
+            "timestamp_start": "0:19",
+            "timestamp_end": "0:38",
+            "label": "Sister check-in",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Warmth → concern",
+            "action_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest."
+          },
+          {
+            "timestamp_start": "0:38",
+            "timestamp_end": "0:57",
+            "label": "Lydia's post",
+            "characters_present": [
+              "Lydia Bennet",
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Amusement → irritation",
+            "action_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera."
+          },
+          {
+            "timestamp_start": "0:57",
+            "timestamp_end": "1:20",
+            "label": "Family dinner",
+            "characters_present": [
+              "Mrs. Bennet",
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Civility → awkward tension",
+            "action_description": "Mrs. Bennet steers conversation to marriage; Lizzie pushes back while Jane tries to change the subject."
+          },
+          {
+            "timestamp_start": "1:20",
+            "timestamp_end": "1:39",
+            "label": "Confession cam",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Defensive → vulnerable",
+            "action_description": "Alone, Lizzie tells viewers she fears being misread by both family and audience."
+          },
+          {
+            "timestamp_start": "1:39",
+            "timestamp_end": "1:58",
+            "label": "Romantic DM",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Hope → uncertainty",
+            "action_description": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog."
+          },
+          {
+            "timestamp_start": "1:58",
+            "timestamp_end": "2:17",
+            "label": "Public misunderstanding",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Embarrassment → anger",
+            "action_description": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister."
+          },
+          {
+            "timestamp_start": "2:17",
+            "timestamp_end": "2:36",
+            "label": "Sister reconciliation",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Hurt → forgiveness",
+            "action_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity."
+          },
+          {
+            "timestamp_start": "2:36",
+            "timestamp_end": "2:57",
+            "label": "Episode button",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Reflective → optimistic",
+            "action_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "1:20",
+          "timestamp_end": "1:39",
+          "title": "Confession cam",
+          "characters_present": [
+            "Lizzie Bennet"
+          ],
+          "reasoning": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc. Alone, Lizzie tells viewers she fears being misread by both family and audience. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Vlog hook",
+            "timestamp_start": "0:05"
+          },
+          {
+            "label": "Sister check-in",
+            "timestamp_start": "0:19"
+          },
+          {
+            "label": "Lydia's post",
+            "timestamp_start": "0:38"
+          },
+          {
+            "label": "Family dinner",
+            "timestamp_start": "0:57"
+          },
+          {
+            "label": "Confession cam",
+            "timestamp_start": "1:20"
+          },
+          {
+            "label": "Romantic DM",
+            "timestamp_start": "1:39"
+          },
+          {
+            "label": "Public misunderstanding",
+            "timestamp_start": "1:58"
+          },
+          {
+            "label": "Sister reconciliation",
+            "timestamp_start": "2:17"
+          },
+          {
+            "label": "Episode button",
+            "timestamp_start": "2:36"
+          }
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep04",
+        "title_suggested": "Bing Lee and His 500 Teenage Prostitutes - Ep: 4",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ],
+        "mood": [
+          "Witty",
+          "Emotional",
+          "Relatable"
+        ],
+        "characters": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet",
+          "Mrs. Bennet"
+        ],
+        "scene_types": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering"
+        ],
+        "audio_events": [
+          "Dialogue",
+          "Music sting",
+          "Ambient room tone"
+        ],
+        "topics": [
+          "Relationships",
+          "Social media",
+          "Family dynamics"
+        ],
+        "summary": "Lizzie Bennet documents Ep 4 on camera as Jane Bennet and Lydia Bennet pull her into family drama. Mrs. Bennet amplifies tension at dinner before Lizzie Bennet and Jane Bennet reconcile the sisters on vlog.",
+        "cast_analysis": [
+          {
+            "name": "Lizzie Bennet",
+            "role": "Protagonist / vlogger",
+            "description": "Documents her life on camera in Ep 4; narrates emotional beats directly to viewers."
+          },
+          {
+            "name": "Jane Bennet",
+            "role": "Older sister",
+            "description": "Voice of reason; mediates family conflict with quiet empathy."
+          },
+          {
+            "name": "Lydia Bennet",
+            "role": "Younger sister",
+            "description": "Impulsive; escalates drama through social media posts."
+          },
+          {
+            "name": "Mrs. Bennet",
+            "role": "Mother",
+            "description": "Pushes marriage and status; creates awkward dinner tension."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:06",
+            "timestamp_end": "0:20",
+            "label": "Vlog hook",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Casual → self-aware",
+            "action_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party."
+          },
+          {
+            "timestamp_start": "0:20",
+            "timestamp_end": "0:40",
+            "label": "Sister check-in",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Warmth → concern",
+            "action_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest."
+          },
+          {
+            "timestamp_start": "0:40",
+            "timestamp_end": "1:00",
+            "label": "Lydia's post",
+            "characters_present": [
+              "Lydia Bennet",
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Amusement → irritation",
+            "action_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera."
+          },
+          {
+            "timestamp_start": "1:00",
+            "timestamp_end": "1:24",
+            "label": "Family dinner",
+            "characters_present": [
+              "Mrs. Bennet",
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Civility → awkward tension",
+            "action_description": "Mrs. Bennet steers conversation to marriage; Lizzie pushes back while Jane tries to change the subject."
+          },
+          {
+            "timestamp_start": "1:24",
+            "timestamp_end": "1:45",
+            "label": "Confession cam",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Defensive → vulnerable",
+            "action_description": "Alone, Lizzie tells viewers she fears being misread by both family and audience."
+          },
+          {
+            "timestamp_start": "1:45",
+            "timestamp_end": "2:05",
+            "label": "Romantic DM",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Hope → uncertainty",
+            "action_description": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog."
+          },
+          {
+            "timestamp_start": "2:05",
+            "timestamp_end": "2:25",
+            "label": "Public misunderstanding",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Embarrassment → anger",
+            "action_description": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister."
+          },
+          {
+            "timestamp_start": "2:25",
+            "timestamp_end": "2:45",
+            "label": "Sister reconciliation",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Hurt → forgiveness",
+            "action_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity."
+          },
+          {
+            "timestamp_start": "2:45",
+            "timestamp_end": "3:07",
+            "label": "Episode button",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Reflective → optimistic",
+            "action_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "1:45",
+          "timestamp_end": "2:05",
+          "title": "Romantic DM",
+          "characters_present": [
+            "Lizzie Bennet",
+            "Jane Bennet"
+          ],
+          "reasoning": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Vlog hook",
+            "timestamp_start": "0:06"
+          },
+          {
+            "label": "Sister check-in",
+            "timestamp_start": "0:20"
+          },
+          {
+            "label": "Lydia's post",
+            "timestamp_start": "0:40"
+          },
+          {
+            "label": "Family dinner",
+            "timestamp_start": "1:00"
+          },
+          {
+            "label": "Confession cam",
+            "timestamp_start": "1:24"
+          },
+          {
+            "label": "Romantic DM",
+            "timestamp_start": "1:45"
+          },
+          {
+            "label": "Public misunderstanding",
+            "timestamp_start": "2:05"
+          },
+          {
+            "label": "Sister reconciliation",
+            "timestamp_start": "2:25"
+          },
+          {
+            "label": "Episode button",
+            "timestamp_start": "2:45"
+          }
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep05",
+        "title_suggested": "After the Wedding: The Real Bing Lee - Ep: 5",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ],
+        "mood": [
+          "Witty",
+          "Emotional",
+          "Relatable"
+        ],
+        "characters": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet",
+          "Mrs. Bennet"
+        ],
+        "scene_types": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering"
+        ],
+        "audio_events": [
+          "Dialogue",
+          "Music sting",
+          "Ambient room tone"
+        ],
+        "topics": [
+          "Relationships",
+          "Social media",
+          "Family dynamics"
+        ],
+        "summary": "Lizzie Bennet documents Ep 5 on camera as Jane Bennet and Lydia Bennet pull her into family drama. Mrs. Bennet amplifies tension at dinner before Lizzie Bennet and Jane Bennet reconcile the sisters on vlog.",
+        "cast_analysis": [
+          {
+            "name": "Lizzie Bennet",
+            "role": "Protagonist / vlogger",
+            "description": "Documents her life on camera in Ep 5; narrates emotional beats directly to viewers."
+          },
+          {
+            "name": "Jane Bennet",
+            "role": "Older sister",
+            "description": "Voice of reason; mediates family conflict with quiet empathy."
+          },
+          {
+            "name": "Lydia Bennet",
+            "role": "Younger sister",
+            "description": "Impulsive; escalates drama through social media posts."
+          },
+          {
+            "name": "Mrs. Bennet",
+            "role": "Mother",
+            "description": "Pushes marriage and status; creates awkward dinner tension."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:05",
+            "timestamp_end": "0:19",
+            "label": "Vlog hook",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Casual → self-aware",
+            "action_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party."
+          },
+          {
+            "timestamp_start": "0:19",
+            "timestamp_end": "0:38",
+            "label": "Sister check-in",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Warmth → concern",
+            "action_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest."
+          },
+          {
+            "timestamp_start": "0:38",
+            "timestamp_end": "0:57",
+            "label": "Lydia's post",
+            "characters_present": [
+              "Lydia Bennet",
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Amusement → irritation",
+            "action_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera."
+          },
+          {
+            "timestamp_start": "0:57",
+            "timestamp_end": "1:20",
+            "label": "Family dinner",
+            "characters_present": [
+              "Mrs. Bennet",
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Civility → awkward tension",
+            "action_description": "Mrs. Bennet steers conversation to marriage; Lizzie pushes back while Jane tries to change the subject."
+          },
+          {
+            "timestamp_start": "1:20",
+            "timestamp_end": "1:39",
+            "label": "Confession cam",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Defensive → vulnerable",
+            "action_description": "Alone, Lizzie tells viewers she fears being misread by both family and audience."
+          },
+          {
+            "timestamp_start": "1:39",
+            "timestamp_end": "1:58",
+            "label": "Romantic DM",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Hope → uncertainty",
+            "action_description": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog."
+          },
+          {
+            "timestamp_start": "1:58",
+            "timestamp_end": "2:17",
+            "label": "Public misunderstanding",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Embarrassment → anger",
+            "action_description": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister."
+          },
+          {
+            "timestamp_start": "2:17",
+            "timestamp_end": "2:36",
+            "label": "Sister reconciliation",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Hurt → forgiveness",
+            "action_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity."
+          },
+          {
+            "timestamp_start": "2:36",
+            "timestamp_end": "2:57",
+            "label": "Episode button",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Reflective → optimistic",
+            "action_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "1:58",
+          "timestamp_end": "2:17",
+          "title": "Public misunderstanding",
+          "characters_present": [
+            "Lizzie Bennet",
+            "Lydia Bennet"
+          ],
+          "reasoning": "Editorially, \"Public misunderstanding\" is the pivot of Ep 5: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc. Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Vlog hook",
+            "timestamp_start": "0:05"
+          },
+          {
+            "label": "Sister check-in",
+            "timestamp_start": "0:19"
+          },
+          {
+            "label": "Lydia's post",
+            "timestamp_start": "0:38"
+          },
+          {
+            "label": "Family dinner",
+            "timestamp_start": "0:57"
+          },
+          {
+            "label": "Confession cam",
+            "timestamp_start": "1:20"
+          },
+          {
+            "label": "Romantic DM",
+            "timestamp_start": "1:39"
+          },
+          {
+            "label": "Public misunderstanding",
+            "timestamp_start": "1:58"
+          },
+          {
+            "label": "Sister reconciliation",
+            "timestamp_start": "2:17"
+          },
+          {
+            "label": "Episode button",
+            "timestamp_start": "2:36"
+          }
+        ]
+      }
+    ]
+  }
+}

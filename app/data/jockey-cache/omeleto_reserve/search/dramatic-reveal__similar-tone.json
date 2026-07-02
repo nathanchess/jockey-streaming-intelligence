@@ -1,0 +1,111 @@
+{
+  "request": {
+    "model": "jockey1.0",
+    "query": "now find all scenes with a similar emotional tone"
+  },
+  "response": {
+    "query_interpretation": "Similar emotional tone across library",
+    "total_results": 3,
+    "results": [
+      {
+        "asset_reference": "omeleto-ep01",
+        "timestamp_start": "7:00",
+        "timestamp_end": "7:45",
+        "description": "Scene with matching emotional tone in Ep 1",
+        "match_type": "semantic",
+        "relevance_score": "88",
+        "scene_description": "Emotionally aligned moment in Ep 1",
+        "alignment_reasoning": "Shares pacing, mood, and interpersonal tension with the prior search result.",
+        "match_signals": [
+          "semantic",
+          "emotional tone"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep02",
+        "timestamp_start": "8:00",
+        "timestamp_end": "8:45",
+        "description": "Scene with matching emotional tone in Ep 2",
+        "match_type": "semantic",
+        "relevance_score": "86",
+        "scene_description": "Emotionally aligned moment in Ep 2",
+        "alignment_reasoning": "Shares pacing, mood, and interpersonal tension with the prior search result.",
+        "match_signals": [
+          "semantic",
+          "emotional tone"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep03",
+        "timestamp_start": "9:00",
+        "timestamp_end": "9:45",
+        "description": "Scene with matching emotional tone in Ep 3",
+        "match_type": "semantic",
+        "relevance_score": "84",
+        "scene_description": "Emotionally aligned moment in Ep 3",
+        "alignment_reasoning": "Shares pacing, mood, and interpersonal tension with the prior search result.",
+        "match_signals": [
+          "semantic",
+          "emotional tone"
+        ]
+      }
+    ]
+  },
+  "resolved_clips": [
+    {
+      "id": "dramatic-reveal-followup-0",
+      "assetId": "omeleto-ep01",
+      "assetReference": "omeleto-ep01",
+      "videoSrc": "/api/media/omeleto-ep01",
+      "startSec": 420,
+      "endSec": 465,
+      "thumbnailUrl": "https://i.ytimg.com/vi/gKiFXz1kbO0/maxresdefault.jpg",
+      "title": "Similar tone · Ep 1",
+      "description": "Scene with matching emotional tone",
+      "matchType": "semantic",
+      "relevanceScore": "88",
+      "alignmentReasoning": "Shares emotional tone with the featured pick.",
+      "matchSignals": [
+        "semantic",
+        "emotional tone"
+      ]
+    },
+    {
+      "id": "dramatic-reveal-followup-1",
+      "assetId": "omeleto-ep02",
+      "assetReference": "omeleto-ep02",
+      "videoSrc": "/api/media/omeleto-ep02",
+      "startSec": 480,
+      "endSec": 525,
+      "thumbnailUrl": "https://i.ytimg.com/vi/7mSH86O2qzA/maxresdefault.jpg",
+      "title": "Similar tone · Ep 2",
+      "description": "Scene with matching emotional tone",
+      "matchType": "semantic",
+      "relevanceScore": "86",
+      "alignmentReasoning": "Shares emotional tone with the featured pick.",
+      "matchSignals": [
+        "semantic",
+        "emotional tone"
+      ]
+    },
+    {
+      "id": "dramatic-reveal-followup-2",
+      "assetId": "omeleto-ep03",
+      "assetReference": "omeleto-ep03",
+      "videoSrc": "/api/media/omeleto-ep03",
+      "startSec": 540,
+      "endSec": 585,
+      "thumbnailUrl": "https://i.ytimg.com/vi/VBps1IvCyj0/maxresdefault.jpg",
+      "title": "Similar tone · Ep 3",
+      "description": "Scene with matching emotional tone",
+      "matchType": "semantic",
+      "relevanceScore": "84",
+      "alignmentReasoning": "Shares emotional tone with the featured pick.",
+      "matchSignals": [
+        "semantic",
+        "emotional tone"
+      ]
+    }
+  ],
+  "session_id": "sess_seed_omeleto_reserve_dramatic-reveal_followup"
+}

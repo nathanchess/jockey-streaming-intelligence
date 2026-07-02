@@ -1,0 +1,921 @@
+{
+  "request": {
+    "model": "jockey1.0",
+    "intent": "Tense scenes, strong female lead, dramatic reveals, under 30 min per clip"
+  },
+  "response": {
+    "viewer_intent_interpretation": "Tense scenes, strong female lead, dramatic reveals, under 30 min per clip",
+    "recommended_rail": [
+      {
+        "rank": 1,
+        "asset_reference": "chef-ep01",
+        "title": "Side preparation",
+        "clip_start": "16:37",
+        "clip_end": "20:04",
+        "rationale": "Suspense Seeker · Side preparation — Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Side preparation\" in Ep 1 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Guest Assistant drive the beat: Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Side preparation",
+        "clip_description": "Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+        "characters_present": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "sub_clip_focus": "Side preparation — Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Guest Assistant"
+        ],
+        "audience_fit_score": 98,
+        "interest_match_score": 94,
+        "avoidance_score": 92
+      },
+      {
+        "rank": 2,
+        "asset_reference": "chef-ep02",
+        "title": "Plating",
+        "clip_start": "20:03",
+        "clip_end": "23:29",
+        "rationale": "Suspense Seeker · Plating — Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Plating\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Julia Child drive the beat: Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Plating",
+        "clip_description": "Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer.",
+        "characters_present": [
+          "Julia Child"
+        ],
+        "sub_clip_focus": "Plating — Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Julia Child"
+        ],
+        "audience_fit_score": 96,
+        "interest_match_score": 92,
+        "avoidance_score": 90
+      },
+      {
+        "rank": 3,
+        "asset_reference": "chef-ep03",
+        "title": "Braise",
+        "clip_start": "13:11",
+        "clip_end": "16:38",
+        "rationale": "Suspense Seeker · Braise — Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Braise\" in Ep 3 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Julia Child drive the beat: Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc.  Julia covers the pot, describing how collagen breaks down over time. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Braise",
+        "clip_description": "Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc.  Julia covers the pot, describing how collagen breaks down over time.",
+        "characters_present": [
+          "Julia Child"
+        ],
+        "sub_clip_focus": "Braise — Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Julia Child"
+        ],
+        "audience_fit_score": 94,
+        "interest_match_score": 90,
+        "avoidance_score": 88
+      },
+      {
+        "rank": 4,
+        "asset_reference": "chef-ep04",
+        "title": "Side preparation",
+        "clip_start": "16:38",
+        "clip_end": "20:04",
+        "rationale": "Suspense Seeker · Side preparation — Editorially, \"Side preparation\" is the pivot of Ep 4: Julia Child and Guest Assistant drive the collaborative → lighthearted arc",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Side preparation\" in Ep 4 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Guest Assistant drive the beat: Editorially, \"Side preparation\" is the pivot of Ep 4: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Side preparation",
+        "clip_description": "Editorially, \"Side preparation\" is the pivot of Ep 4: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+        "characters_present": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "sub_clip_focus": "Side preparation — Editorially, \"Side preparation\" is the pivot of Ep 4: Julia Child and Guest Assistant drive the collaborative → lighthearted arc",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Guest Assistant"
+        ],
+        "audience_fit_score": 92,
+        "interest_match_score": 88,
+        "avoidance_score": 86
+      },
+      {
+        "rank": 5,
+        "asset_reference": "chef-ep01",
+        "title": "Introduction",
+        "clip_start": "0:34",
+        "clip_end": "2:52",
+        "rationale": "Suspense Seeker · Introduction — Julia introduces the dish and lists ingredients to the home viewer",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Introduction\" in Ep 1 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Julia Child drive the beat: Julia introduces the dish and lists ingredients to the home viewer. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Introduction",
+        "clip_description": "Julia introduces the dish and lists ingredients to the home viewer.",
+        "characters_present": [
+          "Julia Child"
+        ],
+        "sub_clip_focus": "Introduction — Julia introduces the dish and lists ingredients to the home viewer",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 2,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Julia Child"
+        ],
+        "audience_fit_score": 89,
+        "interest_match_score": 85,
+        "avoidance_score": 83
+      },
+      {
+        "rank": 6,
+        "asset_reference": "chef-ep01",
+        "title": "Knife work",
+        "clip_start": "2:52",
+        "clip_end": "6:18",
+        "rationale": "Suspense Seeker · Knife work — Julia demonstrates julienne cuts while narrating safety and grip for beginners",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Knife work\" in Ep 1 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Guest Assistant drive the beat: Julia demonstrates julienne cuts while narrating safety and grip for beginners. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Knife work",
+        "clip_description": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+        "characters_present": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "sub_clip_focus": "Knife work — Julia demonstrates julienne cuts while narrating safety and grip for beginners",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Guest Assistant"
+        ],
+        "audience_fit_score": 87,
+        "interest_match_score": 83,
+        "avoidance_score": 81
+      },
+      {
+        "rank": 7,
+        "asset_reference": "chef-ep01",
+        "title": "Sauté stage",
+        "clip_start": "6:18",
+        "clip_end": "9:44",
+        "rationale": "Suspense Seeker · Sauté stage — Julia browns aromatics, explaining heat control as butter foams in the pan",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Sauté stage\" in Ep 1 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Julia Child drive the beat: Julia browns aromatics, explaining heat control as butter foams in the pan. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Sauté stage",
+        "clip_description": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+        "characters_present": [
+          "Julia Child"
+        ],
+        "sub_clip_focus": "Sauté stage — Julia browns aromatics, explaining heat control as butter foams in the pan",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Julia Child"
+        ],
+        "audience_fit_score": 85,
+        "interest_match_score": 81,
+        "avoidance_score": 79
+      },
+      {
+        "rank": 8,
+        "asset_reference": "chef-ep02",
+        "title": "Introduction",
+        "clip_start": "0:34",
+        "clip_end": "2:51",
+        "rationale": "Suspense Seeker · Introduction — Julia introduces the dish and lists ingredients to the home viewer",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Introduction\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Julia Child drive the beat: Julia introduces the dish and lists ingredients to the home viewer. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Introduction",
+        "clip_description": "Julia introduces the dish and lists ingredients to the home viewer.",
+        "characters_present": [
+          "Julia Child"
+        ],
+        "sub_clip_focus": "Introduction — Julia introduces the dish and lists ingredients to the home viewer",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 2,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Julia Child"
+        ],
+        "audience_fit_score": 83,
+        "interest_match_score": 79,
+        "avoidance_score": 78
+      },
+      {
+        "rank": 9,
+        "asset_reference": "chef-ep02",
+        "title": "Knife work",
+        "clip_start": "2:51",
+        "clip_end": "6:18",
+        "rationale": "Suspense Seeker · Knife work — Julia demonstrates julienne cuts while narrating safety and grip for beginners",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Knife work\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Guest Assistant drive the beat: Julia demonstrates julienne cuts while narrating safety and grip for beginners. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Knife work",
+        "clip_description": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+        "characters_present": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "sub_clip_focus": "Knife work — Julia demonstrates julienne cuts while narrating safety and grip for beginners",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Guest Assistant"
+        ],
+        "audience_fit_score": 81,
+        "interest_match_score": 77,
+        "avoidance_score": 78
+      },
+      {
+        "rank": 10,
+        "asset_reference": "chef-ep02",
+        "title": "Sauté stage",
+        "clip_start": "6:18",
+        "clip_end": "9:44",
+        "rationale": "Suspense Seeker · Sauté stage — Julia browns aromatics, explaining heat control as butter foams in the pan",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Sauté stage\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Julia Child drive the beat: Julia browns aromatics, explaining heat control as butter foams in the pan. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Sauté stage",
+        "clip_description": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+        "characters_present": [
+          "Julia Child"
+        ],
+        "sub_clip_focus": "Sauté stage — Julia browns aromatics, explaining heat control as butter foams in the pan",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Julia Child"
+        ],
+        "audience_fit_score": 79,
+        "interest_match_score": 75,
+        "avoidance_score": 78
+      }
+    ]
+  },
+  "resolved_clips": [
+    {
+      "id": "suspense_seeker-rail-0",
+      "assetId": "chef-ep01",
+      "assetReference": "chef-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/chef-ep01",
+      "startSec": 997,
+      "endSec": 1204,
+      "thumbnailUrl": "https://i.ytimg.com/vi/vijibDontnU/maxresdefault.jpg",
+      "title": "Side preparation",
+      "sceneTitle": "Side preparation",
+      "description": "Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+      "sceneDescription": "Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child",
+        "Guest Assistant"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Side preparation\" in Ep 1 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Guest Assistant drive the beat: Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Side preparation",
+      "subClipFocus": "Side preparation — Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc",
+      "rank": 1,
+      "personalizationMetadata": {
+        "clipDescription": "Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+        "reasoning": "For a Suspense Seeker viewer, \"Side preparation\" in Ep 1 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Guest Assistant drive the beat: Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Guest Assistant"
+        ],
+        "fitScores": {
+          "audienceFit": 98,
+          "interestMatch": 94,
+          "avoidanceConfidence": 92
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-1",
+      "assetId": "chef-ep02",
+      "assetReference": "chef-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/chef-ep02",
+      "startSec": 1203,
+      "endSec": 1409,
+      "thumbnailUrl": "https://i.ytimg.com/vi/677kAOMwTmo/maxresdefault.jpg",
+      "title": "Plating",
+      "sceneTitle": "Plating",
+      "description": "Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer.",
+      "sceneDescription": "Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Plating\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Julia Child drive the beat: Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Plating",
+      "subClipFocus": "Plating — Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc",
+      "rank": 2,
+      "personalizationMetadata": {
+        "clipDescription": "Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer.",
+        "reasoning": "For a Suspense Seeker viewer, \"Plating\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Julia Child drive the beat: Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Julia Child"
+        ],
+        "fitScores": {
+          "audienceFit": 96,
+          "interestMatch": 92,
+          "avoidanceConfidence": 90
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-2",
+      "assetId": "chef-ep03",
+      "assetReference": "chef-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/chef-ep03",
+      "startSec": 791,
+      "endSec": 998,
+      "thumbnailUrl": "https://i.ytimg.com/vi/dMeqIWwF5yk/maxresdefault.jpg",
+      "title": "Braise",
+      "sceneTitle": "Braise",
+      "description": "Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc.  Julia covers the pot, describing how collagen breaks down over time.",
+      "sceneDescription": "Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc.  Julia covers the pot, describing how collagen breaks down over time.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Braise\" in Ep 3 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Julia Child drive the beat: Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc.  Julia covers the pot, describing how collagen breaks down over time. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Braise",
+      "subClipFocus": "Braise — Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc",
+      "rank": 3,
+      "personalizationMetadata": {
+        "clipDescription": "Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc.  Julia covers the pot, describing how collagen breaks down over time.",
+        "reasoning": "For a Suspense Seeker viewer, \"Braise\" in Ep 3 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Julia Child drive the beat: Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc.  Julia covers the pot, describing how collagen breaks down over time. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Julia Child"
+        ],
+        "fitScores": {
+          "audienceFit": 94,
+          "interestMatch": 90,
+          "avoidanceConfidence": 88
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-3",
+      "assetId": "chef-ep04",
+      "assetReference": "chef-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/chef-ep04",
+      "startSec": 998,
+      "endSec": 1204,
+      "thumbnailUrl": "https://i.ytimg.com/vi/uruT8FPpeKc/maxresdefault.jpg",
+      "title": "Side preparation",
+      "sceneTitle": "Side preparation",
+      "description": "Editorially, \"Side preparation\" is the pivot of Ep 4: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+      "sceneDescription": "Editorially, \"Side preparation\" is the pivot of Ep 4: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child",
+        "Guest Assistant"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Side preparation\" in Ep 4 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Guest Assistant drive the beat: Editorially, \"Side preparation\" is the pivot of Ep 4: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Side preparation",
+      "subClipFocus": "Side preparation — Editorially, \"Side preparation\" is the pivot of Ep 4: Julia Child and Guest Assistant drive the collaborative → lighthearted arc",
+      "rank": 4,
+      "personalizationMetadata": {
+        "clipDescription": "Editorially, \"Side preparation\" is the pivot of Ep 4: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+        "reasoning": "For a Suspense Seeker viewer, \"Side preparation\" in Ep 4 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Guest Assistant drive the beat: Editorially, \"Side preparation\" is the pivot of Ep 4: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Guest Assistant"
+        ],
+        "fitScores": {
+          "audienceFit": 92,
+          "interestMatch": 88,
+          "avoidanceConfidence": 86
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-4",
+      "assetId": "chef-ep01",
+      "assetReference": "chef-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/chef-ep01",
+      "startSec": 34,
+      "endSec": 172,
+      "thumbnailUrl": "https://i.ytimg.com/vi/vijibDontnU/maxresdefault.jpg",
+      "title": "Introduction",
+      "sceneTitle": "Introduction",
+      "description": "Julia introduces the dish and lists ingredients to the home viewer.",
+      "sceneDescription": "Julia introduces the dish and lists ingredients to the home viewer.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Introduction\" in Ep 1 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Julia Child drive the beat: Julia introduces the dish and lists ingredients to the home viewer. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Introduction",
+      "subClipFocus": "Introduction — Julia introduces the dish and lists ingredients to the home viewer",
+      "rank": 5,
+      "personalizationMetadata": {
+        "clipDescription": "Julia introduces the dish and lists ingredients to the home viewer.",
+        "reasoning": "For a Suspense Seeker viewer, \"Introduction\" in Ep 1 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Julia Child drive the beat: Julia introduces the dish and lists ingredients to the home viewer. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 2,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Julia Child"
+        ],
+        "fitScores": {
+          "audienceFit": 89,
+          "interestMatch": 85,
+          "avoidanceConfidence": 83
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-5",
+      "assetId": "chef-ep01",
+      "assetReference": "chef-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/chef-ep01",
+      "startSec": 172,
+      "endSec": 378,
+      "thumbnailUrl": "https://i.ytimg.com/vi/vijibDontnU/maxresdefault.jpg",
+      "title": "Knife work",
+      "sceneTitle": "Knife work",
+      "description": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+      "sceneDescription": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child",
+        "Guest Assistant"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Knife work\" in Ep 1 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Guest Assistant drive the beat: Julia demonstrates julienne cuts while narrating safety and grip for beginners. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Knife work",
+      "subClipFocus": "Knife work — Julia demonstrates julienne cuts while narrating safety and grip for beginners",
+      "rank": 6,
+      "personalizationMetadata": {
+        "clipDescription": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+        "reasoning": "For a Suspense Seeker viewer, \"Knife work\" in Ep 1 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Guest Assistant drive the beat: Julia demonstrates julienne cuts while narrating safety and grip for beginners. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Guest Assistant"
+        ],
+        "fitScores": {
+          "audienceFit": 87,
+          "interestMatch": 83,
+          "avoidanceConfidence": 81
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-6",
+      "assetId": "chef-ep01",
+      "assetReference": "chef-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/chef-ep01",
+      "startSec": 378,
+      "endSec": 584,
+      "thumbnailUrl": "https://i.ytimg.com/vi/vijibDontnU/maxresdefault.jpg",
+      "title": "Sauté stage",
+      "sceneTitle": "Sauté stage",
+      "description": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+      "sceneDescription": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Sauté stage\" in Ep 1 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Julia Child drive the beat: Julia browns aromatics, explaining heat control as butter foams in the pan. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Sauté stage",
+      "subClipFocus": "Sauté stage — Julia browns aromatics, explaining heat control as butter foams in the pan",
+      "rank": 7,
+      "personalizationMetadata": {
+        "clipDescription": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+        "reasoning": "For a Suspense Seeker viewer, \"Sauté stage\" in Ep 1 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Julia Child drive the beat: Julia browns aromatics, explaining heat control as butter foams in the pan. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Julia Child"
+        ],
+        "fitScores": {
+          "audienceFit": 85,
+          "interestMatch": 81,
+          "avoidanceConfidence": 79
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-7",
+      "assetId": "chef-ep02",
+      "assetReference": "chef-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/chef-ep02",
+      "startSec": 34,
+      "endSec": 171,
+      "thumbnailUrl": "https://i.ytimg.com/vi/677kAOMwTmo/maxresdefault.jpg",
+      "title": "Introduction",
+      "sceneTitle": "Introduction",
+      "description": "Julia introduces the dish and lists ingredients to the home viewer.",
+      "sceneDescription": "Julia introduces the dish and lists ingredients to the home viewer.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Introduction\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Julia Child drive the beat: Julia introduces the dish and lists ingredients to the home viewer. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Introduction",
+      "subClipFocus": "Introduction — Julia introduces the dish and lists ingredients to the home viewer",
+      "rank": 8,
+      "personalizationMetadata": {
+        "clipDescription": "Julia introduces the dish and lists ingredients to the home viewer.",
+        "reasoning": "For a Suspense Seeker viewer, \"Introduction\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Julia Child drive the beat: Julia introduces the dish and lists ingredients to the home viewer. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 2,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Julia Child"
+        ],
+        "fitScores": {
+          "audienceFit": 83,
+          "interestMatch": 79,
+          "avoidanceConfidence": 78
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-8",
+      "assetId": "chef-ep02",
+      "assetReference": "chef-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/chef-ep02",
+      "startSec": 171,
+      "endSec": 378,
+      "thumbnailUrl": "https://i.ytimg.com/vi/677kAOMwTmo/maxresdefault.jpg",
+      "title": "Knife work",
+      "sceneTitle": "Knife work",
+      "description": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+      "sceneDescription": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child",
+        "Guest Assistant"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Knife work\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Guest Assistant drive the beat: Julia demonstrates julienne cuts while narrating safety and grip for beginners. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Knife work",
+      "subClipFocus": "Knife work — Julia demonstrates julienne cuts while narrating safety and grip for beginners",
+      "rank": 9,
+      "personalizationMetadata": {
+        "clipDescription": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+        "reasoning": "For a Suspense Seeker viewer, \"Knife work\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Guest Assistant drive the beat: Julia demonstrates julienne cuts while narrating safety and grip for beginners. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Guest Assistant"
+        ],
+        "fitScores": {
+          "audienceFit": 81,
+          "interestMatch": 77,
+          "avoidanceConfidence": 78
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-9",
+      "assetId": "chef-ep02",
+      "assetReference": "chef-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/chef-ep02",
+      "startSec": 378,
+      "endSec": 584,
+      "thumbnailUrl": "https://i.ytimg.com/vi/677kAOMwTmo/maxresdefault.jpg",
+      "title": "Sauté stage",
+      "sceneTitle": "Sauté stage",
+      "description": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+      "sceneDescription": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Sauté stage\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Julia Child drive the beat: Julia browns aromatics, explaining heat control as butter foams in the pan. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Sauté stage",
+      "subClipFocus": "Sauté stage — Julia browns aromatics, explaining heat control as butter foams in the pan",
+      "rank": 10,
+      "personalizationMetadata": {
+        "clipDescription": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+        "reasoning": "For a Suspense Seeker viewer, \"Sauté stage\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Julia Child drive the beat: Julia browns aromatics, explaining heat control as butter foams in the pan. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Julia Child"
+        ],
+        "fitScores": {
+          "audienceFit": 79,
+          "interestMatch": 75,
+          "avoidanceConfidence": 78
+        }
+      }
+    }
+  ]
+}

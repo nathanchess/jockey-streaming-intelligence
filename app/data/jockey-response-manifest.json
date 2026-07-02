@@ -1,0 +1,290 @@
+{
+  "version": 1,
+  "generated_at": "2026-07-02T20:36:06.455Z",
+  "stores": {
+    "hells_kitchen": {
+      "hydration": {
+        "file": "jockey-cache/hells_kitchen/hydration.json"
+      },
+      "search": {
+        "presets": [
+          {
+            "id": "heated-argument",
+            "label": "Heated argument at the dinner table",
+            "query": "Heated argument at the dinner table",
+            "file": "jockey-cache/hells_kitchen/search/heated-argument.json",
+            "session_id": "sess_seed_hells_kitchen_heated-argument",
+            "featured": true
+          },
+          {
+            "id": "chef-confrontation",
+            "label": "Chef confrontation with contestant",
+            "query": "Chef confrontation with contestant",
+            "file": "jockey-cache/hells_kitchen/search/chef-confrontation.json",
+            "session_id": "sess_seed_hells_kitchen_chef-confrontation",
+            "featured": false
+          },
+          {
+            "id": "elimination-drama",
+            "label": "Elimination ceremony drama",
+            "query": "Elimination ceremony drama",
+            "file": "jockey-cache/hells_kitchen/search/elimination-drama.json",
+            "session_id": "sess_seed_hells_kitchen_elimination-drama",
+            "featured": false
+          }
+        ],
+        "rails": [
+          {
+            "id": "top-moments",
+            "title": "Top moments",
+            "subtitle": "Browse top moments from Hell's Kitchen",
+            "clip_ids": [
+              "heated-argument-0",
+              "heated-argument-1",
+              "heated-argument-2",
+              "heated-argument-3",
+              "heated-argument-4",
+              "heated-argument-5"
+            ]
+          }
+        ]
+      },
+      "discover": {
+        "feel_good_family": {
+          "intent": "Looking for feel-good content, family-friendly, uplifting moments, under 20 min per clip",
+          "file": "jockey-cache/hells_kitchen/discover/feel_good_family.json",
+          "label": "Feel-Good Family"
+        },
+        "suspense_seeker": {
+          "intent": "Tense scenes, strong female lead, dramatic reveals, under 30 min per clip",
+          "file": "jockey-cache/hells_kitchen/discover/suspense_seeker.json",
+          "label": "Suspense Seeker"
+        },
+        "fast_programmer": {
+          "intent": "90-min drama block, 18-34 female demo, prime-time competition energy",
+          "file": "jockey-cache/hells_kitchen/discover/fast_programmer.json",
+          "label": "FAST Programmer"
+        }
+      },
+      "program": {
+        "default": {
+          "brief": "Build a 90-minute weeknight FAST block from Hell's Kitchen: open with high-energy Ramsay confrontations, rotate through service meltdowns and elimination stakes, target 18-34 female viewers, prime-time competition pacing.",
+          "file": "jockey-cache/hells_kitchen/program/default.json"
+        }
+      }
+    },
+    "lizzie_bennet": {
+      "hydration": {
+        "file": "jockey-cache/lizzie_bennet/hydration.json"
+      },
+      "search": {
+        "presets": [
+          {
+            "id": "awkward-dinner",
+            "label": "Awkward family dinner moments",
+            "query": "Awkward family dinner moments",
+            "file": "jockey-cache/lizzie_bennet/search/awkward-dinner.json",
+            "session_id": "sess_seed_lizzie_bennet_awkward-dinner",
+            "featured": true
+          },
+          {
+            "id": "confession-cam",
+            "label": "Emotional confession to camera",
+            "query": "Emotional confession to camera",
+            "file": "jockey-cache/lizzie_bennet/search/confession-cam.json",
+            "session_id": "sess_seed_lizzie_bennet_confession-cam",
+            "featured": false
+          },
+          {
+            "id": "romantic-tension",
+            "label": "Romantic tension scene",
+            "query": "Romantic tension scene",
+            "file": "jockey-cache/lizzie_bennet/search/romantic-tension.json",
+            "session_id": "sess_seed_lizzie_bennet_romantic-tension",
+            "featured": false
+          }
+        ],
+        "rails": [
+          {
+            "id": "top-moments",
+            "title": "Top moments",
+            "subtitle": "Browse top moments from The Lizzie Bennet Diaries",
+            "clip_ids": [
+              "awkward-dinner-0",
+              "awkward-dinner-1",
+              "awkward-dinner-2",
+              "awkward-dinner-3",
+              "awkward-dinner-4",
+              "awkward-dinner-5"
+            ]
+          }
+        ]
+      },
+      "discover": {
+        "feel_good_family": {
+          "intent": "Looking for feel-good content, family-friendly, uplifting moments, under 20 min per clip",
+          "file": "jockey-cache/lizzie_bennet/discover/feel_good_family.json",
+          "label": "Feel-Good Family"
+        },
+        "suspense_seeker": {
+          "intent": "Tense scenes, strong female lead, dramatic reveals, under 30 min per clip",
+          "file": "jockey-cache/lizzie_bennet/discover/suspense_seeker.json",
+          "label": "Suspense Seeker"
+        },
+        "fast_programmer": {
+          "intent": "90-min drama block, 18-34 female demo, prime-time competition energy",
+          "file": "jockey-cache/lizzie_bennet/discover/fast_programmer.json",
+          "label": "FAST Programmer"
+        }
+      },
+      "program": {
+        "default": {
+          "brief": "Curate a 45-minute binge playlist from The Lizzie Bennet Diaries: witty vlog confessions, family drama beats, and will-they-won't-they tension for 18-34 female viewers.",
+          "file": "jockey-cache/lizzie_bennet/program/default.json"
+        }
+      }
+    },
+    "omeleto_reserve": {
+      "hydration": {
+        "file": "jockey-cache/omeleto_reserve/hydration.json"
+      },
+      "search": {
+        "presets": [
+          {
+            "id": "tense-silence",
+            "label": "Tense silence before the reveal",
+            "query": "Tense silence before the reveal",
+            "file": "jockey-cache/omeleto_reserve/search/tense-silence.json",
+            "session_id": "sess_seed_omeleto_reserve_tense-silence",
+            "featured": true
+          },
+          {
+            "id": "dramatic-reveal",
+            "label": "Dramatic character reveal",
+            "query": "Dramatic character reveal",
+            "file": "jockey-cache/omeleto_reserve/search/dramatic-reveal.json",
+            "session_id": "sess_seed_omeleto_reserve_dramatic-reveal",
+            "featured": false
+          },
+          {
+            "id": "emotional-climax",
+            "label": "Emotional climax scene",
+            "query": "Emotional climax scene",
+            "file": "jockey-cache/omeleto_reserve/search/emotional-climax.json",
+            "session_id": "sess_seed_omeleto_reserve_emotional-climax",
+            "featured": false
+          }
+        ],
+        "rails": [
+          {
+            "id": "top-moments",
+            "title": "Top moments",
+            "subtitle": "Browse top moments from The Reserve (Omeleto)",
+            "clip_ids": [
+              "tense-silence-0",
+              "tense-silence-1",
+              "tense-silence-2",
+              "tense-silence-3",
+              "tense-silence-4",
+              "tense-silence-5"
+            ]
+          }
+        ]
+      },
+      "discover": {
+        "feel_good_family": {
+          "intent": "Looking for feel-good content, family-friendly, uplifting moments, under 20 min per clip",
+          "file": "jockey-cache/omeleto_reserve/discover/feel_good_family.json",
+          "label": "Feel-Good Family"
+        },
+        "suspense_seeker": {
+          "intent": "Tense scenes, strong female lead, dramatic reveals, under 30 min per clip",
+          "file": "jockey-cache/omeleto_reserve/discover/suspense_seeker.json",
+          "label": "Suspense Seeker"
+        },
+        "fast_programmer": {
+          "intent": "90-min drama block, 18-34 female demo, prime-time competition energy",
+          "file": "jockey-cache/omeleto_reserve/discover/fast_programmer.json",
+          "label": "FAST Programmer"
+        }
+      },
+      "program": {
+        "default": {
+          "brief": "Assemble a 60-minute short-drama anthology block from Omeleto reserve titles: emotional pivots, cinematic silence, and twist endings for 25-44 viewers.",
+          "file": "jockey-cache/omeleto_reserve/program/default.json"
+        }
+      }
+    },
+    "french_chef": {
+      "hydration": {
+        "file": "jockey-cache/french_chef/hydration.json"
+      },
+      "search": {
+        "presets": [
+          {
+            "id": "knife-technique",
+            "label": "Julia demonstrating knife technique",
+            "query": "Julia demonstrating knife technique",
+            "file": "jockey-cache/french_chef/search/knife-technique.json",
+            "session_id": "sess_seed_french_chef_knife-technique",
+            "featured": true
+          },
+          {
+            "id": "sauce-demo",
+            "label": "Classic sauce demonstration",
+            "query": "Classic sauce demonstration",
+            "file": "jockey-cache/french_chef/search/sauce-demo.json",
+            "session_id": "sess_seed_french_chef_sauce-demo",
+            "featured": false
+          },
+          {
+            "id": "humor-moment",
+            "label": "Julia's humorous teaching moment",
+            "query": "Julia's humorous teaching moment",
+            "file": "jockey-cache/french_chef/search/humor-moment.json",
+            "session_id": "sess_seed_french_chef_humor-moment",
+            "featured": false
+          }
+        ],
+        "rails": [
+          {
+            "id": "top-moments",
+            "title": "Top moments",
+            "subtitle": "Browse top moments from The French Chef with Julia Child",
+            "clip_ids": [
+              "knife-technique-0",
+              "knife-technique-1",
+              "knife-technique-2",
+              "knife-technique-3",
+              "knife-technique-4",
+              "knife-technique-5"
+            ]
+          }
+        ]
+      },
+      "discover": {
+        "feel_good_family": {
+          "intent": "Looking for feel-good content, family-friendly, uplifting moments, under 20 min per clip",
+          "file": "jockey-cache/french_chef/discover/feel_good_family.json",
+          "label": "Feel-Good Family"
+        },
+        "suspense_seeker": {
+          "intent": "Tense scenes, strong female lead, dramatic reveals, under 30 min per clip",
+          "file": "jockey-cache/french_chef/discover/suspense_seeker.json",
+          "label": "Suspense Seeker"
+        },
+        "fast_programmer": {
+          "intent": "90-min drama block, 18-34 female demo, prime-time competition energy",
+          "file": "jockey-cache/french_chef/discover/fast_programmer.json",
+          "label": "FAST Programmer"
+        }
+      },
+      "program": {
+        "default": {
+          "brief": "Schedule a 60-minute Sunday morning cooking block from The French Chef: Julia Child technique demos, warm humor, and family-friendly pacing.",
+          "file": "jockey-cache/french_chef/program/default.json"
+        }
+      }
+    }
+  }
+}

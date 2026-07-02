@@ -1,0 +1,1246 @@
+{
+  "request": {
+    "model": "jockey1.0",
+    "query": "Heated argument at the dinner table"
+  },
+  "response": {
+    "query_interpretation": "Searching for scenes matching: Heated argument at the dinner table",
+    "total_results": 16,
+    "results": [
+      {
+        "asset_reference": "hk-ep04",
+        "timestamp_start": "32:52",
+        "timestamp_end": "33:13",
+        "scene_title": "Ramsay ejects the Blue Team from service",
+        "description": "After the second raw lamb, Ramsay marches the Blue Team into the pantry, questions their passion, and throws them out of service.  The punishment is not just anger; it is a formal declaration that the team has failed the night completely.",
+        "match_type": "text_on_screen",
+        "relevance_score": "96",
+        "scene_description": "After the second raw lamb, Ramsay marches the Blue Team into the pantry, questions their passion, and throws them out of service.  The punishment is not just anger; it is a formal declaration that the team has failed the night completely.",
+        "alignment_reasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Joe, Lulu, Egypt drive the text_on_screen beat \"Ramsay ejects the Blue Team from service\" in Ep 4. This is the episode’s decisive service beat and the clearest consequence of everything Blue has been doing wrong since the top of the hour. Watch for Gordon Ramsay, Joe, Lulu, Egypt in Ep 4. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "pickling challenge",
+          "pickleball",
+          "team swap",
+          "Lulu joins Blue Team",
+          "Dan Barber"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Joe",
+          "Lulu",
+          "Egypt",
+          "Michael",
+          "Kyle",
+          "Anthony",
+          "Brandon",
+          "Vernon Davis"
+        ],
+        "match_signals": [
+          "pickling challenge",
+          "pickleball"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep05",
+        "timestamp_start": "29:15",
+        "timestamp_end": "34:13",
+        "scene_title": "Service opens with cold sliders and fish-station tension",
+        "description": "Dinner service starts unevenly.  On Blue, Joe’s slider patties come up ice cold, and Ramsay forces the team to confront the mistake at the pass.",
+        "match_type": "visual",
+        "relevance_score": "94",
+        "scene_description": "Dinner service starts unevenly.  On Blue, Joe’s slider patties come up ice cold, and Ramsay forces the team to confront the mistake at the pass.",
+        "alignment_reasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Marino, Joe, Lulu drive the visual beat \"Service opens with cold sliders and fish-station tension\" in Ep 5. This beat provides the jeopardy needed for the episode’s eventual bounce-back to feel earned rather than automatic. Watch for Gordon Ramsay, Marino, Joe, Lulu in Ep 5. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "burger challenge",
+          "George Motz",
+          "Egypt",
+          "Gordon Ramsay",
+          "homesickness"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Marino",
+          "Joe",
+          "Lulu",
+          "Brandon",
+          "Egypt",
+          "Anthony",
+          "Kyle",
+          "Whit",
+          "Hannah",
+          "Meghan",
+          "Amanda"
+        ],
+        "match_signals": [
+          "burger challenge",
+          "George Motz"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep04",
+        "timestamp_start": "22:41",
+        "timestamp_end": "23:33",
+        "scene_title": "VIP dinner service raises the stakes",
+        "description": "Dinner service begins with VIP pressure as Sheryl Swoopes sits at the Red chef’s table and Vernon Davis at the Blue one.  The Blue Team starts on appetizers, and Egypt tries to prove himself by taking control of carbonara.",
+        "match_type": "semantic",
+        "relevance_score": "92",
+        "scene_description": "Dinner service begins with VIP pressure as Sheryl Swoopes sits at the Red chef’s table and Vernon Davis at the Blue one.  The Blue Team starts on appetizers, and Egypt tries to prove himself by taking control of carbonara.",
+        "alignment_reasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Sheryl Swoopes, Vernon Davis, Egypt drive the semantic beat \"VIP dinner service raises the stakes\" in Ep 4. The celebrity tables make the service more consequential and create the setting for the Blue Team’s public embarrassment. Watch for Gordon Ramsay, Sheryl Swoopes, Vernon Davis, Egypt in Ep 4. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "pickling challenge",
+          "pickleball",
+          "team swap",
+          "Lulu joins Blue Team",
+          "Dan Barber"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Sheryl Swoopes",
+          "Vernon Davis",
+          "Egypt",
+          "Joe",
+          "Lulu",
+          "Amanda"
+        ],
+        "match_signals": [
+          "pickling challenge",
+          "pickleball"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep01",
+        "timestamp_start": "00:39:00",
+        "timestamp_end": "00:42:05",
+        "scene_title": "Setup for first dinner service",
+        "description": "Both teams receive recipe books and begin preparing for the first dinner service, carrying very different moods out of the challenge.  Ramsay then stages a paparazzi moment outside Hell's Kitchen before revealing a flamethrower and teasing the explosive service to come, ending the premiere by converting opening-week excitement into anxiety.",
+        "match_type": "audio",
+        "relevance_score": "90",
+        "scene_description": "Both teams receive recipe books and begin preparing for the first dinner service, carrying very different moods out of the challenge.  Ramsay then stages a paparazzi moment outside Hell's Kitchen before revealing a flamethrower and teasing the explosive service to come, ending the premiere by converting opening-week excitement into anxiety.",
+        "alignment_reasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Anthony, Brittany, Michael drive the audio beat \"Setup for first dinner service\" in Ep 1. The episode closes by carrying the premiere's emotional momentum directly into episode 2. Watch for Gordon Ramsay, Anthony, Brittany, Michael in Ep 1. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "signature dish challenge",
+          "East Coast launch",
+          "Foxwoods",
+          "team formation",
+          "Red Team win"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Anthony",
+          "Brittany",
+          "Michael",
+          "Amanda",
+          "Amber",
+          "Ann Marie",
+          "Brandon",
+          "Corbin",
+          "Egypt",
+          "Hannah",
+          "Joe",
+          "Kyle",
+          "Lulu",
+          "Magali",
+          "Meghan",
+          "Shant",
+          "Uri",
+          "Whit"
+        ],
+        "match_signals": [
+          "signature dish challenge",
+          "East Coast launch"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep02",
+        "timestamp_start": "32:58",
+        "timestamp_end": "33:42",
+        "scene_title": "Blue team ejected after raw Wellington and cold salmon",
+        "description": "Ramsay inspects the blue team’s entrees, finds the salmon cold, then cuts into the Wellingtons and discovers they are raw.  He marches the entire team into the back hallway, identifies Joe and Egypt in the collapse, and throws every man out of the kitchen.",
+        "match_type": "text_on_screen",
+        "relevance_score": "88",
+        "scene_description": "Ramsay inspects the blue team’s entrees, finds the salmon cold, then cuts into the Wellingtons and discovers they are raw.  He marches the entire team into the back hallway, identifies Joe and Egypt in the collapse, and throws every man out of the kitchen.",
+        "alignment_reasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Egypt, Joe, Brandon drive the text_on_screen beat \"Blue team ejected after raw Wellington and cold salmon\" in Ep 2. This is the pivotal beat because it converts a shaky service into an unrecoverable meltdown. It crystallizes the season’s early blue-team arc: Egypt trying to lead loudly, teammates losing faith in the communication, and Ramsay deciding the problem is systemic rather than one bad dish. Central figures: Gordon Ramsay, Egypt, Joe, Brandon. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass",
+          "opening night service",
+          "first elimination",
+          "Amber eliminated"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Egypt",
+          "Joe",
+          "Brandon",
+          "Michael",
+          "Kyle",
+          "Corbin",
+          "Shant",
+          "Anthony",
+          "Uri"
+        ],
+        "match_signals": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep04",
+        "timestamp_start": "32:52",
+        "timestamp_end": "33:13",
+        "scene_title": "Blue Team is thrown out after the second raw lamb",
+        "description": "After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry.  He tears into them for showing no bounce-back ability and then throws them out of service, forcing them to leave the kitchen in disgrace.",
+        "match_type": "visual",
+        "relevance_score": "86",
+        "scene_description": "After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry.  He tears into them for showing no bounce-back ability and then throws them out of service, forcing them to leave the kitchen in disgrace.",
+        "alignment_reasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Joe, Lulu, Egypt drive the visual beat \"Blue Team is thrown out after the second raw lamb\" in Ep 4. This is the pivotal beat because it turns a rough service into a defining team failure with direct consequences. It sets up the nomination arguments, explains why a Blue Team chef is most vulnerable, and marks the season’s clearest evidence so far that the Blue Team’s dysfunction is structural rather than accidental. Central figures: Gordon Ramsay, Joe, Lulu, Egypt. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "pickling challenge",
+          "pickleball",
+          "team swap",
+          "Lulu joins Blue Team",
+          "Dan Barber"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Joe",
+          "Lulu",
+          "Egypt",
+          "Michael",
+          "Kyle",
+          "Anthony",
+          "Brandon",
+          "Vernon Davis"
+        ],
+        "match_signals": [
+          "pickling challenge",
+          "pickleball"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep02",
+        "timestamp_start": "32:58",
+        "timestamp_end": "33:42",
+        "scene_title": "Blue team ejected after cold salmon and raw Wellington",
+        "description": "The blue team finally implodes when Ramsay gets cold salmon and then slices into raw Wellingtons.  He hauls the men into the back hallway, identifies Joe and Egypt as responsible for key failures, and throws the entire blue team out of the kitchen.",
+        "match_type": "semantic",
+        "relevance_score": "84",
+        "scene_description": "The blue team finally implodes when Ramsay gets cold salmon and then slices into raw Wellingtons.  He hauls the men into the back hallway, identifies Joe and Egypt as responsible for key failures, and throws the entire blue team out of the kitchen.",
+        "alignment_reasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Egypt, Joe, Brandon drive the semantic beat \"Blue team ejected after cold salmon and raw Wellington\" in Ep 2. This is the service’s clearest point of no return for the men and the moment their nomination fight becomes inevitable. Watch for Gordon Ramsay, Egypt, Joe, Brandon in Ep 2. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass",
+          "opening night service",
+          "first elimination",
+          "Amber eliminated"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Egypt",
+          "Joe",
+          "Brandon",
+          "Michael",
+          "Kyle",
+          "Corbin",
+          "Shant",
+          "Anthony",
+          "Uri"
+        ],
+        "match_signals": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep02",
+        "timestamp_start": "34:11",
+        "timestamp_end": "34:57",
+        "scene_title": "Red team collapse completes the double ejection",
+        "description": "Ramsay tries to salvage the night with the women, but then finds raw chicken at the pass as well.  He calls the red team’s performance an embarrassment and ejects them too, proving the first East Coast service has beaten both brigades.",
+        "match_type": "audio",
+        "relevance_score": "82",
+        "scene_description": "Ramsay tries to salvage the night with the women, but then finds raw chicken at the pass as well.  He calls the red team’s performance an embarrassment and ejects them too, proving the first East Coast service has beaten both brigades.",
+        "alignment_reasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Hannah, Magali, Amber drive the audio beat \"Red team collapse completes the double ejection\" in Ep 2. The episode’s major twist is that neither team can claim competence; both kitchens fail hard enough to be expelled. Watch for Gordon Ramsay, Hannah, Magali, Amber in Ep 2. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass",
+          "opening night service",
+          "first elimination",
+          "Amber eliminated"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Hannah",
+          "Magali",
+          "Amber",
+          "Whit",
+          "Lulu",
+          "Ann Marie"
+        ],
+        "match_signals": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep04",
+        "timestamp_start": "24:22",
+        "timestamp_end": "26:24",
+        "scene_title": "Both kitchens wobble, but Blue worsens it",
+        "description": "While the Blue Team tries to recover, the Red Team also stumbles when Ann Marie mistakenly puts peas into a risotto that should have had parsley.  Ramsay hammers them for the error, but the women remain in service.",
+        "match_type": "text_on_screen",
+        "relevance_score": "80",
+        "scene_description": "While the Blue Team tries to recover, the Red Team also stumbles when Ann Marie mistakenly puts peas into a risotto that should have had parsley.  Ramsay hammers them for the error, but the women remain in service.",
+        "alignment_reasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Ann Marie, Hannah, Sheryl Swoopes drive the text_on_screen beat \"Both kitchens wobble, but Blue worsens it\" in Ep 4. This beat matters because it creates the episode’s comparison: both teams make mistakes, but only one team keeps cascading downward. Watch for Gordon Ramsay, Ann Marie, Hannah, Sheryl Swoopes in Ep 4. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "pickling challenge",
+          "pickleball",
+          "team swap",
+          "Lulu joins Blue Team",
+          "Dan Barber"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Ann Marie",
+          "Hannah",
+          "Sheryl Swoopes",
+          "Michael",
+          "Egypt"
+        ],
+        "match_signals": [
+          "pickling challenge",
+          "pickleball"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep03",
+        "timestamp_start": "21:08",
+        "timestamp_end": "22:00",
+        "scene_title": "Uri declares himself unfit after Shant’s medical exit",
+        "description": "Ramsay first informs both teams that Shant has gone to the hospital and will not continue, then Uri steps forward and explains that his back injury is so severe he can barely stand and continuing would only worsen it.  When Ramsay asks if he is declaring himself unfit to continue, Uri answers yes, and the room absorbs that the blue team has now lost a second chef before dinner service even starts.",
+        "match_type": "visual",
+        "relevance_score": "78",
+        "scene_description": "Ramsay first informs both teams that Shant has gone to the hospital and will not continue, then Uri steps forward and explains that his back injury is so severe he can barely stand and continuing would only worsen it.  When Ramsay asks if he is declaring himself unfit to continue, Uri answers yes, and the room absorbs that the blue team has now lost a second chef before dinner service even starts.",
+        "alignment_reasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Uri, Ann Marie, Brittany drive the visual beat \"Uri declares himself unfit after Shant’s medical exit\" in Ep 3. This is the episode’s hinge because it transforms the night from a normal challenge-and-service story into a season-shaping collapse of the blue team’s roster. Everything after it — the weaker service, the urgency around communication, and the sense that the blue team is unraveling — carries more weight because the team is suddenly fighting short-handed and demoralized. Central figures: Gordon Ramsay, Uri, Ann Marie, Brittany. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "seafood challenge",
+          "seafood tower",
+          "medical withdrawal",
+          "injury",
+          "team collapse"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Uri",
+          "Ann Marie",
+          "Brittany",
+          "Magali",
+          "Lulu",
+          "Meghan",
+          "Joe",
+          "Anthony",
+          "Kyle",
+          "Michael",
+          "James Avery"
+        ],
+        "match_signals": [
+          "seafood challenge",
+          "seafood tower"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep01",
+        "timestamp_start": "00:33:20",
+        "timestamp_end": "00:38:30",
+        "scene_title": "Reward bonds the women; punishment divides the men",
+        "description": "After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side.",
+        "match_type": "semantic",
+        "relevance_score": "76",
+        "scene_description": "After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side.",
+        "alignment_reasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Brittany, Ann Marie, Hannah drive the semantic beat \"Reward bonds the women; punishment divides the men\" in Ep 1. This beat turns a challenge result into lasting team chemistry consequences. Watch for Gordon Ramsay, Brittany, Ann Marie, Hannah in Ep 1. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "signature dish challenge",
+          "East Coast launch",
+          "Foxwoods",
+          "team formation",
+          "Red Team win"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Brittany",
+          "Ann Marie",
+          "Hannah",
+          "Magali",
+          "Meghan",
+          "Whit",
+          "James Avery",
+          "Corbin",
+          "Egypt",
+          "Joe",
+          "Michael",
+          "Shant",
+          "Uri"
+        ],
+        "match_signals": [
+          "signature dish challenge",
+          "East Coast launch"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep02",
+        "timestamp_start": "14:41",
+        "timestamp_end": "17:05",
+        "scene_title": "Bottom dishes judged, no one eliminated",
+        "description": "Ramsay immediately weaponizes the challenge results by ordering Whit and Brandon to identify the bottom two dishes on their own teams.  Whit names Ann Marie and Brittany; Brandon names Shant and Egypt.",
+        "match_type": "audio",
+        "relevance_score": "74",
+        "scene_description": "Ramsay immediately weaponizes the challenge results by ordering Whit and Brandon to identify the bottom two dishes on their own teams.  Whit names Ann Marie and Brittany; Brandon names Shant and Egypt.",
+        "alignment_reasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Whit, Brandon, Ann Marie drive the audio beat \"Bottom dishes judged, no one eliminated\" in Ep 2. This twist raises pressure without ending anyone’s run, sending unresolved tension straight into service. Watch for Gordon Ramsay, Whit, Brandon, Ann Marie in Ep 2. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass",
+          "opening night service",
+          "first elimination",
+          "Amber eliminated"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Whit",
+          "Brandon",
+          "Ann Marie",
+          "Brittany",
+          "Shant",
+          "Egypt"
+        ],
+        "match_signals": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep03",
+        "timestamp_start": "24:00",
+        "timestamp_end": "27:40",
+        "scene_title": "Service begins with VIP pressure and an early red-team mistake",
+        "description": "Dinner service opens with VIP diners in the restaurant, including Trey Hendrickson and Matthew Judon.  The red team immediately stumbles when Meghan brings up a flatbread burnt black, but Ramsay forces a refire and they recover; meanwhile the blue team starts appetizers with Egypt and Corbin on fish and Michael coordinating risotto.",
+        "match_type": "text_on_screen",
+        "relevance_score": "72",
+        "scene_description": "Dinner service opens with VIP diners in the restaurant, including Trey Hendrickson and Matthew Judon.  The red team immediately stumbles when Meghan brings up a flatbread burnt black, but Ramsay forces a refire and they recover; meanwhile the blue team starts appetizers with Egypt and Corbin on fish and Michael coordinating risotto.",
+        "alignment_reasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Trey Hendrickson, Matthew Judon, Anthony drive the text_on_screen beat \"Service begins with VIP pressure and an early red-team mistake\" in Ep 3. This launches the service narrative and shows the red team can recover from errors instead of spiraling. Watch for Gordon Ramsay, Trey Hendrickson, Matthew Judon, Anthony in Ep 3. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "seafood challenge",
+          "seafood tower",
+          "medical withdrawal",
+          "injury",
+          "team collapse"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Trey Hendrickson",
+          "Matthew Judon",
+          "Anthony",
+          "Magali",
+          "Meghan",
+          "Ann Marie",
+          "Whit",
+          "Amanda",
+          "Brittany",
+          "Michael",
+          "Egypt",
+          "Corbin"
+        ],
+        "match_signals": [
+          "seafood challenge",
+          "seafood tower"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep03",
+        "timestamp_start": "32:01",
+        "timestamp_end": "33:48",
+        "scene_title": "Raw lamb and a dining-room apology humiliate the blue team",
+        "description": "The chef’s-table ticket for Matthew Judon becomes the blue team’s worst failure.  Ramsay sends Corbin to help Brandon on meat, then explodes when Corbin stands idle and later when the lamb arrives raw; the team is forced into the dining room to apologize directly to waiting guests.",
+        "match_type": "visual",
+        "relevance_score": "70",
+        "scene_description": "The chef’s-table ticket for Matthew Judon becomes the blue team’s worst failure.  Ramsay sends Corbin to help Brandon on meat, then explodes when Corbin stands idle and later when the lamb arrives raw; the team is forced into the dining room to apologize directly to waiting guests.",
+        "alignment_reasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Brandon, Corbin, Egypt drive the visual beat \"Raw lamb and a dining-room apology humiliate the blue team\" in Ep 3. This is the service low point and the clearest evidence Ramsay uses that the blue team lost the night. Watch for Gordon Ramsay, Brandon, Corbin, Egypt in Ep 3. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "seafood challenge",
+          "seafood tower",
+          "medical withdrawal",
+          "injury",
+          "team collapse"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Brandon",
+          "Corbin",
+          "Egypt",
+          "Michael",
+          "Joe",
+          "Anthony",
+          "Kyle",
+          "Matthew Judon"
+        ],
+        "match_signals": [
+          "seafood challenge",
+          "seafood tower"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep05",
+        "timestamp_start": "00:05",
+        "timestamp_end": "03:40",
+        "scene_title": "Previously on: fallout from the last service",
+        "description": "A recap re-establishes the pressure coming into Episode 5: Lulu’s team switch, Michael’s elimination, and Egypt surviving a nomination scare.  The montage matters because it sets up why the Blue Team feels unstable and why Egypt enters the episode carrying emotional residue from the previous service.",
+        "match_type": "semantic",
+        "relevance_score": "68",
+        "scene_description": "A recap re-establishes the pressure coming into Episode 5: Lulu’s team switch, Michael’s elimination, and Egypt surviving a nomination scare.  The montage matters because it sets up why the Blue Team feels unstable and why Egypt enters the episode carrying emotional residue from the previous service.",
+        "alignment_reasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Egypt, Michael, Ann Marie drive the semantic beat \"Previously on: fallout from the last service\" in Ep 5. This beat is necessary context for the whole hour because Egypt’s later breakdown and the Blue Team’s fragile morale are direct consequences of the prior episode. Watch for Gordon Ramsay, Egypt, Michael, Ann Marie in Ep 5. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "burger challenge",
+          "George Motz",
+          "Egypt",
+          "Gordon Ramsay",
+          "homesickness"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Egypt",
+          "Michael",
+          "Ann Marie",
+          "Magali",
+          "Lulu",
+          "Amanda",
+          "Brandon",
+          "Dan Barber"
+        ],
+        "match_signals": [
+          "burger challenge",
+          "George Motz"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep03",
+        "timestamp_start": "18:00",
+        "timestamp_end": "20:00",
+        "scene_title": "Shant departs as Uri worsens during punishment",
+        "description": "A medic evaluates Shant and takes him away, while the red team enjoys kayaking and the blue team grinds through seafood punishment.  Uri, still in the kitchen, is visibly bent over in pain and starts worrying aloud about whether he can survive service.",
+        "match_type": "audio",
+        "relevance_score": "66",
+        "scene_description": "A medic evaluates Shant and takes him away, while the red team enjoys kayaking and the blue team grinds through seafood punishment.  Uri, still in the kitchen, is visibly bent over in pain and starts worrying aloud about whether he can survive service.",
+        "alignment_reasoning": "This scene matches \"Heated argument at the dinner table\" because Medic, Shant, Lulu, Brittany drive the audio beat \"Shant departs as Uri worsens during punishment\" in Ep 3. This beat turns the blue team’s instability from bad morale into a roster problem. Watch for Medic, Shant, Lulu, Brittany in Ep 3. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "seafood challenge",
+          "seafood tower",
+          "medical withdrawal",
+          "injury",
+          "team collapse"
+        ],
+        "characters_present": [
+          "Medic",
+          "Shant",
+          "Lulu",
+          "Brittany",
+          "Ann Marie",
+          "Magali",
+          "Joe",
+          "Anthony",
+          "Uri"
+        ],
+        "match_signals": [
+          "seafood challenge",
+          "seafood tower"
+        ]
+      }
+    ]
+  },
+  "resolved_clips": [
+    {
+      "id": "heated-argument-0",
+      "assetId": "hk-ep04",
+      "assetReference": "hk-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/hk-ep04",
+      "startSec": 1972,
+      "endSec": 1993,
+      "thumbnailUrl": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
+      "title": "Ramsay ejects the Blue Team from service",
+      "sceneTitle": "Ramsay ejects the Blue Team from service",
+      "description": "After the second raw lamb, Ramsay marches the Blue Team into the pantry, questions their passion, and throws them out of service.  The punishment is not just anger; it is a formal declaration that the team has failed the night completely.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "96",
+      "matchScore": "96",
+      "sceneDescription": "After the second raw lamb, Ramsay marches the Blue Team into the pantry, questions their passion, and throws them out of service.  The punishment is not just anger; it is a formal declaration that the team has failed the night completely.",
+      "alignmentReasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Joe, Lulu, Egypt drive the text_on_screen beat \"Ramsay ejects the Blue Team from service\" in Ep 4. This is the episode’s decisive service beat and the clearest consequence of everything Blue has been doing wrong since the top of the hour. Watch for Gordon Ramsay, Joe, Lulu, Egypt in Ep 4. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "pickling challenge",
+        "pickleball",
+        "team swap",
+        "Lulu joins Blue Team",
+        "Dan Barber"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Joe",
+        "Lulu",
+        "Egypt",
+        "Michael",
+        "Kyle",
+        "Anthony",
+        "Brandon",
+        "Vernon Davis"
+      ],
+      "matchSignals": [
+        "pickling challenge",
+        "pickleball"
+      ]
+    },
+    {
+      "id": "heated-argument-1",
+      "assetId": "hk-ep05",
+      "assetReference": "hk-ep05",
+      "episodeLabel": "Ep 5",
+      "videoSrc": "/api/media/hk-ep05",
+      "startSec": 1755,
+      "endSec": 2053,
+      "thumbnailUrl": "https://i.ytimg.com/vi/NKTyf08aXUY/maxresdefault.jpg",
+      "title": "Service opens with cold sliders and fish-station tension",
+      "sceneTitle": "Service opens with cold sliders and fish-station tension",
+      "description": "Dinner service starts unevenly.  On Blue, Joe’s slider patties come up ice cold, and Ramsay forces the team to confront the mistake at the pass.",
+      "matchType": "visual",
+      "relevanceScore": "94",
+      "matchScore": "94",
+      "sceneDescription": "Dinner service starts unevenly.  On Blue, Joe’s slider patties come up ice cold, and Ramsay forces the team to confront the mistake at the pass.",
+      "alignmentReasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Marino, Joe, Lulu drive the visual beat \"Service opens with cold sliders and fish-station tension\" in Ep 5. This beat provides the jeopardy needed for the episode’s eventual bounce-back to feel earned rather than automatic. Watch for Gordon Ramsay, Marino, Joe, Lulu in Ep 5. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "burger challenge",
+        "George Motz",
+        "Egypt",
+        "Gordon Ramsay",
+        "homesickness"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Marino",
+        "Joe",
+        "Lulu",
+        "Brandon",
+        "Egypt",
+        "Anthony",
+        "Kyle",
+        "Whit",
+        "Hannah",
+        "Meghan",
+        "Amanda"
+      ],
+      "matchSignals": [
+        "burger challenge",
+        "George Motz"
+      ]
+    },
+    {
+      "id": "heated-argument-2",
+      "assetId": "hk-ep04",
+      "assetReference": "hk-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/hk-ep04",
+      "startSec": 1361,
+      "endSec": 1413,
+      "thumbnailUrl": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
+      "title": "VIP dinner service raises the stakes",
+      "sceneTitle": "VIP dinner service raises the stakes",
+      "description": "Dinner service begins with VIP pressure as Sheryl Swoopes sits at the Red chef’s table and Vernon Davis at the Blue one.  The Blue Team starts on appetizers, and Egypt tries to prove himself by taking control of carbonara.",
+      "matchType": "semantic",
+      "relevanceScore": "92",
+      "matchScore": "92",
+      "sceneDescription": "Dinner service begins with VIP pressure as Sheryl Swoopes sits at the Red chef’s table and Vernon Davis at the Blue one.  The Blue Team starts on appetizers, and Egypt tries to prove himself by taking control of carbonara.",
+      "alignmentReasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Sheryl Swoopes, Vernon Davis, Egypt drive the semantic beat \"VIP dinner service raises the stakes\" in Ep 4. The celebrity tables make the service more consequential and create the setting for the Blue Team’s public embarrassment. Watch for Gordon Ramsay, Sheryl Swoopes, Vernon Davis, Egypt in Ep 4. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "pickling challenge",
+        "pickleball",
+        "team swap",
+        "Lulu joins Blue Team",
+        "Dan Barber"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Sheryl Swoopes",
+        "Vernon Davis",
+        "Egypt",
+        "Joe",
+        "Lulu",
+        "Amanda"
+      ],
+      "matchSignals": [
+        "pickling challenge",
+        "pickleball"
+      ]
+    },
+    {
+      "id": "heated-argument-3",
+      "assetId": "hk-ep01",
+      "assetReference": "hk-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/hk-ep01",
+      "startSec": 2340,
+      "endSec": 2525,
+      "thumbnailUrl": "https://i.ytimg.com/vi/n3k6NV9qRsQ/maxresdefault.jpg",
+      "title": "Setup for first dinner service",
+      "sceneTitle": "Setup for first dinner service",
+      "description": "Both teams receive recipe books and begin preparing for the first dinner service, carrying very different moods out of the challenge.  Ramsay then stages a paparazzi moment outside Hell's Kitchen before revealing a flamethrower and teasing the explosive service to come, ending the premiere by converting opening-week excitement into anxiety.",
+      "matchType": "audio",
+      "relevanceScore": "90",
+      "matchScore": "90",
+      "sceneDescription": "Both teams receive recipe books and begin preparing for the first dinner service, carrying very different moods out of the challenge.  Ramsay then stages a paparazzi moment outside Hell's Kitchen before revealing a flamethrower and teasing the explosive service to come, ending the premiere by converting opening-week excitement into anxiety.",
+      "alignmentReasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Anthony, Brittany, Michael drive the audio beat \"Setup for first dinner service\" in Ep 1. The episode closes by carrying the premiere's emotional momentum directly into episode 2. Watch for Gordon Ramsay, Anthony, Brittany, Michael in Ep 1. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "signature dish challenge",
+        "East Coast launch",
+        "Foxwoods",
+        "team formation",
+        "Red Team win"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Anthony",
+        "Brittany",
+        "Michael",
+        "Amanda",
+        "Amber",
+        "Ann Marie",
+        "Brandon",
+        "Corbin",
+        "Egypt",
+        "Hannah",
+        "Joe",
+        "Kyle",
+        "Lulu",
+        "Magali",
+        "Meghan",
+        "Shant",
+        "Uri",
+        "Whit"
+      ],
+      "matchSignals": [
+        "signature dish challenge",
+        "East Coast launch"
+      ]
+    },
+    {
+      "id": "heated-argument-4",
+      "assetId": "hk-ep02",
+      "assetReference": "hk-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/hk-ep02",
+      "startSec": 1978,
+      "endSec": 2022,
+      "thumbnailUrl": "https://i.ytimg.com/vi/bX-EzNRe-ws/maxresdefault.jpg",
+      "title": "Blue team ejected after raw Wellington and cold salmon",
+      "sceneTitle": "Blue team ejected after raw Wellington and cold salmon",
+      "description": "Ramsay inspects the blue team’s entrees, finds the salmon cold, then cuts into the Wellingtons and discovers they are raw.  He marches the entire team into the back hallway, identifies Joe and Egypt in the collapse, and throws every man out of the kitchen.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "88",
+      "matchScore": "88",
+      "sceneDescription": "Ramsay inspects the blue team’s entrees, finds the salmon cold, then cuts into the Wellingtons and discovers they are raw.  He marches the entire team into the back hallway, identifies Joe and Egypt in the collapse, and throws every man out of the kitchen.",
+      "alignmentReasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Egypt, Joe, Brandon drive the text_on_screen beat \"Blue team ejected after raw Wellington and cold salmon\" in Ep 2. This is the pivotal beat because it converts a shaky service into an unrecoverable meltdown. It crystallizes the season’s early blue-team arc: Egypt trying to lead loudly, teammates losing faith in the communication, and Ramsay deciding the problem is systemic rather than one bad dish. Central figures: Gordon Ramsay, Egypt, Joe, Brandon. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass",
+        "opening night service",
+        "first elimination",
+        "Amber eliminated"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Egypt",
+        "Joe",
+        "Brandon",
+        "Michael",
+        "Kyle",
+        "Corbin",
+        "Shant",
+        "Anthony",
+        "Uri"
+      ],
+      "matchSignals": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass"
+      ]
+    },
+    {
+      "id": "heated-argument-5",
+      "assetId": "hk-ep04",
+      "assetReference": "hk-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/hk-ep04",
+      "startSec": 1972,
+      "endSec": 1993,
+      "thumbnailUrl": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
+      "title": "Blue Team is thrown out after the second raw lamb",
+      "sceneTitle": "Blue Team is thrown out after the second raw lamb",
+      "description": "After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry.  He tears into them for showing no bounce-back ability and then throws them out of service, forcing them to leave the kitchen in disgrace.",
+      "matchType": "visual",
+      "relevanceScore": "86",
+      "matchScore": "86",
+      "sceneDescription": "After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry.  He tears into them for showing no bounce-back ability and then throws them out of service, forcing them to leave the kitchen in disgrace.",
+      "alignmentReasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Joe, Lulu, Egypt drive the visual beat \"Blue Team is thrown out after the second raw lamb\" in Ep 4. This is the pivotal beat because it turns a rough service into a defining team failure with direct consequences. It sets up the nomination arguments, explains why a Blue Team chef is most vulnerable, and marks the season’s clearest evidence so far that the Blue Team’s dysfunction is structural rather than accidental. Central figures: Gordon Ramsay, Joe, Lulu, Egypt. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "pickling challenge",
+        "pickleball",
+        "team swap",
+        "Lulu joins Blue Team",
+        "Dan Barber"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Joe",
+        "Lulu",
+        "Egypt",
+        "Michael",
+        "Kyle",
+        "Anthony",
+        "Brandon",
+        "Vernon Davis"
+      ],
+      "matchSignals": [
+        "pickling challenge",
+        "pickleball"
+      ]
+    },
+    {
+      "id": "heated-argument-6",
+      "assetId": "hk-ep02",
+      "assetReference": "hk-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/hk-ep02",
+      "startSec": 1978,
+      "endSec": 2022,
+      "thumbnailUrl": "https://i.ytimg.com/vi/bX-EzNRe-ws/maxresdefault.jpg",
+      "title": "Blue team ejected after cold salmon and raw Wellington",
+      "sceneTitle": "Blue team ejected after cold salmon and raw Wellington",
+      "description": "The blue team finally implodes when Ramsay gets cold salmon and then slices into raw Wellingtons.  He hauls the men into the back hallway, identifies Joe and Egypt as responsible for key failures, and throws the entire blue team out of the kitchen.",
+      "matchType": "semantic",
+      "relevanceScore": "84",
+      "matchScore": "84",
+      "sceneDescription": "The blue team finally implodes when Ramsay gets cold salmon and then slices into raw Wellingtons.  He hauls the men into the back hallway, identifies Joe and Egypt as responsible for key failures, and throws the entire blue team out of the kitchen.",
+      "alignmentReasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Egypt, Joe, Brandon drive the semantic beat \"Blue team ejected after cold salmon and raw Wellington\" in Ep 2. This is the service’s clearest point of no return for the men and the moment their nomination fight becomes inevitable. Watch for Gordon Ramsay, Egypt, Joe, Brandon in Ep 2. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass",
+        "opening night service",
+        "first elimination",
+        "Amber eliminated"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Egypt",
+        "Joe",
+        "Brandon",
+        "Michael",
+        "Kyle",
+        "Corbin",
+        "Shant",
+        "Anthony",
+        "Uri"
+      ],
+      "matchSignals": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass"
+      ]
+    },
+    {
+      "id": "heated-argument-7",
+      "assetId": "hk-ep02",
+      "assetReference": "hk-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/hk-ep02",
+      "startSec": 2051,
+      "endSec": 2097,
+      "thumbnailUrl": "https://i.ytimg.com/vi/bX-EzNRe-ws/maxresdefault.jpg",
+      "title": "Red team collapse completes the double ejection",
+      "sceneTitle": "Red team collapse completes the double ejection",
+      "description": "Ramsay tries to salvage the night with the women, but then finds raw chicken at the pass as well.  He calls the red team’s performance an embarrassment and ejects them too, proving the first East Coast service has beaten both brigades.",
+      "matchType": "audio",
+      "relevanceScore": "82",
+      "matchScore": "82",
+      "sceneDescription": "Ramsay tries to salvage the night with the women, but then finds raw chicken at the pass as well.  He calls the red team’s performance an embarrassment and ejects them too, proving the first East Coast service has beaten both brigades.",
+      "alignmentReasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Hannah, Magali, Amber drive the audio beat \"Red team collapse completes the double ejection\" in Ep 2. The episode’s major twist is that neither team can claim competence; both kitchens fail hard enough to be expelled. Watch for Gordon Ramsay, Hannah, Magali, Amber in Ep 2. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass",
+        "opening night service",
+        "first elimination",
+        "Amber eliminated"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Hannah",
+        "Magali",
+        "Amber",
+        "Whit",
+        "Lulu",
+        "Ann Marie"
+      ],
+      "matchSignals": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass"
+      ]
+    },
+    {
+      "id": "heated-argument-8",
+      "assetId": "hk-ep04",
+      "assetReference": "hk-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/hk-ep04",
+      "startSec": 1462,
+      "endSec": 1584,
+      "thumbnailUrl": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
+      "title": "Both kitchens wobble, but Blue worsens it",
+      "sceneTitle": "Both kitchens wobble, but Blue worsens it",
+      "description": "While the Blue Team tries to recover, the Red Team also stumbles when Ann Marie mistakenly puts peas into a risotto that should have had parsley.  Ramsay hammers them for the error, but the women remain in service.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "80",
+      "matchScore": "80",
+      "sceneDescription": "While the Blue Team tries to recover, the Red Team also stumbles when Ann Marie mistakenly puts peas into a risotto that should have had parsley.  Ramsay hammers them for the error, but the women remain in service.",
+      "alignmentReasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Ann Marie, Hannah, Sheryl Swoopes drive the text_on_screen beat \"Both kitchens wobble, but Blue worsens it\" in Ep 4. This beat matters because it creates the episode’s comparison: both teams make mistakes, but only one team keeps cascading downward. Watch for Gordon Ramsay, Ann Marie, Hannah, Sheryl Swoopes in Ep 4. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "pickling challenge",
+        "pickleball",
+        "team swap",
+        "Lulu joins Blue Team",
+        "Dan Barber"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Ann Marie",
+        "Hannah",
+        "Sheryl Swoopes",
+        "Michael",
+        "Egypt"
+      ],
+      "matchSignals": [
+        "pickling challenge",
+        "pickleball"
+      ]
+    },
+    {
+      "id": "heated-argument-9",
+      "assetId": "hk-ep03",
+      "assetReference": "hk-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/hk-ep03",
+      "startSec": 1268,
+      "endSec": 1320,
+      "thumbnailUrl": "https://i.ytimg.com/vi/GAV2plfsiBA/maxresdefault.jpg",
+      "title": "Uri declares himself unfit after Shant’s medical exit",
+      "sceneTitle": "Uri declares himself unfit after Shant’s medical exit",
+      "description": "Ramsay first informs both teams that Shant has gone to the hospital and will not continue, then Uri steps forward and explains that his back injury is so severe he can barely stand and continuing would only worsen it.  When Ramsay asks if he is declaring himself unfit to continue, Uri answers yes, and the room absorbs that the blue team has now lost a second chef before dinner service even starts.",
+      "matchType": "visual",
+      "relevanceScore": "78",
+      "matchScore": "78",
+      "sceneDescription": "Ramsay first informs both teams that Shant has gone to the hospital and will not continue, then Uri steps forward and explains that his back injury is so severe he can barely stand and continuing would only worsen it.  When Ramsay asks if he is declaring himself unfit to continue, Uri answers yes, and the room absorbs that the blue team has now lost a second chef before dinner service even starts.",
+      "alignmentReasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Uri, Ann Marie, Brittany drive the visual beat \"Uri declares himself unfit after Shant’s medical exit\" in Ep 3. This is the episode’s hinge because it transforms the night from a normal challenge-and-service story into a season-shaping collapse of the blue team’s roster. Everything after it — the weaker service, the urgency around communication, and the sense that the blue team is unraveling — carries more weight because the team is suddenly fighting short-handed and demoralized. Central figures: Gordon Ramsay, Uri, Ann Marie, Brittany. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "seafood challenge",
+        "seafood tower",
+        "medical withdrawal",
+        "injury",
+        "team collapse"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Uri",
+        "Ann Marie",
+        "Brittany",
+        "Magali",
+        "Lulu",
+        "Meghan",
+        "Joe",
+        "Anthony",
+        "Kyle",
+        "Michael",
+        "James Avery"
+      ],
+      "matchSignals": [
+        "seafood challenge",
+        "seafood tower"
+      ]
+    },
+    {
+      "id": "heated-argument-10",
+      "assetId": "hk-ep01",
+      "assetReference": "hk-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/hk-ep01",
+      "startSec": 2000,
+      "endSec": 2310,
+      "thumbnailUrl": "https://i.ytimg.com/vi/n3k6NV9qRsQ/maxresdefault.jpg",
+      "title": "Reward bonds the women; punishment divides the men",
+      "sceneTitle": "Reward bonds the women; punishment divides the men",
+      "description": "After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side.",
+      "matchType": "semantic",
+      "relevanceScore": "76",
+      "matchScore": "76",
+      "sceneDescription": "After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side.",
+      "alignmentReasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Brittany, Ann Marie, Hannah drive the semantic beat \"Reward bonds the women; punishment divides the men\" in Ep 1. This beat turns a challenge result into lasting team chemistry consequences. Watch for Gordon Ramsay, Brittany, Ann Marie, Hannah in Ep 1. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "signature dish challenge",
+        "East Coast launch",
+        "Foxwoods",
+        "team formation",
+        "Red Team win"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Brittany",
+        "Ann Marie",
+        "Hannah",
+        "Magali",
+        "Meghan",
+        "Whit",
+        "James Avery",
+        "Corbin",
+        "Egypt",
+        "Joe",
+        "Michael",
+        "Shant",
+        "Uri"
+      ],
+      "matchSignals": [
+        "signature dish challenge",
+        "East Coast launch"
+      ]
+    },
+    {
+      "id": "heated-argument-11",
+      "assetId": "hk-ep02",
+      "assetReference": "hk-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/hk-ep02",
+      "startSec": 881,
+      "endSec": 1025,
+      "thumbnailUrl": "https://i.ytimg.com/vi/bX-EzNRe-ws/maxresdefault.jpg",
+      "title": "Bottom dishes judged, no one eliminated",
+      "sceneTitle": "Bottom dishes judged, no one eliminated",
+      "description": "Ramsay immediately weaponizes the challenge results by ordering Whit and Brandon to identify the bottom two dishes on their own teams.  Whit names Ann Marie and Brittany; Brandon names Shant and Egypt.",
+      "matchType": "audio",
+      "relevanceScore": "74",
+      "matchScore": "74",
+      "sceneDescription": "Ramsay immediately weaponizes the challenge results by ordering Whit and Brandon to identify the bottom two dishes on their own teams.  Whit names Ann Marie and Brittany; Brandon names Shant and Egypt.",
+      "alignmentReasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Whit, Brandon, Ann Marie drive the audio beat \"Bottom dishes judged, no one eliminated\" in Ep 2. This twist raises pressure without ending anyone’s run, sending unresolved tension straight into service. Watch for Gordon Ramsay, Whit, Brandon, Ann Marie in Ep 2. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass",
+        "opening night service",
+        "first elimination",
+        "Amber eliminated"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Whit",
+        "Brandon",
+        "Ann Marie",
+        "Brittany",
+        "Shant",
+        "Egypt"
+      ],
+      "matchSignals": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass"
+      ]
+    },
+    {
+      "id": "heated-argument-12",
+      "assetId": "hk-ep03",
+      "assetReference": "hk-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/hk-ep03",
+      "startSec": 1440,
+      "endSec": 1660,
+      "thumbnailUrl": "https://i.ytimg.com/vi/GAV2plfsiBA/maxresdefault.jpg",
+      "title": "Service begins with VIP pressure and an early red-team mistake",
+      "sceneTitle": "Service begins with VIP pressure and an early red-team mistake",
+      "description": "Dinner service opens with VIP diners in the restaurant, including Trey Hendrickson and Matthew Judon.  The red team immediately stumbles when Meghan brings up a flatbread burnt black, but Ramsay forces a refire and they recover; meanwhile the blue team starts appetizers with Egypt and Corbin on fish and Michael coordinating risotto.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "72",
+      "matchScore": "72",
+      "sceneDescription": "Dinner service opens with VIP diners in the restaurant, including Trey Hendrickson and Matthew Judon.  The red team immediately stumbles when Meghan brings up a flatbread burnt black, but Ramsay forces a refire and they recover; meanwhile the blue team starts appetizers with Egypt and Corbin on fish and Michael coordinating risotto.",
+      "alignmentReasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Trey Hendrickson, Matthew Judon, Anthony drive the text_on_screen beat \"Service begins with VIP pressure and an early red-team mistake\" in Ep 3. This launches the service narrative and shows the red team can recover from errors instead of spiraling. Watch for Gordon Ramsay, Trey Hendrickson, Matthew Judon, Anthony in Ep 3. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "seafood challenge",
+        "seafood tower",
+        "medical withdrawal",
+        "injury",
+        "team collapse"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Trey Hendrickson",
+        "Matthew Judon",
+        "Anthony",
+        "Magali",
+        "Meghan",
+        "Ann Marie",
+        "Whit",
+        "Amanda",
+        "Brittany",
+        "Michael",
+        "Egypt",
+        "Corbin"
+      ],
+      "matchSignals": [
+        "seafood challenge",
+        "seafood tower"
+      ]
+    },
+    {
+      "id": "heated-argument-13",
+      "assetId": "hk-ep03",
+      "assetReference": "hk-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/hk-ep03",
+      "startSec": 1921,
+      "endSec": 2028,
+      "thumbnailUrl": "https://i.ytimg.com/vi/GAV2plfsiBA/maxresdefault.jpg",
+      "title": "Raw lamb and a dining-room apology humiliate the blue team",
+      "sceneTitle": "Raw lamb and a dining-room apology humiliate the blue team",
+      "description": "The chef’s-table ticket for Matthew Judon becomes the blue team’s worst failure.  Ramsay sends Corbin to help Brandon on meat, then explodes when Corbin stands idle and later when the lamb arrives raw; the team is forced into the dining room to apologize directly to waiting guests.",
+      "matchType": "visual",
+      "relevanceScore": "70",
+      "matchScore": "70",
+      "sceneDescription": "The chef’s-table ticket for Matthew Judon becomes the blue team’s worst failure.  Ramsay sends Corbin to help Brandon on meat, then explodes when Corbin stands idle and later when the lamb arrives raw; the team is forced into the dining room to apologize directly to waiting guests.",
+      "alignmentReasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Brandon, Corbin, Egypt drive the visual beat \"Raw lamb and a dining-room apology humiliate the blue team\" in Ep 3. This is the service low point and the clearest evidence Ramsay uses that the blue team lost the night. Watch for Gordon Ramsay, Brandon, Corbin, Egypt in Ep 3. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "seafood challenge",
+        "seafood tower",
+        "medical withdrawal",
+        "injury",
+        "team collapse"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Brandon",
+        "Corbin",
+        "Egypt",
+        "Michael",
+        "Joe",
+        "Anthony",
+        "Kyle",
+        "Matthew Judon"
+      ],
+      "matchSignals": [
+        "seafood challenge",
+        "seafood tower"
+      ]
+    },
+    {
+      "id": "heated-argument-14",
+      "assetId": "hk-ep05",
+      "assetReference": "hk-ep05",
+      "episodeLabel": "Ep 5",
+      "videoSrc": "/api/media/hk-ep05",
+      "startSec": 5,
+      "endSec": 220,
+      "thumbnailUrl": "https://i.ytimg.com/vi/NKTyf08aXUY/maxresdefault.jpg",
+      "title": "Previously on: fallout from the last service",
+      "sceneTitle": "Previously on: fallout from the last service",
+      "description": "A recap re-establishes the pressure coming into Episode 5: Lulu’s team switch, Michael’s elimination, and Egypt surviving a nomination scare.  The montage matters because it sets up why the Blue Team feels unstable and why Egypt enters the episode carrying emotional residue from the previous service.",
+      "matchType": "semantic",
+      "relevanceScore": "68",
+      "matchScore": "68",
+      "sceneDescription": "A recap re-establishes the pressure coming into Episode 5: Lulu’s team switch, Michael’s elimination, and Egypt surviving a nomination scare.  The montage matters because it sets up why the Blue Team feels unstable and why Egypt enters the episode carrying emotional residue from the previous service.",
+      "alignmentReasoning": "This scene matches \"Heated argument at the dinner table\" because Gordon Ramsay, Egypt, Michael, Ann Marie drive the semantic beat \"Previously on: fallout from the last service\" in Ep 5. This beat is necessary context for the whole hour because Egypt’s later breakdown and the Blue Team’s fragile morale are direct consequences of the prior episode. Watch for Gordon Ramsay, Egypt, Michael, Ann Marie in Ep 5. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "burger challenge",
+        "George Motz",
+        "Egypt",
+        "Gordon Ramsay",
+        "homesickness"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Egypt",
+        "Michael",
+        "Ann Marie",
+        "Magali",
+        "Lulu",
+        "Amanda",
+        "Brandon",
+        "Dan Barber"
+      ],
+      "matchSignals": [
+        "burger challenge",
+        "George Motz"
+      ]
+    },
+    {
+      "id": "heated-argument-15",
+      "assetId": "hk-ep03",
+      "assetReference": "hk-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/hk-ep03",
+      "startSec": 1080,
+      "endSec": 1200,
+      "thumbnailUrl": "https://i.ytimg.com/vi/GAV2plfsiBA/maxresdefault.jpg",
+      "title": "Shant departs as Uri worsens during punishment",
+      "sceneTitle": "Shant departs as Uri worsens during punishment",
+      "description": "A medic evaluates Shant and takes him away, while the red team enjoys kayaking and the blue team grinds through seafood punishment.  Uri, still in the kitchen, is visibly bent over in pain and starts worrying aloud about whether he can survive service.",
+      "matchType": "audio",
+      "relevanceScore": "66",
+      "matchScore": "66",
+      "sceneDescription": "A medic evaluates Shant and takes him away, while the red team enjoys kayaking and the blue team grinds through seafood punishment.  Uri, still in the kitchen, is visibly bent over in pain and starts worrying aloud about whether he can survive service.",
+      "alignmentReasoning": "This scene matches \"Heated argument at the dinner table\" because Medic, Shant, Lulu, Brittany drive the audio beat \"Shant departs as Uri worsens during punishment\" in Ep 3. This beat turns the blue team’s instability from bad morale into a roster problem. Watch for Medic, Shant, Lulu, Brittany in Ep 3. For viewers searching heated argument at the dinner table, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "seafood challenge",
+        "seafood tower",
+        "medical withdrawal",
+        "injury",
+        "team collapse"
+      ],
+      "charactersPresent": [
+        "Medic",
+        "Shant",
+        "Lulu",
+        "Brittany",
+        "Ann Marie",
+        "Magali",
+        "Joe",
+        "Anthony",
+        "Uri"
+      ],
+      "matchSignals": [
+        "seafood challenge",
+        "seafood tower"
+      ]
+    }
+  ],
+  "session_id": "sess_seed_hells_kitchen_heated-argument",
+  "explore_presentation": {
+    "featured_title": "Kitchen confrontations that boil over",
+    "featured_subtitle": "Jockey found pass-side blow-ups and service meltdowns tied to your search",
+    "rails": [
+      {
+        "id": "peak-tension",
+        "title": "Peak Tension",
+        "subtitle": "Highest-stakes arguments and brigade clashes",
+        "startIndex": 4,
+        "endIndex": 7
+      },
+      {
+        "id": "service-breakdowns",
+        "title": "Service Breakdowns",
+        "subtitle": "Dinner service moments where tempers snap",
+        "startIndex": 8,
+        "endIndex": 11
+      },
+      {
+        "id": "more-matches",
+        "title": "More Matches",
+        "subtitle": "Additional scenes with similar heat",
+        "startIndex": 12,
+        "endIndex": 15
+      }
+    ]
+  }
+}

@@ -1,0 +1,982 @@
+{
+  "request": {
+    "model": "jockey1.0",
+    "query": "Dramatic character reveal"
+  },
+  "response": {
+    "query_interpretation": "Searching for scenes matching: Dramatic character reveal",
+    "total_results": 16,
+    "results": [
+      {
+        "asset_reference": "omeleto-ep02",
+        "timestamp_start": "12:20",
+        "timestamp_end": "14:20",
+        "scene_title": "Public misunderstanding",
+        "description": "Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+        "match_type": "text_on_screen",
+        "relevance_score": "96",
+        "scene_description": "Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+        "alignment_reasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet, Lydia Bennet drive the text_on_screen beat \"Public misunderstanding\" in Ep 2. Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc. Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet, Lydia Bennet. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Lydia Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep01",
+        "timestamp_start": "5:30",
+        "timestamp_end": "6:34",
+        "scene_title": "Romantic DM",
+        "description": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "match_type": "visual",
+        "relevance_score": "94",
+        "scene_description": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "alignment_reasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet, Jane Bennet drive the visual beat \"Romantic DM\" in Ep 1. Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet, Jane Bennet. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep03",
+        "timestamp_start": "3:09",
+        "timestamp_end": "3:54",
+        "scene_title": "Confession cam",
+        "description": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+        "match_type": "semantic",
+        "relevance_score": "92",
+        "scene_description": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+        "alignment_reasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet drive the semantic beat \"Confession cam\" in Ep 3. Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc. Alone, Lizzie tells viewers she fears being misread by both family and audience. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep04",
+        "timestamp_start": "7:52",
+        "timestamp_end": "9:23",
+        "scene_title": "Romantic DM",
+        "description": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "match_type": "audio",
+        "relevance_score": "90",
+        "scene_description": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "alignment_reasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet, Jane Bennet drive the audio beat \"Romantic DM\" in Ep 4. Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet, Jane Bennet. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep01",
+        "timestamp_start": "8:41",
+        "timestamp_end": "9:51",
+        "scene_title": "Episode button",
+        "description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+        "match_type": "text_on_screen",
+        "relevance_score": "88",
+        "scene_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+        "alignment_reasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet drive the text_on_screen beat \"Episode button\" in Ep 1. Lizzie closes the vlog teasing next week's reveal while texting the love interest. Watch for Lizzie Bennet in Ep 1. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep02",
+        "timestamp_start": "16:19",
+        "timestamp_end": "18:31",
+        "scene_title": "Episode button",
+        "description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+        "match_type": "visual",
+        "relevance_score": "86",
+        "scene_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+        "alignment_reasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet drive the visual beat \"Episode button\" in Ep 2. Lizzie closes the vlog teasing next week's reveal while texting the love interest. Watch for Lizzie Bennet in Ep 2. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep03",
+        "timestamp_start": "6:09",
+        "timestamp_end": "6:58",
+        "scene_title": "Episode button",
+        "description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+        "match_type": "semantic",
+        "relevance_score": "84",
+        "scene_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+        "alignment_reasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet drive the semantic beat \"Episode button\" in Ep 3. Lizzie closes the vlog teasing next week's reveal while texting the love interest. Watch for Lizzie Bennet in Ep 3. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep04",
+        "timestamp_start": "12:25",
+        "timestamp_end": "14:05",
+        "scene_title": "Episode button",
+        "description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+        "match_type": "audio",
+        "relevance_score": "82",
+        "scene_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+        "alignment_reasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet drive the audio beat \"Episode button\" in Ep 4. Lizzie closes the vlog teasing next week's reveal while texting the love interest. Watch for Lizzie Bennet in Ep 4. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep01",
+        "timestamp_start": "6:34",
+        "timestamp_end": "7:37",
+        "scene_title": "Public misunderstanding",
+        "description": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+        "match_type": "text_on_screen",
+        "relevance_score": "80",
+        "scene_description": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+        "alignment_reasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet, Lydia Bennet drive the text_on_screen beat \"Public misunderstanding\" in Ep 1. Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. Watch for Lizzie Bennet, Lydia Bennet in Ep 1. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Lydia Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep03",
+        "timestamp_start": "4:39",
+        "timestamp_end": "5:24",
+        "scene_title": "Public misunderstanding",
+        "description": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+        "match_type": "visual",
+        "relevance_score": "78",
+        "scene_description": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+        "alignment_reasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet, Lydia Bennet drive the visual beat \"Public misunderstanding\" in Ep 3. Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. Watch for Lizzie Bennet, Lydia Bennet in Ep 3. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Lydia Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep04",
+        "timestamp_start": "9:23",
+        "timestamp_end": "10:54",
+        "scene_title": "Public misunderstanding",
+        "description": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+        "match_type": "semantic",
+        "relevance_score": "76",
+        "scene_description": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+        "alignment_reasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet, Lydia Bennet drive the semantic beat \"Public misunderstanding\" in Ep 4. Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. Watch for Lizzie Bennet, Lydia Bennet in Ep 4. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Lydia Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep01",
+        "timestamp_start": "7:37",
+        "timestamp_end": "8:41",
+        "scene_title": "Sister reconciliation",
+        "description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "match_type": "audio",
+        "relevance_score": "74",
+        "scene_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "alignment_reasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet, Jane Bennet, Lydia Bennet drive the audio beat \"Sister reconciliation\" in Ep 1. Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. Watch for Lizzie Bennet, Jane Bennet, Lydia Bennet in Ep 1. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep02",
+        "timestamp_start": "14:20",
+        "timestamp_end": "16:19",
+        "scene_title": "Sister reconciliation",
+        "description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "match_type": "text_on_screen",
+        "relevance_score": "72",
+        "scene_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "alignment_reasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet, Jane Bennet, Lydia Bennet drive the text_on_screen beat \"Sister reconciliation\" in Ep 2. Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. Watch for Lizzie Bennet, Jane Bennet, Lydia Bennet in Ep 2. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep03",
+        "timestamp_start": "5:24",
+        "timestamp_end": "6:09",
+        "scene_title": "Sister reconciliation",
+        "description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "match_type": "visual",
+        "relevance_score": "70",
+        "scene_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "alignment_reasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet, Jane Bennet, Lydia Bennet drive the visual beat \"Sister reconciliation\" in Ep 3. Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. Watch for Lizzie Bennet, Jane Bennet, Lydia Bennet in Ep 3. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep04",
+        "timestamp_start": "10:54",
+        "timestamp_end": "12:25",
+        "scene_title": "Sister reconciliation",
+        "description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "match_type": "semantic",
+        "relevance_score": "68",
+        "scene_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "alignment_reasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet, Jane Bennet, Lydia Bennet drive the semantic beat \"Sister reconciliation\" in Ep 4. Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. Watch for Lizzie Bennet, Jane Bennet, Lydia Bennet in Ep 4. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep02",
+        "timestamp_start": "0:35",
+        "timestamp_end": "1:59",
+        "scene_title": "Vlog hook",
+        "description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+        "match_type": "audio",
+        "relevance_score": "64",
+        "scene_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+        "alignment_reasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet drive the audio beat \"Vlog hook\" in Ep 2. Lizzie opens with a breezy recap, then admits something felt off after last night's party. Watch for Lizzie Bennet in Ep 2. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      }
+    ]
+  },
+  "resolved_clips": [
+    {
+      "id": "dramatic-reveal-0",
+      "assetId": "omeleto-ep02",
+      "assetReference": "omeleto-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/omeleto-ep02",
+      "startSec": 740,
+      "endSec": 860,
+      "thumbnailUrl": "https://i.ytimg.com/vi/7mSH86O2qzA/maxresdefault.jpg",
+      "title": "Public misunderstanding",
+      "sceneTitle": "Public misunderstanding",
+      "description": "Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "96",
+      "matchScore": "96",
+      "sceneDescription": "Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+      "alignmentReasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet, Lydia Bennet drive the text_on_screen beat \"Public misunderstanding\" in Ep 2. Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc. Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet, Lydia Bennet. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Lydia Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "dramatic-reveal-1",
+      "assetId": "omeleto-ep01",
+      "assetReference": "omeleto-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/omeleto-ep01",
+      "startSec": 330,
+      "endSec": 394,
+      "thumbnailUrl": "https://i.ytimg.com/vi/gKiFXz1kbO0/maxresdefault.jpg",
+      "title": "Romantic DM",
+      "sceneTitle": "Romantic DM",
+      "description": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "matchType": "visual",
+      "relevanceScore": "94",
+      "matchScore": "94",
+      "sceneDescription": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "alignmentReasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet, Jane Bennet drive the visual beat \"Romantic DM\" in Ep 1. Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet, Jane Bennet. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "dramatic-reveal-2",
+      "assetId": "omeleto-ep03",
+      "assetReference": "omeleto-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/omeleto-ep03",
+      "startSec": 189,
+      "endSec": 234,
+      "thumbnailUrl": "https://i.ytimg.com/vi/VBps1IvCyj0/maxresdefault.jpg",
+      "title": "Confession cam",
+      "sceneTitle": "Confession cam",
+      "description": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+      "matchType": "semantic",
+      "relevanceScore": "92",
+      "matchScore": "92",
+      "sceneDescription": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+      "alignmentReasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet drive the semantic beat \"Confession cam\" in Ep 3. Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc. Alone, Lizzie tells viewers she fears being misread by both family and audience. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "dramatic-reveal-3",
+      "assetId": "omeleto-ep04",
+      "assetReference": "omeleto-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/omeleto-ep04",
+      "startSec": 472,
+      "endSec": 563,
+      "thumbnailUrl": "https://i.ytimg.com/vi/68f27rqP_NY/maxresdefault.jpg",
+      "title": "Romantic DM",
+      "sceneTitle": "Romantic DM",
+      "description": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "matchType": "audio",
+      "relevanceScore": "90",
+      "matchScore": "90",
+      "sceneDescription": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "alignmentReasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet, Jane Bennet drive the audio beat \"Romantic DM\" in Ep 4. Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet, Jane Bennet. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "dramatic-reveal-4",
+      "assetId": "omeleto-ep01",
+      "assetReference": "omeleto-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/omeleto-ep01",
+      "startSec": 521,
+      "endSec": 591,
+      "thumbnailUrl": "https://i.ytimg.com/vi/gKiFXz1kbO0/maxresdefault.jpg",
+      "title": "Episode button",
+      "sceneTitle": "Episode button",
+      "description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "88",
+      "matchScore": "88",
+      "sceneDescription": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+      "alignmentReasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet drive the text_on_screen beat \"Episode button\" in Ep 1. Lizzie closes the vlog teasing next week's reveal while texting the love interest. Watch for Lizzie Bennet in Ep 1. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "dramatic-reveal-5",
+      "assetId": "omeleto-ep02",
+      "assetReference": "omeleto-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/omeleto-ep02",
+      "startSec": 979,
+      "endSec": 1111,
+      "thumbnailUrl": "https://i.ytimg.com/vi/7mSH86O2qzA/maxresdefault.jpg",
+      "title": "Episode button",
+      "sceneTitle": "Episode button",
+      "description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+      "matchType": "visual",
+      "relevanceScore": "86",
+      "matchScore": "86",
+      "sceneDescription": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+      "alignmentReasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet drive the visual beat \"Episode button\" in Ep 2. Lizzie closes the vlog teasing next week's reveal while texting the love interest. Watch for Lizzie Bennet in Ep 2. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "dramatic-reveal-6",
+      "assetId": "omeleto-ep03",
+      "assetReference": "omeleto-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/omeleto-ep03",
+      "startSec": 369,
+      "endSec": 418,
+      "thumbnailUrl": "https://i.ytimg.com/vi/VBps1IvCyj0/maxresdefault.jpg",
+      "title": "Episode button",
+      "sceneTitle": "Episode button",
+      "description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+      "matchType": "semantic",
+      "relevanceScore": "84",
+      "matchScore": "84",
+      "sceneDescription": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+      "alignmentReasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet drive the semantic beat \"Episode button\" in Ep 3. Lizzie closes the vlog teasing next week's reveal while texting the love interest. Watch for Lizzie Bennet in Ep 3. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "dramatic-reveal-7",
+      "assetId": "omeleto-ep04",
+      "assetReference": "omeleto-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/omeleto-ep04",
+      "startSec": 745,
+      "endSec": 845,
+      "thumbnailUrl": "https://i.ytimg.com/vi/68f27rqP_NY/maxresdefault.jpg",
+      "title": "Episode button",
+      "sceneTitle": "Episode button",
+      "description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+      "matchType": "audio",
+      "relevanceScore": "82",
+      "matchScore": "82",
+      "sceneDescription": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+      "alignmentReasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet drive the audio beat \"Episode button\" in Ep 4. Lizzie closes the vlog teasing next week's reveal while texting the love interest. Watch for Lizzie Bennet in Ep 4. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "dramatic-reveal-8",
+      "assetId": "omeleto-ep01",
+      "assetReference": "omeleto-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/omeleto-ep01",
+      "startSec": 394,
+      "endSec": 457,
+      "thumbnailUrl": "https://i.ytimg.com/vi/gKiFXz1kbO0/maxresdefault.jpg",
+      "title": "Public misunderstanding",
+      "sceneTitle": "Public misunderstanding",
+      "description": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "80",
+      "matchScore": "80",
+      "sceneDescription": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+      "alignmentReasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet, Lydia Bennet drive the text_on_screen beat \"Public misunderstanding\" in Ep 1. Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. Watch for Lizzie Bennet, Lydia Bennet in Ep 1. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Lydia Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "dramatic-reveal-9",
+      "assetId": "omeleto-ep03",
+      "assetReference": "omeleto-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/omeleto-ep03",
+      "startSec": 279,
+      "endSec": 324,
+      "thumbnailUrl": "https://i.ytimg.com/vi/VBps1IvCyj0/maxresdefault.jpg",
+      "title": "Public misunderstanding",
+      "sceneTitle": "Public misunderstanding",
+      "description": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+      "matchType": "visual",
+      "relevanceScore": "78",
+      "matchScore": "78",
+      "sceneDescription": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+      "alignmentReasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet, Lydia Bennet drive the visual beat \"Public misunderstanding\" in Ep 3. Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. Watch for Lizzie Bennet, Lydia Bennet in Ep 3. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Lydia Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "dramatic-reveal-10",
+      "assetId": "omeleto-ep04",
+      "assetReference": "omeleto-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/omeleto-ep04",
+      "startSec": 563,
+      "endSec": 654,
+      "thumbnailUrl": "https://i.ytimg.com/vi/68f27rqP_NY/maxresdefault.jpg",
+      "title": "Public misunderstanding",
+      "sceneTitle": "Public misunderstanding",
+      "description": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+      "matchType": "semantic",
+      "relevanceScore": "76",
+      "matchScore": "76",
+      "sceneDescription": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+      "alignmentReasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet, Lydia Bennet drive the semantic beat \"Public misunderstanding\" in Ep 4. Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. Watch for Lizzie Bennet, Lydia Bennet in Ep 4. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Lydia Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "dramatic-reveal-11",
+      "assetId": "omeleto-ep01",
+      "assetReference": "omeleto-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/omeleto-ep01",
+      "startSec": 457,
+      "endSec": 521,
+      "thumbnailUrl": "https://i.ytimg.com/vi/gKiFXz1kbO0/maxresdefault.jpg",
+      "title": "Sister reconciliation",
+      "sceneTitle": "Sister reconciliation",
+      "description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "matchType": "audio",
+      "relevanceScore": "74",
+      "matchScore": "74",
+      "sceneDescription": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "alignmentReasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet, Jane Bennet, Lydia Bennet drive the audio beat \"Sister reconciliation\" in Ep 1. Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. Watch for Lizzie Bennet, Jane Bennet, Lydia Bennet in Ep 1. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet",
+        "Lydia Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "dramatic-reveal-12",
+      "assetId": "omeleto-ep02",
+      "assetReference": "omeleto-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/omeleto-ep02",
+      "startSec": 860,
+      "endSec": 979,
+      "thumbnailUrl": "https://i.ytimg.com/vi/7mSH86O2qzA/maxresdefault.jpg",
+      "title": "Sister reconciliation",
+      "sceneTitle": "Sister reconciliation",
+      "description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "72",
+      "matchScore": "72",
+      "sceneDescription": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "alignmentReasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet, Jane Bennet, Lydia Bennet drive the text_on_screen beat \"Sister reconciliation\" in Ep 2. Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. Watch for Lizzie Bennet, Jane Bennet, Lydia Bennet in Ep 2. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet",
+        "Lydia Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "dramatic-reveal-13",
+      "assetId": "omeleto-ep03",
+      "assetReference": "omeleto-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/omeleto-ep03",
+      "startSec": 324,
+      "endSec": 369,
+      "thumbnailUrl": "https://i.ytimg.com/vi/VBps1IvCyj0/maxresdefault.jpg",
+      "title": "Sister reconciliation",
+      "sceneTitle": "Sister reconciliation",
+      "description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "matchType": "visual",
+      "relevanceScore": "70",
+      "matchScore": "70",
+      "sceneDescription": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "alignmentReasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet, Jane Bennet, Lydia Bennet drive the visual beat \"Sister reconciliation\" in Ep 3. Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. Watch for Lizzie Bennet, Jane Bennet, Lydia Bennet in Ep 3. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet",
+        "Lydia Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "dramatic-reveal-14",
+      "assetId": "omeleto-ep04",
+      "assetReference": "omeleto-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/omeleto-ep04",
+      "startSec": 654,
+      "endSec": 745,
+      "thumbnailUrl": "https://i.ytimg.com/vi/68f27rqP_NY/maxresdefault.jpg",
+      "title": "Sister reconciliation",
+      "sceneTitle": "Sister reconciliation",
+      "description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "matchType": "semantic",
+      "relevanceScore": "68",
+      "matchScore": "68",
+      "sceneDescription": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "alignmentReasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet, Jane Bennet, Lydia Bennet drive the semantic beat \"Sister reconciliation\" in Ep 4. Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. Watch for Lizzie Bennet, Jane Bennet, Lydia Bennet in Ep 4. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet",
+        "Lydia Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "dramatic-reveal-15",
+      "assetId": "omeleto-ep02",
+      "assetReference": "omeleto-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/omeleto-ep02",
+      "startSec": 35,
+      "endSec": 119,
+      "thumbnailUrl": "https://i.ytimg.com/vi/7mSH86O2qzA/maxresdefault.jpg",
+      "title": "Vlog hook",
+      "sceneTitle": "Vlog hook",
+      "description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+      "matchType": "audio",
+      "relevanceScore": "64",
+      "matchScore": "64",
+      "sceneDescription": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+      "alignmentReasoning": "This scene matches \"Dramatic character reveal\" because Lizzie Bennet drive the audio beat \"Vlog hook\" in Ep 2. Lizzie opens with a breezy recap, then admits something felt off after last night's party. Watch for Lizzie Bennet in Ep 2. For viewers searching dramatic character reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    }
+  ],
+  "session_id": "sess_seed_omeleto_reserve_dramatic-reveal",
+  "explore_presentation": {
+    "featured_title": "Turning-point reveals",
+    "featured_subtitle": "Story pivots Jockey surfaced for your query",
+    "rails": [
+      {
+        "id": "the-turn",
+        "title": "The Turn",
+        "subtitle": "Moments that reframe the story",
+        "startIndex": 4,
+        "endIndex": 7
+      },
+      {
+        "id": "aftershock",
+        "title": "Aftershock",
+        "subtitle": "Reactions to the reveal",
+        "startIndex": 8,
+        "endIndex": 11
+      },
+      {
+        "id": "more-reveals",
+        "title": "More Reveals",
+        "subtitle": "Additional dramatic matches",
+        "startIndex": 12,
+        "endIndex": 15
+      }
+    ]
+  }
+}

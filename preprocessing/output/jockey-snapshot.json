@@ -1,0 +1,754 @@
+{
+  "updated_at": "2026-06-27T09:22:25Z",
+  "stores": {
+    "hells_kitchen": {
+      "knowledge_store_id": "ks_019f075d-93e6-7083-9ec4-023e915533c0",
+      "name": "hells-kitchen-demo",
+      "display_name": "Hell's Kitchen",
+      "vertical": "fast",
+      "assets": [
+        {
+          "id": "hk-ep01",
+          "store_key": "hells_kitchen",
+          "series": "Hell's Kitchen",
+          "episode_label": "Ep 1",
+          "vertical": "fast",
+          "url": "https://www.youtube.com/watch?v=n3k6NV9qRsQ",
+          "messy_metadata": {
+            "title": "Episode 1"
+          },
+          "hydrated_metadata": null,
+          "youtube_metadata": {
+            "youtube_id": "n3k6NV9qRsQ",
+            "original_title": "Signature Dish Challenge | Hell's Kitchen | S23 E1 | Uncensored | US | FULL EPISODE",
+            "upload_date": "20260501",
+            "published_at": "2026-05-01",
+            "duration_sec": 2592,
+            "channel": "Kitchen Nightmares - Full Episodes",
+            "thumbnail_url": "https://i.ytimg.com/vi/n3k6NV9qRsQ/maxresdefault.jpg",
+            "webpage_url": "https://www.youtube.com/watch?v=n3k6NV9qRsQ",
+            "playlist_id": "PLW5iCJIwM9Z_7oMp0PYQbHU8evfsm170k",
+            "playlist_index": 1
+          },
+          "processing": {
+            "local_path": "videos\\hk-ep01.mp4",
+            "file_size_mb": 172.03,
+            "resolution": "1280x720",
+            "encode_strategy": "skipped_existing",
+            "source_size_mb": 172.03
+          },
+          "jockey": {
+            "knowledge_store_id": "ks_019f075d-93e6-7083-9ec4-023e915533c0",
+            "store_key": "hells_kitchen",
+            "asset_id": "6a3f58dbba42fbf6949b9be5",
+            "item_id": "ksi_019f0773-23ca-7fa1-b393-25b9d1243152",
+            "asset_status": "ready",
+            "item_status": "ready",
+            "indexed_at": "2026-06-27T05:37:11Z"
+          }
+        },
+        {
+          "id": "hk-ep02",
+          "store_key": "hells_kitchen",
+          "series": "Hell's Kitchen",
+          "episode_label": "Ep 2",
+          "vertical": "fast",
+          "url": "https://www.youtube.com/watch?v=bX-EzNRe-ws",
+          "messy_metadata": {
+            "title": "Episode 2"
+          },
+          "hydrated_metadata": null,
+          "youtube_metadata": {
+            "youtube_id": "bX-EzNRe-ws",
+            "original_title": "🔥 Fiery Flambé Challenge 🔥 Hell's Kitchen | S23 E2 | Uncensored | US | FULL EPISODE",
+            "upload_date": "20260501",
+            "published_at": "2026-05-01",
+            "duration_sec": 2592,
+            "channel": "Kitchen Nightmares - Full Episodes",
+            "thumbnail_url": "https://i.ytimg.com/vi/bX-EzNRe-ws/maxresdefault.jpg",
+            "webpage_url": "https://www.youtube.com/watch?v=bX-EzNRe-ws",
+            "playlist_id": "PLW5iCJIwM9Z_7oMp0PYQbHU8evfsm170k",
+            "playlist_index": 2
+          },
+          "processing": {
+            "local_path": "videos\\hk-ep02.mp4",
+            "file_size_mb": 172.13,
+            "resolution": "1280x720",
+            "encode_strategy": "h264_454k_scale720",
+            "source_size_mb": 453.4
+          },
+          "jockey": {
+            "knowledge_store_id": "ks_019f075d-93e6-7083-9ec4-023e915533c0",
+            "store_key": "hells_kitchen",
+            "asset_id": "6a3f617f50f757db55c29786",
+            "item_id": "ksi_019f0794-e169-70e2-92ce-ae1f0ff76da5",
+            "asset_status": "ready",
+            "item_status": "ready",
+            "indexed_at": "2026-06-27T06:00:33Z"
+          }
+        },
+        {
+          "id": "hk-ep03",
+          "store_key": "hells_kitchen",
+          "series": "Hell's Kitchen",
+          "episode_label": "Ep 3",
+          "vertical": "fast",
+          "url": "https://www.youtube.com/watch?v=GAV2plfsiBA",
+          "messy_metadata": {
+            "title": "Episode 3"
+          },
+          "hydrated_metadata": null,
+          "youtube_metadata": {
+            "youtube_id": "GAV2plfsiBA",
+            "original_title": "🦞 Seafood Showdown 🦀 Hell's Kitchen | S23 E3 | Uncensored | US | FULL EPISODE",
+            "upload_date": "20260502",
+            "published_at": "2026-05-02",
+            "duration_sec": 2592,
+            "channel": "Kitchen Nightmares - Full Episodes",
+            "thumbnail_url": "https://i.ytimg.com/vi/GAV2plfsiBA/maxresdefault.jpg",
+            "webpage_url": "https://www.youtube.com/watch?v=GAV2plfsiBA",
+            "playlist_id": "PLW5iCJIwM9Z_7oMp0PYQbHU8evfsm170k",
+            "playlist_index": 3
+          },
+          "processing": {
+            "local_path": "videos\\hk-ep03.mp4",
+            "file_size_mb": 172.05,
+            "resolution": "1280x720",
+            "encode_strategy": "h264_454k_scale720",
+            "source_size_mb": 446.35
+          },
+          "jockey": {
+            "knowledge_store_id": "ks_019f075d-93e6-7083-9ec4-023e915533c0",
+            "store_key": "hells_kitchen",
+            "asset_id": "6a3f66f8ba42fbf6949b9ea5",
+            "item_id": "ksi_019f07aa-4587-7d41-ab10-41e7999d7836",
+            "asset_status": "ready",
+            "item_status": "ready",
+            "indexed_at": "2026-06-27T06:44:02Z"
+          }
+        },
+        {
+          "id": "hk-ep04",
+          "store_key": "hells_kitchen",
+          "series": "Hell's Kitchen",
+          "episode_label": "Ep 4",
+          "vertical": "fast",
+          "url": "https://www.youtube.com/watch?v=kBheTYko4Z0",
+          "messy_metadata": {
+            "title": "Episode 4"
+          },
+          "hydrated_metadata": null,
+          "youtube_metadata": {
+            "youtube_id": "kBheTYko4Z0",
+            "original_title": "Pickle, Pickle, Pickle | Hell's Kitchen | S23 E4 | Uncensored | US | FULL EPISODE",
+            "upload_date": "20260502",
+            "published_at": "2026-05-02",
+            "duration_sec": 2592,
+            "channel": "Kitchen Nightmares - Full Episodes",
+            "thumbnail_url": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
+            "webpage_url": "https://www.youtube.com/watch?v=kBheTYko4Z0",
+            "playlist_id": "PLW5iCJIwM9Z_7oMp0PYQbHU8evfsm170k",
+            "playlist_index": 4
+          },
+          "processing": {
+            "local_path": "videos\\hk-ep04.mp4",
+            "file_size_mb": 171.79,
+            "resolution": "1280x720",
+            "encode_strategy": "h264_454k_scale720",
+            "source_size_mb": 440.14
+          },
+          "jockey": {
+            "knowledge_store_id": "ks_019f075d-93e6-7083-9ec4-023e915533c0",
+            "store_key": "hells_kitchen",
+            "asset_id": "6a3f69e6d00a7189a4051996",
+            "item_id": "ksi_019f07b5-b376-74e2-a7c0-522d1bc5ae8f",
+            "asset_status": "ready",
+            "item_status": "ready",
+            "indexed_at": "2026-06-27T07:59:42Z"
+          }
+        },
+        {
+          "id": "hk-ep05",
+          "store_key": "hells_kitchen",
+          "series": "Hell's Kitchen",
+          "episode_label": "Ep 5",
+          "vertical": "fast",
+          "url": "https://www.youtube.com/watch?v=NKTyf08aXUY",
+          "messy_metadata": {
+            "title": "Episode 5"
+          },
+          "hydrated_metadata": null,
+          "youtube_metadata": {
+            "youtube_id": "NKTyf08aXUY",
+            "original_title": "🍔 Fabulous Burgers 🍔 Hell's Kitchen | S23 E5 | Uncensored | US | FULL EPISODE",
+            "upload_date": "20260503",
+            "published_at": "2026-05-03",
+            "duration_sec": 2592,
+            "channel": "Kitchen Nightmares - Full Episodes",
+            "thumbnail_url": "https://i.ytimg.com/vi/NKTyf08aXUY/maxresdefault.jpg",
+            "webpage_url": "https://www.youtube.com/watch?v=NKTyf08aXUY",
+            "playlist_id": "PLW5iCJIwM9Z_7oMp0PYQbHU8evfsm170k",
+            "playlist_index": 5
+          },
+          "processing": {
+            "local_path": "videos\\hk-ep05.mp4",
+            "file_size_mb": 171.92,
+            "resolution": "1280x720",
+            "encode_strategy": "h264_454k_scale720",
+            "source_size_mb": 431.91
+          },
+          "jockey": {
+            "knowledge_store_id": "ks_019f075d-93e6-7083-9ec4-023e915533c0",
+            "store_key": "hells_kitchen",
+            "asset_id": "6a3f82e6ba42fbf6949ba610",
+            "item_id": "ksi_019f0817-5cf6-7500-b9a5-71450ac10346",
+            "asset_status": "ready",
+            "item_status": "ready",
+            "indexed_at": "2026-06-27T08:44:36Z"
+          }
+        }
+      ]
+    },
+    "lizzie_bennet": {
+      "knowledge_store_id": "ks_019f0840-8cef-7582-95a3-c0db24b9b3ba",
+      "name": "lizzie-bennet-demo",
+      "display_name": "The Lizzie Bennet Diaries",
+      "vertical": "micro_drama",
+      "assets": [
+        {
+          "id": "lbd-ep01",
+          "store_key": "lizzie_bennet",
+          "series": "The Lizzie Bennet Diaries",
+          "episode_label": "Ep 1",
+          "vertical": "micro_drama",
+          "url": "https://www.youtube.com/watch?v=KisuGP2lcPs",
+          "messy_metadata": {
+            "title": "Video 1"
+          },
+          "hydrated_metadata": null,
+          "youtube_metadata": {
+            "youtube_id": "KisuGP2lcPs",
+            "original_title": "My Name is Lizzie Bennet - Ep: 1",
+            "upload_date": "20120409",
+            "published_at": "2012-04-09",
+            "duration_sec": 200,
+            "channel": "The Lizzie Bennet Diaries",
+            "thumbnail_url": "https://i.ytimg.com/vi/KisuGP2lcPs/maxresdefault.jpg",
+            "webpage_url": "https://www.youtube.com/watch?v=KisuGP2lcPs",
+            "playlist_id": "PL6690D980D8A65D08",
+            "playlist_index": 1
+          },
+          "processing": {
+            "local_path": "videos\\lbd-ep01.mp4",
+            "file_size_mb": 18.2,
+            "resolution": "1920x1080",
+            "encode_strategy": "skipped_existing",
+            "source_size_mb": 18.2
+          },
+          "jockey": {
+            "knowledge_store_id": "ks_019f0840-8cef-7582-95a3-c0db24b9b3ba",
+            "store_key": "lizzie_bennet",
+            "asset_id": "6a3f8d99d8e131e54636ecf8",
+            "item_id": "ksi_019f0841-2522-7fa1-811a-9b1d6cb77744",
+            "asset_status": "ready",
+            "item_status": "ready",
+            "indexed_at": "2026-06-27T08:48:09Z"
+          }
+        },
+        {
+          "id": "lbd-ep02",
+          "store_key": "lizzie_bennet",
+          "series": "The Lizzie Bennet Diaries",
+          "episode_label": "Ep 2",
+          "vertical": "micro_drama",
+          "url": "https://www.youtube.com/watch?v=6Yq7aJ2uVBg",
+          "messy_metadata": {
+            "title": "Video 2"
+          },
+          "hydrated_metadata": null,
+          "youtube_metadata": {
+            "youtube_id": "6Yq7aJ2uVBg",
+            "original_title": "My Sisters: Problematic to Practically Perfect - Ep: 2",
+            "upload_date": "20120412",
+            "published_at": "2012-04-12",
+            "duration_sec": 216,
+            "channel": "The Lizzie Bennet Diaries",
+            "thumbnail_url": "https://i.ytimg.com/vi/6Yq7aJ2uVBg/maxresdefault.jpg",
+            "webpage_url": "https://www.youtube.com/watch?v=6Yq7aJ2uVBg",
+            "playlist_id": "PL6690D980D8A65D08",
+            "playlist_index": 2
+          },
+          "processing": {
+            "local_path": "videos\\lbd-ep02.mp4",
+            "file_size_mb": 28.78,
+            "resolution": "1920x1080",
+            "encode_strategy": "remux_copy",
+            "source_size_mb": 28.78
+          },
+          "jockey": {
+            "knowledge_store_id": "ks_019f0840-8cef-7582-95a3-c0db24b9b3ba",
+            "store_key": "lizzie_bennet",
+            "asset_id": "6a3f8e3dc96701398f3ce3f3",
+            "item_id": "ksi_019f0843-a556-7792-8882-05f5d9a1e839",
+            "asset_status": "ready",
+            "item_status": "ready",
+            "indexed_at": "2026-06-27T08:50:11Z"
+          }
+        },
+        {
+          "id": "lbd-ep03",
+          "store_key": "lizzie_bennet",
+          "series": "The Lizzie Bennet Diaries",
+          "episode_label": "Ep 3",
+          "vertical": "micro_drama",
+          "url": "https://www.youtube.com/watch?v=e926p_3UXes",
+          "messy_metadata": {
+            "title": "Video 3"
+          },
+          "hydrated_metadata": null,
+          "youtube_metadata": {
+            "youtube_id": "e926p_3UXes",
+            "original_title": "My Parents: Opposingly Supportive - Ep: 3",
+            "upload_date": "20120416",
+            "published_at": "2012-04-16",
+            "duration_sec": 191,
+            "channel": "The Lizzie Bennet Diaries",
+            "thumbnail_url": "https://i.ytimg.com/vi/e926p_3UXes/maxresdefault.jpg",
+            "webpage_url": "https://www.youtube.com/watch?v=e926p_3UXes",
+            "playlist_id": "PL6690D980D8A65D08",
+            "playlist_index": 3
+          },
+          "processing": {
+            "local_path": "videos\\lbd-ep03.mp4",
+            "file_size_mb": 18.74,
+            "resolution": "1920x1080",
+            "encode_strategy": "remux_copy",
+            "source_size_mb": 18.74
+          },
+          "jockey": {
+            "knowledge_store_id": "ks_019f0840-8cef-7582-95a3-c0db24b9b3ba",
+            "store_key": "lizzie_bennet",
+            "asset_id": "6a3f8eb7d8e131e54636ed06",
+            "item_id": "ksi_019f0845-8644-7721-b760-273b5c138110",
+            "asset_status": "ready",
+            "item_status": "ready",
+            "indexed_at": "2026-06-27T08:52:04Z"
+          }
+        },
+        {
+          "id": "lbd-ep04",
+          "store_key": "lizzie_bennet",
+          "series": "The Lizzie Bennet Diaries",
+          "episode_label": "Ep 4",
+          "vertical": "micro_drama",
+          "url": "https://www.youtube.com/watch?v=2KjOskZJEAc",
+          "messy_metadata": {
+            "title": "Video 4"
+          },
+          "hydrated_metadata": null,
+          "youtube_metadata": {
+            "youtube_id": "2KjOskZJEAc",
+            "original_title": "Bing Lee and His 500 Teenage Prostitutes - Ep: 4",
+            "upload_date": "20120419",
+            "published_at": "2012-04-19",
+            "duration_sec": 202,
+            "channel": "The Lizzie Bennet Diaries",
+            "thumbnail_url": "https://i.ytimg.com/vi/2KjOskZJEAc/maxresdefault.jpg",
+            "webpage_url": "https://www.youtube.com/watch?v=2KjOskZJEAc",
+            "playlist_id": "PL6690D980D8A65D08",
+            "playlist_index": 4
+          },
+          "processing": {
+            "local_path": "videos\\lbd-ep04.mp4",
+            "file_size_mb": 18.9,
+            "resolution": "1920x1080",
+            "encode_strategy": "remux_copy",
+            "source_size_mb": 18.9
+          },
+          "jockey": {
+            "knowledge_store_id": "ks_019f0840-8cef-7582-95a3-c0db24b9b3ba",
+            "store_key": "lizzie_bennet",
+            "asset_id": "6a3f8f27e88aeaea42b75919",
+            "item_id": "ksi_019f0847-3a8e-7ed2-91b0-0afe8264604e",
+            "asset_status": "ready",
+            "item_status": "ready",
+            "indexed_at": "2026-06-27T08:53:55Z"
+          }
+        },
+        {
+          "id": "lbd-ep05",
+          "store_key": "lizzie_bennet",
+          "series": "The Lizzie Bennet Diaries",
+          "episode_label": "Ep 5",
+          "vertical": "micro_drama",
+          "url": "https://www.youtube.com/watch?v=vV3JJUpwC40",
+          "messy_metadata": {
+            "title": "Video 5"
+          },
+          "hydrated_metadata": null,
+          "youtube_metadata": {
+            "youtube_id": "vV3JJUpwC40",
+            "original_title": "After the Wedding: The Real Bing Lee - Ep: 5",
+            "upload_date": "20120423",
+            "published_at": "2012-04-23",
+            "duration_sec": 191,
+            "channel": "The Lizzie Bennet Diaries",
+            "thumbnail_url": "https://i.ytimg.com/vi/vV3JJUpwC40/maxresdefault.jpg",
+            "webpage_url": "https://www.youtube.com/watch?v=vV3JJUpwC40",
+            "playlist_id": "PL6690D980D8A65D08",
+            "playlist_index": 5
+          },
+          "processing": {
+            "local_path": "videos\\lbd-ep05.mp4",
+            "file_size_mb": 25.53,
+            "resolution": "1920x1080",
+            "encode_strategy": "remux_copy",
+            "source_size_mb": 25.53
+          },
+          "jockey": {
+            "knowledge_store_id": "ks_019f0840-8cef-7582-95a3-c0db24b9b3ba",
+            "store_key": "lizzie_bennet",
+            "asset_id": "6a3f8f98e88aeaea42b75922",
+            "item_id": "ksi_019f0848-f3f5-7fb0-a55d-d03cd740a6b3",
+            "asset_status": "ready",
+            "item_status": "ready",
+            "indexed_at": "2026-06-27T08:55:59Z"
+          }
+        }
+      ]
+    },
+    "omeleto_reserve": {
+      "knowledge_store_id": "ks_019f0849-d963-7272-a4c7-280feb37aa1f",
+      "name": "omeleto-reserve-demo",
+      "display_name": "The Reserve (Omeleto)",
+      "vertical": "micro_drama",
+      "assets": [
+        {
+          "id": "omeleto-ep01",
+          "store_key": "omeleto_reserve",
+          "series": "The Reserve (Omeleto)",
+          "episode_label": "Ep 1",
+          "vertical": "micro_drama",
+          "url": "https://www.youtube.com/watch?v=gKiFXz1kbO0",
+          "messy_metadata": {
+            "title": "Short 1"
+          },
+          "hydrated_metadata": null,
+          "youtube_metadata": {
+            "youtube_id": "gKiFXz1kbO0",
+            "original_title": "GUTS | Omeleto",
+            "upload_date": "20250130",
+            "published_at": "2025-01-30",
+            "duration_sec": 636,
+            "channel": "Omeleto",
+            "thumbnail_url": "https://i.ytimg.com/vi/gKiFXz1kbO0/maxresdefault.jpg",
+            "webpage_url": "https://www.youtube.com/watch?v=gKiFXz1kbO0",
+            "playlist_id": "PLwDe6hrCodhlaUcfJI0Yr7zRBdQFGl5t5",
+            "playlist_index": 1
+          },
+          "processing": {
+            "local_path": "videos\\omeleto-ep01.mp4",
+            "file_size_mb": 83.7,
+            "resolution": "3840x2160",
+            "encode_strategy": "remux_copy",
+            "source_size_mb": 83.7
+          },
+          "jockey": {
+            "knowledge_store_id": "ks_019f0849-d963-7272-a4c7-280feb37aa1f",
+            "store_key": "omeleto_reserve",
+            "asset_id": "6a3f9078c96701398f3ce434",
+            "item_id": "ksi_019f084c-5da9-77c2-8f82-0966dcb9bef0",
+            "asset_status": "ready",
+            "item_status": "ready",
+            "indexed_at": "2026-06-27T09:00:24Z"
+          }
+        },
+        {
+          "id": "omeleto-ep02",
+          "store_key": "omeleto_reserve",
+          "series": "The Reserve (Omeleto)",
+          "episode_label": "Ep 2",
+          "vertical": "micro_drama",
+          "url": "https://www.youtube.com/watch?v=7mSH86O2qzA",
+          "messy_metadata": {
+            "title": "Short 2"
+          },
+          "hydrated_metadata": null,
+          "youtube_metadata": {
+            "youtube_id": "7mSH86O2qzA",
+            "original_title": "STALLED | Omeleto",
+            "upload_date": "20221118",
+            "published_at": "2022-11-18",
+            "duration_sec": 1195,
+            "channel": "Omeleto",
+            "thumbnail_url": "https://i.ytimg.com/vi/7mSH86O2qzA/maxresdefault.jpg",
+            "webpage_url": "https://www.youtube.com/watch?v=7mSH86O2qzA",
+            "playlist_id": "PLwDe6hrCodhlaUcfJI0Yr7zRBdQFGl5t5",
+            "playlist_index": 2
+          },
+          "processing": {
+            "local_path": "videos\\omeleto-ep02.mp4",
+            "file_size_mb": 172.9,
+            "resolution": "1280x720",
+            "encode_strategy": "h264_1135k_scale720",
+            "source_size_mb": 530.9
+          },
+          "jockey": {
+            "knowledge_store_id": "ks_019f0849-d963-7272-a4c7-280feb37aa1f",
+            "store_key": "omeleto_reserve",
+            "asset_id": "6a3f9087d8e131e54636ed42",
+            "item_id": "ksi_019f084c-98c9-7533-8cab-1100eed0e3de",
+            "asset_status": "ready",
+            "item_status": "ready",
+            "indexed_at": "2026-06-27T09:14:10Z"
+          }
+        },
+        {
+          "id": "omeleto-ep03",
+          "store_key": "omeleto_reserve",
+          "series": "The Reserve (Omeleto)",
+          "episode_label": "Ep 3",
+          "vertical": "micro_drama",
+          "url": "https://www.youtube.com/watch?v=VBps1IvCyj0",
+          "messy_metadata": {
+            "title": "Short 3"
+          },
+          "hydrated_metadata": null,
+          "youtube_metadata": {
+            "youtube_id": "VBps1IvCyj0",
+            "original_title": "LOST AND FOUND | Omeleto",
+            "upload_date": "20190131",
+            "published_at": "2019-01-31",
+            "duration_sec": 450,
+            "channel": "Omeleto",
+            "thumbnail_url": "https://i.ytimg.com/vi/VBps1IvCyj0/maxresdefault.jpg",
+            "webpage_url": "https://www.youtube.com/watch?v=VBps1IvCyj0",
+            "playlist_id": "PLwDe6hrCodhlaUcfJI0Yr7zRBdQFGl5t5",
+            "playlist_index": 3
+          },
+          "processing": {
+            "local_path": "videos\\omeleto-ep03.mp4",
+            "file_size_mb": 149.96,
+            "resolution": "1920x1080",
+            "encode_strategy": "h264_3224k_scale1080",
+            "source_size_mb": 273.61
+          },
+          "jockey": {
+            "knowledge_store_id": "ks_019f0849-d963-7272-a4c7-280feb37aa1f",
+            "store_key": "omeleto_reserve",
+            "asset_id": "6a3f945aba42fbf6949ba8ec",
+            "item_id": "ksi_019f085b-8a3b-7d13-bd66-8ca527dd085c",
+            "asset_status": "ready",
+            "item_status": "ready",
+            "indexed_at": "2026-06-27T09:17:41Z"
+          }
+        },
+        {
+          "id": "omeleto-ep04",
+          "store_key": "omeleto_reserve",
+          "series": "The Reserve (Omeleto)",
+          "episode_label": "Ep 4",
+          "vertical": "micro_drama",
+          "url": "https://www.youtube.com/watch?v=68f27rqP_NY",
+          "messy_metadata": {
+            "title": "Short 4"
+          },
+          "hydrated_metadata": null,
+          "youtube_metadata": {
+            "youtube_id": "68f27rqP_NY",
+            "original_title": "EXIT STRATEGY | Omeleto",
+            "upload_date": "20181017",
+            "published_at": "2018-10-17",
+            "duration_sec": 909,
+            "channel": "Omeleto",
+            "thumbnail_url": "https://i.ytimg.com/vi/68f27rqP_NY/maxresdefault.jpg",
+            "webpage_url": "https://www.youtube.com/watch?v=68f27rqP_NY",
+            "playlist_id": "PLwDe6hrCodhlaUcfJI0Yr7zRBdQFGl5t5",
+            "playlist_index": 4
+          },
+          "processing": {
+            "local_path": "videos\\omeleto-ep04.mp4",
+            "file_size_mb": 95.69,
+            "resolution": "1920x1080",
+            "encode_strategy": "remux_copy",
+            "source_size_mb": 95.69
+          },
+          "jockey": {
+            "knowledge_store_id": "ks_019f0849-d963-7272-a4c7-280feb37aa1f",
+            "store_key": "omeleto_reserve",
+            "asset_id": "6a3f952ce88aeaea42b75a43",
+            "item_id": "ksi_019f085e-be09-7642-b614-8fb53197650a",
+            "asset_status": "ready",
+            "item_status": "ready",
+            "indexed_at": "2026-06-27T09:22:25Z"
+          }
+        }
+      ]
+    },
+    "french_chef": {
+      "knowledge_store_id": "ks_019f0752-ff8c-7183-a43b-cf0d59188886",
+      "name": "french-chef-demo",
+      "display_name": "The French Chef with Julia Child",
+      "vertical": "archive",
+      "assets": [
+        {
+          "id": "chef-ep04",
+          "store_key": "french_chef",
+          "series": "The French Chef with Julia Child",
+          "episode_label": "Ep 4",
+          "vertical": "archive",
+          "url": "https://www.youtube.com/watch?v=uruT8FPpeKc",
+          "messy_metadata": {
+            "title": "Untitled"
+          },
+          "hydrated_metadata": null,
+          "youtube_metadata": {
+            "youtube_id": "uruT8FPpeKc",
+            "original_title": "Boeuf Bourguignon | The French Chef Season 7 | Julia Child",
+            "upload_date": "20240602",
+            "published_at": "2024-06-02",
+            "duration_sec": 1721,
+            "channel": "Julia Child on PBS",
+            "thumbnail_url": "https://i.ytimg.com/vi/uruT8FPpeKc/maxresdefault.jpg",
+            "webpage_url": "https://www.youtube.com/watch?v=uruT8FPpeKc"
+          },
+          "processing": {
+            "local_path": "videos\\chef-ep04.mp4",
+            "file_size_mb": 82.31,
+            "resolution": "650x480",
+            "encode_strategy": "remux_copy",
+            "source_size_mb": 82.31
+          },
+          "jockey": {
+            "knowledge_store_id": "ks_019f0752-ff8c-7183-a43b-cf0d59188886",
+            "store_key": "french_chef",
+            "asset_id": "6a3f511bd00a7189a4051523",
+            "item_id": "ksi_019f0754-da8b-7f12-8476-ef90e27e99b2",
+            "asset_status": "ready",
+            "item_status": "ready",
+            "indexed_at": "2026-06-27T04:29:32Z"
+          }
+        },
+        {
+          "id": "chef-ep01",
+          "store_key": "french_chef",
+          "series": "The French Chef with Julia Child",
+          "episode_label": "Ep 1",
+          "vertical": "archive",
+          "url": "https://www.youtube.com/watch?v=vijibDontnU",
+          "messy_metadata": {
+            "title": "Untitled"
+          },
+          "hydrated_metadata": null,
+          "youtube_metadata": {
+            "youtube_id": "vijibDontnU",
+            "original_title": "Lasagne a la Francaise | The French Chef Season 7 | Julia Child",
+            "upload_date": "20240317",
+            "published_at": "2024-03-17",
+            "duration_sec": 1720,
+            "channel": "Julia Child on PBS",
+            "thumbnail_url": "https://i.ytimg.com/vi/vijibDontnU/maxresdefault.jpg",
+            "webpage_url": "https://www.youtube.com/watch?v=vijibDontnU"
+          },
+          "processing": {
+            "local_path": "videos\\chef-ep01.mp4",
+            "file_size_mb": 66.08,
+            "resolution": "650x480",
+            "encode_strategy": "skipped_existing",
+            "source_size_mb": 66.08
+          },
+          "jockey": {
+            "knowledge_store_id": "ks_019f0752-ff8c-7183-a43b-cf0d59188886",
+            "store_key": "french_chef",
+            "asset_id": "6a3f51a1ba42fbf6949b9af4",
+            "item_id": "ksi_019f0756-e65a-7803-9707-086538b3e6c3",
+            "asset_status": "ready",
+            "item_status": "ready",
+            "indexed_at": "2026-06-27T04:32:07Z"
+          }
+        },
+        {
+          "id": "chef-ep02",
+          "store_key": "french_chef",
+          "series": "The French Chef with Julia Child",
+          "episode_label": "Ep 2",
+          "vertical": "archive",
+          "url": "https://www.youtube.com/watch?v=677kAOMwTmo",
+          "messy_metadata": {
+            "title": "Untitled"
+          },
+          "hydrated_metadata": null,
+          "youtube_metadata": {
+            "youtube_id": "677kAOMwTmo",
+            "original_title": "Cake With A Halo | The French Chef Season 7 | Julia Child",
+            "upload_date": "20240218",
+            "published_at": "2024-02-18",
+            "duration_sec": 1719,
+            "channel": "Julia Child on PBS",
+            "thumbnail_url": "https://i.ytimg.com/vi/677kAOMwTmo/maxresdefault.jpg",
+            "webpage_url": "https://www.youtube.com/watch?v=677kAOMwTmo"
+          },
+          "processing": {
+            "local_path": "videos\\chef-ep02.mp4",
+            "file_size_mb": 80.55,
+            "resolution": "650x480",
+            "encode_strategy": "remux_copy",
+            "source_size_mb": 80.55
+          },
+          "jockey": {
+            "knowledge_store_id": "ks_019f0752-ff8c-7183-a43b-cf0d59188886",
+            "store_key": "french_chef",
+            "asset_id": "6a3f523bd00a7189a4051562",
+            "item_id": "ksi_019f0759-3fd5-7d11-9944-9dd5ca7ddf47",
+            "asset_status": "ready",
+            "item_status": "ready",
+            "indexed_at": "2026-06-27T04:34:20Z"
+          }
+        },
+        {
+          "id": "chef-ep03",
+          "store_key": "french_chef",
+          "series": "The French Chef with Julia Child",
+          "episode_label": "Ep 3",
+          "vertical": "archive",
+          "url": "https://www.youtube.com/watch?v=dMeqIWwF5yk",
+          "messy_metadata": {
+            "title": "Untitled"
+          },
+          "hydrated_metadata": null,
+          "youtube_metadata": {
+            "youtube_id": "dMeqIWwF5yk",
+            "original_title": "Hamburger Dinner | The French Chef Season 7 | Julia Child",
+            "upload_date": "20240225",
+            "published_at": "2024-02-25",
+            "duration_sec": 1721,
+            "channel": "Julia Child on PBS",
+            "thumbnail_url": "https://i.ytimg.com/vi/dMeqIWwF5yk/maxresdefault.jpg",
+            "webpage_url": "https://www.youtube.com/watch?v=dMeqIWwF5yk"
+          },
+          "processing": {
+            "local_path": "videos\\chef-ep03.mp4",
+            "file_size_mb": 66.88,
+            "resolution": "650x480",
+            "encode_strategy": "remux_copy",
+            "source_size_mb": 66.88
+          },
+          "jockey": {
+            "knowledge_store_id": "ks_019f0752-ff8c-7183-a43b-cf0d59188886",
+            "store_key": "french_chef",
+            "asset_id": "6a3f52c0d00a7189a4051569",
+            "item_id": "ksi_019f075b-460d-7c73-8e9b-34409576651b",
+            "asset_status": "ready",
+            "item_status": "ready",
+            "indexed_at": "2026-06-27T04:36:43Z"
+          }
+        }
+      ]
+    }
+  },
+  "routing_hints": {
+    "semantic_search": "use selected store_key from UI",
+    "personalized_discovery_unified": "optional future unified store id",
+    "fast_programming": "scope to single store_key matching channel vertical"
+  }
+}

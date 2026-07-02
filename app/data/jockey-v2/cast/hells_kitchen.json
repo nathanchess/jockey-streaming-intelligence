@@ -1,0 +1,693 @@
+{
+  "cast_list": [
+    {
+      "cross_episode_reasoning": "Host and central authority across every covered episode; he drives every challenge, dinner service, nomination, and elimination, and he is also the key mentor figure in emotional turning points like Egypt's near-exit in Episode 5.",
+      "description": "Celebrity chef, host, judge, and head of Hell's Kitchen.",
+      "importance": "primary",
+      "key_moments": [
+        {
+          "description": "Judges Michael's lamb in the signature dish challenge and praises it.",
+          "episode_label": "hk-ep01",
+          "reasoning": "Shows Ramsay in his core evaluator role during the season launch.",
+          "timestamp_end": "27:09",
+          "timestamp_start": "27:05"
+        },
+        {
+          "description": "Oversees the flamb\u00e9 challenge and introduces the Punishment Pass mechanic.",
+          "episode_label": "hk-ep02",
+          "reasoning": "Establishes a recurring season mechanic and the high-pressure tone of the episode.",
+          "timestamp_end": "00:14",
+          "timestamp_start": "00:09"
+        },
+        {
+          "description": "Talks Egypt through his emotional breakdown and convinces him to continue.",
+          "episode_label": "hk-ep05",
+          "reasoning": "Key example of Ramsay as mentor rather than only disciplinarian.",
+          "timestamp_end": "26:49",
+          "timestamp_start": "26:44"
+        }
+      ],
+      "name": "Gordon Ramsay",
+      "role": "Host / head chef / judge"
+    },
+    {
+      "cross_episode_reasoning": "A recurring blue-team focal contestant in all five episodes covered, with repeated challenge visibility and one of the clearest emotional arcs in the sample: early strong cooking, later homesickness, and a mentorship moment with Ramsay in Episode 5.",
+      "description": "Blue-team contestant; frequently highlighted in challenges and one of the season's emotional focal points.",
+      "importance": "primary",
+      "key_moments": [
+        {
+          "description": "Ties the signature dish score with his Peking duck tostada.",
+          "episode_label": "hk-ep01",
+          "reasoning": "Marks him as an early standout competitor.",
+          "timestamp_end": "25:01",
+          "timestamp_start": "24:57"
+        },
+        {
+          "description": "Presents his oyster dish in the seafood challenge.",
+          "episode_label": "hk-ep03",
+          "reasoning": "Shows his continued prominence in challenge rounds.",
+          "timestamp_end": "10:56",
+          "timestamp_start": "10:51"
+        },
+        {
+          "description": "Admits he misses his children and nearly wants to leave before Ramsay talks him through it.",
+          "episode_label": "hk-ep05",
+          "reasoning": "Most important personal beat in the covered corpus.",
+          "timestamp_end": "26:49",
+          "timestamp_start": "26:44"
+        }
+      ],
+      "name": "Egypt",
+      "role": "Contestant"
+    },
+    {
+      "cross_episode_reasoning": "Present across all covered episodes and repeatedly spotlighted in judging and kitchen-performance moments; his trajectory reads as a dependable blue-team competitor with notable challenge visibility.",
+      "description": "Blue-team contestant with repeated judging-table focus and visible challenge performances.",
+      "importance": "primary",
+      "key_moments": [
+        {
+          "description": "Waits nervously while Ramsay checks his signature-dish lamb, then receives praise.",
+          "episode_label": "hk-ep01",
+          "reasoning": "Introduces him as a serious competitor under pressure.",
+          "timestamp_end": "27:09",
+          "timestamp_start": "27:05"
+        },
+        {
+          "description": "Confidently sells his flamb\u00e9 dish and aims for the Punishment Pass.",
+          "episode_label": "hk-ep02",
+          "reasoning": "Shows ambition and early competitive confidence.",
+          "timestamp_end": "11:54",
+          "timestamp_start": "11:50"
+        },
+        {
+          "description": "Competes again in the burger challenge as one of the returning blue-team faces.",
+          "episode_label": "hk-ep05",
+          "reasoning": "Confirms his continued relevance deep into the covered run.",
+          "timestamp_end": "17:00",
+          "timestamp_start": "16:53"
+        }
+      ],
+      "name": "Michael",
+      "role": "Contestant"
+    },
+    {
+      "cross_episode_reasoning": "Appears in every covered episode and is repeatedly framed in challenge judging; he also carries a strong identity beat in the seafood episode through his boat/seafood background.",
+      "description": "Blue-team contestant frequently seen in challenge evaluations and team reaction shots.",
+      "importance": "secondary",
+      "key_moments": [
+        {
+          "description": "Receives praise that his fish is cooked beautifully during signature-dish judging coverage.",
+          "episode_label": "hk-ep01",
+          "reasoning": "Early evidence of cooking competence and visibility.",
+          "timestamp_end": "20:19",
+          "timestamp_start": "20:12"
+        },
+        {
+          "description": "Explains that seafood is second nature to him because of his experience working on a boat.",
+          "episode_label": "hk-ep03",
+          "reasoning": "A defining personal/professional characterization beat.",
+          "timestamp_end": "06:34",
+          "timestamp_start": "06:28"
+        },
+        {
+          "description": "Describes his lamb burger for judge George Motz.",
+          "episode_label": "hk-ep05",
+          "reasoning": "Shows his continued role as an active challenge competitor.",
+          "timestamp_end": "17:50",
+          "timestamp_start": "17:40"
+        }
+      ],
+      "name": "Kyle",
+      "role": "Contestant"
+    },
+    {
+      "cross_episode_reasoning": "One of the most consistently visible women across the five episodes, present in every item and repeatedly shown in challenge judging, confessional confidence beats, and team reactions.",
+      "description": "Red-team contestant with consistent challenge visibility and confident confessionals.",
+      "importance": "secondary",
+      "key_moments": [
+        {
+          "description": "Returns from the judging table saying she is only getting started in the competition.",
+          "episode_label": "hk-ep01",
+          "reasoning": "Defines her competitive confidence early.",
+          "timestamp_end": "28:35",
+          "timestamp_start": "28:31"
+        },
+        {
+          "description": "Praises Brittany for bouncing back after getting cut during the challenge.",
+          "episode_label": "hk-ep01",
+          "reasoning": "Shows her role in red-team morale and social commentary.",
+          "timestamp_end": "34:03",
+          "timestamp_start": "33:56"
+        },
+        {
+          "description": "Competes in the burger challenge and receives 'intense' feedback from George Motz.",
+          "episode_label": "hk-ep05",
+          "reasoning": "Keeps her active in the later covered episode as a visible red-team competitor.",
+          "timestamp_end": "17:40",
+          "timestamp_start": "17:34"
+        }
+      ],
+      "name": "Whit",
+      "role": "Contestant"
+    },
+    {
+      "cross_episode_reasoning": "Present across all covered episodes and repeatedly visible in challenge and service reactions; she is specifically called out by teammates for resilience, suggesting a meaningful supporting arc inside the red team.",
+      "description": "Red-team contestant noted for resilience and steady presence.",
+      "importance": "secondary",
+      "key_moments": [
+        {
+          "description": "Waits through Ramsay's presentation critique during signature-dish judging.",
+          "episode_label": "hk-ep01",
+          "reasoning": "Places her within the competitive flow of the premiere.",
+          "timestamp_end": "21:26",
+          "timestamp_start": "21:20"
+        },
+        {
+          "description": "Gets praised by Whit for bouncing back after being cut and still delivering pasta.",
+          "episode_label": "hk-ep01",
+          "reasoning": "Best evidence of her personal grit and team respect.",
+          "timestamp_end": "34:03",
+          "timestamp_start": "33:56"
+        }
+      ],
+      "name": "Brittany",
+      "role": "Contestant"
+    },
+    {
+      "cross_episode_reasoning": "A constant presence across the covered episodes and one of the more frequently surfaced blue-team men in judging and burger-challenge moments, suggesting mid-level series importance.",
+      "description": "Blue-team contestant with recurring challenge visibility.",
+      "importance": "secondary",
+      "key_moments": [
+        {
+          "description": "Wins a point in the seafood challenge with steamed clams in spicy garlic butter cream sauce.",
+          "episode_label": "hk-ep03",
+          "reasoning": "A concrete positive performance beat.",
+          "timestamp_end": "15:04",
+          "timestamp_start": "14:59"
+        },
+        {
+          "description": "Presents his burger with secret-recipe relish but gets critique for overcooking.",
+          "episode_label": "hk-ep05",
+          "reasoning": "Shows both his individuality and his inconsistency under judgment.",
+          "timestamp_end": "16:51",
+          "timestamp_start": "16:32"
+        }
+      ],
+      "name": "Joe",
+      "role": "Contestant"
+    },
+    {
+      "cross_episode_reasoning": "Appears in all covered episodes and is one of the most consistent red-team contestants in the metadata; she is frequently part of challenge judging and reaction coverage, indicating stable mid-tier cast importance.",
+      "description": "Red-team contestant and consistent presence in challenge rounds.",
+      "importance": "secondary",
+      "key_moments": [
+        {
+          "description": "Highlighted as a red-team competitor during the flamb\u00e9 challenge opening montage and judging.",
+          "episode_label": "hk-ep02",
+          "reasoning": "Shows her active role in one of the season's early themed challenges.",
+          "timestamp_end": "00:28",
+          "timestamp_start": "00:20"
+        },
+        {
+          "description": "Competes in the burger challenge with a chicken burger while teammates watch closely.",
+          "episode_label": "hk-ep05",
+          "reasoning": "Keeps her relevant in the latest covered episode.",
+          "timestamp_end": "14:46",
+          "timestamp_start": "14:38"
+        }
+      ],
+      "name": "Meghan",
+      "role": "Contestant"
+    },
+    {
+      "cross_episode_reasoning": "One of the recurring red-team women present in all covered episodes; while the sampled evidence gives her fewer individual beats, her full-episode presence across the set supports inclusion as a stable series contestant.",
+      "description": "Red-team contestant with steady recurring presence across the covered arc.",
+      "importance": "secondary",
+      "key_moments": [
+        {
+          "description": "Appears during the signature-dish challenge as part of the fully established red-team field.",
+          "episode_label": "hk-ep01",
+          "reasoning": "Confirms her place in the core season ensemble from the start.",
+          "timestamp_end": "25:01",
+          "timestamp_start": "24:57"
+        },
+        {
+          "description": "Appears in the burger challenge scoring sequence after Joe's round.",
+          "episode_label": "hk-ep05",
+          "reasoning": "Shows ongoing participation late in the covered run.",
+          "timestamp_end": "17:01",
+          "timestamp_start": "16:51"
+        }
+      ],
+      "name": "Hannah",
+      "role": "Contestant"
+    },
+    {
+      "cross_episode_reasoning": "Present in every covered episode and part of the stable red-team ensemble; less individually spotlighted in the sampled snippets, but still a recurring series cast member.",
+      "description": "Red-team contestant and recurring ensemble presence.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "Visible among the fully established season contestants during the premiere judging flow.",
+          "episode_label": "hk-ep01",
+          "reasoning": "Grounds her as part of the launch cast.",
+          "timestamp_end": "21:26",
+          "timestamp_start": "21:20"
+        },
+        {
+          "description": "Returns again in the seafood episode as part of the continuing competitive field.",
+          "episode_label": "hk-ep03",
+          "reasoning": "Supports her inclusion in the cross-episode cast list.",
+          "timestamp_end": "06:00",
+          "timestamp_start": "05:54"
+        }
+      ],
+      "name": "Amanda",
+      "role": "Contestant"
+    },
+    {
+      "cross_episode_reasoning": "Appears in every covered episode and remains part of the continuing women\u2019s-team story, though with fewer individually highlighted beats in the sampled evidence.",
+      "description": "Red-team contestant with recurring ensemble visibility.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "Competes as part of the season-opening signature dish field.",
+          "episode_label": "hk-ep01",
+          "reasoning": "Establishes her as an original cast member.",
+          "timestamp_end": "21:26",
+          "timestamp_start": "21:20"
+        },
+        {
+          "description": "Continues into the burger episode as part of the remaining cast.",
+          "episode_label": "hk-ep05",
+          "reasoning": "Shows she remains in the competition through the covered span.",
+          "timestamp_end": "26:49",
+          "timestamp_start": "26:44"
+        }
+      ],
+      "name": "Ann Marie",
+      "role": "Contestant"
+    },
+    {
+      "cross_episode_reasoning": "One of the men present in all covered episodes and part of the continuing blue-team ensemble, though not as individually highlighted as Egypt or Michael in the sampled material.",
+      "description": "Blue-team contestant and recurring ensemble member.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "Present among the established blue-team contestants in the premiere judging sequence.",
+          "episode_label": "hk-ep01",
+          "reasoning": "Confirms him as part of the original cast ensemble.",
+          "timestamp_end": "21:26",
+          "timestamp_start": "21:20"
+        },
+        {
+          "description": "Still active in the burger episode as part of the continuing men\u2019s roster.",
+          "episode_label": "hk-ep05",
+          "reasoning": "Supports his series-wide presence across the covered episodes.",
+          "timestamp_end": "14:34",
+          "timestamp_start": "14:28"
+        }
+      ],
+      "name": "Anthony",
+      "role": "Contestant"
+    },
+    {
+      "cross_episode_reasoning": "Present across all covered episodes and part of the continuing men\u2019s side, but with fewer direct standout moments than the most visible blue-team contestants.",
+      "description": "Blue-team contestant with steady ensemble presence.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "Part of the premiere cast during the opening signature-dish competition.",
+          "episode_label": "hk-ep01",
+          "reasoning": "Establishes him as a season contestant.",
+          "timestamp_end": "21:26",
+          "timestamp_start": "21:20"
+        },
+        {
+          "description": "Competes into the burger episode as part of the ongoing roster.",
+          "episode_label": "hk-ep05",
+          "reasoning": "Shows continued survival through the covered run.",
+          "timestamp_end": "17:50",
+          "timestamp_start": "17:40"
+        }
+      ],
+      "name": "Brandon",
+      "role": "Contestant"
+    },
+    {
+      "cross_episode_reasoning": "Appears in Episodes 1-4 but not the final covered item's recurring core count, matching his importance as an early blue-team contestant whose relevance declines with time and culminates in elimination-related story movement around Episode 4.",
+      "description": "Blue-team contestant prominent in the early episodes of the covered run.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "Referenced by Michael as a rival for the Punishment Pass during the flamb\u00e9 challenge.",
+          "episode_label": "hk-ep02",
+          "reasoning": "Shows his early competitive relevance.",
+          "timestamp_end": "11:56",
+          "timestamp_start": "11:50"
+        },
+        {
+          "description": "Remains part of the continuing field through the pickling episode arc.",
+          "episode_label": "hk-ep04",
+          "reasoning": "Supports his inclusion as an early-to-mid arc contestant.",
+          "timestamp_end": "00:30",
+          "timestamp_start": "00:20"
+        }
+      ],
+      "name": "Corbin",
+      "role": "Contestant"
+    },
+    {
+      "cross_episode_reasoning": "Present in Episodes 1-4 and repeatedly part of the men\u2019s-team ensemble before dropping out of the later covered episode, indicating an early-season supporting arc.",
+      "description": "Blue-team contestant active in the early and middle portion of the covered episodes.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "Shown among the blue-team chefs during the season-opening challenge and judging flow.",
+          "episode_label": "hk-ep01",
+          "reasoning": "Establishes his place in the starting cast.",
+          "timestamp_end": "27:11",
+          "timestamp_start": "27:09"
+        },
+        {
+          "description": "His portrait burns in the elimination visual at the end of the flamb\u00e9 episode coverage.",
+          "episode_label": "hk-ep03",
+          "reasoning": "Strong evidence of an elimination-related turning point in the arc sampled by the store.",
+          "timestamp_end": "42:13",
+          "timestamp_start": "42:07"
+        }
+      ],
+      "name": "Shant",
+      "role": "Contestant"
+    },
+    {
+      "cross_episode_reasoning": "Recurring male contestant across Episodes 1-4 before dropping from the Episode 5 core count, placing him as an early supporting cast member in the covered sample.",
+      "description": "Blue-team contestant present through the early-season episodes.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "Listens during Ramsay's feedback in the premiere challenge judging.",
+          "episode_label": "hk-ep01",
+          "reasoning": "Shows his early placement within the men\u2019s side.",
+          "timestamp_end": "22:55",
+          "timestamp_start": "22:49"
+        },
+        {
+          "description": "Continues into the pickling episode as part of the still-active cast.",
+          "episode_label": "hk-ep04",
+          "reasoning": "Supports his ongoing role before later absence.",
+          "timestamp_end": "00:30",
+          "timestamp_start": "00:20"
+        }
+      ],
+      "name": "Uri",
+      "role": "Contestant"
+    },
+    {
+      "cross_episode_reasoning": "Recurring contestant across the first four episodes covered, then absent from Episode 5's core count; important enough for inclusion as part of the season ensemble but not among the primary narrative drivers in this sample.",
+      "description": "Blue-team contestant with recurring early-season presence.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "Present in the premiere's established contestant field.",
+          "episode_label": "hk-ep01",
+          "reasoning": "Marks him as part of the launch cast.",
+          "timestamp_end": "21:26",
+          "timestamp_start": "21:20"
+        },
+        {
+          "description": "Still appears through the pickling episode in the continuing ensemble.",
+          "episode_label": "hk-ep04",
+          "reasoning": "Confirms cross-episode presence even without a major sampled solo beat.",
+          "timestamp_end": "00:30",
+          "timestamp_start": "00:20"
+        }
+      ],
+      "name": "Amber",
+      "role": "Contestant"
+    },
+    {
+      "cross_episode_reasoning": "Appears in most of the covered run and gets a distinct critique beat in the premiere duplicate metadata, giving her enough individuality to rise above pure background status.",
+      "description": "Red-team contestant with recurring presence and occasional judging focus.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "Receives feedback that her elk is cooked beautifully but needs more acidity.",
+          "episode_label": "hk-ep01",
+          "reasoning": "A concrete individualized judging moment.",
+          "timestamp_end": "22:55",
+          "timestamp_start": "22:49"
+        }
+      ],
+      "name": "Lulu",
+      "role": "Contestant"
+    },
+    {
+      "cross_episode_reasoning": "Present across all covered episodes and regularly adjacent to judging outcomes, though the sampled evidence gives her few solo beats; still part of the stable core ensemble.",
+      "description": "Red-team contestant and recurring ensemble member.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "Faces Joe in the seafood challenge point round that Joe wins.",
+          "episode_label": "hk-ep03",
+          "reasoning": "Direct evidence of challenge participation.",
+          "timestamp_end": "15:04",
+          "timestamp_start": "14:59"
+        }
+      ],
+      "name": "Magali",
+      "role": "Contestant"
+    },
+    {
+      "cross_episode_reasoning": "Appears across all five covered episodes and participates in the continuing red-team ensemble, including later personal-story material in the seafood duplicate metadata.",
+      "description": "Red-team contestant with steady presence across the covered episodes.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "Visible as part of the season-opening red-team lineup during challenge judging.",
+          "episode_label": "hk-ep01",
+          "reasoning": "Establishes her as one of the ongoing core contestants.",
+          "timestamp_end": "34:03",
+          "timestamp_start": "33:56"
+        }
+      ],
+      "name": "Marino",
+      "role": "Ma\u00eetre d' / service staff fixture"
+    },
+    {
+      "cross_episode_reasoning": "Recurring service-side presence across much of the covered run; not a competitor, but part of the recognizable Hell's Kitchen operating cast.",
+      "description": "Hell's Kitchen ma\u00eetre d' and front-of-house presence.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "Appears throughout dinner-service portions of the middle episodes as part of front-of-house operations.",
+          "episode_label": "hk-ep03",
+          "reasoning": "Represents the service infrastructure around the competition.",
+          "timestamp_end": "15:04",
+          "timestamp_start": "14:59"
+        }
+      ],
+      "name": "Michelle Tribble",
+      "role": "Sous chef"
+    },
+    {
+      "cross_episode_reasoning": "Recurring authority figure on the red side in multiple covered episodes; not as central as Ramsay, but a recognizable part of the season's kitchen leadership.",
+      "description": "Sous chef assisting Ramsay and supervising contestants.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "Appears as part of the kitchen leadership structure in the early episodes.",
+          "episode_label": "hk-ep01",
+          "reasoning": "Supports inclusion of the recurring staff cast around the contestants.",
+          "timestamp_end": "21:26",
+          "timestamp_start": "21:20"
+        }
+      ],
+      "name": "James",
+      "role": "Sous chef"
+    },
+    {
+      "cross_episode_reasoning": "Recurring kitchen authority across several covered episodes, complementing Ramsay and Michelle as part of the leadership cast.",
+      "description": "Sous chef assisting Ramsay and supervising contestants.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "Appears as part of the service leadership team in the middle episodes.",
+          "episode_label": "hk-ep03",
+          "reasoning": "Shows the recurring supporting staff structure of the series.",
+          "timestamp_end": "10:56",
+          "timestamp_start": "10:51"
+        }
+      ],
+      "name": "James Avery",
+      "role": "Narrator / announcer"
+    },
+    {
+      "cross_episode_reasoning": "Voice and on-screen presence in several of the covered episodes, helping frame competition beats and transitions.",
+      "description": "Narrator/announcer presence in the series package.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "Part of the premiere episode's identified cast metadata.",
+          "episode_label": "hk-ep01",
+          "reasoning": "Included because he recurs in multiple indexed episodes as part of the show's presentation layer.",
+          "timestamp_end": "25:01",
+          "timestamp_start": "24:57"
+        }
+      ],
+      "name": "George Motz",
+      "role": "Guest judge"
+    },
+    {
+      "cross_episode_reasoning": "Only appears in Episode 5, but he is the defining outside authority for that burger challenge and therefore a meaningful one-episode supporting player in the covered series sample.",
+      "description": "Burger expert guest judge in the burger challenge episode.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "Judges Joe's short-rib burger and critiques it as overcooked.",
+          "episode_label": "hk-ep05",
+          "reasoning": "Most explicit guest-judge moment in the covered later episode.",
+          "timestamp_end": "16:51",
+          "timestamp_start": "16:45"
+        }
+      ],
+      "name": "Dan Barber",
+      "role": "Guest judge / guest chef"
+    },
+    {
+      "cross_episode_reasoning": "Recurring guest-judge figure in several indexed items, tied to challenge evaluation rather than long-form contestant story, so he fits as a supporting non-competitor.",
+      "description": "Guest chef/judge appearing in challenge-related segments.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "Appears in the premiere-era cast metadata as part of challenge judging context.",
+          "episode_label": "hk-ep01",
+          "reasoning": "Represents the recurring guest-chef component of the season format.",
+          "timestamp_end": "21:26",
+          "timestamp_start": "21:20"
+        }
+      ],
+      "name": "Dan Pashman",
+      "role": "Guest judge"
+    },
+    {
+      "cross_episode_reasoning": "Episode-4-specific guest presence tied to the pickling theme; included as a supporting non-competitor because he helps define that episode's challenge setup.",
+      "description": "Guest judge associated with the pickling episode.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "Appears as part of the pickling episode's featured guest setup.",
+          "episode_label": "hk-ep04",
+          "reasoning": "Defines the one-episode thematic challenge framing.",
+          "timestamp_end": "00:30",
+          "timestamp_start": "00:20"
+        }
+      ],
+      "name": "Vernon Davis",
+      "role": "VIP guest"
+    },
+    {
+      "cross_episode_reasoning": "Appears in Episode 4 as part of the reward/service-side guest environment; supporting but not narratively central.",
+      "description": "VIP guest appearing in the pickling episode.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "Included among the identified Episode 4 guest figures.",
+          "episode_label": "hk-ep04",
+          "reasoning": "Supports the episode's event atmosphere and guest visibility.",
+          "timestamp_end": "00:30",
+          "timestamp_start": "00:20"
+        }
+      ],
+      "name": "Sheryl Swoopes",
+      "role": "VIP guest"
+    },
+    {
+      "cross_episode_reasoning": "Recurring guest/VIP presence in multiple early-middle indexed items; part of the show's celebrity-service texture rather than a story driver.",
+      "description": "VIP guest appearing in challenge/service contexts.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "Included among the identified guest figures in the early-season episodes.",
+          "episode_label": "hk-ep01",
+          "reasoning": "Reflects the celebrity-guest layer of the series format.",
+          "timestamp_end": "21:26",
+          "timestamp_start": "21:20"
+        }
+      ],
+      "name": "Matthew Judon",
+      "role": "VIP guest"
+    },
+    {
+      "cross_episode_reasoning": "Episode-3-specific guest figure who helps define that seafood-service episode's high-profile dining room context.",
+      "description": "VIP guest appearing in the seafood episode.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "Appears as part of the seafood episode's guest lineup.",
+          "episode_label": "hk-ep03",
+          "reasoning": "Adds context to the stakes and spectacle of that episode's service.",
+          "timestamp_end": "10:56",
+          "timestamp_start": "10:51"
+        }
+      ],
+      "name": "Trey Hendrickson",
+      "role": "VIP guest"
+    },
+    {
+      "cross_episode_reasoning": "Like Matthew Judon, he is tied to the seafood episode's VIP environment; supporting and episode-specific.",
+      "description": "VIP guest appearing in the seafood episode.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "Included among the identified guest figures in the seafood episode.",
+          "episode_label": "hk-ep03",
+          "reasoning": "Helps characterize that episode's dining-room stakes.",
+          "timestamp_end": "10:56",
+          "timestamp_start": "10:51"
+        }
+      ],
+      "name": "Medic",
+      "role": "Medical staff"
+    },
+    {
+      "cross_episode_reasoning": "Appears in multiple episodes and becomes relevant in the injury/exhaustion-heavy portions of the covered arc, especially around physical collapse and medical concern.",
+      "description": "On-call medical staff responding to contestant injuries or distress.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "Present in the early-season episodes where physical strain and injury become part of the narrative.",
+          "episode_label": "hk-ep03",
+          "reasoning": "Represents the medical/emergency subplot noted in the corpus overview.",
+          "timestamp_end": "10:56",
+          "timestamp_start": "10:51"
+        }
+      ],
+      "name": "Corbin",
+      "role": "Contestant"
+    },
+    {
+      "cross_episode_reasoning": "Present through Episode 4 and explicitly tied to an elimination-style visual beat, making him a meaningful early supporting contestant in the covered material.",
+      "description": "Blue-team contestant with an early-to-mid arc in the covered episodes.",
+      "importance": "supporting",
+      "key_moments": [
+        {
+          "description": "His portrait burns in the episode-ending elimination visual.",
+          "episode_label": "hk-ep03",
+          "reasoning": "A clear exit/turning-point image tied to his arc.",
+          "timestamp_end": "42:13",
+          "timestamp_start": "42:07"
+        }
+      ],
+      "name": "Corbin",
+      "role": "Contestant"
+    }
+  ],
+  "_meta": {
+    "knowledge_store_id": "ks_019f075d-93e6-7083-9ec4-023e915533c0",
+    "store_key": "hells_kitchen",
+    "series": "Hell's Kitchen",
+    "episode_count": 5,
+    "pass": 1
+  }
+}

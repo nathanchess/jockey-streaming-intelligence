@@ -1,0 +1,222 @@
+{
+  "stores": {
+    "hells_kitchen": {
+      "name": "hells-kitchen-demo",
+      "display_name": "Hell's Kitchen",
+      "vertical": "fast",
+      "ingestion_config": {
+        "enrichment_config": {
+          "type": "description",
+          "description": "Extract characters, moods, genre signals, scene types, audio events, topic tags, competition beats, tension moments, and pacing for reality competition FAST programming."
+        }
+      }
+    },
+    "lizzie_bennet": {
+      "name": "lizzie-bennet-demo",
+      "display_name": "The Lizzie Bennet Diaries",
+      "vertical": "micro_drama",
+      "ingestion_config": {
+        "enrichment_config": {
+          "type": "description",
+          "description": "Extract characters, relationships, moods, scene types, dialogue tone, episodic structure, and vlog-style micro-drama beats."
+        }
+      }
+    },
+    "omeleto_reserve": {
+      "name": "omeleto-reserve-demo",
+      "display_name": "The Reserve (Omeleto)",
+      "vertical": "micro_drama",
+      "ingestion_config": {
+        "enrichment_config": {
+          "type": "description",
+          "description": "Extract characters, moods, cinematic scene types, audio events, narrative arcs, and short-form dramatic pacing."
+        }
+      }
+    },
+    "french_chef": {
+      "name": "french-chef-demo",
+      "display_name": "The French Chef with Julia Child",
+      "vertical": "archive",
+      "ingestion_config": {
+        "enrichment_config": {
+          "type": "description",
+          "description": "Extract instructional scenes, moods, production era signals, audio events, topic tags, and archival cooking demonstration structure."
+        }
+      }
+    }
+  },
+  "assets": [
+    {
+      "id": "hk-ep01",
+      "store_key": "hells_kitchen",
+      "series": "Hell's Kitchen",
+      "episode_label": "Ep 1",
+      "playlist_id": "PLW5iCJIwM9Z_7oMp0PYQbHU8evfsm170k",
+      "playlist_index": 1,
+      "url": "https://www.youtube.com/watch?v=n3k6NV9qRsQ",
+      "messy_metadata": { "title": "Episode 1" }
+    },
+    {
+      "id": "hk-ep02",
+      "store_key": "hells_kitchen",
+      "series": "Hell's Kitchen",
+      "episode_label": "Ep 2",
+      "playlist_id": "PLW5iCJIwM9Z_7oMp0PYQbHU8evfsm170k",
+      "playlist_index": 2,
+      "url": "https://www.youtube.com/watch?v=bX-EzNRe-ws",
+      "messy_metadata": { "title": "Episode 2" }
+    },
+    {
+      "id": "hk-ep03",
+      "store_key": "hells_kitchen",
+      "series": "Hell's Kitchen",
+      "episode_label": "Ep 3",
+      "playlist_id": "PLW5iCJIwM9Z_7oMp0PYQbHU8evfsm170k",
+      "playlist_index": 3,
+      "url": "https://www.youtube.com/watch?v=GAV2plfsiBA",
+      "messy_metadata": { "title": "Episode 3" }
+    },
+    {
+      "id": "hk-ep04",
+      "store_key": "hells_kitchen",
+      "series": "Hell's Kitchen",
+      "episode_label": "Ep 4",
+      "playlist_id": "PLW5iCJIwM9Z_7oMp0PYQbHU8evfsm170k",
+      "playlist_index": 4,
+      "url": "https://www.youtube.com/watch?v=kBheTYko4Z0",
+      "messy_metadata": { "title": "Episode 4" }
+    },
+    {
+      "id": "hk-ep05",
+      "store_key": "hells_kitchen",
+      "series": "Hell's Kitchen",
+      "episode_label": "Ep 5",
+      "playlist_id": "PLW5iCJIwM9Z_7oMp0PYQbHU8evfsm170k",
+      "playlist_index": 5,
+      "url": "https://www.youtube.com/watch?v=NKTyf08aXUY",
+      "messy_metadata": { "title": "Episode 5" }
+    },
+    {
+      "id": "lbd-ep01",
+      "store_key": "lizzie_bennet",
+      "series": "The Lizzie Bennet Diaries",
+      "episode_label": "Ep 1",
+      "playlist_id": "PL6690D980D8A65D08",
+      "playlist_index": 1,
+      "url": "https://www.youtube.com/watch?v=KisuGP2lcPs",
+      "messy_metadata": { "title": "Video 1" }
+    },
+    {
+      "id": "lbd-ep02",
+      "store_key": "lizzie_bennet",
+      "series": "The Lizzie Bennet Diaries",
+      "episode_label": "Ep 2",
+      "playlist_id": "PL6690D980D8A65D08",
+      "playlist_index": 2,
+      "url": "https://www.youtube.com/watch?v=6Yq7aJ2uVBg",
+      "messy_metadata": { "title": "Video 2" }
+    },
+    {
+      "id": "lbd-ep03",
+      "store_key": "lizzie_bennet",
+      "series": "The Lizzie Bennet Diaries",
+      "episode_label": "Ep 3",
+      "playlist_id": "PL6690D980D8A65D08",
+      "playlist_index": 3,
+      "url": "https://www.youtube.com/watch?v=e926p_3UXes",
+      "messy_metadata": { "title": "Video 3" }
+    },
+    {
+      "id": "lbd-ep04",
+      "store_key": "lizzie_bennet",
+      "series": "The Lizzie Bennet Diaries",
+      "episode_label": "Ep 4",
+      "playlist_id": "PL6690D980D8A65D08",
+      "playlist_index": 4,
+      "url": "https://www.youtube.com/watch?v=2KjOskZJEAc",
+      "messy_metadata": { "title": "Video 4" }
+    },
+    {
+      "id": "lbd-ep05",
+      "store_key": "lizzie_bennet",
+      "series": "The Lizzie Bennet Diaries",
+      "episode_label": "Ep 5",
+      "playlist_id": "PL6690D980D8A65D08",
+      "playlist_index": 5,
+      "url": "https://www.youtube.com/watch?v=vV3JJUpwC40",
+      "messy_metadata": { "title": "Video 5" }
+    },
+    {
+      "id": "omeleto-ep01",
+      "store_key": "omeleto_reserve",
+      "series": "The Reserve (Omeleto)",
+      "episode_label": "Ep 1",
+      "playlist_id": "PLwDe6hrCodhlaUcfJI0Yr7zRBdQFGl5t5",
+      "playlist_index": 1,
+      "url": "https://www.youtube.com/watch?v=gKiFXz1kbO0",
+      "messy_metadata": { "title": "Short 1" }
+    },
+    {
+      "id": "omeleto-ep02",
+      "store_key": "omeleto_reserve",
+      "series": "The Reserve (Omeleto)",
+      "episode_label": "Ep 2",
+      "playlist_id": "PLwDe6hrCodhlaUcfJI0Yr7zRBdQFGl5t5",
+      "playlist_index": 2,
+      "url": "https://www.youtube.com/watch?v=7mSH86O2qzA",
+      "messy_metadata": { "title": "Short 2" }
+    },
+    {
+      "id": "omeleto-ep03",
+      "store_key": "omeleto_reserve",
+      "series": "The Reserve (Omeleto)",
+      "episode_label": "Ep 3",
+      "playlist_id": "PLwDe6hrCodhlaUcfJI0Yr7zRBdQFGl5t5",
+      "playlist_index": 3,
+      "url": "https://www.youtube.com/watch?v=VBps1IvCyj0",
+      "messy_metadata": { "title": "Short 3" }
+    },
+    {
+      "id": "omeleto-ep04",
+      "store_key": "omeleto_reserve",
+      "series": "The Reserve (Omeleto)",
+      "episode_label": "Ep 4",
+      "playlist_id": "PLwDe6hrCodhlaUcfJI0Yr7zRBdQFGl5t5",
+      "playlist_index": 4,
+      "url": "https://www.youtube.com/watch?v=68f27rqP_NY",
+      "messy_metadata": { "title": "Short 4" }
+    },
+    {
+      "id": "chef-ep01",
+      "store_key": "french_chef",
+      "series": "The French Chef with Julia Child",
+      "episode_label": "Ep 1",
+      "url": "https://www.youtube.com/watch?v=vijibDontnU",
+      "messy_metadata": { "title": "Untitled" }
+    },
+    {
+      "id": "chef-ep02",
+      "store_key": "french_chef",
+      "series": "The French Chef with Julia Child",
+      "episode_label": "Ep 2",
+      "url": "https://www.youtube.com/watch?v=677kAOMwTmo",
+      "messy_metadata": { "title": "Untitled" }
+    },
+    {
+      "id": "chef-ep03",
+      "store_key": "french_chef",
+      "series": "The French Chef with Julia Child",
+      "episode_label": "Ep 3",
+      "url": "https://www.youtube.com/watch?v=dMeqIWwF5yk",
+      "messy_metadata": { "title": "Untitled" }
+    },
+    {
+      "id": "chef-ep04",
+      "store_key": "french_chef",
+      "series": "The French Chef with Julia Child",
+      "episode_label": "Ep 4",
+      "url": "https://www.youtube.com/watch?v=uruT8FPpeKc",
+      "messy_metadata": { "title": "Untitled" }
+    }
+  ]
+}

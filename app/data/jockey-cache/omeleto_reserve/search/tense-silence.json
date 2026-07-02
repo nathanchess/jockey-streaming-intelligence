@@ -1,0 +1,968 @@
+{
+  "request": {
+    "model": "jockey1.0",
+    "query": "Tense silence before the reveal"
+  },
+  "response": {
+    "query_interpretation": "Searching for scenes matching: Tense silence before the reveal",
+    "total_results": 16,
+    "results": [
+      {
+        "asset_reference": "omeleto-ep01",
+        "timestamp_start": "8:41",
+        "timestamp_end": "9:51",
+        "scene_title": "Episode button",
+        "description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+        "match_type": "semantic",
+        "relevance_score": "96",
+        "scene_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+        "alignment_reasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet drive the semantic beat \"Episode button\" in Ep 1. Lizzie closes the vlog teasing next week's reveal while texting the love interest. Watch for Lizzie Bennet in Ep 1. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep02",
+        "timestamp_start": "16:19",
+        "timestamp_end": "18:31",
+        "scene_title": "Episode button",
+        "description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+        "match_type": "audio",
+        "relevance_score": "94",
+        "scene_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+        "alignment_reasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet drive the audio beat \"Episode button\" in Ep 2. Lizzie closes the vlog teasing next week's reveal while texting the love interest. Watch for Lizzie Bennet in Ep 2. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep03",
+        "timestamp_start": "6:09",
+        "timestamp_end": "6:58",
+        "scene_title": "Episode button",
+        "description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+        "match_type": "text_on_screen",
+        "relevance_score": "92",
+        "scene_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+        "alignment_reasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet drive the text_on_screen beat \"Episode button\" in Ep 3. Lizzie closes the vlog teasing next week's reveal while texting the love interest. Watch for Lizzie Bennet in Ep 3. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep04",
+        "timestamp_start": "12:25",
+        "timestamp_end": "14:05",
+        "scene_title": "Episode button",
+        "description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+        "match_type": "visual",
+        "relevance_score": "90",
+        "scene_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+        "alignment_reasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet drive the visual beat \"Episode button\" in Ep 4. Lizzie closes the vlog teasing next week's reveal while texting the love interest. Watch for Lizzie Bennet in Ep 4. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep01",
+        "timestamp_start": "5:30",
+        "timestamp_end": "6:34",
+        "scene_title": "Romantic DM",
+        "description": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "match_type": "semantic",
+        "relevance_score": "88",
+        "scene_description": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "alignment_reasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet, Jane Bennet drive the semantic beat \"Romantic DM\" in Ep 1. Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet, Jane Bennet. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep02",
+        "timestamp_start": "12:20",
+        "timestamp_end": "14:20",
+        "scene_title": "Public misunderstanding",
+        "description": "Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+        "match_type": "audio",
+        "relevance_score": "86",
+        "scene_description": "Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+        "alignment_reasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet, Lydia Bennet drive the audio beat \"Public misunderstanding\" in Ep 2. Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc. Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet, Lydia Bennet. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Lydia Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep03",
+        "timestamp_start": "3:09",
+        "timestamp_end": "3:54",
+        "scene_title": "Confession cam",
+        "description": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+        "match_type": "text_on_screen",
+        "relevance_score": "84",
+        "scene_description": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+        "alignment_reasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet drive the text_on_screen beat \"Confession cam\" in Ep 3. Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc. Alone, Lizzie tells viewers she fears being misread by both family and audience. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep04",
+        "timestamp_start": "7:52",
+        "timestamp_end": "9:23",
+        "scene_title": "Romantic DM",
+        "description": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "match_type": "visual",
+        "relevance_score": "82",
+        "scene_description": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "alignment_reasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet, Jane Bennet drive the visual beat \"Romantic DM\" in Ep 4. Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet, Jane Bennet. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep01",
+        "timestamp_start": "0:19",
+        "timestamp_end": "1:03",
+        "scene_title": "Vlog hook",
+        "description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+        "match_type": "semantic",
+        "relevance_score": "78",
+        "scene_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+        "alignment_reasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet drive the semantic beat \"Vlog hook\" in Ep 1. Lizzie opens with a breezy recap, then admits something felt off after last night's party. Watch for Lizzie Bennet in Ep 1. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep01",
+        "timestamp_start": "1:03",
+        "timestamp_end": "2:07",
+        "scene_title": "Sister check-in",
+        "description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+        "match_type": "audio",
+        "relevance_score": "76",
+        "scene_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+        "alignment_reasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet, Jane Bennet drive the audio beat \"Sister check-in\" in Ep 1. Jane visits Lizzie's room; they decode a cryptic text from a love interest. Watch for Lizzie Bennet, Jane Bennet in Ep 1. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep02",
+        "timestamp_start": "0:35",
+        "timestamp_end": "1:59",
+        "scene_title": "Vlog hook",
+        "description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+        "match_type": "text_on_screen",
+        "relevance_score": "74",
+        "scene_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+        "alignment_reasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet drive the text_on_screen beat \"Vlog hook\" in Ep 2. Lizzie opens with a breezy recap, then admits something felt off after last night's party. Watch for Lizzie Bennet in Ep 2. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep02",
+        "timestamp_start": "1:59",
+        "timestamp_end": "3:59",
+        "scene_title": "Sister check-in",
+        "description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+        "match_type": "visual",
+        "relevance_score": "72",
+        "scene_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+        "alignment_reasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet, Jane Bennet drive the visual beat \"Sister check-in\" in Ep 2. Jane visits Lizzie's room; they decode a cryptic text from a love interest. Watch for Lizzie Bennet, Jane Bennet in Ep 2. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep03",
+        "timestamp_start": "0:13",
+        "timestamp_end": "0:45",
+        "scene_title": "Vlog hook",
+        "description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+        "match_type": "semantic",
+        "relevance_score": "70",
+        "scene_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+        "alignment_reasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet drive the semantic beat \"Vlog hook\" in Ep 3. Lizzie opens with a breezy recap, then admits something felt off after last night's party. Watch for Lizzie Bennet in Ep 3. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep03",
+        "timestamp_start": "0:45",
+        "timestamp_end": "1:30",
+        "scene_title": "Sister check-in",
+        "description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+        "match_type": "audio",
+        "relevance_score": "68",
+        "scene_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+        "alignment_reasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet, Jane Bennet drive the audio beat \"Sister check-in\" in Ep 3. Jane visits Lizzie's room; they decode a cryptic text from a love interest. Watch for Lizzie Bennet, Jane Bennet in Ep 3. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep04",
+        "timestamp_start": "0:27",
+        "timestamp_end": "1:30",
+        "scene_title": "Vlog hook",
+        "description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+        "match_type": "text_on_screen",
+        "relevance_score": "66",
+        "scene_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+        "alignment_reasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet drive the text_on_screen beat \"Vlog hook\" in Ep 4. Lizzie opens with a breezy recap, then admits something felt off after last night's party. Watch for Lizzie Bennet in Ep 4. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "omeleto-ep04",
+        "timestamp_start": "1:30",
+        "timestamp_end": "3:01",
+        "scene_title": "Sister check-in",
+        "description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+        "match_type": "visual",
+        "relevance_score": "64",
+        "scene_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+        "alignment_reasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet, Jane Bennet drive the visual beat \"Sister check-in\" in Ep 4. Jane visits Lizzie's room; they decode a cryptic text from a love interest. Watch for Lizzie Bennet, Jane Bennet in Ep 4. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      }
+    ]
+  },
+  "resolved_clips": [
+    {
+      "id": "tense-silence-0",
+      "assetId": "omeleto-ep01",
+      "assetReference": "omeleto-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/omeleto-ep01",
+      "startSec": 521,
+      "endSec": 591,
+      "thumbnailUrl": "https://i.ytimg.com/vi/gKiFXz1kbO0/maxresdefault.jpg",
+      "title": "Episode button",
+      "sceneTitle": "Episode button",
+      "description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+      "matchType": "semantic",
+      "relevanceScore": "96",
+      "matchScore": "96",
+      "sceneDescription": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+      "alignmentReasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet drive the semantic beat \"Episode button\" in Ep 1. Lizzie closes the vlog teasing next week's reveal while texting the love interest. Watch for Lizzie Bennet in Ep 1. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "tense-silence-1",
+      "assetId": "omeleto-ep02",
+      "assetReference": "omeleto-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/omeleto-ep02",
+      "startSec": 979,
+      "endSec": 1111,
+      "thumbnailUrl": "https://i.ytimg.com/vi/7mSH86O2qzA/maxresdefault.jpg",
+      "title": "Episode button",
+      "sceneTitle": "Episode button",
+      "description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+      "matchType": "audio",
+      "relevanceScore": "94",
+      "matchScore": "94",
+      "sceneDescription": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+      "alignmentReasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet drive the audio beat \"Episode button\" in Ep 2. Lizzie closes the vlog teasing next week's reveal while texting the love interest. Watch for Lizzie Bennet in Ep 2. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "tense-silence-2",
+      "assetId": "omeleto-ep03",
+      "assetReference": "omeleto-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/omeleto-ep03",
+      "startSec": 369,
+      "endSec": 418,
+      "thumbnailUrl": "https://i.ytimg.com/vi/VBps1IvCyj0/maxresdefault.jpg",
+      "title": "Episode button",
+      "sceneTitle": "Episode button",
+      "description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "92",
+      "matchScore": "92",
+      "sceneDescription": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+      "alignmentReasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet drive the text_on_screen beat \"Episode button\" in Ep 3. Lizzie closes the vlog teasing next week's reveal while texting the love interest. Watch for Lizzie Bennet in Ep 3. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "tense-silence-3",
+      "assetId": "omeleto-ep04",
+      "assetReference": "omeleto-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/omeleto-ep04",
+      "startSec": 745,
+      "endSec": 845,
+      "thumbnailUrl": "https://i.ytimg.com/vi/68f27rqP_NY/maxresdefault.jpg",
+      "title": "Episode button",
+      "sceneTitle": "Episode button",
+      "description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+      "matchType": "visual",
+      "relevanceScore": "90",
+      "matchScore": "90",
+      "sceneDescription": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+      "alignmentReasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet drive the visual beat \"Episode button\" in Ep 4. Lizzie closes the vlog teasing next week's reveal while texting the love interest. Watch for Lizzie Bennet in Ep 4. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "tense-silence-4",
+      "assetId": "omeleto-ep01",
+      "assetReference": "omeleto-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/omeleto-ep01",
+      "startSec": 330,
+      "endSec": 394,
+      "thumbnailUrl": "https://i.ytimg.com/vi/gKiFXz1kbO0/maxresdefault.jpg",
+      "title": "Romantic DM",
+      "sceneTitle": "Romantic DM",
+      "description": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "matchType": "semantic",
+      "relevanceScore": "88",
+      "matchScore": "88",
+      "sceneDescription": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "alignmentReasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet, Jane Bennet drive the semantic beat \"Romantic DM\" in Ep 1. Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet, Jane Bennet. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "tense-silence-5",
+      "assetId": "omeleto-ep02",
+      "assetReference": "omeleto-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/omeleto-ep02",
+      "startSec": 740,
+      "endSec": 860,
+      "thumbnailUrl": "https://i.ytimg.com/vi/7mSH86O2qzA/maxresdefault.jpg",
+      "title": "Public misunderstanding",
+      "sceneTitle": "Public misunderstanding",
+      "description": "Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+      "matchType": "audio",
+      "relevanceScore": "86",
+      "matchScore": "86",
+      "sceneDescription": "Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+      "alignmentReasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet, Lydia Bennet drive the audio beat \"Public misunderstanding\" in Ep 2. Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc. Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet, Lydia Bennet. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Lydia Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "tense-silence-6",
+      "assetId": "omeleto-ep03",
+      "assetReference": "omeleto-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/omeleto-ep03",
+      "startSec": 189,
+      "endSec": 234,
+      "thumbnailUrl": "https://i.ytimg.com/vi/VBps1IvCyj0/maxresdefault.jpg",
+      "title": "Confession cam",
+      "sceneTitle": "Confession cam",
+      "description": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "84",
+      "matchScore": "84",
+      "sceneDescription": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+      "alignmentReasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet drive the text_on_screen beat \"Confession cam\" in Ep 3. Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc. Alone, Lizzie tells viewers she fears being misread by both family and audience. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "tense-silence-7",
+      "assetId": "omeleto-ep04",
+      "assetReference": "omeleto-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/omeleto-ep04",
+      "startSec": 472,
+      "endSec": 563,
+      "thumbnailUrl": "https://i.ytimg.com/vi/68f27rqP_NY/maxresdefault.jpg",
+      "title": "Romantic DM",
+      "sceneTitle": "Romantic DM",
+      "description": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "matchType": "visual",
+      "relevanceScore": "82",
+      "matchScore": "82",
+      "sceneDescription": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "alignmentReasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet, Jane Bennet drive the visual beat \"Romantic DM\" in Ep 4. Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet, Jane Bennet. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "tense-silence-8",
+      "assetId": "omeleto-ep01",
+      "assetReference": "omeleto-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/omeleto-ep01",
+      "startSec": 19,
+      "endSec": 63,
+      "thumbnailUrl": "https://i.ytimg.com/vi/gKiFXz1kbO0/maxresdefault.jpg",
+      "title": "Vlog hook",
+      "sceneTitle": "Vlog hook",
+      "description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+      "matchType": "semantic",
+      "relevanceScore": "78",
+      "matchScore": "78",
+      "sceneDescription": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+      "alignmentReasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet drive the semantic beat \"Vlog hook\" in Ep 1. Lizzie opens with a breezy recap, then admits something felt off after last night's party. Watch for Lizzie Bennet in Ep 1. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "tense-silence-9",
+      "assetId": "omeleto-ep01",
+      "assetReference": "omeleto-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/omeleto-ep01",
+      "startSec": 63,
+      "endSec": 127,
+      "thumbnailUrl": "https://i.ytimg.com/vi/gKiFXz1kbO0/maxresdefault.jpg",
+      "title": "Sister check-in",
+      "sceneTitle": "Sister check-in",
+      "description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+      "matchType": "audio",
+      "relevanceScore": "76",
+      "matchScore": "76",
+      "sceneDescription": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+      "alignmentReasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet, Jane Bennet drive the audio beat \"Sister check-in\" in Ep 1. Jane visits Lizzie's room; they decode a cryptic text from a love interest. Watch for Lizzie Bennet, Jane Bennet in Ep 1. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "tense-silence-10",
+      "assetId": "omeleto-ep02",
+      "assetReference": "omeleto-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/omeleto-ep02",
+      "startSec": 35,
+      "endSec": 119,
+      "thumbnailUrl": "https://i.ytimg.com/vi/7mSH86O2qzA/maxresdefault.jpg",
+      "title": "Vlog hook",
+      "sceneTitle": "Vlog hook",
+      "description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "74",
+      "matchScore": "74",
+      "sceneDescription": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+      "alignmentReasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet drive the text_on_screen beat \"Vlog hook\" in Ep 2. Lizzie opens with a breezy recap, then admits something felt off after last night's party. Watch for Lizzie Bennet in Ep 2. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "tense-silence-11",
+      "assetId": "omeleto-ep02",
+      "assetReference": "omeleto-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/omeleto-ep02",
+      "startSec": 119,
+      "endSec": 239,
+      "thumbnailUrl": "https://i.ytimg.com/vi/7mSH86O2qzA/maxresdefault.jpg",
+      "title": "Sister check-in",
+      "sceneTitle": "Sister check-in",
+      "description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+      "matchType": "visual",
+      "relevanceScore": "72",
+      "matchScore": "72",
+      "sceneDescription": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+      "alignmentReasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet, Jane Bennet drive the visual beat \"Sister check-in\" in Ep 2. Jane visits Lizzie's room; they decode a cryptic text from a love interest. Watch for Lizzie Bennet, Jane Bennet in Ep 2. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "tense-silence-12",
+      "assetId": "omeleto-ep03",
+      "assetReference": "omeleto-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/omeleto-ep03",
+      "startSec": 13,
+      "endSec": 45,
+      "thumbnailUrl": "https://i.ytimg.com/vi/VBps1IvCyj0/maxresdefault.jpg",
+      "title": "Vlog hook",
+      "sceneTitle": "Vlog hook",
+      "description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+      "matchType": "semantic",
+      "relevanceScore": "70",
+      "matchScore": "70",
+      "sceneDescription": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+      "alignmentReasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet drive the semantic beat \"Vlog hook\" in Ep 3. Lizzie opens with a breezy recap, then admits something felt off after last night's party. Watch for Lizzie Bennet in Ep 3. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "tense-silence-13",
+      "assetId": "omeleto-ep03",
+      "assetReference": "omeleto-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/omeleto-ep03",
+      "startSec": 45,
+      "endSec": 90,
+      "thumbnailUrl": "https://i.ytimg.com/vi/VBps1IvCyj0/maxresdefault.jpg",
+      "title": "Sister check-in",
+      "sceneTitle": "Sister check-in",
+      "description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+      "matchType": "audio",
+      "relevanceScore": "68",
+      "matchScore": "68",
+      "sceneDescription": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+      "alignmentReasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet, Jane Bennet drive the audio beat \"Sister check-in\" in Ep 3. Jane visits Lizzie's room; they decode a cryptic text from a love interest. Watch for Lizzie Bennet, Jane Bennet in Ep 3. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "tense-silence-14",
+      "assetId": "omeleto-ep04",
+      "assetReference": "omeleto-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/omeleto-ep04",
+      "startSec": 27,
+      "endSec": 90,
+      "thumbnailUrl": "https://i.ytimg.com/vi/68f27rqP_NY/maxresdefault.jpg",
+      "title": "Vlog hook",
+      "sceneTitle": "Vlog hook",
+      "description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "66",
+      "matchScore": "66",
+      "sceneDescription": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+      "alignmentReasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet drive the text_on_screen beat \"Vlog hook\" in Ep 4. Lizzie opens with a breezy recap, then admits something felt off after last night's party. Watch for Lizzie Bennet in Ep 4. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "tense-silence-15",
+      "assetId": "omeleto-ep04",
+      "assetReference": "omeleto-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/omeleto-ep04",
+      "startSec": 90,
+      "endSec": 181,
+      "thumbnailUrl": "https://i.ytimg.com/vi/68f27rqP_NY/maxresdefault.jpg",
+      "title": "Sister check-in",
+      "sceneTitle": "Sister check-in",
+      "description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+      "matchType": "visual",
+      "relevanceScore": "64",
+      "matchScore": "64",
+      "sceneDescription": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+      "alignmentReasoning": "This scene matches \"Tense silence before the reveal\" because Lizzie Bennet, Jane Bennet drive the visual beat \"Sister check-in\" in Ep 4. Jane visits Lizzie's room; they decode a cryptic text from a love interest. Watch for Lizzie Bennet, Jane Bennet in Ep 4. For viewers searching tense silence before the reveal, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    }
+  ],
+  "session_id": "sess_seed_omeleto_reserve_tense-silence",
+  "explore_presentation": {
+    "featured_title": "Silence before the storm",
+    "featured_subtitle": "Quiet beats Jockey found before everything breaks",
+    "rails": [
+      {
+        "id": "held-breath",
+        "title": "Held Breath",
+        "subtitle": "Stillness that builds dread",
+        "startIndex": 4,
+        "endIndex": 7
+      },
+      {
+        "id": "the-wait",
+        "title": "The Wait",
+        "subtitle": "Suspense in a single frame",
+        "startIndex": 8,
+        "endIndex": 11
+      },
+      {
+        "id": "more-quiet",
+        "title": "More Quiet",
+        "subtitle": "Additional tense pauses",
+        "startIndex": 12,
+        "endIndex": 15
+      }
+    ]
+  }
+}

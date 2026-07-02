@@ -1,0 +1,941 @@
+{
+  "request": {
+    "model": "jockey1.0",
+    "intent": "90-min drama block, 18-34 female demo, prime-time competition energy"
+  },
+  "response": {
+    "viewer_intent_interpretation": "90-min drama block, 18-34 female demo, prime-time competition energy",
+    "recommended_rail": [
+      {
+        "rank": 1,
+        "asset_reference": "lbd-ep01",
+        "title": "Romantic DM",
+        "clip_start": "1:44",
+        "clip_end": "2:04",
+        "rationale": "FAST Programmer · Romantic DM — Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Romantic DM\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet, Jane Bennet drive the beat: Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Romantic DM",
+        "clip_description": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "sub_clip_focus": "Romantic DM — Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "audience_fit_score": 98,
+        "interest_match_score": 94,
+        "avoidance_score": 92
+      },
+      {
+        "rank": 2,
+        "asset_reference": "lbd-ep02",
+        "title": "Public misunderstanding",
+        "clip_start": "2:13",
+        "clip_end": "2:35",
+        "rationale": "FAST Programmer · Public misunderstanding — Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Public misunderstanding\" in Ep 2 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet, Lydia Bennet drive the beat: Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Public misunderstanding",
+        "clip_description": "Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+        "characters_present": [
+          "Lizzie Bennet",
+          "Lydia Bennet"
+        ],
+        "sub_clip_focus": "Public misunderstanding — Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Lizzie Bennet",
+          "Lydia Bennet"
+        ],
+        "audience_fit_score": 96,
+        "interest_match_score": 92,
+        "avoidance_score": 90
+      },
+      {
+        "rank": 3,
+        "asset_reference": "lbd-ep03",
+        "title": "Confession cam",
+        "clip_start": "1:20",
+        "clip_end": "1:39",
+        "rationale": "FAST Programmer · Confession cam — Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Confession cam\" in Ep 3 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet drive the beat: Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Confession cam",
+        "clip_description": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "sub_clip_focus": "Confession cam — Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Lizzie Bennet"
+        ],
+        "audience_fit_score": 94,
+        "interest_match_score": 90,
+        "avoidance_score": 88
+      },
+      {
+        "rank": 4,
+        "asset_reference": "lbd-ep04",
+        "title": "Romantic DM",
+        "clip_start": "1:45",
+        "clip_end": "2:05",
+        "rationale": "FAST Programmer · Romantic DM — Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Romantic DM\" in Ep 4 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet, Jane Bennet drive the beat: Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Romantic DM",
+        "clip_description": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "sub_clip_focus": "Romantic DM — Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "audience_fit_score": 92,
+        "interest_match_score": 88,
+        "avoidance_score": 86
+      },
+      {
+        "rank": 5,
+        "asset_reference": "lbd-ep05",
+        "title": "Public misunderstanding",
+        "clip_start": "1:58",
+        "clip_end": "2:17",
+        "rationale": "FAST Programmer · Public misunderstanding — Editorially, \"Public misunderstanding\" is the pivot of Ep 5: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Public misunderstanding\" in Ep 5 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet, Lydia Bennet drive the beat: Editorially, \"Public misunderstanding\" is the pivot of Ep 5: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Public misunderstanding",
+        "clip_description": "Editorially, \"Public misunderstanding\" is the pivot of Ep 5: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+        "characters_present": [
+          "Lizzie Bennet",
+          "Lydia Bennet"
+        ],
+        "sub_clip_focus": "Public misunderstanding — Editorially, \"Public misunderstanding\" is the pivot of Ep 5: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Lizzie Bennet",
+          "Lydia Bennet"
+        ],
+        "audience_fit_score": 90,
+        "interest_match_score": 86,
+        "avoidance_score": 84
+      },
+      {
+        "rank": 6,
+        "asset_reference": "lbd-ep01",
+        "title": "Vlog hook",
+        "clip_start": "0:06",
+        "clip_end": "0:20",
+        "rationale": "FAST Programmer · Vlog hook — Lizzie opens with a breezy recap, then admits something felt off after last night's party",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Vlog hook\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet drive the beat: Lizzie opens with a breezy recap, then admits something felt off after last night's party. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Vlog hook",
+        "clip_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "sub_clip_focus": "Vlog hook — Lizzie opens with a breezy recap, then admits something felt off after last night's party",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Lizzie Bennet"
+        ],
+        "audience_fit_score": 87,
+        "interest_match_score": 83,
+        "avoidance_score": 81
+      },
+      {
+        "rank": 7,
+        "asset_reference": "lbd-ep01",
+        "title": "Sister check-in",
+        "clip_start": "0:20",
+        "clip_end": "0:40",
+        "rationale": "FAST Programmer · Sister check-in — Jane visits Lizzie's room; they decode a cryptic text from a love interest",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Sister check-in\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet, Jane Bennet drive the beat: Jane visits Lizzie's room; they decode a cryptic text from a love interest. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Sister check-in",
+        "clip_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "sub_clip_focus": "Sister check-in — Jane visits Lizzie's room; they decode a cryptic text from a love interest",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "audience_fit_score": 85,
+        "interest_match_score": 81,
+        "avoidance_score": 79
+      },
+      {
+        "rank": 8,
+        "asset_reference": "lbd-ep01",
+        "title": "Lydia's post",
+        "clip_start": "0:40",
+        "clip_end": "1:00",
+        "rationale": "FAST Programmer · Lydia's post — Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Lydia's post\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lydia Bennet, Lizzie Bennet drive the beat: Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Lydia's post",
+        "clip_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+        "characters_present": [
+          "Lydia Bennet",
+          "Lizzie Bennet"
+        ],
+        "sub_clip_focus": "Lydia's post — Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Lydia Bennet",
+          "Lizzie Bennet"
+        ],
+        "audience_fit_score": 83,
+        "interest_match_score": 79,
+        "avoidance_score": 78
+      },
+      {
+        "rank": 9,
+        "asset_reference": "lbd-ep02",
+        "title": "Vlog hook",
+        "clip_start": "0:06",
+        "clip_end": "0:21",
+        "rationale": "FAST Programmer · Vlog hook — Lizzie opens with a breezy recap, then admits something felt off after last night's party",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Vlog hook\" in Ep 2 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet drive the beat: Lizzie opens with a breezy recap, then admits something felt off after last night's party. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Vlog hook",
+        "clip_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "sub_clip_focus": "Vlog hook — Lizzie opens with a breezy recap, then admits something felt off after last night's party",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Lizzie Bennet"
+        ],
+        "audience_fit_score": 81,
+        "interest_match_score": 77,
+        "avoidance_score": 78
+      },
+      {
+        "rank": 10,
+        "asset_reference": "lbd-ep02",
+        "title": "Sister check-in",
+        "clip_start": "0:21",
+        "clip_end": "0:43",
+        "rationale": "FAST Programmer · Sister check-in — Jane visits Lizzie's room; they decode a cryptic text from a love interest",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Sister check-in\" in Ep 2 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet, Jane Bennet drive the beat: Jane visits Lizzie's room; they decode a cryptic text from a love interest. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Sister check-in",
+        "clip_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "sub_clip_focus": "Sister check-in — Jane visits Lizzie's room; they decode a cryptic text from a love interest",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "audience_fit_score": 79,
+        "interest_match_score": 75,
+        "avoidance_score": 78
+      }
+    ]
+  },
+  "resolved_clips": [
+    {
+      "id": "fast_programmer-rail-0",
+      "assetId": "lbd-ep01",
+      "assetReference": "lbd-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/lbd-ep01",
+      "startSec": 104,
+      "endSec": 124,
+      "thumbnailUrl": "https://i.ytimg.com/vi/KisuGP2lcPs/maxresdefault.jpg",
+      "title": "Romantic DM",
+      "sceneTitle": "Romantic DM",
+      "description": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "sceneDescription": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Romantic DM\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet, Jane Bennet drive the beat: Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Romantic DM",
+      "subClipFocus": "Romantic DM — Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc",
+      "rank": 1,
+      "personalizationMetadata": {
+        "clipDescription": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "reasoning": "For a FAST Programmer viewer, \"Romantic DM\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet, Jane Bennet drive the beat: Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 98,
+          "interestMatch": 94,
+          "avoidanceConfidence": 92
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-1",
+      "assetId": "lbd-ep02",
+      "assetReference": "lbd-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/lbd-ep02",
+      "startSec": 133,
+      "endSec": 155,
+      "thumbnailUrl": "https://i.ytimg.com/vi/6Yq7aJ2uVBg/maxresdefault.jpg",
+      "title": "Public misunderstanding",
+      "sceneTitle": "Public misunderstanding",
+      "description": "Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+      "sceneDescription": "Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Lydia Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Public misunderstanding\" in Ep 2 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet, Lydia Bennet drive the beat: Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Public misunderstanding",
+      "subClipFocus": "Public misunderstanding — Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc",
+      "rank": 2,
+      "personalizationMetadata": {
+        "clipDescription": "Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+        "reasoning": "For a FAST Programmer viewer, \"Public misunderstanding\" in Ep 2 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet, Lydia Bennet drive the beat: Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Lizzie Bennet",
+          "Lydia Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 96,
+          "interestMatch": 92,
+          "avoidanceConfidence": 90
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-2",
+      "assetId": "lbd-ep03",
+      "assetReference": "lbd-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/lbd-ep03",
+      "startSec": 80,
+      "endSec": 99,
+      "thumbnailUrl": "https://i.ytimg.com/vi/e926p_3UXes/maxresdefault.jpg",
+      "title": "Confession cam",
+      "sceneTitle": "Confession cam",
+      "description": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+      "sceneDescription": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Confession cam\" in Ep 3 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet drive the beat: Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Confession cam",
+      "subClipFocus": "Confession cam — Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc",
+      "rank": 3,
+      "personalizationMetadata": {
+        "clipDescription": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+        "reasoning": "For a FAST Programmer viewer, \"Confession cam\" in Ep 3 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet drive the beat: Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Lizzie Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 94,
+          "interestMatch": 90,
+          "avoidanceConfidence": 88
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-3",
+      "assetId": "lbd-ep04",
+      "assetReference": "lbd-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/lbd-ep04",
+      "startSec": 105,
+      "endSec": 125,
+      "thumbnailUrl": "https://i.ytimg.com/vi/2KjOskZJEAc/maxresdefault.jpg",
+      "title": "Romantic DM",
+      "sceneTitle": "Romantic DM",
+      "description": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "sceneDescription": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Romantic DM\" in Ep 4 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet, Jane Bennet drive the beat: Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Romantic DM",
+      "subClipFocus": "Romantic DM — Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc",
+      "rank": 4,
+      "personalizationMetadata": {
+        "clipDescription": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "reasoning": "For a FAST Programmer viewer, \"Romantic DM\" in Ep 4 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet, Jane Bennet drive the beat: Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 92,
+          "interestMatch": 88,
+          "avoidanceConfidence": 86
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-4",
+      "assetId": "lbd-ep05",
+      "assetReference": "lbd-ep05",
+      "episodeLabel": "Ep 5",
+      "videoSrc": "/api/media/lbd-ep05",
+      "startSec": 118,
+      "endSec": 137,
+      "thumbnailUrl": "https://i.ytimg.com/vi/vV3JJUpwC40/maxresdefault.jpg",
+      "title": "Public misunderstanding",
+      "sceneTitle": "Public misunderstanding",
+      "description": "Editorially, \"Public misunderstanding\" is the pivot of Ep 5: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+      "sceneDescription": "Editorially, \"Public misunderstanding\" is the pivot of Ep 5: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Lydia Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Public misunderstanding\" in Ep 5 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet, Lydia Bennet drive the beat: Editorially, \"Public misunderstanding\" is the pivot of Ep 5: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Public misunderstanding",
+      "subClipFocus": "Public misunderstanding — Editorially, \"Public misunderstanding\" is the pivot of Ep 5: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc",
+      "rank": 5,
+      "personalizationMetadata": {
+        "clipDescription": "Editorially, \"Public misunderstanding\" is the pivot of Ep 5: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+        "reasoning": "For a FAST Programmer viewer, \"Public misunderstanding\" in Ep 5 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet, Lydia Bennet drive the beat: Editorially, \"Public misunderstanding\" is the pivot of Ep 5: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Lizzie Bennet",
+          "Lydia Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 90,
+          "interestMatch": 86,
+          "avoidanceConfidence": 84
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-5",
+      "assetId": "lbd-ep01",
+      "assetReference": "lbd-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/lbd-ep01",
+      "startSec": 6,
+      "endSec": 20,
+      "thumbnailUrl": "https://i.ytimg.com/vi/KisuGP2lcPs/maxresdefault.jpg",
+      "title": "Vlog hook",
+      "sceneTitle": "Vlog hook",
+      "description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+      "sceneDescription": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Vlog hook\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet drive the beat: Lizzie opens with a breezy recap, then admits something felt off after last night's party. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Vlog hook",
+      "subClipFocus": "Vlog hook — Lizzie opens with a breezy recap, then admits something felt off after last night's party",
+      "rank": 6,
+      "personalizationMetadata": {
+        "clipDescription": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+        "reasoning": "For a FAST Programmer viewer, \"Vlog hook\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet drive the beat: Lizzie opens with a breezy recap, then admits something felt off after last night's party. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Lizzie Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 87,
+          "interestMatch": 83,
+          "avoidanceConfidence": 81
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-6",
+      "assetId": "lbd-ep01",
+      "assetReference": "lbd-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/lbd-ep01",
+      "startSec": 20,
+      "endSec": 40,
+      "thumbnailUrl": "https://i.ytimg.com/vi/KisuGP2lcPs/maxresdefault.jpg",
+      "title": "Sister check-in",
+      "sceneTitle": "Sister check-in",
+      "description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+      "sceneDescription": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Sister check-in\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet, Jane Bennet drive the beat: Jane visits Lizzie's room; they decode a cryptic text from a love interest. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Sister check-in",
+      "subClipFocus": "Sister check-in — Jane visits Lizzie's room; they decode a cryptic text from a love interest",
+      "rank": 7,
+      "personalizationMetadata": {
+        "clipDescription": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+        "reasoning": "For a FAST Programmer viewer, \"Sister check-in\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet, Jane Bennet drive the beat: Jane visits Lizzie's room; they decode a cryptic text from a love interest. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 85,
+          "interestMatch": 81,
+          "avoidanceConfidence": 79
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-7",
+      "assetId": "lbd-ep01",
+      "assetReference": "lbd-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/lbd-ep01",
+      "startSec": 40,
+      "endSec": 60,
+      "thumbnailUrl": "https://i.ytimg.com/vi/KisuGP2lcPs/maxresdefault.jpg",
+      "title": "Lydia's post",
+      "sceneTitle": "Lydia's post",
+      "description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+      "sceneDescription": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lydia Bennet",
+        "Lizzie Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Lydia's post\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lydia Bennet, Lizzie Bennet drive the beat: Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Lydia's post",
+      "subClipFocus": "Lydia's post — Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera",
+      "rank": 8,
+      "personalizationMetadata": {
+        "clipDescription": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+        "reasoning": "For a FAST Programmer viewer, \"Lydia's post\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lydia Bennet, Lizzie Bennet drive the beat: Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Lydia Bennet",
+          "Lizzie Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 83,
+          "interestMatch": 79,
+          "avoidanceConfidence": 78
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-8",
+      "assetId": "lbd-ep02",
+      "assetReference": "lbd-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/lbd-ep02",
+      "startSec": 6,
+      "endSec": 21,
+      "thumbnailUrl": "https://i.ytimg.com/vi/6Yq7aJ2uVBg/maxresdefault.jpg",
+      "title": "Vlog hook",
+      "sceneTitle": "Vlog hook",
+      "description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+      "sceneDescription": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Vlog hook\" in Ep 2 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet drive the beat: Lizzie opens with a breezy recap, then admits something felt off after last night's party. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Vlog hook",
+      "subClipFocus": "Vlog hook — Lizzie opens with a breezy recap, then admits something felt off after last night's party",
+      "rank": 9,
+      "personalizationMetadata": {
+        "clipDescription": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+        "reasoning": "For a FAST Programmer viewer, \"Vlog hook\" in Ep 2 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet drive the beat: Lizzie opens with a breezy recap, then admits something felt off after last night's party. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Lizzie Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 81,
+          "interestMatch": 77,
+          "avoidanceConfidence": 78
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-9",
+      "assetId": "lbd-ep02",
+      "assetReference": "lbd-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/lbd-ep02",
+      "startSec": 21,
+      "endSec": 43,
+      "thumbnailUrl": "https://i.ytimg.com/vi/6Yq7aJ2uVBg/maxresdefault.jpg",
+      "title": "Sister check-in",
+      "sceneTitle": "Sister check-in",
+      "description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+      "sceneDescription": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Sister check-in\" in Ep 2 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet, Jane Bennet drive the beat: Jane visits Lizzie's room; they decode a cryptic text from a love interest. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Sister check-in",
+      "subClipFocus": "Sister check-in — Jane visits Lizzie's room; they decode a cryptic text from a love interest",
+      "rank": 10,
+      "personalizationMetadata": {
+        "clipDescription": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+        "reasoning": "For a FAST Programmer viewer, \"Sister check-in\" in Ep 2 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Lizzie Bennet, Jane Bennet drive the beat: Jane visits Lizzie's room; they decode a cryptic text from a love interest. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 79,
+          "interestMatch": 75,
+          "avoidanceConfidence": 78
+        }
+      }
+    }
+  ]
+}

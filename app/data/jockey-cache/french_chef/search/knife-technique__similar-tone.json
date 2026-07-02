@@ -1,0 +1,111 @@
+{
+  "request": {
+    "model": "jockey1.0",
+    "query": "now find all scenes with a similar emotional tone"
+  },
+  "response": {
+    "query_interpretation": "Similar emotional tone across library",
+    "total_results": 3,
+    "results": [
+      {
+        "asset_reference": "chef-ep04",
+        "timestamp_start": "7:00",
+        "timestamp_end": "7:45",
+        "description": "Scene with matching emotional tone in Ep 4",
+        "match_type": "semantic",
+        "relevance_score": "88",
+        "scene_description": "Emotionally aligned moment in Ep 4",
+        "alignment_reasoning": "Shares pacing, mood, and interpersonal tension with the prior search result.",
+        "match_signals": [
+          "semantic",
+          "emotional tone"
+        ]
+      },
+      {
+        "asset_reference": "chef-ep01",
+        "timestamp_start": "8:00",
+        "timestamp_end": "8:45",
+        "description": "Scene with matching emotional tone in Ep 1",
+        "match_type": "semantic",
+        "relevance_score": "86",
+        "scene_description": "Emotionally aligned moment in Ep 1",
+        "alignment_reasoning": "Shares pacing, mood, and interpersonal tension with the prior search result.",
+        "match_signals": [
+          "semantic",
+          "emotional tone"
+        ]
+      },
+      {
+        "asset_reference": "chef-ep02",
+        "timestamp_start": "9:00",
+        "timestamp_end": "9:45",
+        "description": "Scene with matching emotional tone in Ep 2",
+        "match_type": "semantic",
+        "relevance_score": "84",
+        "scene_description": "Emotionally aligned moment in Ep 2",
+        "alignment_reasoning": "Shares pacing, mood, and interpersonal tension with the prior search result.",
+        "match_signals": [
+          "semantic",
+          "emotional tone"
+        ]
+      }
+    ]
+  },
+  "resolved_clips": [
+    {
+      "id": "knife-technique-followup-0",
+      "assetId": "chef-ep04",
+      "assetReference": "chef-ep04",
+      "videoSrc": "/api/media/chef-ep04",
+      "startSec": 420,
+      "endSec": 465,
+      "thumbnailUrl": "https://i.ytimg.com/vi/uruT8FPpeKc/maxresdefault.jpg",
+      "title": "Similar tone · Ep 4",
+      "description": "Scene with matching emotional tone",
+      "matchType": "semantic",
+      "relevanceScore": "88",
+      "alignmentReasoning": "Shares emotional tone with the featured pick.",
+      "matchSignals": [
+        "semantic",
+        "emotional tone"
+      ]
+    },
+    {
+      "id": "knife-technique-followup-1",
+      "assetId": "chef-ep01",
+      "assetReference": "chef-ep01",
+      "videoSrc": "/api/media/chef-ep01",
+      "startSec": 480,
+      "endSec": 525,
+      "thumbnailUrl": "https://i.ytimg.com/vi/vijibDontnU/maxresdefault.jpg",
+      "title": "Similar tone · Ep 1",
+      "description": "Scene with matching emotional tone",
+      "matchType": "semantic",
+      "relevanceScore": "86",
+      "alignmentReasoning": "Shares emotional tone with the featured pick.",
+      "matchSignals": [
+        "semantic",
+        "emotional tone"
+      ]
+    },
+    {
+      "id": "knife-technique-followup-2",
+      "assetId": "chef-ep02",
+      "assetReference": "chef-ep02",
+      "videoSrc": "/api/media/chef-ep02",
+      "startSec": 540,
+      "endSec": 585,
+      "thumbnailUrl": "https://i.ytimg.com/vi/677kAOMwTmo/maxresdefault.jpg",
+      "title": "Similar tone · Ep 2",
+      "description": "Scene with matching emotional tone",
+      "matchType": "semantic",
+      "relevanceScore": "84",
+      "alignmentReasoning": "Shares emotional tone with the featured pick.",
+      "matchSignals": [
+        "semantic",
+        "emotional tone"
+      ]
+    }
+  ],
+  "session_id": "sess_seed_french_chef_knife-technique_followup"
+}

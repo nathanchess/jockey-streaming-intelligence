@@ -1,0 +1,986 @@
+{
+  "request": {
+    "model": "jockey1.0",
+    "query": "Emotional confession to camera"
+  },
+  "response": {
+    "query_interpretation": "Searching for scenes matching: Emotional confession to camera",
+    "total_results": 16,
+    "results": [
+      {
+        "asset_reference": "lbd-ep03",
+        "timestamp_start": "1:20",
+        "timestamp_end": "1:39",
+        "scene_title": "Confession cam",
+        "description": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+        "match_type": "audio",
+        "relevance_score": "96",
+        "scene_description": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+        "alignment_reasoning": "This scene matches \"Emotional confession to camera\" because Lizzie Bennet drive the audio beat \"Confession cam\" in Ep 3. Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc. Alone, Lizzie tells viewers she fears being misread by both family and audience. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep01",
+        "timestamp_start": "1:24",
+        "timestamp_end": "1:44",
+        "scene_title": "Confession cam",
+        "description": "Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+        "match_type": "text_on_screen",
+        "relevance_score": "94",
+        "scene_description": "Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+        "alignment_reasoning": "This scene matches \"Emotional confession to camera\" because Lizzie Bennet drive the text_on_screen beat \"Confession cam\" in Ep 1. Alone, Lizzie tells viewers she fears being misread by both family and audience. Watch for Lizzie Bennet in Ep 1. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep02",
+        "timestamp_start": "1:30",
+        "timestamp_end": "1:52",
+        "scene_title": "Confession cam",
+        "description": "Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+        "match_type": "visual",
+        "relevance_score": "92",
+        "scene_description": "Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+        "alignment_reasoning": "This scene matches \"Emotional confession to camera\" because Lizzie Bennet drive the visual beat \"Confession cam\" in Ep 2. Alone, Lizzie tells viewers she fears being misread by both family and audience. Watch for Lizzie Bennet in Ep 2. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep04",
+        "timestamp_start": "1:24",
+        "timestamp_end": "1:45",
+        "scene_title": "Confession cam",
+        "description": "Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+        "match_type": "semantic",
+        "relevance_score": "90",
+        "scene_description": "Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+        "alignment_reasoning": "This scene matches \"Emotional confession to camera\" because Lizzie Bennet drive the semantic beat \"Confession cam\" in Ep 4. Alone, Lizzie tells viewers she fears being misread by both family and audience. Watch for Lizzie Bennet in Ep 4. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep05",
+        "timestamp_start": "1:20",
+        "timestamp_end": "1:39",
+        "scene_title": "Confession cam",
+        "description": "Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+        "match_type": "audio",
+        "relevance_score": "88",
+        "scene_description": "Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+        "alignment_reasoning": "This scene matches \"Emotional confession to camera\" because Lizzie Bennet drive the audio beat \"Confession cam\" in Ep 5. Alone, Lizzie tells viewers she fears being misread by both family and audience. Watch for Lizzie Bennet in Ep 5. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep01",
+        "timestamp_start": "0:40",
+        "timestamp_end": "1:00",
+        "scene_title": "Lydia's post",
+        "description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+        "match_type": "text_on_screen",
+        "relevance_score": "86",
+        "scene_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+        "alignment_reasoning": "This scene matches \"Emotional confession to camera\" because Lydia Bennet, Lizzie Bennet drive the text_on_screen beat \"Lydia's post\" in Ep 1. Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. Watch for Lydia Bennet, Lizzie Bennet in Ep 1. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lydia Bennet",
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep01",
+        "timestamp_start": "2:24",
+        "timestamp_end": "2:44",
+        "scene_title": "Sister reconciliation",
+        "description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "match_type": "visual",
+        "relevance_score": "84",
+        "scene_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "alignment_reasoning": "This scene matches \"Emotional confession to camera\" because Lizzie Bennet, Jane Bennet, Lydia Bennet drive the visual beat \"Sister reconciliation\" in Ep 1. Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. Watch for Lizzie Bennet, Jane Bennet, Lydia Bennet in Ep 1. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep02",
+        "timestamp_start": "0:43",
+        "timestamp_end": "1:04",
+        "scene_title": "Lydia's post",
+        "description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+        "match_type": "semantic",
+        "relevance_score": "82",
+        "scene_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+        "alignment_reasoning": "This scene matches \"Emotional confession to camera\" because Lydia Bennet, Lizzie Bennet drive the semantic beat \"Lydia's post\" in Ep 2. Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. Watch for Lydia Bennet, Lizzie Bennet in Ep 2. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lydia Bennet",
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep02",
+        "timestamp_start": "2:35",
+        "timestamp_end": "2:57",
+        "scene_title": "Sister reconciliation",
+        "description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "match_type": "audio",
+        "relevance_score": "80",
+        "scene_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "alignment_reasoning": "This scene matches \"Emotional confession to camera\" because Lizzie Bennet, Jane Bennet, Lydia Bennet drive the audio beat \"Sister reconciliation\" in Ep 2. Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. Watch for Lizzie Bennet, Jane Bennet, Lydia Bennet in Ep 2. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep03",
+        "timestamp_start": "0:38",
+        "timestamp_end": "0:57",
+        "scene_title": "Lydia's post",
+        "description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+        "match_type": "text_on_screen",
+        "relevance_score": "78",
+        "scene_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+        "alignment_reasoning": "This scene matches \"Emotional confession to camera\" because Lydia Bennet, Lizzie Bennet drive the text_on_screen beat \"Lydia's post\" in Ep 3. Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. Watch for Lydia Bennet, Lizzie Bennet in Ep 3. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lydia Bennet",
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep03",
+        "timestamp_start": "2:17",
+        "timestamp_end": "2:36",
+        "scene_title": "Sister reconciliation",
+        "description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "match_type": "visual",
+        "relevance_score": "76",
+        "scene_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "alignment_reasoning": "This scene matches \"Emotional confession to camera\" because Lizzie Bennet, Jane Bennet, Lydia Bennet drive the visual beat \"Sister reconciliation\" in Ep 3. Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. Watch for Lizzie Bennet, Jane Bennet, Lydia Bennet in Ep 3. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep04",
+        "timestamp_start": "0:40",
+        "timestamp_end": "1:00",
+        "scene_title": "Lydia's post",
+        "description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+        "match_type": "semantic",
+        "relevance_score": "74",
+        "scene_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+        "alignment_reasoning": "This scene matches \"Emotional confession to camera\" because Lydia Bennet, Lizzie Bennet drive the semantic beat \"Lydia's post\" in Ep 4. Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. Watch for Lydia Bennet, Lizzie Bennet in Ep 4. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lydia Bennet",
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep04",
+        "timestamp_start": "2:25",
+        "timestamp_end": "2:45",
+        "scene_title": "Sister reconciliation",
+        "description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "match_type": "audio",
+        "relevance_score": "72",
+        "scene_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "alignment_reasoning": "This scene matches \"Emotional confession to camera\" because Lizzie Bennet, Jane Bennet, Lydia Bennet drive the audio beat \"Sister reconciliation\" in Ep 4. Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. Watch for Lizzie Bennet, Jane Bennet, Lydia Bennet in Ep 4. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep05",
+        "timestamp_start": "0:38",
+        "timestamp_end": "0:57",
+        "scene_title": "Lydia's post",
+        "description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+        "match_type": "text_on_screen",
+        "relevance_score": "70",
+        "scene_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+        "alignment_reasoning": "This scene matches \"Emotional confession to camera\" because Lydia Bennet, Lizzie Bennet drive the text_on_screen beat \"Lydia's post\" in Ep 5. Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. Watch for Lydia Bennet, Lizzie Bennet in Ep 5. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lydia Bennet",
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep05",
+        "timestamp_start": "2:17",
+        "timestamp_end": "2:36",
+        "scene_title": "Sister reconciliation",
+        "description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "match_type": "visual",
+        "relevance_score": "68",
+        "scene_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "alignment_reasoning": "This scene matches \"Emotional confession to camera\" because Lizzie Bennet, Jane Bennet, Lydia Bennet drive the visual beat \"Sister reconciliation\" in Ep 5. Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. Watch for Lizzie Bennet, Jane Bennet, Lydia Bennet in Ep 5. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep01",
+        "timestamp_start": "1:44",
+        "timestamp_end": "2:04",
+        "scene_title": "Romantic DM",
+        "description": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "match_type": "semantic",
+        "relevance_score": "66",
+        "scene_description": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "alignment_reasoning": "This scene matches \"Emotional confession to camera\" because Lizzie Bennet, Jane Bennet drive the semantic beat \"Romantic DM\" in Ep 1. Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet, Jane Bennet. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      }
+    ]
+  },
+  "resolved_clips": [
+    {
+      "id": "confession-cam-0",
+      "assetId": "lbd-ep03",
+      "assetReference": "lbd-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/lbd-ep03",
+      "startSec": 80,
+      "endSec": 99,
+      "thumbnailUrl": "https://i.ytimg.com/vi/e926p_3UXes/maxresdefault.jpg",
+      "title": "Confession cam",
+      "sceneTitle": "Confession cam",
+      "description": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+      "matchType": "audio",
+      "relevanceScore": "96",
+      "matchScore": "96",
+      "sceneDescription": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+      "alignmentReasoning": "This scene matches \"Emotional confession to camera\" because Lizzie Bennet drive the audio beat \"Confession cam\" in Ep 3. Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc. Alone, Lizzie tells viewers she fears being misread by both family and audience. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "confession-cam-1",
+      "assetId": "lbd-ep01",
+      "assetReference": "lbd-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/lbd-ep01",
+      "startSec": 84,
+      "endSec": 104,
+      "thumbnailUrl": "https://i.ytimg.com/vi/KisuGP2lcPs/maxresdefault.jpg",
+      "title": "Confession cam",
+      "sceneTitle": "Confession cam",
+      "description": "Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "94",
+      "matchScore": "94",
+      "sceneDescription": "Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+      "alignmentReasoning": "This scene matches \"Emotional confession to camera\" because Lizzie Bennet drive the text_on_screen beat \"Confession cam\" in Ep 1. Alone, Lizzie tells viewers she fears being misread by both family and audience. Watch for Lizzie Bennet in Ep 1. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "confession-cam-2",
+      "assetId": "lbd-ep02",
+      "assetReference": "lbd-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/lbd-ep02",
+      "startSec": 90,
+      "endSec": 112,
+      "thumbnailUrl": "https://i.ytimg.com/vi/6Yq7aJ2uVBg/maxresdefault.jpg",
+      "title": "Confession cam",
+      "sceneTitle": "Confession cam",
+      "description": "Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+      "matchType": "visual",
+      "relevanceScore": "92",
+      "matchScore": "92",
+      "sceneDescription": "Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+      "alignmentReasoning": "This scene matches \"Emotional confession to camera\" because Lizzie Bennet drive the visual beat \"Confession cam\" in Ep 2. Alone, Lizzie tells viewers she fears being misread by both family and audience. Watch for Lizzie Bennet in Ep 2. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "confession-cam-3",
+      "assetId": "lbd-ep04",
+      "assetReference": "lbd-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/lbd-ep04",
+      "startSec": 84,
+      "endSec": 105,
+      "thumbnailUrl": "https://i.ytimg.com/vi/2KjOskZJEAc/maxresdefault.jpg",
+      "title": "Confession cam",
+      "sceneTitle": "Confession cam",
+      "description": "Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+      "matchType": "semantic",
+      "relevanceScore": "90",
+      "matchScore": "90",
+      "sceneDescription": "Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+      "alignmentReasoning": "This scene matches \"Emotional confession to camera\" because Lizzie Bennet drive the semantic beat \"Confession cam\" in Ep 4. Alone, Lizzie tells viewers she fears being misread by both family and audience. Watch for Lizzie Bennet in Ep 4. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "confession-cam-4",
+      "assetId": "lbd-ep05",
+      "assetReference": "lbd-ep05",
+      "episodeLabel": "Ep 5",
+      "videoSrc": "/api/media/lbd-ep05",
+      "startSec": 80,
+      "endSec": 99,
+      "thumbnailUrl": "https://i.ytimg.com/vi/vV3JJUpwC40/maxresdefault.jpg",
+      "title": "Confession cam",
+      "sceneTitle": "Confession cam",
+      "description": "Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+      "matchType": "audio",
+      "relevanceScore": "88",
+      "matchScore": "88",
+      "sceneDescription": "Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+      "alignmentReasoning": "This scene matches \"Emotional confession to camera\" because Lizzie Bennet drive the audio beat \"Confession cam\" in Ep 5. Alone, Lizzie tells viewers she fears being misread by both family and audience. Watch for Lizzie Bennet in Ep 5. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "confession-cam-5",
+      "assetId": "lbd-ep01",
+      "assetReference": "lbd-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/lbd-ep01",
+      "startSec": 40,
+      "endSec": 60,
+      "thumbnailUrl": "https://i.ytimg.com/vi/KisuGP2lcPs/maxresdefault.jpg",
+      "title": "Lydia's post",
+      "sceneTitle": "Lydia's post",
+      "description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "86",
+      "matchScore": "86",
+      "sceneDescription": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+      "alignmentReasoning": "This scene matches \"Emotional confession to camera\" because Lydia Bennet, Lizzie Bennet drive the text_on_screen beat \"Lydia's post\" in Ep 1. Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. Watch for Lydia Bennet, Lizzie Bennet in Ep 1. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lydia Bennet",
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "confession-cam-6",
+      "assetId": "lbd-ep01",
+      "assetReference": "lbd-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/lbd-ep01",
+      "startSec": 144,
+      "endSec": 164,
+      "thumbnailUrl": "https://i.ytimg.com/vi/KisuGP2lcPs/maxresdefault.jpg",
+      "title": "Sister reconciliation",
+      "sceneTitle": "Sister reconciliation",
+      "description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "matchType": "visual",
+      "relevanceScore": "84",
+      "matchScore": "84",
+      "sceneDescription": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "alignmentReasoning": "This scene matches \"Emotional confession to camera\" because Lizzie Bennet, Jane Bennet, Lydia Bennet drive the visual beat \"Sister reconciliation\" in Ep 1. Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. Watch for Lizzie Bennet, Jane Bennet, Lydia Bennet in Ep 1. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet",
+        "Lydia Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "confession-cam-7",
+      "assetId": "lbd-ep02",
+      "assetReference": "lbd-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/lbd-ep02",
+      "startSec": 43,
+      "endSec": 64,
+      "thumbnailUrl": "https://i.ytimg.com/vi/6Yq7aJ2uVBg/maxresdefault.jpg",
+      "title": "Lydia's post",
+      "sceneTitle": "Lydia's post",
+      "description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+      "matchType": "semantic",
+      "relevanceScore": "82",
+      "matchScore": "82",
+      "sceneDescription": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+      "alignmentReasoning": "This scene matches \"Emotional confession to camera\" because Lydia Bennet, Lizzie Bennet drive the semantic beat \"Lydia's post\" in Ep 2. Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. Watch for Lydia Bennet, Lizzie Bennet in Ep 2. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lydia Bennet",
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "confession-cam-8",
+      "assetId": "lbd-ep02",
+      "assetReference": "lbd-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/lbd-ep02",
+      "startSec": 155,
+      "endSec": 177,
+      "thumbnailUrl": "https://i.ytimg.com/vi/6Yq7aJ2uVBg/maxresdefault.jpg",
+      "title": "Sister reconciliation",
+      "sceneTitle": "Sister reconciliation",
+      "description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "matchType": "audio",
+      "relevanceScore": "80",
+      "matchScore": "80",
+      "sceneDescription": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "alignmentReasoning": "This scene matches \"Emotional confession to camera\" because Lizzie Bennet, Jane Bennet, Lydia Bennet drive the audio beat \"Sister reconciliation\" in Ep 2. Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. Watch for Lizzie Bennet, Jane Bennet, Lydia Bennet in Ep 2. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet",
+        "Lydia Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "confession-cam-9",
+      "assetId": "lbd-ep03",
+      "assetReference": "lbd-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/lbd-ep03",
+      "startSec": 38,
+      "endSec": 57,
+      "thumbnailUrl": "https://i.ytimg.com/vi/e926p_3UXes/maxresdefault.jpg",
+      "title": "Lydia's post",
+      "sceneTitle": "Lydia's post",
+      "description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "78",
+      "matchScore": "78",
+      "sceneDescription": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+      "alignmentReasoning": "This scene matches \"Emotional confession to camera\" because Lydia Bennet, Lizzie Bennet drive the text_on_screen beat \"Lydia's post\" in Ep 3. Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. Watch for Lydia Bennet, Lizzie Bennet in Ep 3. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lydia Bennet",
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "confession-cam-10",
+      "assetId": "lbd-ep03",
+      "assetReference": "lbd-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/lbd-ep03",
+      "startSec": 137,
+      "endSec": 156,
+      "thumbnailUrl": "https://i.ytimg.com/vi/e926p_3UXes/maxresdefault.jpg",
+      "title": "Sister reconciliation",
+      "sceneTitle": "Sister reconciliation",
+      "description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "matchType": "visual",
+      "relevanceScore": "76",
+      "matchScore": "76",
+      "sceneDescription": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "alignmentReasoning": "This scene matches \"Emotional confession to camera\" because Lizzie Bennet, Jane Bennet, Lydia Bennet drive the visual beat \"Sister reconciliation\" in Ep 3. Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. Watch for Lizzie Bennet, Jane Bennet, Lydia Bennet in Ep 3. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet",
+        "Lydia Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "confession-cam-11",
+      "assetId": "lbd-ep04",
+      "assetReference": "lbd-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/lbd-ep04",
+      "startSec": 40,
+      "endSec": 60,
+      "thumbnailUrl": "https://i.ytimg.com/vi/2KjOskZJEAc/maxresdefault.jpg",
+      "title": "Lydia's post",
+      "sceneTitle": "Lydia's post",
+      "description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+      "matchType": "semantic",
+      "relevanceScore": "74",
+      "matchScore": "74",
+      "sceneDescription": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+      "alignmentReasoning": "This scene matches \"Emotional confession to camera\" because Lydia Bennet, Lizzie Bennet drive the semantic beat \"Lydia's post\" in Ep 4. Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. Watch for Lydia Bennet, Lizzie Bennet in Ep 4. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lydia Bennet",
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "confession-cam-12",
+      "assetId": "lbd-ep04",
+      "assetReference": "lbd-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/lbd-ep04",
+      "startSec": 145,
+      "endSec": 165,
+      "thumbnailUrl": "https://i.ytimg.com/vi/2KjOskZJEAc/maxresdefault.jpg",
+      "title": "Sister reconciliation",
+      "sceneTitle": "Sister reconciliation",
+      "description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "matchType": "audio",
+      "relevanceScore": "72",
+      "matchScore": "72",
+      "sceneDescription": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "alignmentReasoning": "This scene matches \"Emotional confession to camera\" because Lizzie Bennet, Jane Bennet, Lydia Bennet drive the audio beat \"Sister reconciliation\" in Ep 4. Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. Watch for Lizzie Bennet, Jane Bennet, Lydia Bennet in Ep 4. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet",
+        "Lydia Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "confession-cam-13",
+      "assetId": "lbd-ep05",
+      "assetReference": "lbd-ep05",
+      "episodeLabel": "Ep 5",
+      "videoSrc": "/api/media/lbd-ep05",
+      "startSec": 38,
+      "endSec": 57,
+      "thumbnailUrl": "https://i.ytimg.com/vi/vV3JJUpwC40/maxresdefault.jpg",
+      "title": "Lydia's post",
+      "sceneTitle": "Lydia's post",
+      "description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "70",
+      "matchScore": "70",
+      "sceneDescription": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+      "alignmentReasoning": "This scene matches \"Emotional confession to camera\" because Lydia Bennet, Lizzie Bennet drive the text_on_screen beat \"Lydia's post\" in Ep 5. Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. Watch for Lydia Bennet, Lizzie Bennet in Ep 5. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lydia Bennet",
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "confession-cam-14",
+      "assetId": "lbd-ep05",
+      "assetReference": "lbd-ep05",
+      "episodeLabel": "Ep 5",
+      "videoSrc": "/api/media/lbd-ep05",
+      "startSec": 137,
+      "endSec": 156,
+      "thumbnailUrl": "https://i.ytimg.com/vi/vV3JJUpwC40/maxresdefault.jpg",
+      "title": "Sister reconciliation",
+      "sceneTitle": "Sister reconciliation",
+      "description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "matchType": "visual",
+      "relevanceScore": "68",
+      "matchScore": "68",
+      "sceneDescription": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "alignmentReasoning": "This scene matches \"Emotional confession to camera\" because Lizzie Bennet, Jane Bennet, Lydia Bennet drive the visual beat \"Sister reconciliation\" in Ep 5. Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. Watch for Lizzie Bennet, Jane Bennet, Lydia Bennet in Ep 5. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet",
+        "Lydia Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "confession-cam-15",
+      "assetId": "lbd-ep01",
+      "assetReference": "lbd-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/lbd-ep01",
+      "startSec": 104,
+      "endSec": 124,
+      "thumbnailUrl": "https://i.ytimg.com/vi/KisuGP2lcPs/maxresdefault.jpg",
+      "title": "Romantic DM",
+      "sceneTitle": "Romantic DM",
+      "description": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "matchType": "semantic",
+      "relevanceScore": "66",
+      "matchScore": "66",
+      "sceneDescription": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "alignmentReasoning": "This scene matches \"Emotional confession to camera\" because Lizzie Bennet, Jane Bennet drive the semantic beat \"Romantic DM\" in Ep 1. Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet, Jane Bennet. For viewers searching emotional confession to camera, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    }
+  ],
+  "session_id": "sess_seed_lizzie_bennet_confession-cam",
+  "explore_presentation": {
+    "featured_title": "Confession cam highlights",
+    "featured_subtitle": "Direct-to-camera emotional beats from Jockey",
+    "rails": [
+      {
+        "id": "vulnerable",
+        "title": "Vulnerable",
+        "subtitle": "Raw honesty straight to the lens",
+        "startIndex": 4,
+        "endIndex": 7
+      },
+      {
+        "id": "realizations",
+        "title": "Realizations",
+        "subtitle": "Moments of clarity mid-vlog",
+        "startIndex": 8,
+        "endIndex": 11
+      },
+      {
+        "id": "more-confessions",
+        "title": "More Confessions",
+        "subtitle": "Additional emotional matches",
+        "startIndex": 12,
+        "endIndex": 15
+      }
+    ]
+  }
+}

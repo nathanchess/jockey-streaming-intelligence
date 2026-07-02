@@ -1,0 +1,82 @@
+# --- Secrets & environment (never commit) ---
+.env
+.env.*
+!.env.example
+!**/.env.example
+!.env.registry.example
+
+app/.env
+app/.env.*
+!app/.env.example
+
+preprocessing/.env
+preprocessing/.env.*
+!preprocessing/.env.example
+
+# --- Node / Next.js (app/) ---
+node_modules/
+app/node_modules/
+app/.next/
+app/out/
+app/build/
+next-env.d.ts
+*.tsbuildinfo
+
+# --- Vercel ---
+.vercel/
+
+# --- Testing ---
+app/test-results/
+app/playwright-report/
+app/blob-report/
+playwright/.cache/
+.playwright-mcp/
+
+# --- Python / preprocessing ---
+preprocessing/.venv/
+preprocessing/venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+*.so
+.Python
+
+# Large local video files (YouTube sources; not needed for Vercel deploy)
+preprocessing/videos/
+preprocessing/**/*.info.json
+preprocessing/output/telemetry/
+
+# --- Experiments (local pipeline output; committed data lives under app/data/) ---
+experiments/output/
+
+# --- Logs & debug ---
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- Editors / IDE ---
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.cursor/*
+!.cursor/rules/
+!.cursor/rules/**
+*.swp
+*.swo
+*~
+
+# --- Misc ---
+coverage/
+.turbo/
+.cache/

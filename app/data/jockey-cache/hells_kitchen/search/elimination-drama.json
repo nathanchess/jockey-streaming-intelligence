@@ -1,0 +1,1164 @@
+{
+  "request": {
+    "model": "jockey1.0",
+    "query": "Elimination ceremony drama"
+  },
+  "response": {
+    "query_interpretation": "Searching for scenes matching: Elimination ceremony drama",
+    "total_results": 16,
+    "results": [
+      {
+        "asset_reference": "hk-ep03",
+        "timestamp_start": "38:48",
+        "timestamp_end": "41:50",
+        "scene_title": "Corbin is eliminated after the Egypt-Corbin confrontation",
+        "description": "At elimination, Corbin argues Egypt shut him out and made communication impossible, while Egypt counters that Corbin shrank and whispered instead of leading.  Ramsay ultimately decides Corbin was too disconnected and not ready to be a head chef, eliminates him, and warns the blue team that their numbers are dwindling.",
+        "match_type": "semantic",
+        "relevance_score": "96",
+        "scene_description": "At elimination, Corbin argues Egypt shut him out and made communication impossible, while Egypt counters that Corbin shrank and whispered instead of leading.  Ramsay ultimately decides Corbin was too disconnected and not ready to be a head chef, eliminates him, and warns the blue team that their numbers are dwindling.",
+        "alignment_reasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Egypt, Corbin, Kyle drive the semantic beat \"Corbin is eliminated after the Egypt-Corbin confrontation\" in Ep 3. This closes the episode’s competitive arc while reinforcing the season’s larger blue-team instability and Egypt-centered tension. Watch for Gordon Ramsay, Egypt, Corbin, Kyle in Ep 3. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "seafood challenge",
+          "seafood tower",
+          "medical withdrawal",
+          "injury",
+          "team collapse"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Egypt",
+          "Corbin",
+          "Kyle",
+          "Brandon",
+          "Anthony",
+          "Ann Marie"
+        ],
+        "match_signals": [
+          "seafood challenge",
+          "seafood tower"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep04",
+        "timestamp_start": "38:14",
+        "timestamp_end": "40:45",
+        "scene_title": "Michael is eliminated",
+        "description": "At elimination, the teams nominate Magali, Ann Marie, Michael, and Egypt.  Ramsay hears each plea, sends Egypt, Ann Marie, and Magali back in line, then eliminates Michael.",
+        "match_type": "audio",
+        "relevance_score": "94",
+        "scene_description": "At elimination, the teams nominate Magali, Ann Marie, Michael, and Egypt.  Ramsay hears each plea, sends Egypt, Ann Marie, and Magali back in line, then eliminates Michael.",
+        "alignment_reasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Michael, Egypt, Ann Marie drive the audio beat \"Michael is eliminated\" in Ep 4. This resolves the episode’s competitive stakes and converts Blue’s chaotic night into a permanent loss for the team. Watch for Gordon Ramsay, Michael, Egypt, Ann Marie in Ep 4. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "pickling challenge",
+          "pickleball",
+          "team swap",
+          "Lulu joins Blue Team",
+          "Dan Barber"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Michael",
+          "Egypt",
+          "Ann Marie",
+          "Magali",
+          "Anthony",
+          "Brittany",
+          "Hannah"
+        ],
+        "match_signals": [
+          "pickling challenge",
+          "pickleball"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep05",
+        "timestamp_start": "00:05",
+        "timestamp_end": "03:40",
+        "scene_title": "Previously on: fallout from the last service",
+        "description": "A recap re-establishes the pressure coming into Episode 5: Lulu’s team switch, Michael’s elimination, and Egypt surviving a nomination scare.  The montage matters because it sets up why the Blue Team feels unstable and why Egypt enters the episode carrying emotional residue from the previous service.",
+        "match_type": "text_on_screen",
+        "relevance_score": "92",
+        "scene_description": "A recap re-establishes the pressure coming into Episode 5: Lulu’s team switch, Michael’s elimination, and Egypt surviving a nomination scare.  The montage matters because it sets up why the Blue Team feels unstable and why Egypt enters the episode carrying emotional residue from the previous service.",
+        "alignment_reasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Egypt, Michael, Ann Marie drive the text_on_screen beat \"Previously on: fallout from the last service\" in Ep 5. This beat is necessary context for the whole hour because Egypt’s later breakdown and the Blue Team’s fragile morale are direct consequences of the prior episode. Watch for Gordon Ramsay, Egypt, Michael, Ann Marie in Ep 5. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "burger challenge",
+          "George Motz",
+          "Egypt",
+          "Gordon Ramsay",
+          "homesickness"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Egypt",
+          "Michael",
+          "Ann Marie",
+          "Magali",
+          "Lulu",
+          "Amanda",
+          "Brandon",
+          "Dan Barber"
+        ],
+        "match_signals": [
+          "burger challenge",
+          "George Motz"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep02",
+        "timestamp_start": "14:41",
+        "timestamp_end": "17:05",
+        "scene_title": "Bottom dishes judged, no one eliminated",
+        "description": "Ramsay immediately weaponizes the challenge results by ordering Whit and Brandon to identify the bottom two dishes on their own teams.  Whit names Ann Marie and Brittany; Brandon names Shant and Egypt.",
+        "match_type": "visual",
+        "relevance_score": "90",
+        "scene_description": "Ramsay immediately weaponizes the challenge results by ordering Whit and Brandon to identify the bottom two dishes on their own teams.  Whit names Ann Marie and Brittany; Brandon names Shant and Egypt.",
+        "alignment_reasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Whit, Brandon, Ann Marie drive the visual beat \"Bottom dishes judged, no one eliminated\" in Ep 2. This twist raises pressure without ending anyone’s run, sending unresolved tension straight into service. Watch for Gordon Ramsay, Whit, Brandon, Ann Marie in Ep 2. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass",
+          "opening night service",
+          "first elimination",
+          "Amber eliminated"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Whit",
+          "Brandon",
+          "Ann Marie",
+          "Brittany",
+          "Shant",
+          "Egypt"
+        ],
+        "match_signals": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep02",
+        "timestamp_start": "40:32",
+        "timestamp_end": "42:18",
+        "scene_title": "Amber becomes the first eliminated chef",
+        "description": "Ramsay eliminates Amber, telling her she does not have what it takes to be his next head chef.  After she hands over her jacket and exits, he warns the remaining cast that the night was a disaster and that more than one person could leave if standards do not rise immediately.",
+        "match_type": "semantic",
+        "relevance_score": "88",
+        "scene_description": "Ramsay eliminates Amber, telling her she does not have what it takes to be his next head chef.  After she hands over her jacket and exits, he warns the remaining cast that the night was a disaster and that more than one person could leave if standards do not rise immediately.",
+        "alignment_reasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Amber, Shant, Magali drive the semantic beat \"Amber becomes the first eliminated chef\" in Ep 2. This is the episode’s final consequence: the red team loses a member, while everyone else is put on notice that survival alone is not success. Watch for Gordon Ramsay, Amber, Shant, Magali in Ep 2. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass",
+          "opening night service",
+          "first elimination",
+          "Amber eliminated"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Amber",
+          "Shant",
+          "Magali",
+          "Michael",
+          "Brittany",
+          "Corbin"
+        ],
+        "match_signals": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep02",
+        "timestamp_start": "37:45",
+        "timestamp_end": "40:14",
+        "scene_title": "Four nominees plead their case",
+        "description": "At elimination, Amanda names Magali and Amber for red, and Uri names Michael and Shant for blue.  Ramsay hears each plea, keeps pressing for ownership rather than excuses, then sends Michael and Magali back in line, narrowing the decision to Amber and Shant.",
+        "match_type": "audio",
+        "relevance_score": "86",
+        "scene_description": "At elimination, Amanda names Magali and Amber for red, and Uri names Michael and Shant for blue.  Ramsay hears each plea, keeps pressing for ownership rather than excuses, then sends Michael and Magali back in line, narrowing the decision to Amber and Shant.",
+        "alignment_reasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Amanda, Uri, Amber drive the audio beat \"Four nominees plead their case\" in Ep 2. This sequence separates chefs who look salvageable from chefs Ramsay thinks are actively falling short right now. Watch for Gordon Ramsay, Amanda, Uri, Amber in Ep 2. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass",
+          "opening night service",
+          "first elimination",
+          "Amber eliminated"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Amanda",
+          "Uri",
+          "Amber",
+          "Magali",
+          "Michael",
+          "Shant"
+        ],
+        "match_signals": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep03",
+        "timestamp_start": "02:13",
+        "timestamp_end": "02:53",
+        "scene_title": "Magali regroups after the last elimination",
+        "description": "In the dorms after the prior elimination, Magali breaks down over missing her husband, then regains her composure with Meghan’s support.  The scene matters because it gives the red team an emotional reset before the day’s competition begins.",
+        "match_type": "text_on_screen",
+        "relevance_score": "84",
+        "scene_description": "In the dorms after the prior elimination, Magali breaks down over missing her husband, then regains her composure with Meghan’s support.  The scene matters because it gives the red team an emotional reset before the day’s competition begins.",
+        "alignment_reasoning": "This scene matches \"Elimination ceremony drama\" because Magali, Meghan drive the text_on_screen beat \"Magali regroups after the last elimination\" in Ep 3. This beat bridges the previous episode into this one and establishes a red-team recovery mindset that contrasts with the blue team’s collapse later. Watch for Magali, Meghan in Ep 3. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "seafood challenge",
+          "seafood tower",
+          "medical withdrawal",
+          "injury",
+          "team collapse"
+        ],
+        "characters_present": [
+          "Magali",
+          "Meghan"
+        ],
+        "match_signals": [
+          "seafood challenge",
+          "seafood tower"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep03",
+        "timestamp_start": "36:11",
+        "timestamp_end": "39:38",
+        "scene_title": "The blue team turns service failure into a blame war",
+        "description": "Back in the dorms, the blue team debates whether the bigger problem was Brandon’s meat station, Corbin’s passivity, or Egypt’s abrasive control.  By elimination, Kyle announces the nominees as Egypt and Corbin, explicitly tying Egypt to ego and Corbin to a fish station that never came together.",
+        "match_type": "visual",
+        "relevance_score": "82",
+        "scene_description": "Back in the dorms, the blue team debates whether the bigger problem was Brandon’s meat station, Corbin’s passivity, or Egypt’s abrasive control.  By elimination, Kyle announces the nominees as Egypt and Corbin, explicitly tying Egypt to ego and Corbin to a fish station that never came together.",
+        "alignment_reasoning": "This scene matches \"Elimination ceremony drama\" because Michael, Brandon, Egypt, Corbin drive the visual beat \"The blue team turns service failure into a blame war\" in Ep 3. The nomination debate crystallizes the episode’s main interpersonal conflict: forceful leadership versus ineffective support. Watch for Michael, Brandon, Egypt, Corbin in Ep 3. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "seafood challenge",
+          "seafood tower",
+          "medical withdrawal",
+          "injury",
+          "team collapse"
+        ],
+        "characters_present": [
+          "Michael",
+          "Brandon",
+          "Egypt",
+          "Corbin",
+          "Joe",
+          "Kyle",
+          "Anthony",
+          "Gordon Ramsay"
+        ],
+        "match_signals": [
+          "seafood challenge",
+          "seafood tower"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep04",
+        "timestamp_start": "02:02",
+        "timestamp_end": "02:58",
+        "scene_title": "Blue Team tension carries over",
+        "description": "The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration.  Brandon complains that Egypt is too much in the kitchen, Joe argues the team needs discipline and accountability, and Egypt counters that everyone else needs to raise their level.",
+        "match_type": "semantic",
+        "relevance_score": "80",
+        "scene_description": "The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration.  Brandon complains that Egypt is too much in the kitchen, Joe argues the team needs discipline and accountability, and Egypt counters that everyone else needs to raise their level.",
+        "alignment_reasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Brandon, Egypt, Joe drive the semantic beat \"Blue Team tension carries over\" in Ep 4. This beat establishes the episode’s central conflict: Blue’s problem is not just mistakes, but incompatible communication styles that will shape both the challenge and service. Watch for Gordon Ramsay, Brandon, Egypt, Joe in Ep 4. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "pickling challenge",
+          "pickleball",
+          "team swap",
+          "Lulu joins Blue Team",
+          "Dan Barber"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Brandon",
+          "Egypt",
+          "Joe",
+          "Kyle"
+        ],
+        "match_signals": [
+          "pickling challenge",
+          "pickleball"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep05",
+        "timestamp_start": "39:44",
+        "timestamp_end": "41:25",
+        "scene_title": "Both teams win; no elimination",
+        "description": "At lineup, Ramsay says there were still communication issues but that both teams delivered the rebound he demanded.  He first names the Blue Team winners, then immediately adds that the Red Team wins too, giving everyone a pass and eliminating no one.",
+        "match_type": "audio",
+        "relevance_score": "78",
+        "scene_description": "At lineup, Ramsay says there were still communication issues but that both teams delivered the rebound he demanded.  He first names the Blue Team winners, then immediately adds that the Red Team wins too, giving everyone a pass and eliminating no one.",
+        "alignment_reasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Brandon, Ann Marie, Meghan drive the audio beat \"Both teams win; no elimination\" in Ep 5. This ending is series-important because it halts the cycle of failure and sends the cast into the next phase with confidence and unfinished rivalries intact. Watch for Gordon Ramsay, Brandon, Ann Marie, Meghan in Ep 5. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "burger challenge",
+          "George Motz",
+          "Egypt",
+          "Gordon Ramsay",
+          "homesickness"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Brandon",
+          "Ann Marie",
+          "Meghan",
+          "Joe",
+          "Hannah",
+          "Kyle",
+          "Whit",
+          "Anthony",
+          "Lulu",
+          "Egypt",
+          "Magali"
+        ],
+        "match_signals": [
+          "burger challenge",
+          "George Motz"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep02",
+        "timestamp_start": "35:13",
+        "timestamp_end": "37:23",
+        "scene_title": "Nomination debates reveal fault lines",
+        "description": "In the dorms, the red team quickly converges on Amber and Magali because the fish station sank service.  The blue team’s discussion is uglier: Corbin defends his appetizer recovery, Shant accuses him of dodging blame, Brandon points at protein failures, and Egypt argues that the station timing fell apart across the board.",
+        "match_type": "text_on_screen",
+        "relevance_score": "76",
+        "scene_description": "In the dorms, the red team quickly converges on Amber and Magali because the fish station sank service.  The blue team’s discussion is uglier: Corbin defends his appetizer recovery, Shant accuses him of dodging blame, Brandon points at protein failures, and Egypt argues that the station timing fell apart across the board.",
+        "alignment_reasoning": "This scene matches \"Elimination ceremony drama\" because Amber, Magali, Whit, Ann Marie drive the text_on_screen beat \"Nomination debates reveal fault lines\" in Ep 2. These deliberations matter because they clarify who still has team trust and who is already becoming isolated. Watch for Amber, Magali, Whit, Ann Marie in Ep 2. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass",
+          "opening night service",
+          "first elimination",
+          "Amber eliminated"
+        ],
+        "characters_present": [
+          "Amber",
+          "Magali",
+          "Whit",
+          "Ann Marie",
+          "Hannah",
+          "Amanda",
+          "Egypt",
+          "Corbin",
+          "Shant",
+          "Brandon",
+          "Joe",
+          "Michael"
+        ],
+        "match_signals": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep04",
+        "timestamp_start": "32:52",
+        "timestamp_end": "33:13",
+        "scene_title": "Ramsay ejects the Blue Team from service",
+        "description": "After the second raw lamb, Ramsay marches the Blue Team into the pantry, questions their passion, and throws them out of service.  The punishment is not just anger; it is a formal declaration that the team has failed the night completely.",
+        "match_type": "visual",
+        "relevance_score": "74",
+        "scene_description": "After the second raw lamb, Ramsay marches the Blue Team into the pantry, questions their passion, and throws them out of service.  The punishment is not just anger; it is a formal declaration that the team has failed the night completely.",
+        "alignment_reasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Joe, Lulu, Egypt drive the visual beat \"Ramsay ejects the Blue Team from service\" in Ep 4. This is the episode’s decisive service beat and the clearest consequence of everything Blue has been doing wrong since the top of the hour. Watch for Gordon Ramsay, Joe, Lulu, Egypt in Ep 4. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "pickling challenge",
+          "pickleball",
+          "team swap",
+          "Lulu joins Blue Team",
+          "Dan Barber"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Joe",
+          "Lulu",
+          "Egypt",
+          "Michael",
+          "Kyle",
+          "Anthony",
+          "Brandon",
+          "Vernon Davis"
+        ],
+        "match_signals": [
+          "pickling challenge",
+          "pickleball"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep04",
+        "timestamp_start": "35:02",
+        "timestamp_end": "37:51",
+        "scene_title": "Dorm deliberations turn personal",
+        "description": "In the dorms, both teams argue through nominations.  Ann Marie targets Magali for the Red Team, Egypt pushes Lulu on Blue, and Joe’s anger boils over into a wall-punching outburst.",
+        "match_type": "semantic",
+        "relevance_score": "72",
+        "scene_description": "In the dorms, both teams argue through nominations.  Ann Marie targets Magali for the Red Team, Egypt pushes Lulu on Blue, and Joe’s anger boils over into a wall-punching outburst.",
+        "alignment_reasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Ann Marie, Magali, Egypt drive the semantic beat \"Dorm deliberations turn personal\" in Ep 4. The post-service debate reveals the social consequences of the kitchen meltdown and frames the elimination as about trust as much as performance. Watch for Gordon Ramsay, Ann Marie, Magali, Egypt in Ep 4. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "pickling challenge",
+          "pickleball",
+          "team swap",
+          "Lulu joins Blue Team",
+          "Dan Barber"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Ann Marie",
+          "Magali",
+          "Egypt",
+          "Lulu",
+          "Joe",
+          "Anthony",
+          "Michael",
+          "Hannah"
+        ],
+        "match_signals": [
+          "pickling challenge",
+          "pickleball"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep05",
+        "timestamp_start": "24:09",
+        "timestamp_end": "25:31",
+        "scene_title": "Egypt breaks down over missing his family",
+        "description": "Away from the kitchen, Egypt opens up to Joe about missing his children and feeling overwhelmed by the competition.  Joe responds by relating his own homesickness and trying to steady him, but Egypt reaches a breaking point and admits that part of him wants to go home just to hug his kids.",
+        "match_type": "audio",
+        "relevance_score": "70",
+        "scene_description": "Away from the kitchen, Egypt opens up to Joe about missing his children and feeling overwhelmed by the competition.  Joe responds by relating his own homesickness and trying to steady him, but Egypt reaches a breaking point and admits that part of him wants to go home just to hug his kids.",
+        "alignment_reasoning": "This scene matches \"Elimination ceremony drama\" because Egypt, Joe drive the audio beat \"Egypt breaks down over missing his family\" in Ep 5. This is the emotional engine of the episode and the direct setup for his attempted withdrawal before service. Watch for Egypt, Joe in Ep 5. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "burger challenge",
+          "George Motz",
+          "Egypt",
+          "Gordon Ramsay",
+          "homesickness"
+        ],
+        "characters_present": [
+          "Egypt",
+          "Joe"
+        ],
+        "match_signals": [
+          "burger challenge",
+          "George Motz"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep01",
+        "timestamp_start": "00:31:07",
+        "timestamp_end": "00:32:20",
+        "scene_title": "Hannah seals the Red Team win",
+        "description": "With the score still in reach for both teams, the final pairing comes down to Shant and Hannah.  Shant posts a respectable 4, but Hannah's maple leaf duck breast with curry chocolate demi-glace earns a 5 from Ramsay, flipping the ending into a Red Team victory and unleashing the women's celebration.",
+        "match_type": "text_on_screen",
+        "relevance_score": "68",
+        "scene_description": "With the score still in reach for both teams, the final pairing comes down to Shant and Hannah.  Shant posts a respectable 4, but Hannah's maple leaf duck breast with curry chocolate demi-glace earns a 5 from Ramsay, flipping the ending into a Red Team victory and unleashing the women's celebration.",
+        "alignment_reasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Hannah, Shant, Amanda drive the text_on_screen beat \"Hannah seals the Red Team win\" in Ep 1. This is the episode's pivotal beat because it resolves the signature dish challenge, gives the Red Team its first win and identity, and sends the Blue Team into a punishment already primed for frustration. The rest of the episode's emotional consequences flow from this result. Central figures: Gordon Ramsay, Hannah, Shant, Amanda. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "signature dish challenge",
+          "East Coast launch",
+          "Foxwoods",
+          "team formation",
+          "Red Team win"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Hannah",
+          "Shant",
+          "Amanda",
+          "Ann Marie"
+        ],
+        "match_signals": [
+          "signature dish challenge",
+          "East Coast launch"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep03",
+        "timestamp_start": "21:08",
+        "timestamp_end": "22:00",
+        "scene_title": "Uri declares himself unfit after Shant’s medical exit",
+        "description": "Ramsay first informs both teams that Shant has gone to the hospital and will not continue, then Uri steps forward and explains that his back injury is so severe he can barely stand and continuing would only worsen it.  When Ramsay asks if he is declaring himself unfit to continue, Uri answers yes, and the room absorbs that the blue team has now lost a second chef before dinner service even starts.",
+        "match_type": "visual",
+        "relevance_score": "66",
+        "scene_description": "Ramsay first informs both teams that Shant has gone to the hospital and will not continue, then Uri steps forward and explains that his back injury is so severe he can barely stand and continuing would only worsen it.  When Ramsay asks if he is declaring himself unfit to continue, Uri answers yes, and the room absorbs that the blue team has now lost a second chef before dinner service even starts.",
+        "alignment_reasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Uri, Ann Marie, Brittany drive the visual beat \"Uri declares himself unfit after Shant’s medical exit\" in Ep 3. This is the episode’s hinge because it transforms the night from a normal challenge-and-service story into a season-shaping collapse of the blue team’s roster. Everything after it — the weaker service, the urgency around communication, and the sense that the blue team is unraveling — carries more weight because the team is suddenly fighting short-handed and demoralized. Central figures: Gordon Ramsay, Uri, Ann Marie, Brittany. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "seafood challenge",
+          "seafood tower",
+          "medical withdrawal",
+          "injury",
+          "team collapse"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Uri",
+          "Ann Marie",
+          "Brittany",
+          "Magali",
+          "Lulu",
+          "Meghan",
+          "Joe",
+          "Anthony",
+          "Kyle",
+          "Michael",
+          "James Avery"
+        ],
+        "match_signals": [
+          "seafood challenge",
+          "seafood tower"
+        ]
+      }
+    ]
+  },
+  "resolved_clips": [
+    {
+      "id": "elimination-drama-0",
+      "assetId": "hk-ep03",
+      "assetReference": "hk-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/hk-ep03",
+      "startSec": 2328,
+      "endSec": 2510,
+      "thumbnailUrl": "https://i.ytimg.com/vi/GAV2plfsiBA/maxresdefault.jpg",
+      "title": "Corbin is eliminated after the Egypt-Corbin confrontation",
+      "sceneTitle": "Corbin is eliminated after the Egypt-Corbin confrontation",
+      "description": "At elimination, Corbin argues Egypt shut him out and made communication impossible, while Egypt counters that Corbin shrank and whispered instead of leading.  Ramsay ultimately decides Corbin was too disconnected and not ready to be a head chef, eliminates him, and warns the blue team that their numbers are dwindling.",
+      "matchType": "semantic",
+      "relevanceScore": "96",
+      "matchScore": "96",
+      "sceneDescription": "At elimination, Corbin argues Egypt shut him out and made communication impossible, while Egypt counters that Corbin shrank and whispered instead of leading.  Ramsay ultimately decides Corbin was too disconnected and not ready to be a head chef, eliminates him, and warns the blue team that their numbers are dwindling.",
+      "alignmentReasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Egypt, Corbin, Kyle drive the semantic beat \"Corbin is eliminated after the Egypt-Corbin confrontation\" in Ep 3. This closes the episode’s competitive arc while reinforcing the season’s larger blue-team instability and Egypt-centered tension. Watch for Gordon Ramsay, Egypt, Corbin, Kyle in Ep 3. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "seafood challenge",
+        "seafood tower",
+        "medical withdrawal",
+        "injury",
+        "team collapse"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Egypt",
+        "Corbin",
+        "Kyle",
+        "Brandon",
+        "Anthony",
+        "Ann Marie"
+      ],
+      "matchSignals": [
+        "seafood challenge",
+        "seafood tower"
+      ]
+    },
+    {
+      "id": "elimination-drama-1",
+      "assetId": "hk-ep04",
+      "assetReference": "hk-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/hk-ep04",
+      "startSec": 2294,
+      "endSec": 2445,
+      "thumbnailUrl": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
+      "title": "Michael is eliminated",
+      "sceneTitle": "Michael is eliminated",
+      "description": "At elimination, the teams nominate Magali, Ann Marie, Michael, and Egypt.  Ramsay hears each plea, sends Egypt, Ann Marie, and Magali back in line, then eliminates Michael.",
+      "matchType": "audio",
+      "relevanceScore": "94",
+      "matchScore": "94",
+      "sceneDescription": "At elimination, the teams nominate Magali, Ann Marie, Michael, and Egypt.  Ramsay hears each plea, sends Egypt, Ann Marie, and Magali back in line, then eliminates Michael.",
+      "alignmentReasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Michael, Egypt, Ann Marie drive the audio beat \"Michael is eliminated\" in Ep 4. This resolves the episode’s competitive stakes and converts Blue’s chaotic night into a permanent loss for the team. Watch for Gordon Ramsay, Michael, Egypt, Ann Marie in Ep 4. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "pickling challenge",
+        "pickleball",
+        "team swap",
+        "Lulu joins Blue Team",
+        "Dan Barber"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Michael",
+        "Egypt",
+        "Ann Marie",
+        "Magali",
+        "Anthony",
+        "Brittany",
+        "Hannah"
+      ],
+      "matchSignals": [
+        "pickling challenge",
+        "pickleball"
+      ]
+    },
+    {
+      "id": "elimination-drama-2",
+      "assetId": "hk-ep05",
+      "assetReference": "hk-ep05",
+      "episodeLabel": "Ep 5",
+      "videoSrc": "/api/media/hk-ep05",
+      "startSec": 5,
+      "endSec": 220,
+      "thumbnailUrl": "https://i.ytimg.com/vi/NKTyf08aXUY/maxresdefault.jpg",
+      "title": "Previously on: fallout from the last service",
+      "sceneTitle": "Previously on: fallout from the last service",
+      "description": "A recap re-establishes the pressure coming into Episode 5: Lulu’s team switch, Michael’s elimination, and Egypt surviving a nomination scare.  The montage matters because it sets up why the Blue Team feels unstable and why Egypt enters the episode carrying emotional residue from the previous service.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "92",
+      "matchScore": "92",
+      "sceneDescription": "A recap re-establishes the pressure coming into Episode 5: Lulu’s team switch, Michael’s elimination, and Egypt surviving a nomination scare.  The montage matters because it sets up why the Blue Team feels unstable and why Egypt enters the episode carrying emotional residue from the previous service.",
+      "alignmentReasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Egypt, Michael, Ann Marie drive the text_on_screen beat \"Previously on: fallout from the last service\" in Ep 5. This beat is necessary context for the whole hour because Egypt’s later breakdown and the Blue Team’s fragile morale are direct consequences of the prior episode. Watch for Gordon Ramsay, Egypt, Michael, Ann Marie in Ep 5. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "burger challenge",
+        "George Motz",
+        "Egypt",
+        "Gordon Ramsay",
+        "homesickness"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Egypt",
+        "Michael",
+        "Ann Marie",
+        "Magali",
+        "Lulu",
+        "Amanda",
+        "Brandon",
+        "Dan Barber"
+      ],
+      "matchSignals": [
+        "burger challenge",
+        "George Motz"
+      ]
+    },
+    {
+      "id": "elimination-drama-3",
+      "assetId": "hk-ep02",
+      "assetReference": "hk-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/hk-ep02",
+      "startSec": 881,
+      "endSec": 1025,
+      "thumbnailUrl": "https://i.ytimg.com/vi/bX-EzNRe-ws/maxresdefault.jpg",
+      "title": "Bottom dishes judged, no one eliminated",
+      "sceneTitle": "Bottom dishes judged, no one eliminated",
+      "description": "Ramsay immediately weaponizes the challenge results by ordering Whit and Brandon to identify the bottom two dishes on their own teams.  Whit names Ann Marie and Brittany; Brandon names Shant and Egypt.",
+      "matchType": "visual",
+      "relevanceScore": "90",
+      "matchScore": "90",
+      "sceneDescription": "Ramsay immediately weaponizes the challenge results by ordering Whit and Brandon to identify the bottom two dishes on their own teams.  Whit names Ann Marie and Brittany; Brandon names Shant and Egypt.",
+      "alignmentReasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Whit, Brandon, Ann Marie drive the visual beat \"Bottom dishes judged, no one eliminated\" in Ep 2. This twist raises pressure without ending anyone’s run, sending unresolved tension straight into service. Watch for Gordon Ramsay, Whit, Brandon, Ann Marie in Ep 2. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass",
+        "opening night service",
+        "first elimination",
+        "Amber eliminated"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Whit",
+        "Brandon",
+        "Ann Marie",
+        "Brittany",
+        "Shant",
+        "Egypt"
+      ],
+      "matchSignals": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass"
+      ]
+    },
+    {
+      "id": "elimination-drama-4",
+      "assetId": "hk-ep02",
+      "assetReference": "hk-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/hk-ep02",
+      "startSec": 2432,
+      "endSec": 2538,
+      "thumbnailUrl": "https://i.ytimg.com/vi/bX-EzNRe-ws/maxresdefault.jpg",
+      "title": "Amber becomes the first eliminated chef",
+      "sceneTitle": "Amber becomes the first eliminated chef",
+      "description": "Ramsay eliminates Amber, telling her she does not have what it takes to be his next head chef.  After she hands over her jacket and exits, he warns the remaining cast that the night was a disaster and that more than one person could leave if standards do not rise immediately.",
+      "matchType": "semantic",
+      "relevanceScore": "88",
+      "matchScore": "88",
+      "sceneDescription": "Ramsay eliminates Amber, telling her she does not have what it takes to be his next head chef.  After she hands over her jacket and exits, he warns the remaining cast that the night was a disaster and that more than one person could leave if standards do not rise immediately.",
+      "alignmentReasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Amber, Shant, Magali drive the semantic beat \"Amber becomes the first eliminated chef\" in Ep 2. This is the episode’s final consequence: the red team loses a member, while everyone else is put on notice that survival alone is not success. Watch for Gordon Ramsay, Amber, Shant, Magali in Ep 2. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass",
+        "opening night service",
+        "first elimination",
+        "Amber eliminated"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Amber",
+        "Shant",
+        "Magali",
+        "Michael",
+        "Brittany",
+        "Corbin"
+      ],
+      "matchSignals": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass"
+      ]
+    },
+    {
+      "id": "elimination-drama-5",
+      "assetId": "hk-ep02",
+      "assetReference": "hk-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/hk-ep02",
+      "startSec": 2265,
+      "endSec": 2414,
+      "thumbnailUrl": "https://i.ytimg.com/vi/bX-EzNRe-ws/maxresdefault.jpg",
+      "title": "Four nominees plead their case",
+      "sceneTitle": "Four nominees plead their case",
+      "description": "At elimination, Amanda names Magali and Amber for red, and Uri names Michael and Shant for blue.  Ramsay hears each plea, keeps pressing for ownership rather than excuses, then sends Michael and Magali back in line, narrowing the decision to Amber and Shant.",
+      "matchType": "audio",
+      "relevanceScore": "86",
+      "matchScore": "86",
+      "sceneDescription": "At elimination, Amanda names Magali and Amber for red, and Uri names Michael and Shant for blue.  Ramsay hears each plea, keeps pressing for ownership rather than excuses, then sends Michael and Magali back in line, narrowing the decision to Amber and Shant.",
+      "alignmentReasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Amanda, Uri, Amber drive the audio beat \"Four nominees plead their case\" in Ep 2. This sequence separates chefs who look salvageable from chefs Ramsay thinks are actively falling short right now. Watch for Gordon Ramsay, Amanda, Uri, Amber in Ep 2. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass",
+        "opening night service",
+        "first elimination",
+        "Amber eliminated"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Amanda",
+        "Uri",
+        "Amber",
+        "Magali",
+        "Michael",
+        "Shant"
+      ],
+      "matchSignals": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass"
+      ]
+    },
+    {
+      "id": "elimination-drama-6",
+      "assetId": "hk-ep03",
+      "assetReference": "hk-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/hk-ep03",
+      "startSec": 133,
+      "endSec": 173,
+      "thumbnailUrl": "https://i.ytimg.com/vi/GAV2plfsiBA/maxresdefault.jpg",
+      "title": "Magali regroups after the last elimination",
+      "sceneTitle": "Magali regroups after the last elimination",
+      "description": "In the dorms after the prior elimination, Magali breaks down over missing her husband, then regains her composure with Meghan’s support.  The scene matters because it gives the red team an emotional reset before the day’s competition begins.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "84",
+      "matchScore": "84",
+      "sceneDescription": "In the dorms after the prior elimination, Magali breaks down over missing her husband, then regains her composure with Meghan’s support.  The scene matters because it gives the red team an emotional reset before the day’s competition begins.",
+      "alignmentReasoning": "This scene matches \"Elimination ceremony drama\" because Magali, Meghan drive the text_on_screen beat \"Magali regroups after the last elimination\" in Ep 3. This beat bridges the previous episode into this one and establishes a red-team recovery mindset that contrasts with the blue team’s collapse later. Watch for Magali, Meghan in Ep 3. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "seafood challenge",
+        "seafood tower",
+        "medical withdrawal",
+        "injury",
+        "team collapse"
+      ],
+      "charactersPresent": [
+        "Magali",
+        "Meghan"
+      ],
+      "matchSignals": [
+        "seafood challenge",
+        "seafood tower"
+      ]
+    },
+    {
+      "id": "elimination-drama-7",
+      "assetId": "hk-ep03",
+      "assetReference": "hk-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/hk-ep03",
+      "startSec": 2171,
+      "endSec": 2378,
+      "thumbnailUrl": "https://i.ytimg.com/vi/GAV2plfsiBA/maxresdefault.jpg",
+      "title": "The blue team turns service failure into a blame war",
+      "sceneTitle": "The blue team turns service failure into a blame war",
+      "description": "Back in the dorms, the blue team debates whether the bigger problem was Brandon’s meat station, Corbin’s passivity, or Egypt’s abrasive control.  By elimination, Kyle announces the nominees as Egypt and Corbin, explicitly tying Egypt to ego and Corbin to a fish station that never came together.",
+      "matchType": "visual",
+      "relevanceScore": "82",
+      "matchScore": "82",
+      "sceneDescription": "Back in the dorms, the blue team debates whether the bigger problem was Brandon’s meat station, Corbin’s passivity, or Egypt’s abrasive control.  By elimination, Kyle announces the nominees as Egypt and Corbin, explicitly tying Egypt to ego and Corbin to a fish station that never came together.",
+      "alignmentReasoning": "This scene matches \"Elimination ceremony drama\" because Michael, Brandon, Egypt, Corbin drive the visual beat \"The blue team turns service failure into a blame war\" in Ep 3. The nomination debate crystallizes the episode’s main interpersonal conflict: forceful leadership versus ineffective support. Watch for Michael, Brandon, Egypt, Corbin in Ep 3. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "seafood challenge",
+        "seafood tower",
+        "medical withdrawal",
+        "injury",
+        "team collapse"
+      ],
+      "charactersPresent": [
+        "Michael",
+        "Brandon",
+        "Egypt",
+        "Corbin",
+        "Joe",
+        "Kyle",
+        "Anthony",
+        "Gordon Ramsay"
+      ],
+      "matchSignals": [
+        "seafood challenge",
+        "seafood tower"
+      ]
+    },
+    {
+      "id": "elimination-drama-8",
+      "assetId": "hk-ep04",
+      "assetReference": "hk-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/hk-ep04",
+      "startSec": 122,
+      "endSec": 178,
+      "thumbnailUrl": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
+      "title": "Blue Team tension carries over",
+      "sceneTitle": "Blue Team tension carries over",
+      "description": "The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration.  Brandon complains that Egypt is too much in the kitchen, Joe argues the team needs discipline and accountability, and Egypt counters that everyone else needs to raise their level.",
+      "matchType": "semantic",
+      "relevanceScore": "80",
+      "matchScore": "80",
+      "sceneDescription": "The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration.  Brandon complains that Egypt is too much in the kitchen, Joe argues the team needs discipline and accountability, and Egypt counters that everyone else needs to raise their level.",
+      "alignmentReasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Brandon, Egypt, Joe drive the semantic beat \"Blue Team tension carries over\" in Ep 4. This beat establishes the episode’s central conflict: Blue’s problem is not just mistakes, but incompatible communication styles that will shape both the challenge and service. Watch for Gordon Ramsay, Brandon, Egypt, Joe in Ep 4. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "pickling challenge",
+        "pickleball",
+        "team swap",
+        "Lulu joins Blue Team",
+        "Dan Barber"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Brandon",
+        "Egypt",
+        "Joe",
+        "Kyle"
+      ],
+      "matchSignals": [
+        "pickling challenge",
+        "pickleball"
+      ]
+    },
+    {
+      "id": "elimination-drama-9",
+      "assetId": "hk-ep05",
+      "assetReference": "hk-ep05",
+      "episodeLabel": "Ep 5",
+      "videoSrc": "/api/media/hk-ep05",
+      "startSec": 2384,
+      "endSec": 2485,
+      "thumbnailUrl": "https://i.ytimg.com/vi/NKTyf08aXUY/maxresdefault.jpg",
+      "title": "Both teams win; no elimination",
+      "sceneTitle": "Both teams win; no elimination",
+      "description": "At lineup, Ramsay says there were still communication issues but that both teams delivered the rebound he demanded.  He first names the Blue Team winners, then immediately adds that the Red Team wins too, giving everyone a pass and eliminating no one.",
+      "matchType": "audio",
+      "relevanceScore": "78",
+      "matchScore": "78",
+      "sceneDescription": "At lineup, Ramsay says there were still communication issues but that both teams delivered the rebound he demanded.  He first names the Blue Team winners, then immediately adds that the Red Team wins too, giving everyone a pass and eliminating no one.",
+      "alignmentReasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Brandon, Ann Marie, Meghan drive the audio beat \"Both teams win; no elimination\" in Ep 5. This ending is series-important because it halts the cycle of failure and sends the cast into the next phase with confidence and unfinished rivalries intact. Watch for Gordon Ramsay, Brandon, Ann Marie, Meghan in Ep 5. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "burger challenge",
+        "George Motz",
+        "Egypt",
+        "Gordon Ramsay",
+        "homesickness"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Brandon",
+        "Ann Marie",
+        "Meghan",
+        "Joe",
+        "Hannah",
+        "Kyle",
+        "Whit",
+        "Anthony",
+        "Lulu",
+        "Egypt",
+        "Magali"
+      ],
+      "matchSignals": [
+        "burger challenge",
+        "George Motz"
+      ]
+    },
+    {
+      "id": "elimination-drama-10",
+      "assetId": "hk-ep02",
+      "assetReference": "hk-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/hk-ep02",
+      "startSec": 2113,
+      "endSec": 2243,
+      "thumbnailUrl": "https://i.ytimg.com/vi/bX-EzNRe-ws/maxresdefault.jpg",
+      "title": "Nomination debates reveal fault lines",
+      "sceneTitle": "Nomination debates reveal fault lines",
+      "description": "In the dorms, the red team quickly converges on Amber and Magali because the fish station sank service.  The blue team’s discussion is uglier: Corbin defends his appetizer recovery, Shant accuses him of dodging blame, Brandon points at protein failures, and Egypt argues that the station timing fell apart across the board.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "76",
+      "matchScore": "76",
+      "sceneDescription": "In the dorms, the red team quickly converges on Amber and Magali because the fish station sank service.  The blue team’s discussion is uglier: Corbin defends his appetizer recovery, Shant accuses him of dodging blame, Brandon points at protein failures, and Egypt argues that the station timing fell apart across the board.",
+      "alignmentReasoning": "This scene matches \"Elimination ceremony drama\" because Amber, Magali, Whit, Ann Marie drive the text_on_screen beat \"Nomination debates reveal fault lines\" in Ep 2. These deliberations matter because they clarify who still has team trust and who is already becoming isolated. Watch for Amber, Magali, Whit, Ann Marie in Ep 2. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass",
+        "opening night service",
+        "first elimination",
+        "Amber eliminated"
+      ],
+      "charactersPresent": [
+        "Amber",
+        "Magali",
+        "Whit",
+        "Ann Marie",
+        "Hannah",
+        "Amanda",
+        "Egypt",
+        "Corbin",
+        "Shant",
+        "Brandon",
+        "Joe",
+        "Michael"
+      ],
+      "matchSignals": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass"
+      ]
+    },
+    {
+      "id": "elimination-drama-11",
+      "assetId": "hk-ep04",
+      "assetReference": "hk-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/hk-ep04",
+      "startSec": 1972,
+      "endSec": 1993,
+      "thumbnailUrl": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
+      "title": "Ramsay ejects the Blue Team from service",
+      "sceneTitle": "Ramsay ejects the Blue Team from service",
+      "description": "After the second raw lamb, Ramsay marches the Blue Team into the pantry, questions their passion, and throws them out of service.  The punishment is not just anger; it is a formal declaration that the team has failed the night completely.",
+      "matchType": "visual",
+      "relevanceScore": "74",
+      "matchScore": "74",
+      "sceneDescription": "After the second raw lamb, Ramsay marches the Blue Team into the pantry, questions their passion, and throws them out of service.  The punishment is not just anger; it is a formal declaration that the team has failed the night completely.",
+      "alignmentReasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Joe, Lulu, Egypt drive the visual beat \"Ramsay ejects the Blue Team from service\" in Ep 4. This is the episode’s decisive service beat and the clearest consequence of everything Blue has been doing wrong since the top of the hour. Watch for Gordon Ramsay, Joe, Lulu, Egypt in Ep 4. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "pickling challenge",
+        "pickleball",
+        "team swap",
+        "Lulu joins Blue Team",
+        "Dan Barber"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Joe",
+        "Lulu",
+        "Egypt",
+        "Michael",
+        "Kyle",
+        "Anthony",
+        "Brandon",
+        "Vernon Davis"
+      ],
+      "matchSignals": [
+        "pickling challenge",
+        "pickleball"
+      ]
+    },
+    {
+      "id": "elimination-drama-12",
+      "assetId": "hk-ep04",
+      "assetReference": "hk-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/hk-ep04",
+      "startSec": 2102,
+      "endSec": 2271,
+      "thumbnailUrl": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
+      "title": "Dorm deliberations turn personal",
+      "sceneTitle": "Dorm deliberations turn personal",
+      "description": "In the dorms, both teams argue through nominations.  Ann Marie targets Magali for the Red Team, Egypt pushes Lulu on Blue, and Joe’s anger boils over into a wall-punching outburst.",
+      "matchType": "semantic",
+      "relevanceScore": "72",
+      "matchScore": "72",
+      "sceneDescription": "In the dorms, both teams argue through nominations.  Ann Marie targets Magali for the Red Team, Egypt pushes Lulu on Blue, and Joe’s anger boils over into a wall-punching outburst.",
+      "alignmentReasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Ann Marie, Magali, Egypt drive the semantic beat \"Dorm deliberations turn personal\" in Ep 4. The post-service debate reveals the social consequences of the kitchen meltdown and frames the elimination as about trust as much as performance. Watch for Gordon Ramsay, Ann Marie, Magali, Egypt in Ep 4. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "pickling challenge",
+        "pickleball",
+        "team swap",
+        "Lulu joins Blue Team",
+        "Dan Barber"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Ann Marie",
+        "Magali",
+        "Egypt",
+        "Lulu",
+        "Joe",
+        "Anthony",
+        "Michael",
+        "Hannah"
+      ],
+      "matchSignals": [
+        "pickling challenge",
+        "pickleball"
+      ]
+    },
+    {
+      "id": "elimination-drama-13",
+      "assetId": "hk-ep05",
+      "assetReference": "hk-ep05",
+      "episodeLabel": "Ep 5",
+      "videoSrc": "/api/media/hk-ep05",
+      "startSec": 1449,
+      "endSec": 1531,
+      "thumbnailUrl": "https://i.ytimg.com/vi/NKTyf08aXUY/maxresdefault.jpg",
+      "title": "Egypt breaks down over missing his family",
+      "sceneTitle": "Egypt breaks down over missing his family",
+      "description": "Away from the kitchen, Egypt opens up to Joe about missing his children and feeling overwhelmed by the competition.  Joe responds by relating his own homesickness and trying to steady him, but Egypt reaches a breaking point and admits that part of him wants to go home just to hug his kids.",
+      "matchType": "audio",
+      "relevanceScore": "70",
+      "matchScore": "70",
+      "sceneDescription": "Away from the kitchen, Egypt opens up to Joe about missing his children and feeling overwhelmed by the competition.  Joe responds by relating his own homesickness and trying to steady him, but Egypt reaches a breaking point and admits that part of him wants to go home just to hug his kids.",
+      "alignmentReasoning": "This scene matches \"Elimination ceremony drama\" because Egypt, Joe drive the audio beat \"Egypt breaks down over missing his family\" in Ep 5. This is the emotional engine of the episode and the direct setup for his attempted withdrawal before service. Watch for Egypt, Joe in Ep 5. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "burger challenge",
+        "George Motz",
+        "Egypt",
+        "Gordon Ramsay",
+        "homesickness"
+      ],
+      "charactersPresent": [
+        "Egypt",
+        "Joe"
+      ],
+      "matchSignals": [
+        "burger challenge",
+        "George Motz"
+      ]
+    },
+    {
+      "id": "elimination-drama-14",
+      "assetId": "hk-ep01",
+      "assetReference": "hk-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/hk-ep01",
+      "startSec": 1867,
+      "endSec": 1940,
+      "thumbnailUrl": "https://i.ytimg.com/vi/n3k6NV9qRsQ/maxresdefault.jpg",
+      "title": "Hannah seals the Red Team win",
+      "sceneTitle": "Hannah seals the Red Team win",
+      "description": "With the score still in reach for both teams, the final pairing comes down to Shant and Hannah.  Shant posts a respectable 4, but Hannah's maple leaf duck breast with curry chocolate demi-glace earns a 5 from Ramsay, flipping the ending into a Red Team victory and unleashing the women's celebration.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "68",
+      "matchScore": "68",
+      "sceneDescription": "With the score still in reach for both teams, the final pairing comes down to Shant and Hannah.  Shant posts a respectable 4, but Hannah's maple leaf duck breast with curry chocolate demi-glace earns a 5 from Ramsay, flipping the ending into a Red Team victory and unleashing the women's celebration.",
+      "alignmentReasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Hannah, Shant, Amanda drive the text_on_screen beat \"Hannah seals the Red Team win\" in Ep 1. This is the episode's pivotal beat because it resolves the signature dish challenge, gives the Red Team its first win and identity, and sends the Blue Team into a punishment already primed for frustration. The rest of the episode's emotional consequences flow from this result. Central figures: Gordon Ramsay, Hannah, Shant, Amanda. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "signature dish challenge",
+        "East Coast launch",
+        "Foxwoods",
+        "team formation",
+        "Red Team win"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Hannah",
+        "Shant",
+        "Amanda",
+        "Ann Marie"
+      ],
+      "matchSignals": [
+        "signature dish challenge",
+        "East Coast launch"
+      ]
+    },
+    {
+      "id": "elimination-drama-15",
+      "assetId": "hk-ep03",
+      "assetReference": "hk-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/hk-ep03",
+      "startSec": 1268,
+      "endSec": 1320,
+      "thumbnailUrl": "https://i.ytimg.com/vi/GAV2plfsiBA/maxresdefault.jpg",
+      "title": "Uri declares himself unfit after Shant’s medical exit",
+      "sceneTitle": "Uri declares himself unfit after Shant’s medical exit",
+      "description": "Ramsay first informs both teams that Shant has gone to the hospital and will not continue, then Uri steps forward and explains that his back injury is so severe he can barely stand and continuing would only worsen it.  When Ramsay asks if he is declaring himself unfit to continue, Uri answers yes, and the room absorbs that the blue team has now lost a second chef before dinner service even starts.",
+      "matchType": "visual",
+      "relevanceScore": "66",
+      "matchScore": "66",
+      "sceneDescription": "Ramsay first informs both teams that Shant has gone to the hospital and will not continue, then Uri steps forward and explains that his back injury is so severe he can barely stand and continuing would only worsen it.  When Ramsay asks if he is declaring himself unfit to continue, Uri answers yes, and the room absorbs that the blue team has now lost a second chef before dinner service even starts.",
+      "alignmentReasoning": "This scene matches \"Elimination ceremony drama\" because Gordon Ramsay, Uri, Ann Marie, Brittany drive the visual beat \"Uri declares himself unfit after Shant’s medical exit\" in Ep 3. This is the episode’s hinge because it transforms the night from a normal challenge-and-service story into a season-shaping collapse of the blue team’s roster. Everything after it — the weaker service, the urgency around communication, and the sense that the blue team is unraveling — carries more weight because the team is suddenly fighting short-handed and demoralized. Central figures: Gordon Ramsay, Uri, Ann Marie, Brittany. For viewers searching elimination ceremony drama, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "seafood challenge",
+        "seafood tower",
+        "medical withdrawal",
+        "injury",
+        "team collapse"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Uri",
+        "Ann Marie",
+        "Brittany",
+        "Magali",
+        "Lulu",
+        "Meghan",
+        "Joe",
+        "Anthony",
+        "Kyle",
+        "Michael",
+        "James Avery"
+      ],
+      "matchSignals": [
+        "seafood challenge",
+        "seafood tower"
+      ]
+    }
+  ],
+  "session_id": "sess_seed_hells_kitchen_elimination-drama",
+  "explore_presentation": {
+    "featured_title": "Elimination night tension",
+    "featured_subtitle": "Send-offs and ceremony drama Jockey surfaced for you",
+    "rails": [
+      {
+        "id": "the-walk",
+        "title": "The Walk",
+        "subtitle": "Contestants called forward under pressure",
+        "startIndex": 4,
+        "endIndex": 7
+      },
+      {
+        "id": "jacket-off",
+        "title": "Jacket Off",
+        "subtitle": "The moment the jacket comes off",
+        "startIndex": 8,
+        "endIndex": 11
+      },
+      {
+        "id": "reactions",
+        "title": "Reactions",
+        "subtitle": "Brigade response and raw emotion",
+        "startIndex": 12,
+        "endIndex": 15
+      }
+    ]
+  }
+}

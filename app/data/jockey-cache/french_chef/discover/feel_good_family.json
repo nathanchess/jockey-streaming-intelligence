@@ -1,0 +1,923 @@
+{
+  "request": {
+    "model": "jockey1.0",
+    "intent": "Looking for feel-good content, family-friendly, uplifting moments, under 20 min per clip"
+  },
+  "response": {
+    "viewer_intent_interpretation": "Looking for feel-good content, family-friendly, uplifting moments, under 20 min per clip",
+    "recommended_rail": [
+      {
+        "rank": 1,
+        "asset_reference": "chef-ep01",
+        "title": "Introduction",
+        "clip_start": "0:34",
+        "clip_end": "2:52",
+        "rationale": "Feel-Good Family · Introduction — Julia introduces the dish and lists ingredients to the home viewer",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Introduction\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Julia Child drive the beat: Julia introduces the dish and lists ingredients to the home viewer. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Introduction",
+        "clip_description": "Julia introduces the dish and lists ingredients to the home viewer.",
+        "characters_present": [
+          "Julia Child"
+        ],
+        "sub_clip_focus": "Introduction — Julia introduces the dish and lists ingredients to the home viewer",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 2,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Julia Child"
+        ],
+        "audience_fit_score": 98,
+        "interest_match_score": 94,
+        "avoidance_score": 92
+      },
+      {
+        "rank": 2,
+        "asset_reference": "chef-ep01",
+        "title": "Wine reduction",
+        "clip_start": "9:44",
+        "clip_end": "13:11",
+        "rationale": "Feel-Good Family · Wine reduction — Julia deglazes, jokes about measuring wine, and invites the assistant to stir",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Wine reduction\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Guest Assistant drive the beat: Julia deglazes, jokes about measuring wine, and invites the assistant to stir. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Wine reduction",
+        "clip_description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+        "characters_present": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "sub_clip_focus": "Wine reduction — Julia deglazes, jokes about measuring wine, and invites the assistant to stir",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Guest Assistant"
+        ],
+        "audience_fit_score": 96,
+        "interest_match_score": 92,
+        "avoidance_score": 90
+      },
+      {
+        "rank": 3,
+        "asset_reference": "chef-ep02",
+        "title": "Introduction",
+        "clip_start": "0:34",
+        "clip_end": "2:51",
+        "rationale": "Feel-Good Family · Introduction — Julia introduces the dish and lists ingredients to the home viewer",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Introduction\" in Ep 2 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Julia Child drive the beat: Julia introduces the dish and lists ingredients to the home viewer. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Introduction",
+        "clip_description": "Julia introduces the dish and lists ingredients to the home viewer.",
+        "characters_present": [
+          "Julia Child"
+        ],
+        "sub_clip_focus": "Introduction — Julia introduces the dish and lists ingredients to the home viewer",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 2,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Julia Child"
+        ],
+        "audience_fit_score": 94,
+        "interest_match_score": 90,
+        "avoidance_score": 88
+      },
+      {
+        "rank": 4,
+        "asset_reference": "chef-ep02",
+        "title": "Wine reduction",
+        "clip_start": "9:44",
+        "clip_end": "13:10",
+        "rationale": "Feel-Good Family · Wine reduction — Julia deglazes, jokes about measuring wine, and invites the assistant to stir",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Wine reduction\" in Ep 2 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Guest Assistant drive the beat: Julia deglazes, jokes about measuring wine, and invites the assistant to stir. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Wine reduction",
+        "clip_description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+        "characters_present": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "sub_clip_focus": "Wine reduction — Julia deglazes, jokes about measuring wine, and invites the assistant to stir",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Guest Assistant"
+        ],
+        "audience_fit_score": 92,
+        "interest_match_score": 88,
+        "avoidance_score": 86
+      },
+      {
+        "rank": 5,
+        "asset_reference": "chef-ep03",
+        "title": "Introduction",
+        "clip_start": "0:34",
+        "clip_end": "2:52",
+        "rationale": "Feel-Good Family · Introduction — Julia introduces the dish and lists ingredients to the home viewer",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Introduction\" in Ep 3 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Julia Child drive the beat: Julia introduces the dish and lists ingredients to the home viewer. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Introduction",
+        "clip_description": "Julia introduces the dish and lists ingredients to the home viewer.",
+        "characters_present": [
+          "Julia Child"
+        ],
+        "sub_clip_focus": "Introduction — Julia introduces the dish and lists ingredients to the home viewer",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 2,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Julia Child"
+        ],
+        "audience_fit_score": 90,
+        "interest_match_score": 86,
+        "avoidance_score": 84
+      },
+      {
+        "rank": 6,
+        "asset_reference": "chef-ep03",
+        "title": "Wine reduction",
+        "clip_start": "9:45",
+        "clip_end": "13:11",
+        "rationale": "Feel-Good Family · Wine reduction — Julia deglazes, jokes about measuring wine, and invites the assistant to stir",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Wine reduction\" in Ep 3 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Guest Assistant drive the beat: Julia deglazes, jokes about measuring wine, and invites the assistant to stir. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Wine reduction",
+        "clip_description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+        "characters_present": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "sub_clip_focus": "Wine reduction — Julia deglazes, jokes about measuring wine, and invites the assistant to stir",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Guest Assistant"
+        ],
+        "audience_fit_score": 88,
+        "interest_match_score": 84,
+        "avoidance_score": 82
+      },
+      {
+        "rank": 7,
+        "asset_reference": "chef-ep04",
+        "title": "Introduction",
+        "clip_start": "0:34",
+        "clip_end": "2:52",
+        "rationale": "Feel-Good Family · Introduction — Julia introduces the dish and lists ingredients to the home viewer",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Introduction\" in Ep 4 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Julia Child drive the beat: Julia introduces the dish and lists ingredients to the home viewer. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Introduction",
+        "clip_description": "Julia introduces the dish and lists ingredients to the home viewer.",
+        "characters_present": [
+          "Julia Child"
+        ],
+        "sub_clip_focus": "Introduction — Julia introduces the dish and lists ingredients to the home viewer",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 2,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Julia Child"
+        ],
+        "audience_fit_score": 86,
+        "interest_match_score": 82,
+        "avoidance_score": 80
+      },
+      {
+        "rank": 8,
+        "asset_reference": "chef-ep04",
+        "title": "Wine reduction",
+        "clip_start": "9:45",
+        "clip_end": "13:11",
+        "rationale": "Feel-Good Family · Wine reduction — Julia deglazes, jokes about measuring wine, and invites the assistant to stir",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Wine reduction\" in Ep 4 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Guest Assistant drive the beat: Julia deglazes, jokes about measuring wine, and invites the assistant to stir. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Wine reduction",
+        "clip_description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+        "characters_present": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "sub_clip_focus": "Wine reduction — Julia deglazes, jokes about measuring wine, and invites the assistant to stir",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Guest Assistant"
+        ],
+        "audience_fit_score": 84,
+        "interest_match_score": 80,
+        "avoidance_score": 78
+      },
+      {
+        "rank": 9,
+        "asset_reference": "chef-ep01",
+        "title": "Side preparation",
+        "clip_start": "16:37",
+        "clip_end": "20:04",
+        "rationale": "Feel-Good Family · Side preparation — Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Side preparation\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Guest Assistant drive the beat: Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Side preparation",
+        "clip_description": "Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+        "characters_present": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "sub_clip_focus": "Side preparation — Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Guest Assistant"
+        ],
+        "audience_fit_score": 82,
+        "interest_match_score": 78,
+        "avoidance_score": 78
+      },
+      {
+        "rank": 10,
+        "asset_reference": "chef-ep02",
+        "title": "Plating",
+        "clip_start": "20:03",
+        "clip_end": "23:29",
+        "rationale": "Feel-Good Family · Plating — Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Plating\" in Ep 2 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Julia Child drive the beat: Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Plating",
+        "clip_description": "Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer.",
+        "characters_present": [
+          "Julia Child"
+        ],
+        "sub_clip_focus": "Plating — Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Julia Child"
+        ],
+        "audience_fit_score": 80,
+        "interest_match_score": 76,
+        "avoidance_score": 78
+      }
+    ]
+  },
+  "resolved_clips": [
+    {
+      "id": "feel_good_family-rail-0",
+      "assetId": "chef-ep01",
+      "assetReference": "chef-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/chef-ep01",
+      "startSec": 34,
+      "endSec": 172,
+      "thumbnailUrl": "https://i.ytimg.com/vi/vijibDontnU/maxresdefault.jpg",
+      "title": "Introduction",
+      "sceneTitle": "Introduction",
+      "description": "Julia introduces the dish and lists ingredients to the home viewer.",
+      "sceneDescription": "Julia introduces the dish and lists ingredients to the home viewer.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Introduction\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Julia Child drive the beat: Julia introduces the dish and lists ingredients to the home viewer. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Introduction",
+      "subClipFocus": "Introduction — Julia introduces the dish and lists ingredients to the home viewer",
+      "rank": 1,
+      "personalizationMetadata": {
+        "clipDescription": "Julia introduces the dish and lists ingredients to the home viewer.",
+        "reasoning": "For a Feel-Good Family viewer, \"Introduction\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Julia Child drive the beat: Julia introduces the dish and lists ingredients to the home viewer. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 2,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Julia Child"
+        ],
+        "fitScores": {
+          "audienceFit": 98,
+          "interestMatch": 94,
+          "avoidanceConfidence": 92
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-1",
+      "assetId": "chef-ep01",
+      "assetReference": "chef-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/chef-ep01",
+      "startSec": 584,
+      "endSec": 791,
+      "thumbnailUrl": "https://i.ytimg.com/vi/vijibDontnU/maxresdefault.jpg",
+      "title": "Wine reduction",
+      "sceneTitle": "Wine reduction",
+      "description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+      "sceneDescription": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child",
+        "Guest Assistant"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Wine reduction\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Guest Assistant drive the beat: Julia deglazes, jokes about measuring wine, and invites the assistant to stir. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Wine reduction",
+      "subClipFocus": "Wine reduction — Julia deglazes, jokes about measuring wine, and invites the assistant to stir",
+      "rank": 2,
+      "personalizationMetadata": {
+        "clipDescription": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+        "reasoning": "For a Feel-Good Family viewer, \"Wine reduction\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Guest Assistant drive the beat: Julia deglazes, jokes about measuring wine, and invites the assistant to stir. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Guest Assistant"
+        ],
+        "fitScores": {
+          "audienceFit": 96,
+          "interestMatch": 92,
+          "avoidanceConfidence": 90
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-2",
+      "assetId": "chef-ep02",
+      "assetReference": "chef-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/chef-ep02",
+      "startSec": 34,
+      "endSec": 171,
+      "thumbnailUrl": "https://i.ytimg.com/vi/677kAOMwTmo/maxresdefault.jpg",
+      "title": "Introduction",
+      "sceneTitle": "Introduction",
+      "description": "Julia introduces the dish and lists ingredients to the home viewer.",
+      "sceneDescription": "Julia introduces the dish and lists ingredients to the home viewer.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Introduction\" in Ep 2 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Julia Child drive the beat: Julia introduces the dish and lists ingredients to the home viewer. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Introduction",
+      "subClipFocus": "Introduction — Julia introduces the dish and lists ingredients to the home viewer",
+      "rank": 3,
+      "personalizationMetadata": {
+        "clipDescription": "Julia introduces the dish and lists ingredients to the home viewer.",
+        "reasoning": "For a Feel-Good Family viewer, \"Introduction\" in Ep 2 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Julia Child drive the beat: Julia introduces the dish and lists ingredients to the home viewer. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 2,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Julia Child"
+        ],
+        "fitScores": {
+          "audienceFit": 94,
+          "interestMatch": 90,
+          "avoidanceConfidence": 88
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-3",
+      "assetId": "chef-ep02",
+      "assetReference": "chef-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/chef-ep02",
+      "startSec": 584,
+      "endSec": 790,
+      "thumbnailUrl": "https://i.ytimg.com/vi/677kAOMwTmo/maxresdefault.jpg",
+      "title": "Wine reduction",
+      "sceneTitle": "Wine reduction",
+      "description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+      "sceneDescription": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child",
+        "Guest Assistant"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Wine reduction\" in Ep 2 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Guest Assistant drive the beat: Julia deglazes, jokes about measuring wine, and invites the assistant to stir. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Wine reduction",
+      "subClipFocus": "Wine reduction — Julia deglazes, jokes about measuring wine, and invites the assistant to stir",
+      "rank": 4,
+      "personalizationMetadata": {
+        "clipDescription": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+        "reasoning": "For a Feel-Good Family viewer, \"Wine reduction\" in Ep 2 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Guest Assistant drive the beat: Julia deglazes, jokes about measuring wine, and invites the assistant to stir. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Guest Assistant"
+        ],
+        "fitScores": {
+          "audienceFit": 92,
+          "interestMatch": 88,
+          "avoidanceConfidence": 86
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-4",
+      "assetId": "chef-ep03",
+      "assetReference": "chef-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/chef-ep03",
+      "startSec": 34,
+      "endSec": 172,
+      "thumbnailUrl": "https://i.ytimg.com/vi/dMeqIWwF5yk/maxresdefault.jpg",
+      "title": "Introduction",
+      "sceneTitle": "Introduction",
+      "description": "Julia introduces the dish and lists ingredients to the home viewer.",
+      "sceneDescription": "Julia introduces the dish and lists ingredients to the home viewer.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Introduction\" in Ep 3 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Julia Child drive the beat: Julia introduces the dish and lists ingredients to the home viewer. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Introduction",
+      "subClipFocus": "Introduction — Julia introduces the dish and lists ingredients to the home viewer",
+      "rank": 5,
+      "personalizationMetadata": {
+        "clipDescription": "Julia introduces the dish and lists ingredients to the home viewer.",
+        "reasoning": "For a Feel-Good Family viewer, \"Introduction\" in Ep 3 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Julia Child drive the beat: Julia introduces the dish and lists ingredients to the home viewer. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 2,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Julia Child"
+        ],
+        "fitScores": {
+          "audienceFit": 90,
+          "interestMatch": 86,
+          "avoidanceConfidence": 84
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-5",
+      "assetId": "chef-ep03",
+      "assetReference": "chef-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/chef-ep03",
+      "startSec": 585,
+      "endSec": 791,
+      "thumbnailUrl": "https://i.ytimg.com/vi/dMeqIWwF5yk/maxresdefault.jpg",
+      "title": "Wine reduction",
+      "sceneTitle": "Wine reduction",
+      "description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+      "sceneDescription": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child",
+        "Guest Assistant"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Wine reduction\" in Ep 3 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Guest Assistant drive the beat: Julia deglazes, jokes about measuring wine, and invites the assistant to stir. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Wine reduction",
+      "subClipFocus": "Wine reduction — Julia deglazes, jokes about measuring wine, and invites the assistant to stir",
+      "rank": 6,
+      "personalizationMetadata": {
+        "clipDescription": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+        "reasoning": "For a Feel-Good Family viewer, \"Wine reduction\" in Ep 3 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Guest Assistant drive the beat: Julia deglazes, jokes about measuring wine, and invites the assistant to stir. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Guest Assistant"
+        ],
+        "fitScores": {
+          "audienceFit": 88,
+          "interestMatch": 84,
+          "avoidanceConfidence": 82
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-6",
+      "assetId": "chef-ep04",
+      "assetReference": "chef-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/chef-ep04",
+      "startSec": 34,
+      "endSec": 172,
+      "thumbnailUrl": "https://i.ytimg.com/vi/uruT8FPpeKc/maxresdefault.jpg",
+      "title": "Introduction",
+      "sceneTitle": "Introduction",
+      "description": "Julia introduces the dish and lists ingredients to the home viewer.",
+      "sceneDescription": "Julia introduces the dish and lists ingredients to the home viewer.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Introduction\" in Ep 4 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Julia Child drive the beat: Julia introduces the dish and lists ingredients to the home viewer. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Introduction",
+      "subClipFocus": "Introduction — Julia introduces the dish and lists ingredients to the home viewer",
+      "rank": 7,
+      "personalizationMetadata": {
+        "clipDescription": "Julia introduces the dish and lists ingredients to the home viewer.",
+        "reasoning": "For a Feel-Good Family viewer, \"Introduction\" in Ep 4 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Julia Child drive the beat: Julia introduces the dish and lists ingredients to the home viewer. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 2,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Julia Child"
+        ],
+        "fitScores": {
+          "audienceFit": 86,
+          "interestMatch": 82,
+          "avoidanceConfidence": 80
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-7",
+      "assetId": "chef-ep04",
+      "assetReference": "chef-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/chef-ep04",
+      "startSec": 585,
+      "endSec": 791,
+      "thumbnailUrl": "https://i.ytimg.com/vi/uruT8FPpeKc/maxresdefault.jpg",
+      "title": "Wine reduction",
+      "sceneTitle": "Wine reduction",
+      "description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+      "sceneDescription": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child",
+        "Guest Assistant"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Wine reduction\" in Ep 4 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Guest Assistant drive the beat: Julia deglazes, jokes about measuring wine, and invites the assistant to stir. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Wine reduction",
+      "subClipFocus": "Wine reduction — Julia deglazes, jokes about measuring wine, and invites the assistant to stir",
+      "rank": 8,
+      "personalizationMetadata": {
+        "clipDescription": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+        "reasoning": "For a Feel-Good Family viewer, \"Wine reduction\" in Ep 4 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Guest Assistant drive the beat: Julia deglazes, jokes about measuring wine, and invites the assistant to stir. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Guest Assistant"
+        ],
+        "fitScores": {
+          "audienceFit": 84,
+          "interestMatch": 80,
+          "avoidanceConfidence": 78
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-8",
+      "assetId": "chef-ep01",
+      "assetReference": "chef-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/chef-ep01",
+      "startSec": 997,
+      "endSec": 1204,
+      "thumbnailUrl": "https://i.ytimg.com/vi/vijibDontnU/maxresdefault.jpg",
+      "title": "Side preparation",
+      "sceneTitle": "Side preparation",
+      "description": "Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+      "sceneDescription": "Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child",
+        "Guest Assistant"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Side preparation\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Guest Assistant drive the beat: Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Side preparation",
+      "subClipFocus": "Side preparation — Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc",
+      "rank": 9,
+      "personalizationMetadata": {
+        "clipDescription": "Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+        "reasoning": "For a Feel-Good Family viewer, \"Side preparation\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Guest Assistant drive the beat: Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Guest Assistant"
+        ],
+        "fitScores": {
+          "audienceFit": 82,
+          "interestMatch": 78,
+          "avoidanceConfidence": 78
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-9",
+      "assetId": "chef-ep02",
+      "assetReference": "chef-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/chef-ep02",
+      "startSec": 1203,
+      "endSec": 1409,
+      "thumbnailUrl": "https://i.ytimg.com/vi/677kAOMwTmo/maxresdefault.jpg",
+      "title": "Plating",
+      "sceneTitle": "Plating",
+      "description": "Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer.",
+      "sceneDescription": "Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Plating\" in Ep 2 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Julia Child drive the beat: Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Plating",
+      "subClipFocus": "Plating — Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc",
+      "rank": 10,
+      "personalizationMetadata": {
+        "clipDescription": "Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer.",
+        "reasoning": "For a Feel-Good Family viewer, \"Plating\" in Ep 2 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Julia Child drive the beat: Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Julia Child"
+        ],
+        "fitScores": {
+          "audienceFit": 80,
+          "interestMatch": 76,
+          "avoidanceConfidence": 78
+        }
+      }
+    }
+  ]
+}

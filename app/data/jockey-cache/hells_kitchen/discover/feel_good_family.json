@@ -1,0 +1,1101 @@
+{
+  "request": {
+    "model": "jockey1.0",
+    "intent": "Looking for feel-good content, family-friendly, uplifting moments, under 20 min per clip"
+  },
+  "response": {
+    "viewer_intent_interpretation": "Looking for feel-good content, family-friendly, uplifting moments, under 20 min per clip",
+    "recommended_rail": [
+      {
+        "rank": 1,
+        "asset_reference": "hk-ep01",
+        "title": "Sous chefs and prize revealed",
+        "clip_start": "00:03:32",
+        "clip_end": "00:04:44",
+        "rationale": "Feel-Good Family · Sous chefs and prize revealed — Ramsay introduces Blue Team sous chef James Avery and Red Team sous chef Michelle Tribble, then announces the prize: the winner will become head chef at Hell's Kitchen at Foxwoods Resort Casino",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "signature dish challenge",
+          "East Coast launch"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Sous chefs and prize revealed\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, Brandon, Hannah drive the beat: Ramsay introduces Blue Team sous chef James Avery and Red Team sous chef Michelle Tribble, then announces the prize: the winner will become head chef at Hell's Kitchen at Foxwoods Resort Casino.  The chefs react with excitement because the reward is a real executive position, not just bragging rights. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Sous chefs and prize revealed",
+        "clip_description": "Ramsay introduces Blue Team sous chef James Avery and Red Team sous chef Michelle Tribble, then announces the prize: the winner will become head chef at Hell's Kitchen at Foxwoods Resort Casino.  The chefs react with excitement because the reward is a real executive position, not just bragging rights.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "James Avery",
+          "Michelle Tribble",
+          "Brandon",
+          "Hannah"
+        ],
+        "sub_clip_focus": "Sous chefs and prize revealed — Ramsay introduces Blue Team sous chef James Avery and Red Team sous chef Michelle Tribble, then announces the prize: the winner will become head chef at Hell's Kitchen at Foxwoods Resort Casino",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "Brandon",
+          "Hannah"
+        ],
+        "audience_fit_score": 98,
+        "interest_match_score": 94,
+        "avoidance_score": 92
+      },
+      {
+        "rank": 2,
+        "asset_reference": "hk-ep05",
+        "title": "Red celebrates while Blue absorbs the loss",
+        "clip_start": "20:01",
+        "clip_end": "24:09",
+        "rationale": "Feel-Good Family · Red celebrates while Blue absorbs the loss — The Red Team celebrates its reward, first discovering the cookware surprise and then enjoying the bowling outing",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "burger challenge",
+          "George Motz"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Red celebrates while Blue absorbs the loss\" in Ep 5 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Amanda, Ann Marie drive the beat: The Red Team celebrates its reward, first discovering the cookware surprise and then enjoying the bowling outing.  In parallel, the Blue Team grinds meat by hand while Kyle privately spirals over costing them the challenge. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Red celebrates while Blue absorbs the loss",
+        "clip_description": "The Red Team celebrates its reward, first discovering the cookware surprise and then enjoying the bowling outing.  In parallel, the Blue Team grinds meat by hand while Kyle privately spirals over costing them the challenge.",
+        "characters_present": [
+          "Amanda",
+          "Ann Marie",
+          "Brittany",
+          "Magali",
+          "Meghan",
+          "Kyle",
+          "Brandon",
+          "Joe",
+          "Egypt",
+          "Marino"
+        ],
+        "sub_clip_focus": "Red celebrates while Blue absorbs the loss — The Red Team celebrates its reward, first discovering the cookware surprise and then enjoying the bowling outing",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 4,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Amanda",
+          "Ann Marie"
+        ],
+        "audience_fit_score": 96,
+        "interest_match_score": 92,
+        "avoidance_score": 90
+      },
+      {
+        "rank": 3,
+        "asset_reference": "hk-ep01",
+        "title": "Momentum swings in the middle rounds",
+        "clip_start": "00:20:12",
+        "clip_end": "00:23:14",
+        "rationale": "Feel-Good Family · Momentum swings in the middle rounds — The middle judging round is all about instability",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "signature dish challenge",
+          "East Coast launch"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Momentum swings in the middle rounds\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, Kyle, Brittany drive the beat: The middle judging round is all about instability.  Kyle earns praise for beautifully cooked fish, Brittany successfully recovers enough to score a 4, Amber stumbles with a 3, and Corbin capitalizes with a 4 that briefly puts the Blue Team ahead. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Momentum swings in the middle rounds",
+        "clip_description": "The middle judging round is all about instability.  Kyle earns praise for beautifully cooked fish, Brittany successfully recovers enough to score a 4, Amber stumbles with a 3, and Corbin capitalizes with a 4 that briefly puts the Blue Team ahead.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "Kyle",
+          "Brittany",
+          "Amber",
+          "Corbin"
+        ],
+        "sub_clip_focus": "Momentum swings in the middle rounds — The middle judging round is all about instability",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "Kyle",
+          "Brittany"
+        ],
+        "audience_fit_score": 94,
+        "interest_match_score": 90,
+        "avoidance_score": 88
+      },
+      {
+        "rank": 4,
+        "asset_reference": "hk-ep01",
+        "title": "Reward bonds the women; punishment divides the men",
+        "clip_start": "00:33:20",
+        "clip_end": "00:38:30",
+        "rationale": "Feel-Good Family · Reward bonds the women; punishment divides the men — After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "signature dish challenge",
+          "East Coast launch"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Reward bonds the women; punishment divides the men\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, Brittany, Ann Marie drive the beat: After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Reward bonds the women; punishment divides the men",
+        "clip_description": "After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "Brittany",
+          "Ann Marie",
+          "Hannah",
+          "Magali",
+          "Meghan",
+          "Whit",
+          "James Avery",
+          "Corbin",
+          "Egypt",
+          "Joe",
+          "Michael",
+          "Shant",
+          "Uri"
+        ],
+        "sub_clip_focus": "Reward bonds the women; punishment divides the men — After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 5,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "Brittany",
+          "Ann Marie"
+        ],
+        "audience_fit_score": 92,
+        "interest_match_score": 88,
+        "avoidance_score": 86
+      },
+      {
+        "rank": 5,
+        "asset_reference": "hk-ep05",
+        "title": "Both kitchens recover and find rhythm",
+        "clip_start": "34:16",
+        "clip_end": "39:44",
+        "rationale": "Feel-Good Family · Both kitchens recover and find rhythm — After the rough opening, the kitchens settle",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "burger challenge",
+          "George Motz"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Both kitchens recover and find rhythm\" in Ep 5 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, Egypt, Anthony drive the beat: After the rough opening, the kitchens settle.  Egypt regains confidence on fish and sends strong scallops, Kyle redeems himself on meat, and the Red Team’s stations begin syncing up as well. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Both kitchens recover and find rhythm",
+        "clip_description": "After the rough opening, the kitchens settle.  Egypt regains confidence on fish and sends strong scallops, Kyle redeems himself on meat, and the Red Team’s stations begin syncing up as well.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "Egypt",
+          "Anthony",
+          "Brandon",
+          "Joe",
+          "Kyle",
+          "Whit",
+          "Hannah",
+          "Meghan",
+          "Ann Marie",
+          "Magali",
+          "James",
+          "Michelle Tribble"
+        ],
+        "sub_clip_focus": "Both kitchens recover and find rhythm — After the rough opening, the kitchens settle",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 5,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "Egypt",
+          "Anthony"
+        ],
+        "audience_fit_score": 90,
+        "interest_match_score": 86,
+        "avoidance_score": 84
+      },
+      {
+        "rank": 6,
+        "asset_reference": "hk-ep05",
+        "title": "Whit beats Kyle in the tiebreaker",
+        "clip_start": "17:12",
+        "clip_end": "18:23",
+        "rationale": "Feel-Good Family · Whit beats Kyle in the tiebreaker — The last matchup comes down to Whit versus Kyle on lamb",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "burger challenge",
+          "George Motz"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Whit beats Kyle in the tiebreaker\" in Ep 5 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, George Motz, Whit drive the beat: The last matchup comes down to Whit versus Kyle on lamb.  Whit’s burger is praised as intense and memorable, while Kyle’s burger gets good notes but cannot overcome the earlier mistake hanging over his overall performance. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Whit beats Kyle in the tiebreaker",
+        "clip_description": "The last matchup comes down to Whit versus Kyle on lamb.  Whit’s burger is praised as intense and memorable, while Kyle’s burger gets good notes but cannot overcome the earlier mistake hanging over his overall performance.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "George Motz",
+          "Whit",
+          "Kyle",
+          "Egypt",
+          "Joe",
+          "Anthony",
+          "Meghan",
+          "Brittany"
+        ],
+        "sub_clip_focus": "Whit beats Kyle in the tiebreaker — The last matchup comes down to Whit versus Kyle on lamb",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "George Motz",
+          "Whit"
+        ],
+        "audience_fit_score": 88,
+        "interest_match_score": 84,
+        "avoidance_score": 82
+      },
+      {
+        "rank": 7,
+        "asset_reference": "hk-ep01",
+        "title": "Hannah seals the Red Team win",
+        "clip_start": "00:31:07",
+        "clip_end": "00:32:20",
+        "rationale": "Feel-Good Family · Hannah seals the Red Team win — With the score still in reach for both teams, the final pairing comes down to Shant and Hannah",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "signature dish challenge",
+          "East Coast launch"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Hannah seals the Red Team win\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, Hannah, Shant drive the beat: With the score still in reach for both teams, the final pairing comes down to Shant and Hannah.  Shant posts a respectable 4, but Hannah's maple leaf duck breast with curry chocolate demi-glace earns a 5 from Ramsay, flipping the ending into a Red Team victory and unleashing the women's celebration. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Hannah seals the Red Team win",
+        "clip_description": "With the score still in reach for both teams, the final pairing comes down to Shant and Hannah.  Shant posts a respectable 4, but Hannah's maple leaf duck breast with curry chocolate demi-glace earns a 5 from Ramsay, flipping the ending into a Red Team victory and unleashing the women's celebration.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "Hannah",
+          "Shant",
+          "Amanda",
+          "Ann Marie"
+        ],
+        "sub_clip_focus": "Hannah seals the Red Team win — With the score still in reach for both teams, the final pairing comes down to Shant and Hannah",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "Hannah",
+          "Shant"
+        ],
+        "audience_fit_score": 86,
+        "interest_match_score": 82,
+        "avoidance_score": 80
+      },
+      {
+        "rank": 8,
+        "asset_reference": "hk-ep04",
+        "title": "Blue Team is thrown out after the second raw lamb",
+        "clip_start": "32:52",
+        "clip_end": "33:13",
+        "rationale": "Feel-Good Family · Blue Team is thrown out after the second raw lamb — After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "pickling challenge",
+          "pickleball"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Blue Team is thrown out after the second raw lamb\" in Ep 4 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, Joe, Lulu drive the beat: After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry.  He tears into them for showing no bounce-back ability and then throws them out of service, forcing them to leave the kitchen in disgrace. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Blue Team is thrown out after the second raw lamb",
+        "clip_description": "After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry.  He tears into them for showing no bounce-back ability and then throws them out of service, forcing them to leave the kitchen in disgrace.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "Joe",
+          "Lulu",
+          "Egypt",
+          "Michael",
+          "Kyle",
+          "Anthony",
+          "Brandon",
+          "Vernon Davis"
+        ],
+        "sub_clip_focus": "Blue Team is thrown out after the second raw lamb — After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "Joe",
+          "Lulu"
+        ],
+        "audience_fit_score": 84,
+        "interest_match_score": 80,
+        "avoidance_score": 78
+      },
+      {
+        "rank": 9,
+        "asset_reference": "hk-ep03",
+        "title": "Blue-team communication cracks under entrée pressure",
+        "clip_start": "25:54",
+        "clip_end": "31:49",
+        "rationale": "Feel-Good Family · Blue-team communication cracks under entrée pressure — The blue team’s first major collapse comes on appetizers and early entrees: scallops are overcooked, then salmon is overcooked and steak undercooked, while Egypt’s aggressive leadership starts provoking Michael, Kyle, and Brandon",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "seafood challenge",
+          "seafood tower"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Blue-team communication cracks under entrée pressure\" in Ep 3 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, Egypt, Corbin drive the beat: The blue team’s first major collapse comes on appetizers and early entrees: scallops are overcooked, then salmon is overcooked and steak undercooked, while Egypt’s aggressive leadership starts provoking Michael, Kyle, and Brandon.  On the red side, Hannah forgets the lentils for salmon, drawing Ramsay’s anger, but the women regain control faster than the men. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Blue-team communication cracks under entrée pressure",
+        "clip_description": "The blue team’s first major collapse comes on appetizers and early entrees: scallops are overcooked, then salmon is overcooked and steak undercooked, while Egypt’s aggressive leadership starts provoking Michael, Kyle, and Brandon.  On the red side, Hannah forgets the lentils for salmon, drawing Ramsay’s anger, but the women regain control faster than the men.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "Egypt",
+          "Corbin",
+          "Michael",
+          "Kyle",
+          "Brandon",
+          "Hannah",
+          "Meghan",
+          "Ann Marie"
+        ],
+        "sub_clip_focus": "Blue-team communication cracks under entrée pressure — The blue team’s first major collapse comes on appetizers and early entrees: scallops are overcooked, then salmon is overcooked and steak undercooked, while Egypt’s aggressive leadership starts provoking Michael, Kyle, and Brandon",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 6,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "Egypt",
+          "Corbin"
+        ],
+        "audience_fit_score": 82,
+        "interest_match_score": 78,
+        "avoidance_score": 78
+      },
+      {
+        "rank": 10,
+        "asset_reference": "hk-ep04",
+        "title": "Farm punishment turns into a health scare",
+        "clip_start": "20:57",
+        "clip_end": "21:50",
+        "rationale": "Feel-Good Family · Farm punishment turns into a health scare — The losing Red Team is sent to a farm punishment involving manure, and the physical toll quickly shows",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "pickling challenge",
+          "pickleball"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Farm punishment turns into a health scare\" in Ep 4 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Amanda, Brittany drive the beat: The losing Red Team is sent to a farm punishment involving manure, and the physical toll quickly shows.  Amanda becomes overwhelmed and nearly collapses, while Brittany stays with her, coaches her breathing, and helps steady her until she recovers. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Farm punishment turns into a health scare",
+        "clip_description": "The losing Red Team is sent to a farm punishment involving manure, and the physical toll quickly shows.  Amanda becomes overwhelmed and nearly collapses, while Brittany stays with her, coaches her breathing, and helps steady her until she recovers.",
+        "characters_present": [
+          "Amanda",
+          "Brittany",
+          "Egypt",
+          "Whit",
+          "Meghan",
+          "Ann Marie",
+          "Hannah"
+        ],
+        "sub_clip_focus": "Farm punishment turns into a health scare — The losing Red Team is sent to a farm punishment involving manure, and the physical toll quickly shows",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Amanda",
+          "Brittany"
+        ],
+        "audience_fit_score": 80,
+        "interest_match_score": 76,
+        "avoidance_score": 78
+      }
+    ]
+  },
+  "resolved_clips": [
+    {
+      "id": "feel_good_family-rail-0",
+      "assetId": "hk-ep01",
+      "assetReference": "hk-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/hk-ep01",
+      "startSec": 212,
+      "endSec": 284,
+      "thumbnailUrl": "https://i.ytimg.com/vi/n3k6NV9qRsQ/maxresdefault.jpg",
+      "title": "Sous chefs and prize revealed",
+      "sceneTitle": "Sous chefs and prize revealed",
+      "description": "Ramsay introduces Blue Team sous chef James Avery and Red Team sous chef Michelle Tribble, then announces the prize: the winner will become head chef at Hell's Kitchen at Foxwoods Resort Casino.  The chefs react with excitement because the reward is a real executive position, not just bragging rights.",
+      "sceneDescription": "Ramsay introduces Blue Team sous chef James Avery and Red Team sous chef Michelle Tribble, then announces the prize: the winner will become head chef at Hell's Kitchen at Foxwoods Resort Casino.  The chefs react with excitement because the reward is a real executive position, not just bragging rights.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "signature dish challenge",
+        "East Coast launch"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "James Avery",
+        "Michelle Tribble",
+        "Brandon",
+        "Hannah"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Sous chefs and prize revealed\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, Brandon, Hannah drive the beat: Ramsay introduces Blue Team sous chef James Avery and Red Team sous chef Michelle Tribble, then announces the prize: the winner will become head chef at Hell's Kitchen at Foxwoods Resort Casino.  The chefs react with excitement because the reward is a real executive position, not just bragging rights. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Sous chefs and prize revealed",
+      "subClipFocus": "Sous chefs and prize revealed — Ramsay introduces Blue Team sous chef James Avery and Red Team sous chef Michelle Tribble, then announces the prize: the winner will become head chef at Hell's Kitchen at Foxwoods Resort Casino",
+      "rank": 1,
+      "personalizationMetadata": {
+        "clipDescription": "Ramsay introduces Blue Team sous chef James Avery and Red Team sous chef Michelle Tribble, then announces the prize: the winner will become head chef at Hell's Kitchen at Foxwoods Resort Casino.  The chefs react with excitement because the reward is a real executive position, not just bragging rights.",
+        "reasoning": "For a Feel-Good Family viewer, \"Sous chefs and prize revealed\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, Brandon, Hannah drive the beat: Ramsay introduces Blue Team sous chef James Avery and Red Team sous chef Michelle Tribble, then announces the prize: the winner will become head chef at Hell's Kitchen at Foxwoods Resort Casino.  The chefs react with excitement because the reward is a real executive position, not just bragging rights. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "Brandon",
+          "Hannah"
+        ],
+        "fitScores": {
+          "audienceFit": 98,
+          "interestMatch": 94,
+          "avoidanceConfidence": 92
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-1",
+      "assetId": "hk-ep05",
+      "assetReference": "hk-ep05",
+      "episodeLabel": "Ep 5",
+      "videoSrc": "/api/media/hk-ep05",
+      "startSec": 1201,
+      "endSec": 1449,
+      "thumbnailUrl": "https://i.ytimg.com/vi/NKTyf08aXUY/maxresdefault.jpg",
+      "title": "Red celebrates while Blue absorbs the loss",
+      "sceneTitle": "Red celebrates while Blue absorbs the loss",
+      "description": "The Red Team celebrates its reward, first discovering the cookware surprise and then enjoying the bowling outing.  In parallel, the Blue Team grinds meat by hand while Kyle privately spirals over costing them the challenge.",
+      "sceneDescription": "The Red Team celebrates its reward, first discovering the cookware surprise and then enjoying the bowling outing.  In parallel, the Blue Team grinds meat by hand while Kyle privately spirals over costing them the challenge.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "burger challenge",
+        "George Motz"
+      ],
+      "charactersPresent": [
+        "Amanda",
+        "Ann Marie",
+        "Brittany",
+        "Magali",
+        "Meghan",
+        "Kyle",
+        "Brandon",
+        "Joe",
+        "Egypt",
+        "Marino"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Red celebrates while Blue absorbs the loss\" in Ep 5 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Amanda, Ann Marie drive the beat: The Red Team celebrates its reward, first discovering the cookware surprise and then enjoying the bowling outing.  In parallel, the Blue Team grinds meat by hand while Kyle privately spirals over costing them the challenge. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Red celebrates while Blue absorbs the loss",
+      "subClipFocus": "Red celebrates while Blue absorbs the loss — The Red Team celebrates its reward, first discovering the cookware surprise and then enjoying the bowling outing",
+      "rank": 2,
+      "personalizationMetadata": {
+        "clipDescription": "The Red Team celebrates its reward, first discovering the cookware surprise and then enjoying the bowling outing.  In parallel, the Blue Team grinds meat by hand while Kyle privately spirals over costing them the challenge.",
+        "reasoning": "For a Feel-Good Family viewer, \"Red celebrates while Blue absorbs the loss\" in Ep 5 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Amanda, Ann Marie drive the beat: The Red Team celebrates its reward, first discovering the cookware surprise and then enjoying the bowling outing.  In parallel, the Blue Team grinds meat by hand while Kyle privately spirals over costing them the challenge. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 4,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Amanda",
+          "Ann Marie"
+        ],
+        "fitScores": {
+          "audienceFit": 96,
+          "interestMatch": 92,
+          "avoidanceConfidence": 90
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-2",
+      "assetId": "hk-ep01",
+      "assetReference": "hk-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/hk-ep01",
+      "startSec": 1212,
+      "endSec": 1394,
+      "thumbnailUrl": "https://i.ytimg.com/vi/n3k6NV9qRsQ/maxresdefault.jpg",
+      "title": "Momentum swings in the middle rounds",
+      "sceneTitle": "Momentum swings in the middle rounds",
+      "description": "The middle judging round is all about instability.  Kyle earns praise for beautifully cooked fish, Brittany successfully recovers enough to score a 4, Amber stumbles with a 3, and Corbin capitalizes with a 4 that briefly puts the Blue Team ahead.",
+      "sceneDescription": "The middle judging round is all about instability.  Kyle earns praise for beautifully cooked fish, Brittany successfully recovers enough to score a 4, Amber stumbles with a 3, and Corbin capitalizes with a 4 that briefly puts the Blue Team ahead.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "signature dish challenge",
+        "East Coast launch"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Kyle",
+        "Brittany",
+        "Amber",
+        "Corbin"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Momentum swings in the middle rounds\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, Kyle, Brittany drive the beat: The middle judging round is all about instability.  Kyle earns praise for beautifully cooked fish, Brittany successfully recovers enough to score a 4, Amber stumbles with a 3, and Corbin capitalizes with a 4 that briefly puts the Blue Team ahead. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Momentum swings in the middle rounds",
+      "subClipFocus": "Momentum swings in the middle rounds — The middle judging round is all about instability",
+      "rank": 3,
+      "personalizationMetadata": {
+        "clipDescription": "The middle judging round is all about instability.  Kyle earns praise for beautifully cooked fish, Brittany successfully recovers enough to score a 4, Amber stumbles with a 3, and Corbin capitalizes with a 4 that briefly puts the Blue Team ahead.",
+        "reasoning": "For a Feel-Good Family viewer, \"Momentum swings in the middle rounds\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, Kyle, Brittany drive the beat: The middle judging round is all about instability.  Kyle earns praise for beautifully cooked fish, Brittany successfully recovers enough to score a 4, Amber stumbles with a 3, and Corbin capitalizes with a 4 that briefly puts the Blue Team ahead. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "Kyle",
+          "Brittany"
+        ],
+        "fitScores": {
+          "audienceFit": 94,
+          "interestMatch": 90,
+          "avoidanceConfidence": 88
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-3",
+      "assetId": "hk-ep01",
+      "assetReference": "hk-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/hk-ep01",
+      "startSec": 2000,
+      "endSec": 2310,
+      "thumbnailUrl": "https://i.ytimg.com/vi/n3k6NV9qRsQ/maxresdefault.jpg",
+      "title": "Reward bonds the women; punishment divides the men",
+      "sceneTitle": "Reward bonds the women; punishment divides the men",
+      "description": "After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side.",
+      "sceneDescription": "After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "signature dish challenge",
+        "East Coast launch"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Brittany",
+        "Ann Marie",
+        "Hannah",
+        "Magali",
+        "Meghan",
+        "Whit",
+        "James Avery",
+        "Corbin",
+        "Egypt",
+        "Joe",
+        "Michael",
+        "Shant",
+        "Uri"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Reward bonds the women; punishment divides the men\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, Brittany, Ann Marie drive the beat: After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Reward bonds the women; punishment divides the men",
+      "subClipFocus": "Reward bonds the women; punishment divides the men — After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy",
+      "rank": 4,
+      "personalizationMetadata": {
+        "clipDescription": "After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side.",
+        "reasoning": "For a Feel-Good Family viewer, \"Reward bonds the women; punishment divides the men\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, Brittany, Ann Marie drive the beat: After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 5,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "Brittany",
+          "Ann Marie"
+        ],
+        "fitScores": {
+          "audienceFit": 92,
+          "interestMatch": 88,
+          "avoidanceConfidence": 86
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-4",
+      "assetId": "hk-ep05",
+      "assetReference": "hk-ep05",
+      "episodeLabel": "Ep 5",
+      "videoSrc": "/api/media/hk-ep05",
+      "startSec": 2056,
+      "endSec": 2384,
+      "thumbnailUrl": "https://i.ytimg.com/vi/NKTyf08aXUY/maxresdefault.jpg",
+      "title": "Both kitchens recover and find rhythm",
+      "sceneTitle": "Both kitchens recover and find rhythm",
+      "description": "After the rough opening, the kitchens settle.  Egypt regains confidence on fish and sends strong scallops, Kyle redeems himself on meat, and the Red Team’s stations begin syncing up as well.",
+      "sceneDescription": "After the rough opening, the kitchens settle.  Egypt regains confidence on fish and sends strong scallops, Kyle redeems himself on meat, and the Red Team’s stations begin syncing up as well.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "burger challenge",
+        "George Motz"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Egypt",
+        "Anthony",
+        "Brandon",
+        "Joe",
+        "Kyle",
+        "Whit",
+        "Hannah",
+        "Meghan",
+        "Ann Marie",
+        "Magali",
+        "James",
+        "Michelle Tribble"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Both kitchens recover and find rhythm\" in Ep 5 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, Egypt, Anthony drive the beat: After the rough opening, the kitchens settle.  Egypt regains confidence on fish and sends strong scallops, Kyle redeems himself on meat, and the Red Team’s stations begin syncing up as well. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Both kitchens recover and find rhythm",
+      "subClipFocus": "Both kitchens recover and find rhythm — After the rough opening, the kitchens settle",
+      "rank": 5,
+      "personalizationMetadata": {
+        "clipDescription": "After the rough opening, the kitchens settle.  Egypt regains confidence on fish and sends strong scallops, Kyle redeems himself on meat, and the Red Team’s stations begin syncing up as well.",
+        "reasoning": "For a Feel-Good Family viewer, \"Both kitchens recover and find rhythm\" in Ep 5 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, Egypt, Anthony drive the beat: After the rough opening, the kitchens settle.  Egypt regains confidence on fish and sends strong scallops, Kyle redeems himself on meat, and the Red Team’s stations begin syncing up as well. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 5,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "Egypt",
+          "Anthony"
+        ],
+        "fitScores": {
+          "audienceFit": 90,
+          "interestMatch": 86,
+          "avoidanceConfidence": 84
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-5",
+      "assetId": "hk-ep05",
+      "assetReference": "hk-ep05",
+      "episodeLabel": "Ep 5",
+      "videoSrc": "/api/media/hk-ep05",
+      "startSec": 1032,
+      "endSec": 1103,
+      "thumbnailUrl": "https://i.ytimg.com/vi/NKTyf08aXUY/maxresdefault.jpg",
+      "title": "Whit beats Kyle in the tiebreaker",
+      "sceneTitle": "Whit beats Kyle in the tiebreaker",
+      "description": "The last matchup comes down to Whit versus Kyle on lamb.  Whit’s burger is praised as intense and memorable, while Kyle’s burger gets good notes but cannot overcome the earlier mistake hanging over his overall performance.",
+      "sceneDescription": "The last matchup comes down to Whit versus Kyle on lamb.  Whit’s burger is praised as intense and memorable, while Kyle’s burger gets good notes but cannot overcome the earlier mistake hanging over his overall performance.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "burger challenge",
+        "George Motz"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "George Motz",
+        "Whit",
+        "Kyle",
+        "Egypt",
+        "Joe",
+        "Anthony",
+        "Meghan",
+        "Brittany"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Whit beats Kyle in the tiebreaker\" in Ep 5 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, George Motz, Whit drive the beat: The last matchup comes down to Whit versus Kyle on lamb.  Whit’s burger is praised as intense and memorable, while Kyle’s burger gets good notes but cannot overcome the earlier mistake hanging over his overall performance. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Whit beats Kyle in the tiebreaker",
+      "subClipFocus": "Whit beats Kyle in the tiebreaker — The last matchup comes down to Whit versus Kyle on lamb",
+      "rank": 6,
+      "personalizationMetadata": {
+        "clipDescription": "The last matchup comes down to Whit versus Kyle on lamb.  Whit’s burger is praised as intense and memorable, while Kyle’s burger gets good notes but cannot overcome the earlier mistake hanging over his overall performance.",
+        "reasoning": "For a Feel-Good Family viewer, \"Whit beats Kyle in the tiebreaker\" in Ep 5 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, George Motz, Whit drive the beat: The last matchup comes down to Whit versus Kyle on lamb.  Whit’s burger is praised as intense and memorable, while Kyle’s burger gets good notes but cannot overcome the earlier mistake hanging over his overall performance. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "George Motz",
+          "Whit"
+        ],
+        "fitScores": {
+          "audienceFit": 88,
+          "interestMatch": 84,
+          "avoidanceConfidence": 82
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-6",
+      "assetId": "hk-ep01",
+      "assetReference": "hk-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/hk-ep01",
+      "startSec": 1867,
+      "endSec": 1940,
+      "thumbnailUrl": "https://i.ytimg.com/vi/n3k6NV9qRsQ/maxresdefault.jpg",
+      "title": "Hannah seals the Red Team win",
+      "sceneTitle": "Hannah seals the Red Team win",
+      "description": "With the score still in reach for both teams, the final pairing comes down to Shant and Hannah.  Shant posts a respectable 4, but Hannah's maple leaf duck breast with curry chocolate demi-glace earns a 5 from Ramsay, flipping the ending into a Red Team victory and unleashing the women's celebration.",
+      "sceneDescription": "With the score still in reach for both teams, the final pairing comes down to Shant and Hannah.  Shant posts a respectable 4, but Hannah's maple leaf duck breast with curry chocolate demi-glace earns a 5 from Ramsay, flipping the ending into a Red Team victory and unleashing the women's celebration.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "signature dish challenge",
+        "East Coast launch"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Hannah",
+        "Shant",
+        "Amanda",
+        "Ann Marie"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Hannah seals the Red Team win\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, Hannah, Shant drive the beat: With the score still in reach for both teams, the final pairing comes down to Shant and Hannah.  Shant posts a respectable 4, but Hannah's maple leaf duck breast with curry chocolate demi-glace earns a 5 from Ramsay, flipping the ending into a Red Team victory and unleashing the women's celebration. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Hannah seals the Red Team win",
+      "subClipFocus": "Hannah seals the Red Team win — With the score still in reach for both teams, the final pairing comes down to Shant and Hannah",
+      "rank": 7,
+      "personalizationMetadata": {
+        "clipDescription": "With the score still in reach for both teams, the final pairing comes down to Shant and Hannah.  Shant posts a respectable 4, but Hannah's maple leaf duck breast with curry chocolate demi-glace earns a 5 from Ramsay, flipping the ending into a Red Team victory and unleashing the women's celebration.",
+        "reasoning": "For a Feel-Good Family viewer, \"Hannah seals the Red Team win\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, Hannah, Shant drive the beat: With the score still in reach for both teams, the final pairing comes down to Shant and Hannah.  Shant posts a respectable 4, but Hannah's maple leaf duck breast with curry chocolate demi-glace earns a 5 from Ramsay, flipping the ending into a Red Team victory and unleashing the women's celebration. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "Hannah",
+          "Shant"
+        ],
+        "fitScores": {
+          "audienceFit": 86,
+          "interestMatch": 82,
+          "avoidanceConfidence": 80
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-7",
+      "assetId": "hk-ep04",
+      "assetReference": "hk-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/hk-ep04",
+      "startSec": 1972,
+      "endSec": 1993,
+      "thumbnailUrl": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
+      "title": "Blue Team is thrown out after the second raw lamb",
+      "sceneTitle": "Blue Team is thrown out after the second raw lamb",
+      "description": "After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry.  He tears into them for showing no bounce-back ability and then throws them out of service, forcing them to leave the kitchen in disgrace.",
+      "sceneDescription": "After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry.  He tears into them for showing no bounce-back ability and then throws them out of service, forcing them to leave the kitchen in disgrace.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "pickling challenge",
+        "pickleball"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Joe",
+        "Lulu",
+        "Egypt",
+        "Michael",
+        "Kyle",
+        "Anthony",
+        "Brandon",
+        "Vernon Davis"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Blue Team is thrown out after the second raw lamb\" in Ep 4 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, Joe, Lulu drive the beat: After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry.  He tears into them for showing no bounce-back ability and then throws them out of service, forcing them to leave the kitchen in disgrace. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Blue Team is thrown out after the second raw lamb",
+      "subClipFocus": "Blue Team is thrown out after the second raw lamb — After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry",
+      "rank": 8,
+      "personalizationMetadata": {
+        "clipDescription": "After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry.  He tears into them for showing no bounce-back ability and then throws them out of service, forcing them to leave the kitchen in disgrace.",
+        "reasoning": "For a Feel-Good Family viewer, \"Blue Team is thrown out after the second raw lamb\" in Ep 4 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, Joe, Lulu drive the beat: After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry.  He tears into them for showing no bounce-back ability and then throws them out of service, forcing them to leave the kitchen in disgrace. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "Joe",
+          "Lulu"
+        ],
+        "fitScores": {
+          "audienceFit": 84,
+          "interestMatch": 80,
+          "avoidanceConfidence": 78
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-8",
+      "assetId": "hk-ep03",
+      "assetReference": "hk-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/hk-ep03",
+      "startSec": 1554,
+      "endSec": 1909,
+      "thumbnailUrl": "https://i.ytimg.com/vi/GAV2plfsiBA/maxresdefault.jpg",
+      "title": "Blue-team communication cracks under entrée pressure",
+      "sceneTitle": "Blue-team communication cracks under entrée pressure",
+      "description": "The blue team’s first major collapse comes on appetizers and early entrees: scallops are overcooked, then salmon is overcooked and steak undercooked, while Egypt’s aggressive leadership starts provoking Michael, Kyle, and Brandon.  On the red side, Hannah forgets the lentils for salmon, drawing Ramsay’s anger, but the women regain control faster than the men.",
+      "sceneDescription": "The blue team’s first major collapse comes on appetizers and early entrees: scallops are overcooked, then salmon is overcooked and steak undercooked, while Egypt’s aggressive leadership starts provoking Michael, Kyle, and Brandon.  On the red side, Hannah forgets the lentils for salmon, drawing Ramsay’s anger, but the women regain control faster than the men.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "seafood challenge",
+        "seafood tower"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Egypt",
+        "Corbin",
+        "Michael",
+        "Kyle",
+        "Brandon",
+        "Hannah",
+        "Meghan",
+        "Ann Marie"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Blue-team communication cracks under entrée pressure\" in Ep 3 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, Egypt, Corbin drive the beat: The blue team’s first major collapse comes on appetizers and early entrees: scallops are overcooked, then salmon is overcooked and steak undercooked, while Egypt’s aggressive leadership starts provoking Michael, Kyle, and Brandon.  On the red side, Hannah forgets the lentils for salmon, drawing Ramsay’s anger, but the women regain control faster than the men. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Blue-team communication cracks under entrée pressure",
+      "subClipFocus": "Blue-team communication cracks under entrée pressure — The blue team’s first major collapse comes on appetizers and early entrees: scallops are overcooked, then salmon is overcooked and steak undercooked, while Egypt’s aggressive leadership starts provoking Michael, Kyle, and Brandon",
+      "rank": 9,
+      "personalizationMetadata": {
+        "clipDescription": "The blue team’s first major collapse comes on appetizers and early entrees: scallops are overcooked, then salmon is overcooked and steak undercooked, while Egypt’s aggressive leadership starts provoking Michael, Kyle, and Brandon.  On the red side, Hannah forgets the lentils for salmon, drawing Ramsay’s anger, but the women regain control faster than the men.",
+        "reasoning": "For a Feel-Good Family viewer, \"Blue-team communication cracks under entrée pressure\" in Ep 3 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Gordon Ramsay, Egypt, Corbin drive the beat: The blue team’s first major collapse comes on appetizers and early entrees: scallops are overcooked, then salmon is overcooked and steak undercooked, while Egypt’s aggressive leadership starts provoking Michael, Kyle, and Brandon.  On the red side, Hannah forgets the lentils for salmon, drawing Ramsay’s anger, but the women regain control faster than the men. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 6,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "Egypt",
+          "Corbin"
+        ],
+        "fitScores": {
+          "audienceFit": 82,
+          "interestMatch": 78,
+          "avoidanceConfidence": 78
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-9",
+      "assetId": "hk-ep04",
+      "assetReference": "hk-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/hk-ep04",
+      "startSec": 1257,
+      "endSec": 1310,
+      "thumbnailUrl": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
+      "title": "Farm punishment turns into a health scare",
+      "sceneTitle": "Farm punishment turns into a health scare",
+      "description": "The losing Red Team is sent to a farm punishment involving manure, and the physical toll quickly shows.  Amanda becomes overwhelmed and nearly collapses, while Brittany stays with her, coaches her breathing, and helps steady her until she recovers.",
+      "sceneDescription": "The losing Red Team is sent to a farm punishment involving manure, and the physical toll quickly shows.  Amanda becomes overwhelmed and nearly collapses, while Brittany stays with her, coaches her breathing, and helps steady her until she recovers.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "pickling challenge",
+        "pickleball"
+      ],
+      "charactersPresent": [
+        "Amanda",
+        "Brittany",
+        "Egypt",
+        "Whit",
+        "Meghan",
+        "Ann Marie",
+        "Hannah"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Farm punishment turns into a health scare\" in Ep 4 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Amanda, Brittany drive the beat: The losing Red Team is sent to a farm punishment involving manure, and the physical toll quickly shows.  Amanda becomes overwhelmed and nearly collapses, while Brittany stays with her, coaches her breathing, and helps steady her until she recovers. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Farm punishment turns into a health scare",
+      "subClipFocus": "Farm punishment turns into a health scare — The losing Red Team is sent to a farm punishment involving manure, and the physical toll quickly shows",
+      "rank": 10,
+      "personalizationMetadata": {
+        "clipDescription": "The losing Red Team is sent to a farm punishment involving manure, and the physical toll quickly shows.  Amanda becomes overwhelmed and nearly collapses, while Brittany stays with her, coaches her breathing, and helps steady her until she recovers.",
+        "reasoning": "For a Feel-Good Family viewer, \"Farm punishment turns into a health scare\" in Ep 4 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Amanda, Brittany drive the beat: The losing Red Team is sent to a farm punishment involving manure, and the physical toll quickly shows.  Amanda becomes overwhelmed and nearly collapses, while Brittany stays with her, coaches her breathing, and helps steady her until she recovers. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Amanda",
+          "Brittany"
+        ],
+        "fitScores": {
+          "audienceFit": 80,
+          "interestMatch": 76,
+          "avoidanceConfidence": 78
+        }
+      }
+    }
+  ]
+}

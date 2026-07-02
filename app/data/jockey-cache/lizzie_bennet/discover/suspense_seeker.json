@@ -1,0 +1,949 @@
+{
+  "request": {
+    "model": "jockey1.0",
+    "intent": "Tense scenes, strong female lead, dramatic reveals, under 30 min per clip"
+  },
+  "response": {
+    "viewer_intent_interpretation": "Tense scenes, strong female lead, dramatic reveals, under 30 min per clip",
+    "recommended_rail": [
+      {
+        "rank": 1,
+        "asset_reference": "lbd-ep02",
+        "title": "Public misunderstanding",
+        "clip_start": "2:13",
+        "clip_end": "2:35",
+        "rationale": "Suspense Seeker · Public misunderstanding — Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Public misunderstanding\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lizzie Bennet, Lydia Bennet drive the beat: Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Public misunderstanding",
+        "clip_description": "Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+        "characters_present": [
+          "Lizzie Bennet",
+          "Lydia Bennet"
+        ],
+        "sub_clip_focus": "Public misunderstanding — Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Lizzie Bennet",
+          "Lydia Bennet"
+        ],
+        "audience_fit_score": 98,
+        "interest_match_score": 94,
+        "avoidance_score": 92
+      },
+      {
+        "rank": 2,
+        "asset_reference": "lbd-ep05",
+        "title": "Public misunderstanding",
+        "clip_start": "1:58",
+        "clip_end": "2:17",
+        "rationale": "Suspense Seeker · Public misunderstanding — Editorially, \"Public misunderstanding\" is the pivot of Ep 5: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Public misunderstanding\" in Ep 5 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lizzie Bennet, Lydia Bennet drive the beat: Editorially, \"Public misunderstanding\" is the pivot of Ep 5: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Public misunderstanding",
+        "clip_description": "Editorially, \"Public misunderstanding\" is the pivot of Ep 5: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+        "characters_present": [
+          "Lizzie Bennet",
+          "Lydia Bennet"
+        ],
+        "sub_clip_focus": "Public misunderstanding — Editorially, \"Public misunderstanding\" is the pivot of Ep 5: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Lizzie Bennet",
+          "Lydia Bennet"
+        ],
+        "audience_fit_score": 96,
+        "interest_match_score": 92,
+        "avoidance_score": 90
+      },
+      {
+        "rank": 3,
+        "asset_reference": "lbd-ep01",
+        "title": "Lydia's post",
+        "clip_start": "0:40",
+        "clip_end": "1:00",
+        "rationale": "Suspense Seeker · Lydia's post — Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Lydia's post\" in Ep 1 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lydia Bennet, Lizzie Bennet drive the beat: Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Lydia's post",
+        "clip_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+        "characters_present": [
+          "Lydia Bennet",
+          "Lizzie Bennet"
+        ],
+        "sub_clip_focus": "Lydia's post — Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Lydia Bennet",
+          "Lizzie Bennet"
+        ],
+        "audience_fit_score": 94,
+        "interest_match_score": 90,
+        "avoidance_score": 88
+      },
+      {
+        "rank": 4,
+        "asset_reference": "lbd-ep02",
+        "title": "Lydia's post",
+        "clip_start": "0:43",
+        "clip_end": "1:04",
+        "rationale": "Suspense Seeker · Lydia's post — Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Lydia's post\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lydia Bennet, Lizzie Bennet drive the beat: Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Lydia's post",
+        "clip_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+        "characters_present": [
+          "Lydia Bennet",
+          "Lizzie Bennet"
+        ],
+        "sub_clip_focus": "Lydia's post — Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Lydia Bennet",
+          "Lizzie Bennet"
+        ],
+        "audience_fit_score": 92,
+        "interest_match_score": 88,
+        "avoidance_score": 86
+      },
+      {
+        "rank": 5,
+        "asset_reference": "lbd-ep03",
+        "title": "Lydia's post",
+        "clip_start": "0:38",
+        "clip_end": "0:57",
+        "rationale": "Suspense Seeker · Lydia's post — Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Lydia's post\" in Ep 3 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lydia Bennet, Lizzie Bennet drive the beat: Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Lydia's post",
+        "clip_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+        "characters_present": [
+          "Lydia Bennet",
+          "Lizzie Bennet"
+        ],
+        "sub_clip_focus": "Lydia's post — Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Lydia Bennet",
+          "Lizzie Bennet"
+        ],
+        "audience_fit_score": 90,
+        "interest_match_score": 86,
+        "avoidance_score": 84
+      },
+      {
+        "rank": 6,
+        "asset_reference": "lbd-ep04",
+        "title": "Lydia's post",
+        "clip_start": "0:40",
+        "clip_end": "1:00",
+        "rationale": "Suspense Seeker · Lydia's post — Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Lydia's post\" in Ep 4 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lydia Bennet, Lizzie Bennet drive the beat: Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Lydia's post",
+        "clip_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+        "characters_present": [
+          "Lydia Bennet",
+          "Lizzie Bennet"
+        ],
+        "sub_clip_focus": "Lydia's post — Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Lydia Bennet",
+          "Lizzie Bennet"
+        ],
+        "audience_fit_score": 88,
+        "interest_match_score": 84,
+        "avoidance_score": 82
+      },
+      {
+        "rank": 7,
+        "asset_reference": "lbd-ep05",
+        "title": "Lydia's post",
+        "clip_start": "0:38",
+        "clip_end": "0:57",
+        "rationale": "Suspense Seeker · Lydia's post — Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Lydia's post\" in Ep 5 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lydia Bennet, Lizzie Bennet drive the beat: Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Lydia's post",
+        "clip_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+        "characters_present": [
+          "Lydia Bennet",
+          "Lizzie Bennet"
+        ],
+        "sub_clip_focus": "Lydia's post — Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Lydia Bennet",
+          "Lizzie Bennet"
+        ],
+        "audience_fit_score": 86,
+        "interest_match_score": 82,
+        "avoidance_score": 80
+      },
+      {
+        "rank": 8,
+        "asset_reference": "lbd-ep01",
+        "title": "Romantic DM",
+        "clip_start": "1:44",
+        "clip_end": "2:04",
+        "rationale": "Suspense Seeker · Romantic DM — Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Romantic DM\" in Ep 1 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lizzie Bennet, Jane Bennet drive the beat: Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Romantic DM",
+        "clip_description": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "sub_clip_focus": "Romantic DM — Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "audience_fit_score": 84,
+        "interest_match_score": 80,
+        "avoidance_score": 78
+      },
+      {
+        "rank": 9,
+        "asset_reference": "lbd-ep03",
+        "title": "Confession cam",
+        "clip_start": "1:20",
+        "clip_end": "1:39",
+        "rationale": "Suspense Seeker · Confession cam — Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Confession cam\" in Ep 3 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lizzie Bennet drive the beat: Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Confession cam",
+        "clip_description": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "sub_clip_focus": "Confession cam — Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Lizzie Bennet"
+        ],
+        "audience_fit_score": 82,
+        "interest_match_score": 78,
+        "avoidance_score": 78
+      },
+      {
+        "rank": 10,
+        "asset_reference": "lbd-ep04",
+        "title": "Romantic DM",
+        "clip_start": "1:45",
+        "clip_end": "2:05",
+        "rationale": "Suspense Seeker · Romantic DM — Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Romantic DM\" in Ep 4 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lizzie Bennet, Jane Bennet drive the beat: Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Romantic DM",
+        "clip_description": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "sub_clip_focus": "Romantic DM — Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "audience_fit_score": 80,
+        "interest_match_score": 76,
+        "avoidance_score": 78
+      }
+    ]
+  },
+  "resolved_clips": [
+    {
+      "id": "suspense_seeker-rail-0",
+      "assetId": "lbd-ep02",
+      "assetReference": "lbd-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/lbd-ep02",
+      "startSec": 133,
+      "endSec": 155,
+      "thumbnailUrl": "https://i.ytimg.com/vi/6Yq7aJ2uVBg/maxresdefault.jpg",
+      "title": "Public misunderstanding",
+      "sceneTitle": "Public misunderstanding",
+      "description": "Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+      "sceneDescription": "Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Lydia Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Public misunderstanding\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lizzie Bennet, Lydia Bennet drive the beat: Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Public misunderstanding",
+      "subClipFocus": "Public misunderstanding — Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc",
+      "rank": 1,
+      "personalizationMetadata": {
+        "clipDescription": "Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+        "reasoning": "For a Suspense Seeker viewer, \"Public misunderstanding\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lizzie Bennet, Lydia Bennet drive the beat: Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Lizzie Bennet",
+          "Lydia Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 98,
+          "interestMatch": 94,
+          "avoidanceConfidence": 92
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-1",
+      "assetId": "lbd-ep05",
+      "assetReference": "lbd-ep05",
+      "episodeLabel": "Ep 5",
+      "videoSrc": "/api/media/lbd-ep05",
+      "startSec": 118,
+      "endSec": 137,
+      "thumbnailUrl": "https://i.ytimg.com/vi/vV3JJUpwC40/maxresdefault.jpg",
+      "title": "Public misunderstanding",
+      "sceneTitle": "Public misunderstanding",
+      "description": "Editorially, \"Public misunderstanding\" is the pivot of Ep 5: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+      "sceneDescription": "Editorially, \"Public misunderstanding\" is the pivot of Ep 5: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Lydia Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Public misunderstanding\" in Ep 5 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lizzie Bennet, Lydia Bennet drive the beat: Editorially, \"Public misunderstanding\" is the pivot of Ep 5: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Public misunderstanding",
+      "subClipFocus": "Public misunderstanding — Editorially, \"Public misunderstanding\" is the pivot of Ep 5: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc",
+      "rank": 2,
+      "personalizationMetadata": {
+        "clipDescription": "Editorially, \"Public misunderstanding\" is the pivot of Ep 5: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+        "reasoning": "For a Suspense Seeker viewer, \"Public misunderstanding\" in Ep 5 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lizzie Bennet, Lydia Bennet drive the beat: Editorially, \"Public misunderstanding\" is the pivot of Ep 5: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Lizzie Bennet",
+          "Lydia Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 96,
+          "interestMatch": 92,
+          "avoidanceConfidence": 90
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-2",
+      "assetId": "lbd-ep01",
+      "assetReference": "lbd-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/lbd-ep01",
+      "startSec": 40,
+      "endSec": 60,
+      "thumbnailUrl": "https://i.ytimg.com/vi/KisuGP2lcPs/maxresdefault.jpg",
+      "title": "Lydia's post",
+      "sceneTitle": "Lydia's post",
+      "description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+      "sceneDescription": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lydia Bennet",
+        "Lizzie Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Lydia's post\" in Ep 1 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lydia Bennet, Lizzie Bennet drive the beat: Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Lydia's post",
+      "subClipFocus": "Lydia's post — Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera",
+      "rank": 3,
+      "personalizationMetadata": {
+        "clipDescription": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+        "reasoning": "For a Suspense Seeker viewer, \"Lydia's post\" in Ep 1 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lydia Bennet, Lizzie Bennet drive the beat: Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Lydia Bennet",
+          "Lizzie Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 94,
+          "interestMatch": 90,
+          "avoidanceConfidence": 88
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-3",
+      "assetId": "lbd-ep02",
+      "assetReference": "lbd-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/lbd-ep02",
+      "startSec": 43,
+      "endSec": 64,
+      "thumbnailUrl": "https://i.ytimg.com/vi/6Yq7aJ2uVBg/maxresdefault.jpg",
+      "title": "Lydia's post",
+      "sceneTitle": "Lydia's post",
+      "description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+      "sceneDescription": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lydia Bennet",
+        "Lizzie Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Lydia's post\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lydia Bennet, Lizzie Bennet drive the beat: Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Lydia's post",
+      "subClipFocus": "Lydia's post — Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera",
+      "rank": 4,
+      "personalizationMetadata": {
+        "clipDescription": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+        "reasoning": "For a Suspense Seeker viewer, \"Lydia's post\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lydia Bennet, Lizzie Bennet drive the beat: Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Lydia Bennet",
+          "Lizzie Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 92,
+          "interestMatch": 88,
+          "avoidanceConfidence": 86
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-4",
+      "assetId": "lbd-ep03",
+      "assetReference": "lbd-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/lbd-ep03",
+      "startSec": 38,
+      "endSec": 57,
+      "thumbnailUrl": "https://i.ytimg.com/vi/e926p_3UXes/maxresdefault.jpg",
+      "title": "Lydia's post",
+      "sceneTitle": "Lydia's post",
+      "description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+      "sceneDescription": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lydia Bennet",
+        "Lizzie Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Lydia's post\" in Ep 3 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lydia Bennet, Lizzie Bennet drive the beat: Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Lydia's post",
+      "subClipFocus": "Lydia's post — Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera",
+      "rank": 5,
+      "personalizationMetadata": {
+        "clipDescription": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+        "reasoning": "For a Suspense Seeker viewer, \"Lydia's post\" in Ep 3 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lydia Bennet, Lizzie Bennet drive the beat: Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Lydia Bennet",
+          "Lizzie Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 90,
+          "interestMatch": 86,
+          "avoidanceConfidence": 84
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-5",
+      "assetId": "lbd-ep04",
+      "assetReference": "lbd-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/lbd-ep04",
+      "startSec": 40,
+      "endSec": 60,
+      "thumbnailUrl": "https://i.ytimg.com/vi/2KjOskZJEAc/maxresdefault.jpg",
+      "title": "Lydia's post",
+      "sceneTitle": "Lydia's post",
+      "description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+      "sceneDescription": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lydia Bennet",
+        "Lizzie Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Lydia's post\" in Ep 4 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lydia Bennet, Lizzie Bennet drive the beat: Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Lydia's post",
+      "subClipFocus": "Lydia's post — Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera",
+      "rank": 6,
+      "personalizationMetadata": {
+        "clipDescription": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+        "reasoning": "For a Suspense Seeker viewer, \"Lydia's post\" in Ep 4 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lydia Bennet, Lizzie Bennet drive the beat: Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Lydia Bennet",
+          "Lizzie Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 88,
+          "interestMatch": 84,
+          "avoidanceConfidence": 82
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-6",
+      "assetId": "lbd-ep05",
+      "assetReference": "lbd-ep05",
+      "episodeLabel": "Ep 5",
+      "videoSrc": "/api/media/lbd-ep05",
+      "startSec": 38,
+      "endSec": 57,
+      "thumbnailUrl": "https://i.ytimg.com/vi/vV3JJUpwC40/maxresdefault.jpg",
+      "title": "Lydia's post",
+      "sceneTitle": "Lydia's post",
+      "description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+      "sceneDescription": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lydia Bennet",
+        "Lizzie Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Lydia's post\" in Ep 5 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lydia Bennet, Lizzie Bennet drive the beat: Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Lydia's post",
+      "subClipFocus": "Lydia's post — Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera",
+      "rank": 7,
+      "personalizationMetadata": {
+        "clipDescription": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera.",
+        "reasoning": "For a Suspense Seeker viewer, \"Lydia's post\" in Ep 5 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lydia Bennet, Lizzie Bennet drive the beat: Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Lydia Bennet",
+          "Lizzie Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 86,
+          "interestMatch": 82,
+          "avoidanceConfidence": 80
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-7",
+      "assetId": "lbd-ep01",
+      "assetReference": "lbd-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/lbd-ep01",
+      "startSec": 104,
+      "endSec": 124,
+      "thumbnailUrl": "https://i.ytimg.com/vi/KisuGP2lcPs/maxresdefault.jpg",
+      "title": "Romantic DM",
+      "sceneTitle": "Romantic DM",
+      "description": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "sceneDescription": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Romantic DM\" in Ep 1 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lizzie Bennet, Jane Bennet drive the beat: Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Romantic DM",
+      "subClipFocus": "Romantic DM — Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc",
+      "rank": 8,
+      "personalizationMetadata": {
+        "clipDescription": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "reasoning": "For a Suspense Seeker viewer, \"Romantic DM\" in Ep 1 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lizzie Bennet, Jane Bennet drive the beat: Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 84,
+          "interestMatch": 80,
+          "avoidanceConfidence": 78
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-8",
+      "assetId": "lbd-ep03",
+      "assetReference": "lbd-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/lbd-ep03",
+      "startSec": 80,
+      "endSec": 99,
+      "thumbnailUrl": "https://i.ytimg.com/vi/e926p_3UXes/maxresdefault.jpg",
+      "title": "Confession cam",
+      "sceneTitle": "Confession cam",
+      "description": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+      "sceneDescription": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Confession cam\" in Ep 3 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lizzie Bennet drive the beat: Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Confession cam",
+      "subClipFocus": "Confession cam — Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc",
+      "rank": 9,
+      "personalizationMetadata": {
+        "clipDescription": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+        "reasoning": "For a Suspense Seeker viewer, \"Confession cam\" in Ep 3 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lizzie Bennet drive the beat: Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Lizzie Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 82,
+          "interestMatch": 78,
+          "avoidanceConfidence": 78
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-9",
+      "assetId": "lbd-ep04",
+      "assetReference": "lbd-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/lbd-ep04",
+      "startSec": 105,
+      "endSec": 125,
+      "thumbnailUrl": "https://i.ytimg.com/vi/2KjOskZJEAc/maxresdefault.jpg",
+      "title": "Romantic DM",
+      "sceneTitle": "Romantic DM",
+      "description": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "sceneDescription": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Romantic DM\" in Ep 4 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lizzie Bennet, Jane Bennet drive the beat: Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Romantic DM",
+      "subClipFocus": "Romantic DM — Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc",
+      "rank": 10,
+      "personalizationMetadata": {
+        "clipDescription": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "reasoning": "For a Suspense Seeker viewer, \"Romantic DM\" in Ep 4 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Lizzie Bennet, Jane Bennet drive the beat: Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 80,
+          "interestMatch": 76,
+          "avoidanceConfidence": 78
+        }
+      }
+    }
+  ]
+}

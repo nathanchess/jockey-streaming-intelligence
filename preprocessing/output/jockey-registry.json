@@ -1,0 +1,33 @@
+{
+  "stores": {
+    "french_chef": {
+      "knowledge_store_id": "ks_019f0752-ff8c-7183-a43b-cf0d59188886",
+      "name": "french-chef-demo",
+      "display_name": "The French Chef with Julia Child",
+      "created_at": "2026-06-27T04:25:23Z",
+      "create_response_status": 201
+    },
+    "hells_kitchen": {
+      "knowledge_store_id": "ks_019f075d-93e6-7083-9ec4-023e915533c0",
+      "name": "hells-kitchen-demo",
+      "display_name": "Hell's Kitchen",
+      "created_at": "2026-06-27T04:36:56Z",
+      "create_response_status": 201
+    },
+    "lizzie_bennet": {
+      "knowledge_store_id": "ks_019f0840-8cef-7582-95a3-c0db24b9b3ba",
+      "name": "lizzie-bennet-demo",
+      "display_name": "The Lizzie Bennet Diaries",
+      "created_at": "2026-06-27T08:44:51Z",
+      "create_response_status": 201
+    },
+    "omeleto_reserve": {
+      "knowledge_store_id": "ks_019f0849-d963-7272-a4c7-280feb37aa1f",
+      "name": "omeleto-reserve-demo",
+      "display_name": "The Reserve (Omeleto)",
+      "created_at": "2026-06-27T08:55:01Z",
+      "create_response_status": 201
+    }
+  },
+  "updated_at": "2026-06-27T08:55:01Z"
+}

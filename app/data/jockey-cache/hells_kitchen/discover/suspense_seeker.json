@@ -1,0 +1,1071 @@
+{
+  "request": {
+    "model": "jockey1.0",
+    "intent": "Tense scenes, strong female lead, dramatic reveals, under 30 min per clip"
+  },
+  "response": {
+    "viewer_intent_interpretation": "Tense scenes, strong female lead, dramatic reveals, under 30 min per clip",
+    "recommended_rail": [
+      {
+        "rank": 1,
+        "asset_reference": "hk-ep04",
+        "title": "Blue Team tension carries over",
+        "clip_start": "02:02",
+        "clip_end": "02:58",
+        "rationale": "Suspense Seeker · Blue Team tension carries over — The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "pickling challenge",
+          "pickleball"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Blue Team tension carries over\" in Ep 4 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Gordon Ramsay, Brandon, Egypt drive the beat: The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration.  Brandon complains that Egypt is too much in the kitchen, Joe argues the team needs discipline and accountability, and Egypt counters that everyone else needs to raise their level. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Blue Team tension carries over",
+        "clip_description": "The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration.  Brandon complains that Egypt is too much in the kitchen, Joe argues the team needs discipline and accountability, and Egypt counters that everyone else needs to raise their level.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "Brandon",
+          "Egypt",
+          "Joe",
+          "Kyle"
+        ],
+        "sub_clip_focus": "Blue Team tension carries over — The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "Brandon",
+          "Egypt"
+        ],
+        "audience_fit_score": 98,
+        "interest_match_score": 94,
+        "avoidance_score": 92
+      },
+      {
+        "rank": 2,
+        "asset_reference": "hk-ep01",
+        "title": "Reward bonds the women; punishment divides the men",
+        "clip_start": "00:33:20",
+        "clip_end": "00:38:30",
+        "rationale": "Suspense Seeker · Reward bonds the women; punishment divides the men — After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "signature dish challenge",
+          "East Coast launch"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Reward bonds the women; punishment divides the men\" in Ep 1 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Gordon Ramsay, Brittany, Ann Marie drive the beat: After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Reward bonds the women; punishment divides the men",
+        "clip_description": "After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "Brittany",
+          "Ann Marie",
+          "Hannah",
+          "Magali",
+          "Meghan",
+          "Whit",
+          "James Avery",
+          "Corbin",
+          "Egypt",
+          "Joe",
+          "Michael",
+          "Shant",
+          "Uri"
+        ],
+        "sub_clip_focus": "Reward bonds the women; punishment divides the men — After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 5,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "Brittany",
+          "Ann Marie"
+        ],
+        "audience_fit_score": 96,
+        "interest_match_score": 92,
+        "avoidance_score": 90
+      },
+      {
+        "rank": 3,
+        "asset_reference": "hk-ep02",
+        "title": "Blue team consensus creates Egypt tension",
+        "clip_start": "08:52",
+        "clip_end": "09:58",
+        "rationale": "Suspense Seeker · Blue team consensus creates Egypt tension — The blue team tastes its own dishes and debates the top three",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "Fiery Flambé Challenge",
+          "Punishment Pass"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Blue team consensus creates Egypt tension\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Egypt, Brandon drive the beat: The blue team tastes its own dishes and debates the top three.  Egypt clearly wants his dish selected, but the team pushes Brandon, Joe, and Michael instead, leaving Egypt frustrated and feeling underestimated. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Blue team consensus creates Egypt tension",
+        "clip_description": "The blue team tastes its own dishes and debates the top three.  Egypt clearly wants his dish selected, but the team pushes Brandon, Joe, and Michael instead, leaving Egypt frustrated and feeling underestimated.",
+        "characters_present": [
+          "Egypt",
+          "Brandon",
+          "Joe",
+          "Michael",
+          "Kyle",
+          "Shant",
+          "Corbin"
+        ],
+        "sub_clip_focus": "Blue team consensus creates Egypt tension — The blue team tastes its own dishes and debates the top three",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Egypt",
+          "Brandon"
+        ],
+        "audience_fit_score": 94,
+        "interest_match_score": 90,
+        "avoidance_score": 88
+      },
+      {
+        "rank": 4,
+        "asset_reference": "hk-ep03",
+        "title": "Corbin is eliminated after the Egypt-Corbin confrontation",
+        "clip_start": "38:48",
+        "clip_end": "41:50",
+        "rationale": "Suspense Seeker · Corbin is eliminated after the Egypt-Corbin confrontation — At elimination, Corbin argues Egypt shut him out and made communication impossible, while Egypt counters that Corbin shrank and whispered instead of leading",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "seafood challenge",
+          "seafood tower"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Corbin is eliminated after the Egypt-Corbin confrontation\" in Ep 3 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Gordon Ramsay, Egypt, Corbin drive the beat: At elimination, Corbin argues Egypt shut him out and made communication impossible, while Egypt counters that Corbin shrank and whispered instead of leading.  Ramsay ultimately decides Corbin was too disconnected and not ready to be a head chef, eliminates him, and warns the blue team that their numbers are dwindling. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Corbin is eliminated after the Egypt-Corbin confrontation",
+        "clip_description": "At elimination, Corbin argues Egypt shut him out and made communication impossible, while Egypt counters that Corbin shrank and whispered instead of leading.  Ramsay ultimately decides Corbin was too disconnected and not ready to be a head chef, eliminates him, and warns the blue team that their numbers are dwindling.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "Egypt",
+          "Corbin",
+          "Kyle",
+          "Brandon",
+          "Anthony",
+          "Ann Marie"
+        ],
+        "sub_clip_focus": "Corbin is eliminated after the Egypt-Corbin confrontation — At elimination, Corbin argues Egypt shut him out and made communication impossible, while Egypt counters that Corbin shrank and whispered instead of leading",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "Egypt",
+          "Corbin"
+        ],
+        "audience_fit_score": 92,
+        "interest_match_score": 88,
+        "avoidance_score": 86
+      },
+      {
+        "rank": 5,
+        "asset_reference": "hk-ep04",
+        "title": "Farm punishment turns into a health scare",
+        "clip_start": "20:57",
+        "clip_end": "21:50",
+        "rationale": "Suspense Seeker · Farm punishment turns into a health scare — The losing Red Team is sent to a farm punishment involving manure, and the physical toll quickly shows",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "pickling challenge",
+          "pickleball"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Farm punishment turns into a health scare\" in Ep 4 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Amanda, Brittany drive the beat: The losing Red Team is sent to a farm punishment involving manure, and the physical toll quickly shows.  Amanda becomes overwhelmed and nearly collapses, while Brittany stays with her, coaches her breathing, and helps steady her until she recovers. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Farm punishment turns into a health scare",
+        "clip_description": "The losing Red Team is sent to a farm punishment involving manure, and the physical toll quickly shows.  Amanda becomes overwhelmed and nearly collapses, while Brittany stays with her, coaches her breathing, and helps steady her until she recovers.",
+        "characters_present": [
+          "Amanda",
+          "Brittany",
+          "Egypt",
+          "Whit",
+          "Meghan",
+          "Ann Marie",
+          "Hannah"
+        ],
+        "sub_clip_focus": "Farm punishment turns into a health scare — The losing Red Team is sent to a farm punishment involving manure, and the physical toll quickly shows",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Amanda",
+          "Brittany"
+        ],
+        "audience_fit_score": 90,
+        "interest_match_score": 86,
+        "avoidance_score": 84
+      },
+      {
+        "rank": 6,
+        "asset_reference": "hk-ep04",
+        "title": "VIP dinner service raises the stakes",
+        "clip_start": "22:41",
+        "clip_end": "23:33",
+        "rationale": "Suspense Seeker · VIP dinner service raises the stakes — Dinner service begins with VIP pressure as Sheryl Swoopes sits at the Red chef’s table and Vernon Davis at the Blue one",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "pickling challenge",
+          "pickleball"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"VIP dinner service raises the stakes\" in Ep 4 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Gordon Ramsay, Sheryl Swoopes, Vernon Davis drive the beat: Dinner service begins with VIP pressure as Sheryl Swoopes sits at the Red chef’s table and Vernon Davis at the Blue one.  The Blue Team starts on appetizers, and Egypt tries to prove himself by taking control of carbonara. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "VIP dinner service raises the stakes",
+        "clip_description": "Dinner service begins with VIP pressure as Sheryl Swoopes sits at the Red chef’s table and Vernon Davis at the Blue one.  The Blue Team starts on appetizers, and Egypt tries to prove himself by taking control of carbonara.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "Sheryl Swoopes",
+          "Vernon Davis",
+          "Egypt",
+          "Joe",
+          "Lulu",
+          "Amanda"
+        ],
+        "sub_clip_focus": "VIP dinner service raises the stakes — Dinner service begins with VIP pressure as Sheryl Swoopes sits at the Red chef’s table and Vernon Davis at the Blue one",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "Sheryl Swoopes",
+          "Vernon Davis"
+        ],
+        "audience_fit_score": 88,
+        "interest_match_score": 84,
+        "avoidance_score": 82
+      },
+      {
+        "rank": 7,
+        "asset_reference": "hk-ep04",
+        "title": "Michael is eliminated",
+        "clip_start": "38:14",
+        "clip_end": "40:45",
+        "rationale": "Suspense Seeker · Michael is eliminated — At elimination, the teams nominate Magali, Ann Marie, Michael, and Egypt",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "pickling challenge",
+          "pickleball"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Michael is eliminated\" in Ep 4 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Gordon Ramsay, Michael, Egypt drive the beat: At elimination, the teams nominate Magali, Ann Marie, Michael, and Egypt.  Ramsay hears each plea, sends Egypt, Ann Marie, and Magali back in line, then eliminates Michael. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Michael is eliminated",
+        "clip_description": "At elimination, the teams nominate Magali, Ann Marie, Michael, and Egypt.  Ramsay hears each plea, sends Egypt, Ann Marie, and Magali back in line, then eliminates Michael.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "Michael",
+          "Egypt",
+          "Ann Marie",
+          "Magali",
+          "Anthony",
+          "Brittany",
+          "Hannah"
+        ],
+        "sub_clip_focus": "Michael is eliminated — At elimination, the teams nominate Magali, Ann Marie, Michael, and Egypt",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "Michael",
+          "Egypt"
+        ],
+        "audience_fit_score": 86,
+        "interest_match_score": 82,
+        "avoidance_score": 80
+      },
+      {
+        "rank": 8,
+        "asset_reference": "hk-ep02",
+        "title": "Entree pressure exposes communication flaws",
+        "clip_start": "30:02",
+        "clip_end": "32:40",
+        "rationale": "Suspense Seeker · Entree pressure exposes communication flaws — As entrees begin, the red kitchen struggles with salmon while Hannah gets blasted for stabbing chicken with a fork, and the blue kitchen grows increasingly tense under Egypt’s constant direction",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "Fiery Flambé Challenge",
+          "Punishment Pass"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Entree pressure exposes communication flaws\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Gordon Ramsay, Magali, Hannah drive the beat: As entrees begin, the red kitchen struggles with salmon while Hannah gets blasted for stabbing chicken with a fork, and the blue kitchen grows increasingly tense under Egypt’s constant direction.  Joe is visibly annoyed, but the team still tries to answer Ramsay’s calls and keep pace. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Entree pressure exposes communication flaws",
+        "clip_description": "As entrees begin, the red kitchen struggles with salmon while Hannah gets blasted for stabbing chicken with a fork, and the blue kitchen grows increasingly tense under Egypt’s constant direction.  Joe is visibly annoyed, but the team still tries to answer Ramsay’s calls and keep pace.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "Magali",
+          "Hannah",
+          "Ann Marie",
+          "Joe",
+          "Egypt"
+        ],
+        "sub_clip_focus": "Entree pressure exposes communication flaws — As entrees begin, the red kitchen struggles with salmon while Hannah gets blasted for stabbing chicken with a fork, and the blue kitchen grows increasingly tense under Egypt’s constant direction",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "Magali",
+          "Hannah"
+        ],
+        "audience_fit_score": 84,
+        "interest_match_score": 80,
+        "avoidance_score": 78
+      },
+      {
+        "rank": 9,
+        "asset_reference": "hk-ep03",
+        "title": "The punishment prep injures Shant and Uri",
+        "clip_start": "04:03",
+        "clip_end": "05:16",
+        "rationale": "Suspense Seeker · The punishment prep injures Shant and Uri — As the boxes come inside, Shant admits he hurt his back/shoulder carrying them, and Uri says his left side is going numb from a nerve issue",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "seafood challenge",
+          "seafood tower"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"The punishment prep injures Shant and Uri\" in Ep 3 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Shant, Uri drive the beat: As the boxes come inside, Shant admits he hurt his back/shoulder carrying them, and Uri says his left side is going numb from a nerve issue.  Both injuries are framed as consequences of the morning labor, not random side stories. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "The punishment prep injures Shant and Uri",
+        "clip_description": "As the boxes come inside, Shant admits he hurt his back/shoulder carrying them, and Uri says his left side is going numb from a nerve issue.  Both injuries are framed as consequences of the morning labor, not random side stories.",
+        "characters_present": [
+          "Shant",
+          "Uri",
+          "Egypt",
+          "Brandon"
+        ],
+        "sub_clip_focus": "The punishment prep injures Shant and Uri — As the boxes come inside, Shant admits he hurt his back/shoulder carrying them, and Uri says his left side is going numb from a nerve issue",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Shant",
+          "Uri"
+        ],
+        "audience_fit_score": 82,
+        "interest_match_score": 78,
+        "avoidance_score": 78
+      },
+      {
+        "rank": 10,
+        "asset_reference": "hk-ep03",
+        "title": "Reward-punishment split turns into a medical crisis",
+        "clip_start": "16:00",
+        "clip_end": "18:00",
+        "rationale": "Suspense Seeker · Reward-punishment split turns into a medical crisis — Ramsay sends the red team kayaking on the Mystic River and sentences the blue team to seafood prep punishment",
+        "match_signals": [
+          "tense",
+          "female-lead",
+          "dramatic",
+          "seafood challenge",
+          "seafood tower"
+        ],
+        "audience_alignment_reasoning": "For a Suspense Seeker viewer, \"Reward-punishment split turns into a medical crisis\" in Ep 3 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Gordon Ramsay, Magali, Brittany drive the beat: Ramsay sends the red team kayaking on the Mystic River and sentences the blue team to seafood prep punishment.  Shant’s pain intensifies after the loss, and by the end of the segment he is asking for medical help while Meghan checks on him. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "clip_label": "Reward-punishment split turns into a medical crisis",
+        "clip_description": "Ramsay sends the red team kayaking on the Mystic River and sentences the blue team to seafood prep punishment.  Shant’s pain intensifies after the loss, and by the end of the segment he is asking for medical help while Meghan checks on him.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "Magali",
+          "Brittany",
+          "Shant",
+          "Michael",
+          "Anthony",
+          "Meghan"
+        ],
+        "sub_clip_focus": "Reward-punishment split turns into a medical crisis — Ramsay sends the red team kayaking on the Mystic River and sentences the blue team to seafood prep punishment",
+        "matched_audience_interests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clip_length_minutes": 2,
+        "avoided_themes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "Magali",
+          "Brittany"
+        ],
+        "audience_fit_score": 80,
+        "interest_match_score": 76,
+        "avoidance_score": 78
+      }
+    ]
+  },
+  "resolved_clips": [
+    {
+      "id": "suspense_seeker-rail-0",
+      "assetId": "hk-ep04",
+      "assetReference": "hk-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/hk-ep04",
+      "startSec": 122,
+      "endSec": 178,
+      "thumbnailUrl": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
+      "title": "Blue Team tension carries over",
+      "sceneTitle": "Blue Team tension carries over",
+      "description": "The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration.  Brandon complains that Egypt is too much in the kitchen, Joe argues the team needs discipline and accountability, and Egypt counters that everyone else needs to raise their level.",
+      "sceneDescription": "The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration.  Brandon complains that Egypt is too much in the kitchen, Joe argues the team needs discipline and accountability, and Egypt counters that everyone else needs to raise their level.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "pickling challenge",
+        "pickleball"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Brandon",
+        "Egypt",
+        "Joe",
+        "Kyle"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Blue Team tension carries over\" in Ep 4 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Gordon Ramsay, Brandon, Egypt drive the beat: The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration.  Brandon complains that Egypt is too much in the kitchen, Joe argues the team needs discipline and accountability, and Egypt counters that everyone else needs to raise their level. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Blue Team tension carries over",
+      "subClipFocus": "Blue Team tension carries over — The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration",
+      "rank": 1,
+      "personalizationMetadata": {
+        "clipDescription": "The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration.  Brandon complains that Egypt is too much in the kitchen, Joe argues the team needs discipline and accountability, and Egypt counters that everyone else needs to raise their level.",
+        "reasoning": "For a Suspense Seeker viewer, \"Blue Team tension carries over\" in Ep 4 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Gordon Ramsay, Brandon, Egypt drive the beat: The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration.  Brandon complains that Egypt is too much in the kitchen, Joe argues the team needs discipline and accountability, and Egypt counters that everyone else needs to raise their level. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "Brandon",
+          "Egypt"
+        ],
+        "fitScores": {
+          "audienceFit": 98,
+          "interestMatch": 94,
+          "avoidanceConfidence": 92
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-1",
+      "assetId": "hk-ep01",
+      "assetReference": "hk-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/hk-ep01",
+      "startSec": 2000,
+      "endSec": 2310,
+      "thumbnailUrl": "https://i.ytimg.com/vi/n3k6NV9qRsQ/maxresdefault.jpg",
+      "title": "Reward bonds the women; punishment divides the men",
+      "sceneTitle": "Reward bonds the women; punishment divides the men",
+      "description": "After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side.",
+      "sceneDescription": "After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "signature dish challenge",
+        "East Coast launch"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Brittany",
+        "Ann Marie",
+        "Hannah",
+        "Magali",
+        "Meghan",
+        "Whit",
+        "James Avery",
+        "Corbin",
+        "Egypt",
+        "Joe",
+        "Michael",
+        "Shant",
+        "Uri"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Reward bonds the women; punishment divides the men\" in Ep 1 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Gordon Ramsay, Brittany, Ann Marie drive the beat: After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Reward bonds the women; punishment divides the men",
+      "subClipFocus": "Reward bonds the women; punishment divides the men — After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy",
+      "rank": 2,
+      "personalizationMetadata": {
+        "clipDescription": "After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side.",
+        "reasoning": "For a Suspense Seeker viewer, \"Reward bonds the women; punishment divides the men\" in Ep 1 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Gordon Ramsay, Brittany, Ann Marie drive the beat: After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 5,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "Brittany",
+          "Ann Marie"
+        ],
+        "fitScores": {
+          "audienceFit": 96,
+          "interestMatch": 92,
+          "avoidanceConfidence": 90
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-2",
+      "assetId": "hk-ep02",
+      "assetReference": "hk-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/hk-ep02",
+      "startSec": 532,
+      "endSec": 598,
+      "thumbnailUrl": "https://i.ytimg.com/vi/bX-EzNRe-ws/maxresdefault.jpg",
+      "title": "Blue team consensus creates Egypt tension",
+      "sceneTitle": "Blue team consensus creates Egypt tension",
+      "description": "The blue team tastes its own dishes and debates the top three.  Egypt clearly wants his dish selected, but the team pushes Brandon, Joe, and Michael instead, leaving Egypt frustrated and feeling underestimated.",
+      "sceneDescription": "The blue team tastes its own dishes and debates the top three.  Egypt clearly wants his dish selected, but the team pushes Brandon, Joe, and Michael instead, leaving Egypt frustrated and feeling underestimated.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "Fiery Flambé Challenge",
+        "Punishment Pass"
+      ],
+      "charactersPresent": [
+        "Egypt",
+        "Brandon",
+        "Joe",
+        "Michael",
+        "Kyle",
+        "Shant",
+        "Corbin"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Blue team consensus creates Egypt tension\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Egypt, Brandon drive the beat: The blue team tastes its own dishes and debates the top three.  Egypt clearly wants his dish selected, but the team pushes Brandon, Joe, and Michael instead, leaving Egypt frustrated and feeling underestimated. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Blue team consensus creates Egypt tension",
+      "subClipFocus": "Blue team consensus creates Egypt tension — The blue team tastes its own dishes and debates the top three",
+      "rank": 3,
+      "personalizationMetadata": {
+        "clipDescription": "The blue team tastes its own dishes and debates the top three.  Egypt clearly wants his dish selected, but the team pushes Brandon, Joe, and Michael instead, leaving Egypt frustrated and feeling underestimated.",
+        "reasoning": "For a Suspense Seeker viewer, \"Blue team consensus creates Egypt tension\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Egypt, Brandon drive the beat: The blue team tastes its own dishes and debates the top three.  Egypt clearly wants his dish selected, but the team pushes Brandon, Joe, and Michael instead, leaving Egypt frustrated and feeling underestimated. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Egypt",
+          "Brandon"
+        ],
+        "fitScores": {
+          "audienceFit": 94,
+          "interestMatch": 90,
+          "avoidanceConfidence": 88
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-3",
+      "assetId": "hk-ep03",
+      "assetReference": "hk-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/hk-ep03",
+      "startSec": 2328,
+      "endSec": 2510,
+      "thumbnailUrl": "https://i.ytimg.com/vi/GAV2plfsiBA/maxresdefault.jpg",
+      "title": "Corbin is eliminated after the Egypt-Corbin confrontation",
+      "sceneTitle": "Corbin is eliminated after the Egypt-Corbin confrontation",
+      "description": "At elimination, Corbin argues Egypt shut him out and made communication impossible, while Egypt counters that Corbin shrank and whispered instead of leading.  Ramsay ultimately decides Corbin was too disconnected and not ready to be a head chef, eliminates him, and warns the blue team that their numbers are dwindling.",
+      "sceneDescription": "At elimination, Corbin argues Egypt shut him out and made communication impossible, while Egypt counters that Corbin shrank and whispered instead of leading.  Ramsay ultimately decides Corbin was too disconnected and not ready to be a head chef, eliminates him, and warns the blue team that their numbers are dwindling.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "seafood challenge",
+        "seafood tower"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Egypt",
+        "Corbin",
+        "Kyle",
+        "Brandon",
+        "Anthony",
+        "Ann Marie"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Corbin is eliminated after the Egypt-Corbin confrontation\" in Ep 3 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Gordon Ramsay, Egypt, Corbin drive the beat: At elimination, Corbin argues Egypt shut him out and made communication impossible, while Egypt counters that Corbin shrank and whispered instead of leading.  Ramsay ultimately decides Corbin was too disconnected and not ready to be a head chef, eliminates him, and warns the blue team that their numbers are dwindling. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Corbin is eliminated after the Egypt-Corbin confrontation",
+      "subClipFocus": "Corbin is eliminated after the Egypt-Corbin confrontation — At elimination, Corbin argues Egypt shut him out and made communication impossible, while Egypt counters that Corbin shrank and whispered instead of leading",
+      "rank": 4,
+      "personalizationMetadata": {
+        "clipDescription": "At elimination, Corbin argues Egypt shut him out and made communication impossible, while Egypt counters that Corbin shrank and whispered instead of leading.  Ramsay ultimately decides Corbin was too disconnected and not ready to be a head chef, eliminates him, and warns the blue team that their numbers are dwindling.",
+        "reasoning": "For a Suspense Seeker viewer, \"Corbin is eliminated after the Egypt-Corbin confrontation\" in Ep 3 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Gordon Ramsay, Egypt, Corbin drive the beat: At elimination, Corbin argues Egypt shut him out and made communication impossible, while Egypt counters that Corbin shrank and whispered instead of leading.  Ramsay ultimately decides Corbin was too disconnected and not ready to be a head chef, eliminates him, and warns the blue team that their numbers are dwindling. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "Egypt",
+          "Corbin"
+        ],
+        "fitScores": {
+          "audienceFit": 92,
+          "interestMatch": 88,
+          "avoidanceConfidence": 86
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-4",
+      "assetId": "hk-ep04",
+      "assetReference": "hk-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/hk-ep04",
+      "startSec": 1257,
+      "endSec": 1310,
+      "thumbnailUrl": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
+      "title": "Farm punishment turns into a health scare",
+      "sceneTitle": "Farm punishment turns into a health scare",
+      "description": "The losing Red Team is sent to a farm punishment involving manure, and the physical toll quickly shows.  Amanda becomes overwhelmed and nearly collapses, while Brittany stays with her, coaches her breathing, and helps steady her until she recovers.",
+      "sceneDescription": "The losing Red Team is sent to a farm punishment involving manure, and the physical toll quickly shows.  Amanda becomes overwhelmed and nearly collapses, while Brittany stays with her, coaches her breathing, and helps steady her until she recovers.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "pickling challenge",
+        "pickleball"
+      ],
+      "charactersPresent": [
+        "Amanda",
+        "Brittany",
+        "Egypt",
+        "Whit",
+        "Meghan",
+        "Ann Marie",
+        "Hannah"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Farm punishment turns into a health scare\" in Ep 4 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Amanda, Brittany drive the beat: The losing Red Team is sent to a farm punishment involving manure, and the physical toll quickly shows.  Amanda becomes overwhelmed and nearly collapses, while Brittany stays with her, coaches her breathing, and helps steady her until she recovers. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Farm punishment turns into a health scare",
+      "subClipFocus": "Farm punishment turns into a health scare — The losing Red Team is sent to a farm punishment involving manure, and the physical toll quickly shows",
+      "rank": 5,
+      "personalizationMetadata": {
+        "clipDescription": "The losing Red Team is sent to a farm punishment involving manure, and the physical toll quickly shows.  Amanda becomes overwhelmed and nearly collapses, while Brittany stays with her, coaches her breathing, and helps steady her until she recovers.",
+        "reasoning": "For a Suspense Seeker viewer, \"Farm punishment turns into a health scare\" in Ep 4 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Amanda, Brittany drive the beat: The losing Red Team is sent to a farm punishment involving manure, and the physical toll quickly shows.  Amanda becomes overwhelmed and nearly collapses, while Brittany stays with her, coaches her breathing, and helps steady her until she recovers. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Amanda",
+          "Brittany"
+        ],
+        "fitScores": {
+          "audienceFit": 90,
+          "interestMatch": 86,
+          "avoidanceConfidence": 84
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-5",
+      "assetId": "hk-ep04",
+      "assetReference": "hk-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/hk-ep04",
+      "startSec": 1361,
+      "endSec": 1413,
+      "thumbnailUrl": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
+      "title": "VIP dinner service raises the stakes",
+      "sceneTitle": "VIP dinner service raises the stakes",
+      "description": "Dinner service begins with VIP pressure as Sheryl Swoopes sits at the Red chef’s table and Vernon Davis at the Blue one.  The Blue Team starts on appetizers, and Egypt tries to prove himself by taking control of carbonara.",
+      "sceneDescription": "Dinner service begins with VIP pressure as Sheryl Swoopes sits at the Red chef’s table and Vernon Davis at the Blue one.  The Blue Team starts on appetizers, and Egypt tries to prove himself by taking control of carbonara.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "pickling challenge",
+        "pickleball"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Sheryl Swoopes",
+        "Vernon Davis",
+        "Egypt",
+        "Joe",
+        "Lulu",
+        "Amanda"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"VIP dinner service raises the stakes\" in Ep 4 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Gordon Ramsay, Sheryl Swoopes, Vernon Davis drive the beat: Dinner service begins with VIP pressure as Sheryl Swoopes sits at the Red chef’s table and Vernon Davis at the Blue one.  The Blue Team starts on appetizers, and Egypt tries to prove himself by taking control of carbonara. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "VIP dinner service raises the stakes",
+      "subClipFocus": "VIP dinner service raises the stakes — Dinner service begins with VIP pressure as Sheryl Swoopes sits at the Red chef’s table and Vernon Davis at the Blue one",
+      "rank": 6,
+      "personalizationMetadata": {
+        "clipDescription": "Dinner service begins with VIP pressure as Sheryl Swoopes sits at the Red chef’s table and Vernon Davis at the Blue one.  The Blue Team starts on appetizers, and Egypt tries to prove himself by taking control of carbonara.",
+        "reasoning": "For a Suspense Seeker viewer, \"VIP dinner service raises the stakes\" in Ep 4 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Gordon Ramsay, Sheryl Swoopes, Vernon Davis drive the beat: Dinner service begins with VIP pressure as Sheryl Swoopes sits at the Red chef’s table and Vernon Davis at the Blue one.  The Blue Team starts on appetizers, and Egypt tries to prove himself by taking control of carbonara. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "Sheryl Swoopes",
+          "Vernon Davis"
+        ],
+        "fitScores": {
+          "audienceFit": 88,
+          "interestMatch": 84,
+          "avoidanceConfidence": 82
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-6",
+      "assetId": "hk-ep04",
+      "assetReference": "hk-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/hk-ep04",
+      "startSec": 2294,
+      "endSec": 2445,
+      "thumbnailUrl": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
+      "title": "Michael is eliminated",
+      "sceneTitle": "Michael is eliminated",
+      "description": "At elimination, the teams nominate Magali, Ann Marie, Michael, and Egypt.  Ramsay hears each plea, sends Egypt, Ann Marie, and Magali back in line, then eliminates Michael.",
+      "sceneDescription": "At elimination, the teams nominate Magali, Ann Marie, Michael, and Egypt.  Ramsay hears each plea, sends Egypt, Ann Marie, and Magali back in line, then eliminates Michael.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "pickling challenge",
+        "pickleball"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Michael",
+        "Egypt",
+        "Ann Marie",
+        "Magali",
+        "Anthony",
+        "Brittany",
+        "Hannah"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Michael is eliminated\" in Ep 4 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Gordon Ramsay, Michael, Egypt drive the beat: At elimination, the teams nominate Magali, Ann Marie, Michael, and Egypt.  Ramsay hears each plea, sends Egypt, Ann Marie, and Magali back in line, then eliminates Michael. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Michael is eliminated",
+      "subClipFocus": "Michael is eliminated — At elimination, the teams nominate Magali, Ann Marie, Michael, and Egypt",
+      "rank": 7,
+      "personalizationMetadata": {
+        "clipDescription": "At elimination, the teams nominate Magali, Ann Marie, Michael, and Egypt.  Ramsay hears each plea, sends Egypt, Ann Marie, and Magali back in line, then eliminates Michael.",
+        "reasoning": "For a Suspense Seeker viewer, \"Michael is eliminated\" in Ep 4 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Gordon Ramsay, Michael, Egypt drive the beat: At elimination, the teams nominate Magali, Ann Marie, Michael, and Egypt.  Ramsay hears each plea, sends Egypt, Ann Marie, and Magali back in line, then eliminates Michael. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "Michael",
+          "Egypt"
+        ],
+        "fitScores": {
+          "audienceFit": 86,
+          "interestMatch": 82,
+          "avoidanceConfidence": 80
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-7",
+      "assetId": "hk-ep02",
+      "assetReference": "hk-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/hk-ep02",
+      "startSec": 1802,
+      "endSec": 1960,
+      "thumbnailUrl": "https://i.ytimg.com/vi/bX-EzNRe-ws/maxresdefault.jpg",
+      "title": "Entree pressure exposes communication flaws",
+      "sceneTitle": "Entree pressure exposes communication flaws",
+      "description": "As entrees begin, the red kitchen struggles with salmon while Hannah gets blasted for stabbing chicken with a fork, and the blue kitchen grows increasingly tense under Egypt’s constant direction.  Joe is visibly annoyed, but the team still tries to answer Ramsay’s calls and keep pace.",
+      "sceneDescription": "As entrees begin, the red kitchen struggles with salmon while Hannah gets blasted for stabbing chicken with a fork, and the blue kitchen grows increasingly tense under Egypt’s constant direction.  Joe is visibly annoyed, but the team still tries to answer Ramsay’s calls and keep pace.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "Fiery Flambé Challenge",
+        "Punishment Pass"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Magali",
+        "Hannah",
+        "Ann Marie",
+        "Joe",
+        "Egypt"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Entree pressure exposes communication flaws\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Gordon Ramsay, Magali, Hannah drive the beat: As entrees begin, the red kitchen struggles with salmon while Hannah gets blasted for stabbing chicken with a fork, and the blue kitchen grows increasingly tense under Egypt’s constant direction.  Joe is visibly annoyed, but the team still tries to answer Ramsay’s calls and keep pace. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Entree pressure exposes communication flaws",
+      "subClipFocus": "Entree pressure exposes communication flaws — As entrees begin, the red kitchen struggles with salmon while Hannah gets blasted for stabbing chicken with a fork, and the blue kitchen grows increasingly tense under Egypt’s constant direction",
+      "rank": 8,
+      "personalizationMetadata": {
+        "clipDescription": "As entrees begin, the red kitchen struggles with salmon while Hannah gets blasted for stabbing chicken with a fork, and the blue kitchen grows increasingly tense under Egypt’s constant direction.  Joe is visibly annoyed, but the team still tries to answer Ramsay’s calls and keep pace.",
+        "reasoning": "For a Suspense Seeker viewer, \"Entree pressure exposes communication flaws\" in Ep 2 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Gordon Ramsay, Magali, Hannah drive the beat: As entrees begin, the red kitchen struggles with salmon while Hannah gets blasted for stabbing chicken with a fork, and the blue kitchen grows increasingly tense under Egypt’s constant direction.  Joe is visibly annoyed, but the team still tries to answer Ramsay’s calls and keep pace. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "Magali",
+          "Hannah"
+        ],
+        "fitScores": {
+          "audienceFit": 84,
+          "interestMatch": 80,
+          "avoidanceConfidence": 78
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-8",
+      "assetId": "hk-ep03",
+      "assetReference": "hk-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/hk-ep03",
+      "startSec": 243,
+      "endSec": 316,
+      "thumbnailUrl": "https://i.ytimg.com/vi/GAV2plfsiBA/maxresdefault.jpg",
+      "title": "The punishment prep injures Shant and Uri",
+      "sceneTitle": "The punishment prep injures Shant and Uri",
+      "description": "As the boxes come inside, Shant admits he hurt his back/shoulder carrying them, and Uri says his left side is going numb from a nerve issue.  Both injuries are framed as consequences of the morning labor, not random side stories.",
+      "sceneDescription": "As the boxes come inside, Shant admits he hurt his back/shoulder carrying them, and Uri says his left side is going numb from a nerve issue.  Both injuries are framed as consequences of the morning labor, not random side stories.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "seafood challenge",
+        "seafood tower"
+      ],
+      "charactersPresent": [
+        "Shant",
+        "Uri",
+        "Egypt",
+        "Brandon"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"The punishment prep injures Shant and Uri\" in Ep 3 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Shant, Uri drive the beat: As the boxes come inside, Shant admits he hurt his back/shoulder carrying them, and Uri says his left side is going numb from a nerve issue.  Both injuries are framed as consequences of the morning labor, not random side stories. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "The punishment prep injures Shant and Uri",
+      "subClipFocus": "The punishment prep injures Shant and Uri — As the boxes come inside, Shant admits he hurt his back/shoulder carrying them, and Uri says his left side is going numb from a nerve issue",
+      "rank": 9,
+      "personalizationMetadata": {
+        "clipDescription": "As the boxes come inside, Shant admits he hurt his back/shoulder carrying them, and Uri says his left side is going numb from a nerve issue.  Both injuries are framed as consequences of the morning labor, not random side stories.",
+        "reasoning": "For a Suspense Seeker viewer, \"The punishment prep injures Shant and Uri\" in Ep 3 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Shant, Uri drive the beat: As the boxes come inside, Shant admits he hurt his back/shoulder carrying them, and Uri says his left side is going numb from a nerve issue.  Both injuries are framed as consequences of the morning labor, not random side stories. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Shant",
+          "Uri"
+        ],
+        "fitScores": {
+          "audienceFit": 82,
+          "interestMatch": 78,
+          "avoidanceConfidence": 78
+        }
+      }
+    },
+    {
+      "id": "suspense_seeker-rail-9",
+      "assetId": "hk-ep03",
+      "assetReference": "hk-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/hk-ep03",
+      "startSec": 960,
+      "endSec": 1080,
+      "thumbnailUrl": "https://i.ytimg.com/vi/GAV2plfsiBA/maxresdefault.jpg",
+      "title": "Reward-punishment split turns into a medical crisis",
+      "sceneTitle": "Reward-punishment split turns into a medical crisis",
+      "description": "Ramsay sends the red team kayaking on the Mystic River and sentences the blue team to seafood prep punishment.  Shant’s pain intensifies after the loss, and by the end of the segment he is asking for medical help while Meghan checks on him.",
+      "sceneDescription": "Ramsay sends the red team kayaking on the Mystic River and sentences the blue team to seafood prep punishment.  Shant’s pain intensifies after the loss, and by the end of the segment he is asking for medical help while Meghan checks on him.",
+      "matchSignals": [
+        "tense",
+        "female-lead",
+        "dramatic",
+        "seafood challenge",
+        "seafood tower"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Magali",
+        "Brittany",
+        "Shant",
+        "Michael",
+        "Anthony",
+        "Meghan"
+      ],
+      "audienceAlignmentReasoning": "For a Suspense Seeker viewer, \"Reward-punishment split turns into a medical crisis\" in Ep 3 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Gordon Ramsay, Magali, Brittany drive the beat: Ramsay sends the red team kayaking on the Mystic River and sentences the blue team to seafood prep punishment.  Shant’s pain intensifies after the loss, and by the end of the segment he is asking for medical help while Meghan checks on him. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+      "clipLabel": "Reward-punishment split turns into a medical crisis",
+      "subClipFocus": "Reward-punishment split turns into a medical crisis — Ramsay sends the red team kayaking on the Mystic River and sentences the blue team to seafood prep punishment",
+      "rank": 10,
+      "personalizationMetadata": {
+        "clipDescription": "Ramsay sends the red team kayaking on the Mystic River and sentences the blue team to seafood prep punishment.  Shant’s pain intensifies after the loss, and by the end of the segment he is asking for medical help while Meghan checks on him.",
+        "reasoning": "For a Suspense Seeker viewer, \"Reward-punishment split turns into a medical crisis\" in Ep 3 builds tension through character stakes and dramatic pacing that suspense fans expect. In this window, Gordon Ramsay, Magali, Brittany drive the beat: Ramsay sends the red team kayaking on the Mystic River and sentences the blue team to seafood prep punishment.  Shant’s pain intensifies after the loss, and by the end of the segment he is asking for medical help while Meghan checks on him. That aligns with your looking-for signals (tense scenes, strong female lead, dramatic reveals) and keeps your configured character spotlight visible, while steering clear of feel-good filler, slow pacing, light comedy.",
+        "matchedAudienceInterests": [
+          "tense scenes",
+          "strong female lead",
+          "dramatic reveals"
+        ],
+        "clipLengthMin": 2,
+        "avoidedThemes": [
+          "feel-good filler",
+          "slow pacing",
+          "light comedy"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "Magali",
+          "Brittany"
+        ],
+        "fitScores": {
+          "audienceFit": 80,
+          "interestMatch": 76,
+          "avoidanceConfidence": 78
+        }
+      }
+    }
+  ]
+}

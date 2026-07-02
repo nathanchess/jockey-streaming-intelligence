@@ -1,0 +1,966 @@
+{
+  "request": {
+    "model": "jockey1.0",
+    "query": "Classic sauce demonstration"
+  },
+  "response": {
+    "query_interpretation": "Searching for scenes matching: Classic sauce demonstration",
+    "total_results": 16,
+    "results": [
+      {
+        "asset_reference": "chef-ep01",
+        "timestamp_start": "9:44",
+        "timestamp_end": "13:11",
+        "scene_title": "Wine reduction",
+        "description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+        "match_type": "audio",
+        "relevance_score": "96",
+        "scene_description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+        "alignment_reasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child, Guest Assistant drive the audio beat \"Wine reduction\" in Ep 1. Julia deglazes, jokes about measuring wine, and invites the assistant to stir. Watch for Julia Child, Guest Assistant in Ep 1. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up",
+          "Warm",
+          "Instructional"
+        ],
+        "characters_present": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "match_signals": [
+          "Cooking demonstration",
+          "Instruction"
+        ]
+      },
+      {
+        "asset_reference": "chef-ep02",
+        "timestamp_start": "9:44",
+        "timestamp_end": "13:10",
+        "scene_title": "Wine reduction",
+        "description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+        "match_type": "text_on_screen",
+        "relevance_score": "94",
+        "scene_description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+        "alignment_reasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child, Guest Assistant drive the text_on_screen beat \"Wine reduction\" in Ep 2. Julia deglazes, jokes about measuring wine, and invites the assistant to stir. Watch for Julia Child, Guest Assistant in Ep 2. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up",
+          "Warm",
+          "Instructional"
+        ],
+        "characters_present": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "match_signals": [
+          "Cooking demonstration",
+          "Instruction"
+        ]
+      },
+      {
+        "asset_reference": "chef-ep03",
+        "timestamp_start": "9:45",
+        "timestamp_end": "13:11",
+        "scene_title": "Wine reduction",
+        "description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+        "match_type": "visual",
+        "relevance_score": "92",
+        "scene_description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+        "alignment_reasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child, Guest Assistant drive the visual beat \"Wine reduction\" in Ep 3. Julia deglazes, jokes about measuring wine, and invites the assistant to stir. Watch for Julia Child, Guest Assistant in Ep 3. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up",
+          "Warm",
+          "Instructional"
+        ],
+        "characters_present": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "match_signals": [
+          "Cooking demonstration",
+          "Instruction"
+        ]
+      },
+      {
+        "asset_reference": "chef-ep04",
+        "timestamp_start": "9:45",
+        "timestamp_end": "13:11",
+        "scene_title": "Wine reduction",
+        "description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+        "match_type": "semantic",
+        "relevance_score": "90",
+        "scene_description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+        "alignment_reasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child, Guest Assistant drive the semantic beat \"Wine reduction\" in Ep 4. Julia deglazes, jokes about measuring wine, and invites the assistant to stir. Watch for Julia Child, Guest Assistant in Ep 4. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up",
+          "Warm",
+          "Instructional"
+        ],
+        "characters_present": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "match_signals": [
+          "Cooking demonstration",
+          "Instruction"
+        ]
+      },
+      {
+        "asset_reference": "chef-ep01",
+        "timestamp_start": "6:18",
+        "timestamp_end": "9:44",
+        "scene_title": "Sauté stage",
+        "description": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+        "match_type": "audio",
+        "relevance_score": "88",
+        "scene_description": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+        "alignment_reasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child drive the audio beat \"Sauté stage\" in Ep 1. Julia browns aromatics, explaining heat control as butter foams in the pan. Watch for Julia Child in Ep 1. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up",
+          "Warm",
+          "Instructional"
+        ],
+        "characters_present": [
+          "Julia Child"
+        ],
+        "match_signals": [
+          "Cooking demonstration",
+          "Instruction"
+        ]
+      },
+      {
+        "asset_reference": "chef-ep02",
+        "timestamp_start": "6:18",
+        "timestamp_end": "9:44",
+        "scene_title": "Sauté stage",
+        "description": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+        "match_type": "text_on_screen",
+        "relevance_score": "86",
+        "scene_description": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+        "alignment_reasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child drive the text_on_screen beat \"Sauté stage\" in Ep 2. Julia browns aromatics, explaining heat control as butter foams in the pan. Watch for Julia Child in Ep 2. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up",
+          "Warm",
+          "Instructional"
+        ],
+        "characters_present": [
+          "Julia Child"
+        ],
+        "match_signals": [
+          "Cooking demonstration",
+          "Instruction"
+        ]
+      },
+      {
+        "asset_reference": "chef-ep03",
+        "timestamp_start": "6:18",
+        "timestamp_end": "9:45",
+        "scene_title": "Sauté stage",
+        "description": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+        "match_type": "visual",
+        "relevance_score": "84",
+        "scene_description": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+        "alignment_reasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child drive the visual beat \"Sauté stage\" in Ep 3. Julia browns aromatics, explaining heat control as butter foams in the pan. Watch for Julia Child in Ep 3. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up",
+          "Warm",
+          "Instructional"
+        ],
+        "characters_present": [
+          "Julia Child"
+        ],
+        "match_signals": [
+          "Cooking demonstration",
+          "Instruction"
+        ]
+      },
+      {
+        "asset_reference": "chef-ep04",
+        "timestamp_start": "6:18",
+        "timestamp_end": "9:45",
+        "scene_title": "Sauté stage",
+        "description": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+        "match_type": "semantic",
+        "relevance_score": "82",
+        "scene_description": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+        "alignment_reasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child drive the semantic beat \"Sauté stage\" in Ep 4. Julia browns aromatics, explaining heat control as butter foams in the pan. Watch for Julia Child in Ep 4. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up",
+          "Warm",
+          "Instructional"
+        ],
+        "characters_present": [
+          "Julia Child"
+        ],
+        "match_signals": [
+          "Cooking demonstration",
+          "Instruction"
+        ]
+      },
+      {
+        "asset_reference": "chef-ep01",
+        "timestamp_start": "16:37",
+        "timestamp_end": "20:04",
+        "scene_title": "Side preparation",
+        "description": "Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+        "match_type": "audio",
+        "relevance_score": "80",
+        "scene_description": "Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+        "alignment_reasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child, Guest Assistant drive the audio beat \"Side preparation\" in Ep 1. Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc. Julia assigns the assistant a simple garnish while she tastes for salt. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Julia Child, Guest Assistant. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up",
+          "Warm",
+          "Instructional"
+        ],
+        "characters_present": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "match_signals": [
+          "Cooking demonstration",
+          "Instruction"
+        ]
+      },
+      {
+        "asset_reference": "chef-ep02",
+        "timestamp_start": "20:03",
+        "timestamp_end": "23:29",
+        "scene_title": "Plating",
+        "description": "Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer.",
+        "match_type": "text_on_screen",
+        "relevance_score": "78",
+        "scene_description": "Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer.",
+        "alignment_reasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child drive the text_on_screen beat \"Plating\" in Ep 2. Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc. Julia plates the boeuf bourguignon, naming each component for the viewer. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Julia Child. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up",
+          "Warm",
+          "Instructional"
+        ],
+        "characters_present": [
+          "Julia Child"
+        ],
+        "match_signals": [
+          "Cooking demonstration",
+          "Instruction"
+        ]
+      },
+      {
+        "asset_reference": "chef-ep03",
+        "timestamp_start": "13:11",
+        "timestamp_end": "16:38",
+        "scene_title": "Braise",
+        "description": "Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc.  Julia covers the pot, describing how collagen breaks down over time.",
+        "match_type": "visual",
+        "relevance_score": "76",
+        "scene_description": "Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc.  Julia covers the pot, describing how collagen breaks down over time.",
+        "alignment_reasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child drive the visual beat \"Braise\" in Ep 3. Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc. Julia covers the pot, describing how collagen breaks down over time. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Julia Child. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up",
+          "Warm",
+          "Instructional"
+        ],
+        "characters_present": [
+          "Julia Child"
+        ],
+        "match_signals": [
+          "Cooking demonstration",
+          "Instruction"
+        ]
+      },
+      {
+        "asset_reference": "chef-ep04",
+        "timestamp_start": "16:38",
+        "timestamp_end": "20:04",
+        "scene_title": "Side preparation",
+        "description": "Editorially, \"Side preparation\" is the pivot of Ep 4: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+        "match_type": "semantic",
+        "relevance_score": "74",
+        "scene_description": "Editorially, \"Side preparation\" is the pivot of Ep 4: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+        "alignment_reasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child, Guest Assistant drive the semantic beat \"Side preparation\" in Ep 4. Editorially, \"Side preparation\" is the pivot of Ep 4: Julia Child and Guest Assistant drive the collaborative → lighthearted arc. Julia assigns the assistant a simple garnish while she tastes for salt. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Julia Child, Guest Assistant. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up",
+          "Warm",
+          "Instructional"
+        ],
+        "characters_present": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "match_signals": [
+          "Cooking demonstration",
+          "Instruction"
+        ]
+      },
+      {
+        "asset_reference": "chef-ep01",
+        "timestamp_start": "0:34",
+        "timestamp_end": "2:52",
+        "scene_title": "Introduction",
+        "description": "Julia introduces the dish and lists ingredients to the home viewer.",
+        "match_type": "audio",
+        "relevance_score": "70",
+        "scene_description": "Julia introduces the dish and lists ingredients to the home viewer.",
+        "alignment_reasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child drive the audio beat \"Introduction\" in Ep 1. Julia introduces the dish and lists ingredients to the home viewer. Watch for Julia Child in Ep 1. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up",
+          "Warm",
+          "Instructional"
+        ],
+        "characters_present": [
+          "Julia Child"
+        ],
+        "match_signals": [
+          "Cooking demonstration",
+          "Instruction"
+        ]
+      },
+      {
+        "asset_reference": "chef-ep02",
+        "timestamp_start": "0:34",
+        "timestamp_end": "2:51",
+        "scene_title": "Introduction",
+        "description": "Julia introduces the dish and lists ingredients to the home viewer.",
+        "match_type": "text_on_screen",
+        "relevance_score": "68",
+        "scene_description": "Julia introduces the dish and lists ingredients to the home viewer.",
+        "alignment_reasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child drive the text_on_screen beat \"Introduction\" in Ep 2. Julia introduces the dish and lists ingredients to the home viewer. Watch for Julia Child in Ep 2. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up",
+          "Warm",
+          "Instructional"
+        ],
+        "characters_present": [
+          "Julia Child"
+        ],
+        "match_signals": [
+          "Cooking demonstration",
+          "Instruction"
+        ]
+      },
+      {
+        "asset_reference": "chef-ep03",
+        "timestamp_start": "0:34",
+        "timestamp_end": "2:52",
+        "scene_title": "Introduction",
+        "description": "Julia introduces the dish and lists ingredients to the home viewer.",
+        "match_type": "visual",
+        "relevance_score": "66",
+        "scene_description": "Julia introduces the dish and lists ingredients to the home viewer.",
+        "alignment_reasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child drive the visual beat \"Introduction\" in Ep 3. Julia introduces the dish and lists ingredients to the home viewer. Watch for Julia Child in Ep 3. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up",
+          "Warm",
+          "Instructional"
+        ],
+        "characters_present": [
+          "Julia Child"
+        ],
+        "match_signals": [
+          "Cooking demonstration",
+          "Instruction"
+        ]
+      },
+      {
+        "asset_reference": "chef-ep04",
+        "timestamp_start": "0:34",
+        "timestamp_end": "2:52",
+        "scene_title": "Introduction",
+        "description": "Julia introduces the dish and lists ingredients to the home viewer.",
+        "match_type": "semantic",
+        "relevance_score": "64",
+        "scene_description": "Julia introduces the dish and lists ingredients to the home viewer.",
+        "alignment_reasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child drive the semantic beat \"Introduction\" in Ep 4. Julia introduces the dish and lists ingredients to the home viewer. Watch for Julia Child in Ep 4. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up",
+          "Warm",
+          "Instructional"
+        ],
+        "characters_present": [
+          "Julia Child"
+        ],
+        "match_signals": [
+          "Cooking demonstration",
+          "Instruction"
+        ]
+      }
+    ]
+  },
+  "resolved_clips": [
+    {
+      "id": "sauce-demo-0",
+      "assetId": "chef-ep01",
+      "assetReference": "chef-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/chef-ep01",
+      "startSec": 584,
+      "endSec": 791,
+      "thumbnailUrl": "https://i.ytimg.com/vi/vijibDontnU/maxresdefault.jpg",
+      "title": "Wine reduction",
+      "sceneTitle": "Wine reduction",
+      "description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+      "matchType": "audio",
+      "relevanceScore": "96",
+      "matchScore": "96",
+      "sceneDescription": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+      "alignmentReasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child, Guest Assistant drive the audio beat \"Wine reduction\" in Ep 1. Julia deglazes, jokes about measuring wine, and invites the assistant to stir. Watch for Julia Child, Guest Assistant in Ep 1. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Cooking demonstration",
+        "Instruction",
+        "Technique close-up",
+        "Warm",
+        "Instructional"
+      ],
+      "charactersPresent": [
+        "Julia Child",
+        "Guest Assistant"
+      ],
+      "matchSignals": [
+        "Cooking demonstration",
+        "Instruction"
+      ]
+    },
+    {
+      "id": "sauce-demo-1",
+      "assetId": "chef-ep02",
+      "assetReference": "chef-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/chef-ep02",
+      "startSec": 584,
+      "endSec": 790,
+      "thumbnailUrl": "https://i.ytimg.com/vi/677kAOMwTmo/maxresdefault.jpg",
+      "title": "Wine reduction",
+      "sceneTitle": "Wine reduction",
+      "description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "94",
+      "matchScore": "94",
+      "sceneDescription": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+      "alignmentReasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child, Guest Assistant drive the text_on_screen beat \"Wine reduction\" in Ep 2. Julia deglazes, jokes about measuring wine, and invites the assistant to stir. Watch for Julia Child, Guest Assistant in Ep 2. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "Cooking demonstration",
+        "Instruction",
+        "Technique close-up",
+        "Warm",
+        "Instructional"
+      ],
+      "charactersPresent": [
+        "Julia Child",
+        "Guest Assistant"
+      ],
+      "matchSignals": [
+        "Cooking demonstration",
+        "Instruction"
+      ]
+    },
+    {
+      "id": "sauce-demo-2",
+      "assetId": "chef-ep03",
+      "assetReference": "chef-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/chef-ep03",
+      "startSec": 585,
+      "endSec": 791,
+      "thumbnailUrl": "https://i.ytimg.com/vi/dMeqIWwF5yk/maxresdefault.jpg",
+      "title": "Wine reduction",
+      "sceneTitle": "Wine reduction",
+      "description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+      "matchType": "visual",
+      "relevanceScore": "92",
+      "matchScore": "92",
+      "sceneDescription": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+      "alignmentReasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child, Guest Assistant drive the visual beat \"Wine reduction\" in Ep 3. Julia deglazes, jokes about measuring wine, and invites the assistant to stir. Watch for Julia Child, Guest Assistant in Ep 3. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "Cooking demonstration",
+        "Instruction",
+        "Technique close-up",
+        "Warm",
+        "Instructional"
+      ],
+      "charactersPresent": [
+        "Julia Child",
+        "Guest Assistant"
+      ],
+      "matchSignals": [
+        "Cooking demonstration",
+        "Instruction"
+      ]
+    },
+    {
+      "id": "sauce-demo-3",
+      "assetId": "chef-ep04",
+      "assetReference": "chef-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/chef-ep04",
+      "startSec": 585,
+      "endSec": 791,
+      "thumbnailUrl": "https://i.ytimg.com/vi/uruT8FPpeKc/maxresdefault.jpg",
+      "title": "Wine reduction",
+      "sceneTitle": "Wine reduction",
+      "description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+      "matchType": "semantic",
+      "relevanceScore": "90",
+      "matchScore": "90",
+      "sceneDescription": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir.",
+      "alignmentReasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child, Guest Assistant drive the semantic beat \"Wine reduction\" in Ep 4. Julia deglazes, jokes about measuring wine, and invites the assistant to stir. Watch for Julia Child, Guest Assistant in Ep 4. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "Cooking demonstration",
+        "Instruction",
+        "Technique close-up",
+        "Warm",
+        "Instructional"
+      ],
+      "charactersPresent": [
+        "Julia Child",
+        "Guest Assistant"
+      ],
+      "matchSignals": [
+        "Cooking demonstration",
+        "Instruction"
+      ]
+    },
+    {
+      "id": "sauce-demo-4",
+      "assetId": "chef-ep01",
+      "assetReference": "chef-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/chef-ep01",
+      "startSec": 378,
+      "endSec": 584,
+      "thumbnailUrl": "https://i.ytimg.com/vi/vijibDontnU/maxresdefault.jpg",
+      "title": "Sauté stage",
+      "sceneTitle": "Sauté stage",
+      "description": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+      "matchType": "audio",
+      "relevanceScore": "88",
+      "matchScore": "88",
+      "sceneDescription": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+      "alignmentReasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child drive the audio beat \"Sauté stage\" in Ep 1. Julia browns aromatics, explaining heat control as butter foams in the pan. Watch for Julia Child in Ep 1. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Cooking demonstration",
+        "Instruction",
+        "Technique close-up",
+        "Warm",
+        "Instructional"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "matchSignals": [
+        "Cooking demonstration",
+        "Instruction"
+      ]
+    },
+    {
+      "id": "sauce-demo-5",
+      "assetId": "chef-ep02",
+      "assetReference": "chef-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/chef-ep02",
+      "startSec": 378,
+      "endSec": 584,
+      "thumbnailUrl": "https://i.ytimg.com/vi/677kAOMwTmo/maxresdefault.jpg",
+      "title": "Sauté stage",
+      "sceneTitle": "Sauté stage",
+      "description": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "86",
+      "matchScore": "86",
+      "sceneDescription": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+      "alignmentReasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child drive the text_on_screen beat \"Sauté stage\" in Ep 2. Julia browns aromatics, explaining heat control as butter foams in the pan. Watch for Julia Child in Ep 2. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "Cooking demonstration",
+        "Instruction",
+        "Technique close-up",
+        "Warm",
+        "Instructional"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "matchSignals": [
+        "Cooking demonstration",
+        "Instruction"
+      ]
+    },
+    {
+      "id": "sauce-demo-6",
+      "assetId": "chef-ep03",
+      "assetReference": "chef-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/chef-ep03",
+      "startSec": 378,
+      "endSec": 585,
+      "thumbnailUrl": "https://i.ytimg.com/vi/dMeqIWwF5yk/maxresdefault.jpg",
+      "title": "Sauté stage",
+      "sceneTitle": "Sauté stage",
+      "description": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+      "matchType": "visual",
+      "relevanceScore": "84",
+      "matchScore": "84",
+      "sceneDescription": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+      "alignmentReasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child drive the visual beat \"Sauté stage\" in Ep 3. Julia browns aromatics, explaining heat control as butter foams in the pan. Watch for Julia Child in Ep 3. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "Cooking demonstration",
+        "Instruction",
+        "Technique close-up",
+        "Warm",
+        "Instructional"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "matchSignals": [
+        "Cooking demonstration",
+        "Instruction"
+      ]
+    },
+    {
+      "id": "sauce-demo-7",
+      "assetId": "chef-ep04",
+      "assetReference": "chef-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/chef-ep04",
+      "startSec": 378,
+      "endSec": 585,
+      "thumbnailUrl": "https://i.ytimg.com/vi/uruT8FPpeKc/maxresdefault.jpg",
+      "title": "Sauté stage",
+      "sceneTitle": "Sauté stage",
+      "description": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+      "matchType": "semantic",
+      "relevanceScore": "82",
+      "matchScore": "82",
+      "sceneDescription": "Julia browns aromatics, explaining heat control as butter foams in the pan.",
+      "alignmentReasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child drive the semantic beat \"Sauté stage\" in Ep 4. Julia browns aromatics, explaining heat control as butter foams in the pan. Watch for Julia Child in Ep 4. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "Cooking demonstration",
+        "Instruction",
+        "Technique close-up",
+        "Warm",
+        "Instructional"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "matchSignals": [
+        "Cooking demonstration",
+        "Instruction"
+      ]
+    },
+    {
+      "id": "sauce-demo-8",
+      "assetId": "chef-ep01",
+      "assetReference": "chef-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/chef-ep01",
+      "startSec": 997,
+      "endSec": 1204,
+      "thumbnailUrl": "https://i.ytimg.com/vi/vijibDontnU/maxresdefault.jpg",
+      "title": "Side preparation",
+      "sceneTitle": "Side preparation",
+      "description": "Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+      "matchType": "audio",
+      "relevanceScore": "80",
+      "matchScore": "80",
+      "sceneDescription": "Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+      "alignmentReasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child, Guest Assistant drive the audio beat \"Side preparation\" in Ep 1. Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc. Julia assigns the assistant a simple garnish while she tastes for salt. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Julia Child, Guest Assistant. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Cooking demonstration",
+        "Instruction",
+        "Technique close-up",
+        "Warm",
+        "Instructional"
+      ],
+      "charactersPresent": [
+        "Julia Child",
+        "Guest Assistant"
+      ],
+      "matchSignals": [
+        "Cooking demonstration",
+        "Instruction"
+      ]
+    },
+    {
+      "id": "sauce-demo-9",
+      "assetId": "chef-ep02",
+      "assetReference": "chef-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/chef-ep02",
+      "startSec": 1203,
+      "endSec": 1409,
+      "thumbnailUrl": "https://i.ytimg.com/vi/677kAOMwTmo/maxresdefault.jpg",
+      "title": "Plating",
+      "sceneTitle": "Plating",
+      "description": "Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "78",
+      "matchScore": "78",
+      "sceneDescription": "Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer.",
+      "alignmentReasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child drive the text_on_screen beat \"Plating\" in Ep 2. Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc. Julia plates the boeuf bourguignon, naming each component for the viewer. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Julia Child. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "Cooking demonstration",
+        "Instruction",
+        "Technique close-up",
+        "Warm",
+        "Instructional"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "matchSignals": [
+        "Cooking demonstration",
+        "Instruction"
+      ]
+    },
+    {
+      "id": "sauce-demo-10",
+      "assetId": "chef-ep03",
+      "assetReference": "chef-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/chef-ep03",
+      "startSec": 791,
+      "endSec": 998,
+      "thumbnailUrl": "https://i.ytimg.com/vi/dMeqIWwF5yk/maxresdefault.jpg",
+      "title": "Braise",
+      "sceneTitle": "Braise",
+      "description": "Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc.  Julia covers the pot, describing how collagen breaks down over time.",
+      "matchType": "visual",
+      "relevanceScore": "76",
+      "matchScore": "76",
+      "sceneDescription": "Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc.  Julia covers the pot, describing how collagen breaks down over time.",
+      "alignmentReasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child drive the visual beat \"Braise\" in Ep 3. Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc. Julia covers the pot, describing how collagen breaks down over time. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Julia Child. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "Cooking demonstration",
+        "Instruction",
+        "Technique close-up",
+        "Warm",
+        "Instructional"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "matchSignals": [
+        "Cooking demonstration",
+        "Instruction"
+      ]
+    },
+    {
+      "id": "sauce-demo-11",
+      "assetId": "chef-ep04",
+      "assetReference": "chef-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/chef-ep04",
+      "startSec": 998,
+      "endSec": 1204,
+      "thumbnailUrl": "https://i.ytimg.com/vi/uruT8FPpeKc/maxresdefault.jpg",
+      "title": "Side preparation",
+      "sceneTitle": "Side preparation",
+      "description": "Editorially, \"Side preparation\" is the pivot of Ep 4: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+      "matchType": "semantic",
+      "relevanceScore": "74",
+      "matchScore": "74",
+      "sceneDescription": "Editorially, \"Side preparation\" is the pivot of Ep 4: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+      "alignmentReasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child, Guest Assistant drive the semantic beat \"Side preparation\" in Ep 4. Editorially, \"Side preparation\" is the pivot of Ep 4: Julia Child and Guest Assistant drive the collaborative → lighthearted arc. Julia assigns the assistant a simple garnish while she tastes for salt. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Julia Child, Guest Assistant. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "Cooking demonstration",
+        "Instruction",
+        "Technique close-up",
+        "Warm",
+        "Instructional"
+      ],
+      "charactersPresent": [
+        "Julia Child",
+        "Guest Assistant"
+      ],
+      "matchSignals": [
+        "Cooking demonstration",
+        "Instruction"
+      ]
+    },
+    {
+      "id": "sauce-demo-12",
+      "assetId": "chef-ep01",
+      "assetReference": "chef-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/chef-ep01",
+      "startSec": 34,
+      "endSec": 172,
+      "thumbnailUrl": "https://i.ytimg.com/vi/vijibDontnU/maxresdefault.jpg",
+      "title": "Introduction",
+      "sceneTitle": "Introduction",
+      "description": "Julia introduces the dish and lists ingredients to the home viewer.",
+      "matchType": "audio",
+      "relevanceScore": "70",
+      "matchScore": "70",
+      "sceneDescription": "Julia introduces the dish and lists ingredients to the home viewer.",
+      "alignmentReasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child drive the audio beat \"Introduction\" in Ep 1. Julia introduces the dish and lists ingredients to the home viewer. Watch for Julia Child in Ep 1. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Cooking demonstration",
+        "Instruction",
+        "Technique close-up",
+        "Warm",
+        "Instructional"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "matchSignals": [
+        "Cooking demonstration",
+        "Instruction"
+      ]
+    },
+    {
+      "id": "sauce-demo-13",
+      "assetId": "chef-ep02",
+      "assetReference": "chef-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/chef-ep02",
+      "startSec": 34,
+      "endSec": 171,
+      "thumbnailUrl": "https://i.ytimg.com/vi/677kAOMwTmo/maxresdefault.jpg",
+      "title": "Introduction",
+      "sceneTitle": "Introduction",
+      "description": "Julia introduces the dish and lists ingredients to the home viewer.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "68",
+      "matchScore": "68",
+      "sceneDescription": "Julia introduces the dish and lists ingredients to the home viewer.",
+      "alignmentReasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child drive the text_on_screen beat \"Introduction\" in Ep 2. Julia introduces the dish and lists ingredients to the home viewer. Watch for Julia Child in Ep 2. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "Cooking demonstration",
+        "Instruction",
+        "Technique close-up",
+        "Warm",
+        "Instructional"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "matchSignals": [
+        "Cooking demonstration",
+        "Instruction"
+      ]
+    },
+    {
+      "id": "sauce-demo-14",
+      "assetId": "chef-ep03",
+      "assetReference": "chef-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/chef-ep03",
+      "startSec": 34,
+      "endSec": 172,
+      "thumbnailUrl": "https://i.ytimg.com/vi/dMeqIWwF5yk/maxresdefault.jpg",
+      "title": "Introduction",
+      "sceneTitle": "Introduction",
+      "description": "Julia introduces the dish and lists ingredients to the home viewer.",
+      "matchType": "visual",
+      "relevanceScore": "66",
+      "matchScore": "66",
+      "sceneDescription": "Julia introduces the dish and lists ingredients to the home viewer.",
+      "alignmentReasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child drive the visual beat \"Introduction\" in Ep 3. Julia introduces the dish and lists ingredients to the home viewer. Watch for Julia Child in Ep 3. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "Cooking demonstration",
+        "Instruction",
+        "Technique close-up",
+        "Warm",
+        "Instructional"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "matchSignals": [
+        "Cooking demonstration",
+        "Instruction"
+      ]
+    },
+    {
+      "id": "sauce-demo-15",
+      "assetId": "chef-ep04",
+      "assetReference": "chef-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/chef-ep04",
+      "startSec": 34,
+      "endSec": 172,
+      "thumbnailUrl": "https://i.ytimg.com/vi/uruT8FPpeKc/maxresdefault.jpg",
+      "title": "Introduction",
+      "sceneTitle": "Introduction",
+      "description": "Julia introduces the dish and lists ingredients to the home viewer.",
+      "matchType": "semantic",
+      "relevanceScore": "64",
+      "matchScore": "64",
+      "sceneDescription": "Julia introduces the dish and lists ingredients to the home viewer.",
+      "alignmentReasoning": "This scene matches \"Classic sauce demonstration\" because Julia Child drive the semantic beat \"Introduction\" in Ep 4. Julia introduces the dish and lists ingredients to the home viewer. Watch for Julia Child in Ep 4. For viewers searching classic sauce demonstration, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "Cooking demonstration",
+        "Instruction",
+        "Technique close-up",
+        "Warm",
+        "Instructional"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "matchSignals": [
+        "Cooking demonstration",
+        "Instruction"
+      ]
+    }
+  ],
+  "session_id": "sess_seed_french_chef_sauce-demo",
+  "explore_presentation": {
+    "featured_title": "Classic French sauces",
+    "featured_subtitle": "Sauce demonstrations Jockey matched to your query",
+    "rails": [
+      {
+        "id": "the-base",
+        "title": "The Base",
+        "subtitle": "Building flavor from the pan",
+        "startIndex": 4,
+        "endIndex": 7
+      },
+      {
+        "id": "reduction",
+        "title": "Reduction",
+        "subtitle": "Wine, butter, and patience",
+        "startIndex": 8,
+        "endIndex": 11
+      },
+      {
+        "id": "more-sauces",
+        "title": "More Sauces",
+        "subtitle": "Additional demo matches",
+        "startIndex": 12,
+        "endIndex": 15
+      }
+    ]
+  }
+}

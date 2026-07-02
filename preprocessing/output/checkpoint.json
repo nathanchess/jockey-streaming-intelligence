@@ -1,0 +1,312 @@
+{
+  "run_id": "20260627-042701",
+  "assets": {
+    "chef-ep04": {
+      "store_key": "french_chef",
+      "knowledge_store_id": "ks_019f0752-ff8c-7183-a43b-cf0d59188886",
+      "asset_id": "6a3f511bd00a7189a4051523",
+      "status": "indexed_ready",
+      "item_id": "ksi_019f0754-da8b-7f12-8476-ef90e27e99b2",
+      "completed_steps": [
+        "asset_uploaded",
+        "asset_ready",
+        "item_created",
+        "item_ready"
+      ],
+      "timestamps": {
+        "asset_ready_at": "2026-06-27T04:27:24Z",
+        "item_ready_at": "2026-06-27T04:29:32Z"
+      }
+    },
+    "chef-ep01": {
+      "store_key": "french_chef",
+      "knowledge_store_id": "ks_019f0752-ff8c-7183-a43b-cf0d59188886",
+      "asset_id": "6a3f51a1ba42fbf6949b9af4",
+      "status": "indexed_ready",
+      "item_id": "ksi_019f0756-e65a-7803-9707-086538b3e6c3",
+      "completed_steps": [
+        "asset_uploaded",
+        "asset_ready",
+        "item_created",
+        "item_ready"
+      ],
+      "timestamps": {
+        "asset_ready_at": "2026-06-27T04:29:38Z",
+        "item_ready_at": "2026-06-27T04:32:07Z"
+      }
+    },
+    "chef-ep02": {
+      "store_key": "french_chef",
+      "knowledge_store_id": "ks_019f0752-ff8c-7183-a43b-cf0d59188886",
+      "asset_id": "6a3f523bd00a7189a4051562",
+      "status": "indexed_ready",
+      "item_id": "ksi_019f0759-3fd5-7d11-9944-9dd5ca7ddf47",
+      "completed_steps": [
+        "asset_uploaded",
+        "asset_ready",
+        "item_created",
+        "item_ready"
+      ],
+      "timestamps": {
+        "asset_ready_at": "2026-06-27T04:32:12Z",
+        "item_ready_at": "2026-06-27T04:34:20Z"
+      }
+    },
+    "chef-ep03": {
+      "store_key": "french_chef",
+      "knowledge_store_id": "ks_019f0752-ff8c-7183-a43b-cf0d59188886",
+      "asset_id": "6a3f52c0d00a7189a4051569",
+      "status": "indexed_ready",
+      "item_id": "ksi_019f075b-460d-7c73-8e9b-34409576651b",
+      "completed_steps": [
+        "asset_uploaded",
+        "asset_ready",
+        "item_created",
+        "item_ready"
+      ],
+      "timestamps": {
+        "asset_ready_at": "2026-06-27T04:34:24Z",
+        "item_ready_at": "2026-06-27T04:36:43Z"
+      }
+    },
+    "hk-ep01": {
+      "store_key": "hells_kitchen",
+      "knowledge_store_id": "ks_019f075d-93e6-7083-9ec4-023e915533c0",
+      "asset_id": "6a3f5360e88aeaea42b74c70",
+      "status": "indexed_ready",
+      "item_id": "ksi_019f075d-ba7a-7a81-89cd-1e819f1e0423",
+      "completed_steps": [
+        "asset_uploaded",
+        "asset_ready",
+        "item_created",
+        "item_ready"
+      ],
+      "timestamps": {
+        "asset_ready_at": "2026-06-27T04:37:05Z",
+        "item_ready_at": "2026-06-27T05:14:03Z"
+      }
+    },
+    "hk-ep02": {
+      "store_key": "hells_kitchen",
+      "knowledge_store_id": "ks_019f075d-93e6-7083-9ec4-023e915533c0",
+      "asset_id": "6a3f5c1450f757db55c2966e",
+      "status": "indexed_ready",
+      "item_id": "ksi_019f077f-b9fb-71e2-b4cc-935b7bf65503",
+      "completed_steps": [
+        "asset_uploaded",
+        "asset_ready",
+        "item_created",
+        "item_ready"
+      ],
+      "timestamps": {
+        "asset_ready_at": "2026-06-27T05:14:13Z",
+        "item_ready_at": "2026-06-27T05:58:28Z"
+      }
+    },
+    "hk-ep03": {
+      "store_key": "hells_kitchen",
+      "knowledge_store_id": "ks_019f075d-93e6-7083-9ec4-023e915533c0",
+      "asset_id": "6a3f667de88aeaea42b74fc1",
+      "status": "indexed_ready",
+      "item_id": "ksi_019f07a8-61a2-78d3-a934-d5f2335353fe",
+      "completed_steps": [
+        "asset_uploaded",
+        "asset_ready",
+        "item_created",
+        "item_ready"
+      ],
+      "timestamps": {
+        "asset_ready_at": "2026-06-27T05:58:38Z",
+        "item_ready_at": "2026-06-27T06:13:02Z"
+      }
+    },
+    "hk-ep04": {
+      "store_key": "hells_kitchen",
+      "knowledge_store_id": "ks_019f075d-93e6-7083-9ec4-023e915533c0",
+      "asset_id": "6a3f69e6d00a7189a4051996",
+      "status": "indexed_ready",
+      "item_id": "ksi_019f07b5-b376-74e2-a7c0-522d1bc5ae8f",
+      "completed_steps": [
+        "asset_uploaded",
+        "asset_ready",
+        "item_created",
+        "item_ready"
+      ],
+      "timestamps": {
+        "asset_ready_at": "2026-06-27T06:13:11Z",
+        "item_ready_at": "2026-06-27T07:59:42Z"
+      }
+    },
+    "hk-ep05": {
+      "store_key": "hells_kitchen",
+      "knowledge_store_id": "ks_019f075d-93e6-7083-9ec4-023e915533c0",
+      "asset_id": "6a3f82e6ba42fbf6949ba610",
+      "status": "indexed_ready",
+      "item_id": "ksi_019f0817-5cf6-7500-b9a5-71450ac10346",
+      "completed_steps": [
+        "asset_uploaded",
+        "asset_ready",
+        "item_created",
+        "item_ready"
+      ],
+      "timestamps": {
+        "asset_ready_at": "2026-06-27T07:59:51Z",
+        "item_ready_at": "2026-06-27T08:44:36Z"
+      }
+    },
+    "lbd-ep01": {
+      "store_key": "lizzie_bennet",
+      "knowledge_store_id": "ks_019f0840-8cef-7582-95a3-c0db24b9b3ba",
+      "asset_id": "6a3f8d77e88aeaea42b758e8",
+      "status": "indexed_ready",
+      "item_id": "ksi_019f0840-a101-7671-8733-e9b33dd9361f",
+      "completed_steps": [
+        "asset_uploaded",
+        "asset_ready",
+        "item_created",
+        "item_ready"
+      ],
+      "timestamps": {
+        "asset_ready_at": "2026-06-27T08:44:56Z",
+        "item_ready_at": "2026-06-27T08:46:43Z"
+      }
+    },
+    "lbd-ep02": {
+      "store_key": "lizzie_bennet",
+      "knowledge_store_id": "ks_019f0840-8cef-7582-95a3-c0db24b9b3ba",
+      "asset_id": "6a3f8de7d8e131e54636ed01",
+      "status": "indexed_ready",
+      "item_id": "ksi_019f0842-540d-7be3-b157-af2d4e71104c",
+      "completed_steps": [
+        "asset_uploaded",
+        "asset_ready",
+        "item_created",
+        "item_ready"
+      ],
+      "timestamps": {
+        "asset_ready_at": "2026-06-27T08:46:47Z",
+        "item_ready_at": "2026-06-27T08:48:44Z"
+      }
+    },
+    "lbd-ep03": {
+      "store_key": "lizzie_bennet",
+      "knowledge_store_id": "ks_019f0840-8cef-7582-95a3-c0db24b9b3ba",
+      "asset_id": "6a3f8e6150f757db55c2a1bc",
+      "status": "indexed_ready",
+      "item_id": "ksi_019f0844-31b2-7292-9f08-a7a28eb41a04",
+      "completed_steps": [
+        "asset_uploaded",
+        "asset_ready",
+        "item_created",
+        "item_ready"
+      ],
+      "timestamps": {
+        "asset_ready_at": "2026-06-27T08:48:49Z",
+        "item_ready_at": "2026-06-27T08:50:47Z"
+      }
+    },
+    "lbd-ep04": {
+      "store_key": "lizzie_bennet",
+      "knowledge_store_id": "ks_019f0840-8cef-7582-95a3-c0db24b9b3ba",
+      "asset_id": "6a3f8edaba42fbf6949ba7db",
+      "status": "indexed_ready",
+      "item_id": "ksi_019f0846-0d75-7222-9c8f-4156f8987d67",
+      "completed_steps": [
+        "asset_uploaded",
+        "asset_ready",
+        "item_created",
+        "item_ready"
+      ],
+      "timestamps": {
+        "asset_ready_at": "2026-06-27T08:50:51Z",
+        "item_ready_at": "2026-06-27T08:52:59Z"
+      }
+    },
+    "lbd-ep05": {
+      "store_key": "lizzie_bennet",
+      "knowledge_store_id": "ks_019f0840-8cef-7582-95a3-c0db24b9b3ba",
+      "asset_id": "6a3f8f60c96701398f3ce40f",
+      "status": "indexed_ready",
+      "item_id": "ksi_019f0848-1802-7350-820f-78d63c4ed4f6",
+      "completed_steps": [
+        "asset_uploaded",
+        "asset_ready",
+        "item_created",
+        "item_ready"
+      ],
+      "timestamps": {
+        "asset_ready_at": "2026-06-27T08:53:04Z",
+        "item_ready_at": "2026-06-27T08:54:41Z"
+      }
+    },
+    "omeleto-ep01": {
+      "store_key": "omeleto_reserve",
+      "knowledge_store_id": "ks_019f0849-d963-7272-a4c7-280feb37aa1f",
+      "asset_id": "6a3f8fde50f757db55c2a1e4",
+      "status": "indexed_ready",
+      "item_id": "ksi_019f084a-04ac-7703-a832-39d7d153a4c6",
+      "completed_steps": [
+        "asset_uploaded",
+        "asset_ready",
+        "item_created",
+        "item_ready"
+      ],
+      "timestamps": {
+        "asset_ready_at": "2026-06-27T08:55:11Z",
+        "item_ready_at": "2026-06-27T08:57:51Z"
+      }
+    },
+    "omeleto-ep02": {
+      "store_key": "omeleto_reserve",
+      "knowledge_store_id": "ks_019f0849-d963-7272-a4c7-280feb37aa1f",
+      "asset_id": "6a3f9087d8e131e54636ed42",
+      "status": "indexed_ready",
+      "item_id": "ksi_019f084c-98c9-7533-8cab-1100eed0e3de",
+      "completed_steps": [
+        "asset_uploaded",
+        "asset_ready",
+        "item_created",
+        "item_ready"
+      ],
+      "timestamps": {
+        "asset_ready_at": "2026-06-27T08:58:00Z",
+        "item_ready_at": "2026-06-27T09:14:10Z"
+      }
+    },
+    "omeleto-ep03": {
+      "store_key": "omeleto_reserve",
+      "knowledge_store_id": "ks_019f0849-d963-7272-a4c7-280feb37aa1f",
+      "asset_id": "6a3f945aba42fbf6949ba8ec",
+      "status": "indexed_ready",
+      "item_id": "ksi_019f085b-8a3b-7d13-bd66-8ca527dd085c",
+      "completed_steps": [
+        "asset_uploaded",
+        "asset_ready",
+        "item_created",
+        "item_ready"
+      ],
+      "timestamps": {
+        "asset_ready_at": "2026-06-27T09:14:19Z",
+        "item_ready_at": "2026-06-27T09:17:41Z"
+      }
+    },
+    "omeleto-ep04": {
+      "store_key": "omeleto_reserve",
+      "knowledge_store_id": "ks_019f0849-d963-7272-a4c7-280feb37aa1f",
+      "asset_id": "6a3f952ce88aeaea42b75a43",
+      "status": "indexed_ready",
+      "item_id": "ksi_019f085e-be09-7642-b614-8fb53197650a",
+      "completed_steps": [
+        "asset_uploaded",
+        "asset_ready",
+        "item_created",
+        "item_ready"
+      ],
+      "timestamps": {
+        "asset_ready_at": "2026-06-27T09:17:49Z",
+        "item_ready_at": "2026-06-27T09:22:25Z"
+      }
+    }
+  },
+  "updated_at": "2026-06-27T09:22:25Z"
+}

@@ -1,0 +1,957 @@
+{
+  "request": {
+    "model": "jockey1.0",
+    "intent": "Looking for feel-good content, family-friendly, uplifting moments, under 20 min per clip"
+  },
+  "response": {
+    "viewer_intent_interpretation": "Looking for feel-good content, family-friendly, uplifting moments, under 20 min per clip",
+    "recommended_rail": [
+      {
+        "rank": 1,
+        "asset_reference": "omeleto-ep02",
+        "title": "Public misunderstanding",
+        "clip_start": "12:20",
+        "clip_end": "14:20",
+        "rationale": "Feel-Good Family · Public misunderstanding — Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Public misunderstanding\" in Ep 2 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet, Lydia Bennet drive the beat: Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Public misunderstanding",
+        "clip_description": "Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+        "characters_present": [
+          "Lizzie Bennet",
+          "Lydia Bennet"
+        ],
+        "sub_clip_focus": "Public misunderstanding — Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 2,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Lizzie Bennet",
+          "Lydia Bennet"
+        ],
+        "audience_fit_score": 98,
+        "interest_match_score": 94,
+        "avoidance_score": 92
+      },
+      {
+        "rank": 2,
+        "asset_reference": "omeleto-ep03",
+        "title": "Confession cam",
+        "clip_start": "3:09",
+        "clip_end": "3:54",
+        "rationale": "Feel-Good Family · Confession cam — Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Confession cam\" in Ep 3 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet drive the beat: Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Confession cam",
+        "clip_description": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "sub_clip_focus": "Confession cam — Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Lizzie Bennet"
+        ],
+        "audience_fit_score": 96,
+        "interest_match_score": 92,
+        "avoidance_score": 90
+      },
+      {
+        "rank": 3,
+        "asset_reference": "omeleto-ep01",
+        "title": "Sister reconciliation",
+        "clip_start": "7:37",
+        "clip_end": "8:41",
+        "rationale": "Feel-Good Family · Sister reconciliation — Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Sister reconciliation\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet, Jane Bennet drive the beat: Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Sister reconciliation",
+        "clip_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet"
+        ],
+        "sub_clip_focus": "Sister reconciliation — Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "audience_fit_score": 94,
+        "interest_match_score": 90,
+        "avoidance_score": 88
+      },
+      {
+        "rank": 4,
+        "asset_reference": "omeleto-ep02",
+        "title": "Sister reconciliation",
+        "clip_start": "14:20",
+        "clip_end": "16:19",
+        "rationale": "Feel-Good Family · Sister reconciliation — Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Sister reconciliation\" in Ep 2 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet, Jane Bennet drive the beat: Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Sister reconciliation",
+        "clip_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet"
+        ],
+        "sub_clip_focus": "Sister reconciliation — Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 2,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "audience_fit_score": 92,
+        "interest_match_score": 88,
+        "avoidance_score": 86
+      },
+      {
+        "rank": 5,
+        "asset_reference": "omeleto-ep03",
+        "title": "Sister reconciliation",
+        "clip_start": "5:24",
+        "clip_end": "6:09",
+        "rationale": "Feel-Good Family · Sister reconciliation — Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Sister reconciliation\" in Ep 3 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet, Jane Bennet drive the beat: Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Sister reconciliation",
+        "clip_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet"
+        ],
+        "sub_clip_focus": "Sister reconciliation — Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "audience_fit_score": 90,
+        "interest_match_score": 86,
+        "avoidance_score": 84
+      },
+      {
+        "rank": 6,
+        "asset_reference": "omeleto-ep04",
+        "title": "Sister reconciliation",
+        "clip_start": "10:54",
+        "clip_end": "12:25",
+        "rationale": "Feel-Good Family · Sister reconciliation — Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Sister reconciliation\" in Ep 4 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet, Jane Bennet drive the beat: Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Sister reconciliation",
+        "clip_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet"
+        ],
+        "sub_clip_focus": "Sister reconciliation — Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 2,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "audience_fit_score": 88,
+        "interest_match_score": 84,
+        "avoidance_score": 82
+      },
+      {
+        "rank": 7,
+        "asset_reference": "omeleto-ep01",
+        "title": "Romantic DM",
+        "clip_start": "5:30",
+        "clip_end": "6:34",
+        "rationale": "Feel-Good Family · Romantic DM — Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Romantic DM\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet, Jane Bennet drive the beat: Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Romantic DM",
+        "clip_description": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "sub_clip_focus": "Romantic DM — Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "audience_fit_score": 86,
+        "interest_match_score": 82,
+        "avoidance_score": 80
+      },
+      {
+        "rank": 8,
+        "asset_reference": "omeleto-ep04",
+        "title": "Romantic DM",
+        "clip_start": "7:52",
+        "clip_end": "9:23",
+        "rationale": "Feel-Good Family · Romantic DM — Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Romantic DM\" in Ep 4 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet, Jane Bennet drive the beat: Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Romantic DM",
+        "clip_description": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "sub_clip_focus": "Romantic DM — Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 2,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "audience_fit_score": 84,
+        "interest_match_score": 80,
+        "avoidance_score": 78
+      },
+      {
+        "rank": 9,
+        "asset_reference": "omeleto-ep01",
+        "title": "Family dinner",
+        "clip_start": "3:10",
+        "clip_end": "4:27",
+        "rationale": "Feel-Good Family · Family dinner — Mrs",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Family dinner\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Mrs. Bennet, Lizzie Bennet drive the beat: Mrs.  Bennet steers conversation to marriage; Lizzie pushes back while Jane tries to change the subject. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Family dinner",
+        "clip_description": "Mrs.  Bennet steers conversation to marriage; Lizzie pushes back while Jane tries to change the subject.",
+        "characters_present": [
+          "Mrs. Bennet",
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet"
+        ],
+        "sub_clip_focus": "Family dinner — Mrs",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Mrs. Bennet",
+          "Lizzie Bennet"
+        ],
+        "audience_fit_score": 82,
+        "interest_match_score": 78,
+        "avoidance_score": 78
+      },
+      {
+        "rank": 10,
+        "asset_reference": "omeleto-ep01",
+        "title": "Confession cam",
+        "clip_start": "4:27",
+        "clip_end": "5:30",
+        "rationale": "Feel-Good Family · Confession cam — Alone, Lizzie tells viewers she fears being misread by both family and audience",
+        "match_signals": [
+          "uplifting",
+          "family-friendly",
+          "short-form",
+          "Vlog confession",
+          "Dialogue"
+        ],
+        "audience_alignment_reasoning": "For a Feel-Good Family viewer, \"Confession cam\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet drive the beat: Alone, Lizzie tells viewers she fears being misread by both family and audience. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "clip_label": "Confession cam",
+        "clip_description": "Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "sub_clip_focus": "Confession cam — Alone, Lizzie tells viewers she fears being misread by both family and audience",
+        "matched_audience_interests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "character_spotlight": [
+          "Lizzie Bennet"
+        ],
+        "audience_fit_score": 80,
+        "interest_match_score": 76,
+        "avoidance_score": 78
+      }
+    ]
+  },
+  "resolved_clips": [
+    {
+      "id": "feel_good_family-rail-0",
+      "assetId": "omeleto-ep02",
+      "assetReference": "omeleto-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/omeleto-ep02",
+      "startSec": 740,
+      "endSec": 860,
+      "thumbnailUrl": "https://i.ytimg.com/vi/7mSH86O2qzA/maxresdefault.jpg",
+      "title": "Public misunderstanding",
+      "sceneTitle": "Public misunderstanding",
+      "description": "Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+      "sceneDescription": "Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Lydia Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Public misunderstanding\" in Ep 2 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet, Lydia Bennet drive the beat: Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Public misunderstanding",
+      "subClipFocus": "Public misunderstanding — Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc",
+      "rank": 1,
+      "personalizationMetadata": {
+        "clipDescription": "Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister.",
+        "reasoning": "For a Feel-Good Family viewer, \"Public misunderstanding\" in Ep 2 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet, Lydia Bennet drive the beat: Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc.  Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 2,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Lizzie Bennet",
+          "Lydia Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 98,
+          "interestMatch": 94,
+          "avoidanceConfidence": 92
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-1",
+      "assetId": "omeleto-ep03",
+      "assetReference": "omeleto-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/omeleto-ep03",
+      "startSec": 189,
+      "endSec": 234,
+      "thumbnailUrl": "https://i.ytimg.com/vi/VBps1IvCyj0/maxresdefault.jpg",
+      "title": "Confession cam",
+      "sceneTitle": "Confession cam",
+      "description": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+      "sceneDescription": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Confession cam\" in Ep 3 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet drive the beat: Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Confession cam",
+      "subClipFocus": "Confession cam — Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc",
+      "rank": 2,
+      "personalizationMetadata": {
+        "clipDescription": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+        "reasoning": "For a Feel-Good Family viewer, \"Confession cam\" in Ep 3 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet drive the beat: Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc.  Alone, Lizzie tells viewers she fears being misread by both family and audience. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Lizzie Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 96,
+          "interestMatch": 92,
+          "avoidanceConfidence": 90
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-2",
+      "assetId": "omeleto-ep01",
+      "assetReference": "omeleto-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/omeleto-ep01",
+      "startSec": 457,
+      "endSec": 521,
+      "thumbnailUrl": "https://i.ytimg.com/vi/gKiFXz1kbO0/maxresdefault.jpg",
+      "title": "Sister reconciliation",
+      "sceneTitle": "Sister reconciliation",
+      "description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "sceneDescription": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet",
+        "Lydia Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Sister reconciliation\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet, Jane Bennet drive the beat: Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Sister reconciliation",
+      "subClipFocus": "Sister reconciliation — Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity",
+      "rank": 3,
+      "personalizationMetadata": {
+        "clipDescription": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "reasoning": "For a Feel-Good Family viewer, \"Sister reconciliation\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet, Jane Bennet drive the beat: Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 94,
+          "interestMatch": 90,
+          "avoidanceConfidence": 88
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-3",
+      "assetId": "omeleto-ep02",
+      "assetReference": "omeleto-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/omeleto-ep02",
+      "startSec": 860,
+      "endSec": 979,
+      "thumbnailUrl": "https://i.ytimg.com/vi/7mSH86O2qzA/maxresdefault.jpg",
+      "title": "Sister reconciliation",
+      "sceneTitle": "Sister reconciliation",
+      "description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "sceneDescription": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet",
+        "Lydia Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Sister reconciliation\" in Ep 2 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet, Jane Bennet drive the beat: Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Sister reconciliation",
+      "subClipFocus": "Sister reconciliation — Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity",
+      "rank": 4,
+      "personalizationMetadata": {
+        "clipDescription": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "reasoning": "For a Feel-Good Family viewer, \"Sister reconciliation\" in Ep 2 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet, Jane Bennet drive the beat: Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 2,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 92,
+          "interestMatch": 88,
+          "avoidanceConfidence": 86
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-4",
+      "assetId": "omeleto-ep03",
+      "assetReference": "omeleto-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/omeleto-ep03",
+      "startSec": 324,
+      "endSec": 369,
+      "thumbnailUrl": "https://i.ytimg.com/vi/VBps1IvCyj0/maxresdefault.jpg",
+      "title": "Sister reconciliation",
+      "sceneTitle": "Sister reconciliation",
+      "description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "sceneDescription": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet",
+        "Lydia Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Sister reconciliation\" in Ep 3 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet, Jane Bennet drive the beat: Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Sister reconciliation",
+      "subClipFocus": "Sister reconciliation — Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity",
+      "rank": 5,
+      "personalizationMetadata": {
+        "clipDescription": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "reasoning": "For a Feel-Good Family viewer, \"Sister reconciliation\" in Ep 3 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet, Jane Bennet drive the beat: Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 90,
+          "interestMatch": 86,
+          "avoidanceConfidence": 84
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-5",
+      "assetId": "omeleto-ep04",
+      "assetReference": "omeleto-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/omeleto-ep04",
+      "startSec": 654,
+      "endSec": 745,
+      "thumbnailUrl": "https://i.ytimg.com/vi/68f27rqP_NY/maxresdefault.jpg",
+      "title": "Sister reconciliation",
+      "sceneTitle": "Sister reconciliation",
+      "description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "sceneDescription": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet",
+        "Lydia Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Sister reconciliation\" in Ep 4 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet, Jane Bennet drive the beat: Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Sister reconciliation",
+      "subClipFocus": "Sister reconciliation — Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity",
+      "rank": 6,
+      "personalizationMetadata": {
+        "clipDescription": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity.",
+        "reasoning": "For a Feel-Good Family viewer, \"Sister reconciliation\" in Ep 4 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet, Jane Bennet drive the beat: Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 2,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 88,
+          "interestMatch": 84,
+          "avoidanceConfidence": 82
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-6",
+      "assetId": "omeleto-ep01",
+      "assetReference": "omeleto-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/omeleto-ep01",
+      "startSec": 330,
+      "endSec": 394,
+      "thumbnailUrl": "https://i.ytimg.com/vi/gKiFXz1kbO0/maxresdefault.jpg",
+      "title": "Romantic DM",
+      "sceneTitle": "Romantic DM",
+      "description": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "sceneDescription": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Romantic DM\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet, Jane Bennet drive the beat: Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Romantic DM",
+      "subClipFocus": "Romantic DM — Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc",
+      "rank": 7,
+      "personalizationMetadata": {
+        "clipDescription": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "reasoning": "For a Feel-Good Family viewer, \"Romantic DM\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet, Jane Bennet drive the beat: Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 86,
+          "interestMatch": 82,
+          "avoidanceConfidence": 80
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-7",
+      "assetId": "omeleto-ep04",
+      "assetReference": "omeleto-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/omeleto-ep04",
+      "startSec": 472,
+      "endSec": 563,
+      "thumbnailUrl": "https://i.ytimg.com/vi/68f27rqP_NY/maxresdefault.jpg",
+      "title": "Romantic DM",
+      "sceneTitle": "Romantic DM",
+      "description": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "sceneDescription": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Romantic DM\" in Ep 4 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet, Jane Bennet drive the beat: Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Romantic DM",
+      "subClipFocus": "Romantic DM — Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc",
+      "rank": 8,
+      "personalizationMetadata": {
+        "clipDescription": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "reasoning": "For a Feel-Good Family viewer, \"Romantic DM\" in Ep 4 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet, Jane Bennet drive the beat: Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 2,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 84,
+          "interestMatch": 80,
+          "avoidanceConfidence": 78
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-8",
+      "assetId": "omeleto-ep01",
+      "assetReference": "omeleto-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/omeleto-ep01",
+      "startSec": 190,
+      "endSec": 267,
+      "thumbnailUrl": "https://i.ytimg.com/vi/gKiFXz1kbO0/maxresdefault.jpg",
+      "title": "Family dinner",
+      "sceneTitle": "Family dinner",
+      "description": "Mrs.  Bennet steers conversation to marriage; Lizzie pushes back while Jane tries to change the subject.",
+      "sceneDescription": "Mrs.  Bennet steers conversation to marriage; Lizzie pushes back while Jane tries to change the subject.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Mrs. Bennet",
+        "Lizzie Bennet",
+        "Jane Bennet",
+        "Lydia Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Family dinner\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Mrs. Bennet, Lizzie Bennet drive the beat: Mrs.  Bennet steers conversation to marriage; Lizzie pushes back while Jane tries to change the subject. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Family dinner",
+      "subClipFocus": "Family dinner — Mrs",
+      "rank": 9,
+      "personalizationMetadata": {
+        "clipDescription": "Mrs.  Bennet steers conversation to marriage; Lizzie pushes back while Jane tries to change the subject.",
+        "reasoning": "For a Feel-Good Family viewer, \"Family dinner\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Mrs. Bennet, Lizzie Bennet drive the beat: Mrs.  Bennet steers conversation to marriage; Lizzie pushes back while Jane tries to change the subject. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Mrs. Bennet",
+          "Lizzie Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 82,
+          "interestMatch": 78,
+          "avoidanceConfidence": 78
+        }
+      }
+    },
+    {
+      "id": "feel_good_family-rail-9",
+      "assetId": "omeleto-ep01",
+      "assetReference": "omeleto-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/omeleto-ep01",
+      "startSec": 267,
+      "endSec": 330,
+      "thumbnailUrl": "https://i.ytimg.com/vi/gKiFXz1kbO0/maxresdefault.jpg",
+      "title": "Confession cam",
+      "sceneTitle": "Confession cam",
+      "description": "Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+      "sceneDescription": "Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+      "matchSignals": [
+        "uplifting",
+        "family-friendly",
+        "short-form",
+        "Vlog confession",
+        "Dialogue"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "audienceAlignmentReasoning": "For a Feel-Good Family viewer, \"Confession cam\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet drive the beat: Alone, Lizzie tells viewers she fears being misread by both family and audience. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+      "clipLabel": "Confession cam",
+      "subClipFocus": "Confession cam — Alone, Lizzie tells viewers she fears being misread by both family and audience",
+      "rank": 10,
+      "personalizationMetadata": {
+        "clipDescription": "Alone, Lizzie tells viewers she fears being misread by both family and audience.",
+        "reasoning": "For a Feel-Good Family viewer, \"Confession cam\" in Ep 1 delivers warmth and resolution without harsh conflict — ideal for co-viewing families. In this window, Lizzie Bennet drive the beat: Alone, Lizzie tells viewers she fears being misread by both family and audience. That aligns with your looking-for signals (feel-good content, family-friendly, uplifting moments) and keeps your configured character spotlight visible, while steering clear of violence, harsh language, elimination drama.",
+        "matchedAudienceInterests": [
+          "feel-good content",
+          "family-friendly",
+          "uplifting moments"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "violence",
+          "harsh language",
+          "elimination drama"
+        ],
+        "characterSpotlight": [
+          "Lizzie Bennet"
+        ],
+        "fitScores": {
+          "audienceFit": 80,
+          "interestMatch": 76,
+          "avoidanceConfidence": 78
+        }
+      }
+    }
+  ]
+}

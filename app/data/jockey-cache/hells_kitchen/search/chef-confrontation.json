@@ -1,0 +1,1244 @@
+{
+  "request": {
+    "model": "jockey1.0",
+    "query": "Chef confrontation with contestant"
+  },
+  "response": {
+    "query_interpretation": "Searching for scenes matching: Chef confrontation with contestant",
+    "total_results": 16,
+    "results": [
+      {
+        "asset_reference": "hk-ep03",
+        "timestamp_start": "38:48",
+        "timestamp_end": "41:50",
+        "scene_title": "Corbin is eliminated after the Egypt-Corbin confrontation",
+        "description": "At elimination, Corbin argues Egypt shut him out and made communication impossible, while Egypt counters that Corbin shrank and whispered instead of leading.  Ramsay ultimately decides Corbin was too disconnected and not ready to be a head chef, eliminates him, and warns the blue team that their numbers are dwindling.",
+        "match_type": "audio",
+        "relevance_score": "96",
+        "scene_description": "At elimination, Corbin argues Egypt shut him out and made communication impossible, while Egypt counters that Corbin shrank and whispered instead of leading.  Ramsay ultimately decides Corbin was too disconnected and not ready to be a head chef, eliminates him, and warns the blue team that their numbers are dwindling.",
+        "alignment_reasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Egypt, Corbin, Kyle drive the audio beat \"Corbin is eliminated after the Egypt-Corbin confrontation\" in Ep 3. This closes the episode’s competitive arc while reinforcing the season’s larger blue-team instability and Egypt-centered tension. Watch for Gordon Ramsay, Egypt, Corbin, Kyle in Ep 3. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "seafood challenge",
+          "seafood tower",
+          "medical withdrawal",
+          "injury",
+          "team collapse"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Egypt",
+          "Corbin",
+          "Kyle",
+          "Brandon",
+          "Anthony",
+          "Ann Marie"
+        ],
+        "match_signals": [
+          "seafood challenge",
+          "seafood tower"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep04",
+        "timestamp_start": "10:54",
+        "timestamp_end": "17:02",
+        "scene_title": "Brandon clinches the Blue Team challenge win",
+        "description": "Chef Dan Barber joins Ramsay to judge the dishes head-to-head.  Amanda is immediately exposed for missing her pickle, several matchups stay close, Egypt edges Meghan, Whit beats Michael after the judges criticize his shell-on prawns drowned in sauce, Brittany ties the score, and Brandon’s pork chop with pickled beets wins the final point over Magali.",
+        "match_type": "text_on_screen",
+        "relevance_score": "94",
+        "scene_description": "Chef Dan Barber joins Ramsay to judge the dishes head-to-head.  Amanda is immediately exposed for missing her pickle, several matchups stay close, Egypt edges Meghan, Whit beats Michael after the judges criticize his shell-on prawns drowned in sauce, Brittany ties the score, and Brandon’s pork chop with pickled beets wins the final point over Magali.",
+        "alignment_reasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Dan Barber, Amanda, Lulu drive the text_on_screen beat \"Brandon clinches the Blue Team challenge win\" in Ep 4. The judging sequence resolves the challenge and highlights who is rising and who is slipping. Brandon’s winning dish and Michael’s flawed one both carry forward into the episode’s larger arc. Watch for Gordon Ramsay, Dan Barber, Amanda, Lulu in Ep 4. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "pickling challenge",
+          "pickleball",
+          "team swap",
+          "Lulu joins Blue Team",
+          "Dan Barber"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Dan Barber",
+          "Amanda",
+          "Lulu",
+          "Ann Marie",
+          "Joe",
+          "Hannah",
+          "Kyle",
+          "Meghan",
+          "Egypt",
+          "Whit",
+          "Michael",
+          "Brittany",
+          "Anthony",
+          "Magali",
+          "Brandon"
+        ],
+        "match_signals": [
+          "pickling challenge",
+          "pickleball"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep04",
+        "timestamp_start": "32:52",
+        "timestamp_end": "33:13",
+        "scene_title": "Ramsay ejects the Blue Team from service",
+        "description": "After the second raw lamb, Ramsay marches the Blue Team into the pantry, questions their passion, and throws them out of service.  The punishment is not just anger; it is a formal declaration that the team has failed the night completely.",
+        "match_type": "visual",
+        "relevance_score": "92",
+        "scene_description": "After the second raw lamb, Ramsay marches the Blue Team into the pantry, questions their passion, and throws them out of service.  The punishment is not just anger; it is a formal declaration that the team has failed the night completely.",
+        "alignment_reasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Joe, Lulu, Egypt drive the visual beat \"Ramsay ejects the Blue Team from service\" in Ep 4. This is the episode’s decisive service beat and the clearest consequence of everything Blue has been doing wrong since the top of the hour. Watch for Gordon Ramsay, Joe, Lulu, Egypt in Ep 4. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "pickling challenge",
+          "pickleball",
+          "team swap",
+          "Lulu joins Blue Team",
+          "Dan Barber"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Joe",
+          "Lulu",
+          "Egypt",
+          "Michael",
+          "Kyle",
+          "Anthony",
+          "Brandon",
+          "Vernon Davis"
+        ],
+        "match_signals": [
+          "pickling challenge",
+          "pickleball"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep01",
+        "timestamp_start": "00:01:34",
+        "timestamp_end": "00:03:24",
+        "scene_title": "East Coast season launch",
+        "description": "The premiere opens with the contestants arriving at the U. S.",
+        "match_type": "semantic",
+        "relevance_score": "90",
+        "scene_description": "The premiere opens with the contestants arriving at the U. S.",
+        "alignment_reasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Amanda, Amber, Ann Marie drive the semantic beat \"East Coast season launch\" in Ep 1. This beat establishes the season's identity, stakes, and tone before any cooking begins. Watch for Gordon Ramsay, Amanda, Amber, Ann Marie in Ep 1. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "signature dish challenge",
+          "East Coast launch",
+          "Foxwoods",
+          "team formation",
+          "Red Team win"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Amanda",
+          "Amber",
+          "Ann Marie",
+          "Anthony",
+          "Brandon",
+          "Brittany",
+          "Corbin",
+          "Egypt",
+          "Hannah",
+          "Joe",
+          "Kyle",
+          "Lulu",
+          "Magali",
+          "Meghan",
+          "Michael",
+          "Shant",
+          "Uri",
+          "Whit"
+        ],
+        "match_signals": [
+          "signature dish challenge",
+          "East Coast launch"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep01",
+        "timestamp_start": "00:33:20",
+        "timestamp_end": "00:38:30",
+        "scene_title": "Reward bonds the women; punishment divides the men",
+        "description": "After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side.",
+        "match_type": "audio",
+        "relevance_score": "88",
+        "scene_description": "After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side.",
+        "alignment_reasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Brittany, Ann Marie, Hannah drive the audio beat \"Reward bonds the women; punishment divides the men\" in Ep 1. This beat turns a challenge result into lasting team chemistry consequences. Watch for Gordon Ramsay, Brittany, Ann Marie, Hannah in Ep 1. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "signature dish challenge",
+          "East Coast launch",
+          "Foxwoods",
+          "team formation",
+          "Red Team win"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Brittany",
+          "Ann Marie",
+          "Hannah",
+          "Magali",
+          "Meghan",
+          "Whit",
+          "James Avery",
+          "Corbin",
+          "Egypt",
+          "Joe",
+          "Michael",
+          "Shant",
+          "Uri"
+        ],
+        "match_signals": [
+          "signature dish challenge",
+          "East Coast launch"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep02",
+        "timestamp_start": "01:18",
+        "timestamp_end": "01:58",
+        "scene_title": "Flamethrower kickoff",
+        "description": "Ramsay stages the episode with a flamethrower, igniting the Hell’s Kitchen pitchfork and framing the night as the season’s first big escalation.  The theatrical opening matters because it leads directly into the reveal that rewards and punishments will now carry strategic consequences.",
+        "match_type": "text_on_screen",
+        "relevance_score": "86",
+        "scene_description": "Ramsay stages the episode with a flamethrower, igniting the Hell’s Kitchen pitchfork and framing the night as the season’s first big escalation.  The theatrical opening matters because it leads directly into the reveal that rewards and punishments will now carry strategic consequences.",
+        "alignment_reasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Brittany, Amanda, Ann Marie drive the text_on_screen beat \"Flamethrower kickoff\" in Ep 2. This opening resets the tone from premiere introductions to real competition stakes and visually defines the ‘fiery’ identity of the episode. Watch for Gordon Ramsay, Brittany, Amanda, Ann Marie in Ep 2. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass",
+          "opening night service",
+          "first elimination",
+          "Amber eliminated"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Brittany",
+          "Amanda",
+          "Ann Marie",
+          "Shant",
+          "Egypt"
+        ],
+        "match_signals": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep02",
+        "timestamp_start": "02:15",
+        "timestamp_end": "03:03",
+        "scene_title": "Punishment Pass introduced",
+        "description": "Sous chefs James and Michelle bring out the Punishment Pass briefcases, and Ramsay explains the rule: the holder can skip a future punishment and send someone from the winning team in their place.  That mechanic instantly changes the challenge from a one-episode contest into a season-long power play.",
+        "match_type": "visual",
+        "relevance_score": "84",
+        "scene_description": "Sous chefs James and Michelle bring out the Punishment Pass briefcases, and Ramsay explains the rule: the holder can skip a future punishment and send someone from the winning team in their place.  That mechanic instantly changes the challenge from a one-episode contest into a season-long power play.",
+        "alignment_reasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Sous Chef James, Sous Chef Michelle, Amber drive the visual beat \"Punishment Pass introduced\" in Ep 2. This is the first appearance of a season mechanic that affects future episodes, alliances, and risk-taking. Watch for Gordon Ramsay, Sous Chef James, Sous Chef Michelle, Amber in Ep 2. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass",
+          "opening night service",
+          "first elimination",
+          "Amber eliminated"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Sous Chef James",
+          "Sous Chef Michelle",
+          "Amber",
+          "Brandon",
+          "Whit",
+          "Egypt",
+          "Shant"
+        ],
+        "match_signals": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep02",
+        "timestamp_start": "34:11",
+        "timestamp_end": "34:57",
+        "scene_title": "Red team collapse completes the double ejection",
+        "description": "Ramsay tries to salvage the night with the women, but then finds raw chicken at the pass as well.  He calls the red team’s performance an embarrassment and ejects them too, proving the first East Coast service has beaten both brigades.",
+        "match_type": "semantic",
+        "relevance_score": "82",
+        "scene_description": "Ramsay tries to salvage the night with the women, but then finds raw chicken at the pass as well.  He calls the red team’s performance an embarrassment and ejects them too, proving the first East Coast service has beaten both brigades.",
+        "alignment_reasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Hannah, Magali, Amber drive the semantic beat \"Red team collapse completes the double ejection\" in Ep 2. The episode’s major twist is that neither team can claim competence; both kitchens fail hard enough to be expelled. Watch for Gordon Ramsay, Hannah, Magali, Amber in Ep 2. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass",
+          "opening night service",
+          "first elimination",
+          "Amber eliminated"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Hannah",
+          "Magali",
+          "Amber",
+          "Whit",
+          "Lulu",
+          "Ann Marie"
+        ],
+        "match_signals": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep03",
+        "timestamp_start": "21:00",
+        "timestamp_end": "22:00",
+        "scene_title": "Uri withdraws after Ramsay announces Shant is gone",
+        "description": "Before service, Ramsay announces that Shant has gone to the hospital and will not continue.  Uri then tells Ramsay his back injury is so severe that standing is difficult and continuing would only make it worse; when Ramsay asks if he is declaring himself unfit, Uri says yes.",
+        "match_type": "audio",
+        "relevance_score": "80",
+        "scene_description": "Before service, Ramsay announces that Shant has gone to the hospital and will not continue.  Uri then tells Ramsay his back injury is so severe that standing is difficult and continuing would only make it worse; when Ramsay asks if he is declaring himself unfit, Uri says yes.",
+        "alignment_reasoning": "This scene matches \"Chef confrontation with contestant\" because Uri, James Avery, Gordon Ramsay, Ann Marie drive the audio beat \"Uri withdraws after Ramsay announces Shant is gone\" in Ep 3. This is the episode’s pivotal structural moment: the blue team loses a second chef before dinner service even begins. Watch for Uri, James Avery, Gordon Ramsay, Ann Marie in Ep 3. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "seafood challenge",
+          "seafood tower",
+          "medical withdrawal",
+          "injury",
+          "team collapse"
+        ],
+        "characters_present": [
+          "Uri",
+          "James Avery",
+          "Gordon Ramsay",
+          "Ann Marie",
+          "Brittany",
+          "Magali",
+          "Lulu",
+          "Meghan",
+          "Joe",
+          "Anthony",
+          "Kyle",
+          "Michael"
+        ],
+        "match_signals": [
+          "seafood challenge",
+          "seafood tower"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep03",
+        "timestamp_start": "32:01",
+        "timestamp_end": "33:48",
+        "scene_title": "Raw lamb and a dining-room apology humiliate the blue team",
+        "description": "The chef’s-table ticket for Matthew Judon becomes the blue team’s worst failure.  Ramsay sends Corbin to help Brandon on meat, then explodes when Corbin stands idle and later when the lamb arrives raw; the team is forced into the dining room to apologize directly to waiting guests.",
+        "match_type": "text_on_screen",
+        "relevance_score": "78",
+        "scene_description": "The chef’s-table ticket for Matthew Judon becomes the blue team’s worst failure.  Ramsay sends Corbin to help Brandon on meat, then explodes when Corbin stands idle and later when the lamb arrives raw; the team is forced into the dining room to apologize directly to waiting guests.",
+        "alignment_reasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Brandon, Corbin, Egypt drive the text_on_screen beat \"Raw lamb and a dining-room apology humiliate the blue team\" in Ep 3. This is the service low point and the clearest evidence Ramsay uses that the blue team lost the night. Watch for Gordon Ramsay, Brandon, Corbin, Egypt in Ep 3. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "seafood challenge",
+          "seafood tower",
+          "medical withdrawal",
+          "injury",
+          "team collapse"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Brandon",
+          "Corbin",
+          "Egypt",
+          "Michael",
+          "Joe",
+          "Anthony",
+          "Kyle",
+          "Matthew Judon"
+        ],
+        "match_signals": [
+          "seafood challenge",
+          "seafood tower"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep05",
+        "timestamp_start": "18:34",
+        "timestamp_end": "19:53",
+        "scene_title": "Reward, punishment, and Brandon’s loyalty choice",
+        "description": "Ramsay awards the Red Team a bowling outing plus HexClad cookware in the dorms, while sentencing the Blue Team to hand-grind huge amounts of beef.  He then offers Brandon the chance to use his Punishment Pass, but Brandon chooses loyalty over comfort and stays with his team.",
+        "match_type": "visual",
+        "relevance_score": "76",
+        "scene_description": "Ramsay awards the Red Team a bowling outing plus HexClad cookware in the dorms, while sentencing the Blue Team to hand-grind huge amounts of beef.  He then offers Brandon the chance to use his Punishment Pass, but Brandon chooses loyalty over comfort and stays with his team.",
+        "alignment_reasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Brandon, Egypt, Joe drive the visual beat \"Reward, punishment, and Brandon’s loyalty choice\" in Ep 5. This beat matters because it sharpens team dynamics: Red gets confidence, Blue gets work, and Brandon gains social capital by declining the pass. Watch for Gordon Ramsay, Brandon, Egypt, Joe in Ep 5. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "burger challenge",
+          "George Motz",
+          "Egypt",
+          "Gordon Ramsay",
+          "homesickness"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Brandon",
+          "Egypt",
+          "Joe",
+          "Kyle",
+          "Anthony",
+          "Amanda",
+          "Ann Marie",
+          "Brittany",
+          "Hannah",
+          "Magali",
+          "Meghan",
+          "Whit"
+        ],
+        "match_signals": [
+          "burger challenge",
+          "George Motz"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep05",
+        "timestamp_start": "39:44",
+        "timestamp_end": "41:25",
+        "scene_title": "Both teams win; no elimination",
+        "description": "At lineup, Ramsay says there were still communication issues but that both teams delivered the rebound he demanded.  He first names the Blue Team winners, then immediately adds that the Red Team wins too, giving everyone a pass and eliminating no one.",
+        "match_type": "semantic",
+        "relevance_score": "74",
+        "scene_description": "At lineup, Ramsay says there were still communication issues but that both teams delivered the rebound he demanded.  He first names the Blue Team winners, then immediately adds that the Red Team wins too, giving everyone a pass and eliminating no one.",
+        "alignment_reasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Brandon, Ann Marie, Meghan drive the semantic beat \"Both teams win; no elimination\" in Ep 5. This ending is series-important because it halts the cycle of failure and sends the cast into the next phase with confidence and unfinished rivalries intact. Watch for Gordon Ramsay, Brandon, Ann Marie, Meghan in Ep 5. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "burger challenge",
+          "George Motz",
+          "Egypt",
+          "Gordon Ramsay",
+          "homesickness"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Brandon",
+          "Ann Marie",
+          "Meghan",
+          "Joe",
+          "Hannah",
+          "Kyle",
+          "Whit",
+          "Anthony",
+          "Lulu",
+          "Egypt",
+          "Magali"
+        ],
+        "match_signals": [
+          "burger challenge",
+          "George Motz"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep02",
+        "timestamp_start": "32:58",
+        "timestamp_end": "33:42",
+        "scene_title": "Blue team ejected after raw Wellington and cold salmon",
+        "description": "Ramsay inspects the blue team’s entrees, finds the salmon cold, then cuts into the Wellingtons and discovers they are raw.  He marches the entire team into the back hallway, identifies Joe and Egypt in the collapse, and throws every man out of the kitchen.",
+        "match_type": "audio",
+        "relevance_score": "72",
+        "scene_description": "Ramsay inspects the blue team’s entrees, finds the salmon cold, then cuts into the Wellingtons and discovers they are raw.  He marches the entire team into the back hallway, identifies Joe and Egypt in the collapse, and throws every man out of the kitchen.",
+        "alignment_reasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Egypt, Joe, Brandon drive the audio beat \"Blue team ejected after raw Wellington and cold salmon\" in Ep 2. This is the pivotal beat because it converts a shaky service into an unrecoverable meltdown. It crystallizes the season’s early blue-team arc: Egypt trying to lead loudly, teammates losing faith in the communication, and Ramsay deciding the problem is systemic rather than one bad dish. Central figures: Gordon Ramsay, Egypt, Joe, Brandon. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass",
+          "opening night service",
+          "first elimination",
+          "Amber eliminated"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Egypt",
+          "Joe",
+          "Brandon",
+          "Michael",
+          "Kyle",
+          "Corbin",
+          "Shant",
+          "Anthony",
+          "Uri"
+        ],
+        "match_signals": [
+          "Fiery Flambé Challenge",
+          "Punishment Pass"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep04",
+        "timestamp_start": "32:52",
+        "timestamp_end": "33:13",
+        "scene_title": "Blue Team is thrown out after the second raw lamb",
+        "description": "After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry.  He tears into them for showing no bounce-back ability and then throws them out of service, forcing them to leave the kitchen in disgrace.",
+        "match_type": "text_on_screen",
+        "relevance_score": "70",
+        "scene_description": "After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry.  He tears into them for showing no bounce-back ability and then throws them out of service, forcing them to leave the kitchen in disgrace.",
+        "alignment_reasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Joe, Lulu, Egypt drive the text_on_screen beat \"Blue Team is thrown out after the second raw lamb\" in Ep 4. This is the pivotal beat because it turns a rough service into a defining team failure with direct consequences. It sets up the nomination arguments, explains why a Blue Team chef is most vulnerable, and marks the season’s clearest evidence so far that the Blue Team’s dysfunction is structural rather than accidental. Central figures: Gordon Ramsay, Joe, Lulu, Egypt. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "pickling challenge",
+          "pickleball",
+          "team swap",
+          "Lulu joins Blue Team",
+          "Dan Barber"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Joe",
+          "Lulu",
+          "Egypt",
+          "Michael",
+          "Kyle",
+          "Anthony",
+          "Brandon",
+          "Vernon Davis"
+        ],
+        "match_signals": [
+          "pickling challenge",
+          "pickleball"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep01",
+        "timestamp_start": "00:03:32",
+        "timestamp_end": "00:04:44",
+        "scene_title": "Sous chefs and prize revealed",
+        "description": "Ramsay introduces Blue Team sous chef James Avery and Red Team sous chef Michelle Tribble, then announces the prize: the winner will become head chef at Hell's Kitchen at Foxwoods Resort Casino.  The chefs react with excitement because the reward is a real executive position, not just bragging rights.",
+        "match_type": "visual",
+        "relevance_score": "68",
+        "scene_description": "Ramsay introduces Blue Team sous chef James Avery and Red Team sous chef Michelle Tribble, then announces the prize: the winner will become head chef at Hell's Kitchen at Foxwoods Resort Casino.  The chefs react with excitement because the reward is a real executive position, not just bragging rights.",
+        "alignment_reasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, James Avery, Michelle Tribble, Brandon drive the visual beat \"Sous chefs and prize revealed\" in Ep 1. This locks in the team structure and gives the whole season its central goal. Watch for Gordon Ramsay, James Avery, Michelle Tribble, Brandon in Ep 1. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "signature dish challenge",
+          "East Coast launch",
+          "Foxwoods",
+          "team formation",
+          "Red Team win"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "James Avery",
+          "Michelle Tribble",
+          "Brandon",
+          "Hannah"
+        ],
+        "match_signals": [
+          "signature dish challenge",
+          "East Coast launch"
+        ]
+      },
+      {
+        "asset_reference": "hk-ep01",
+        "timestamp_start": "00:05:26",
+        "timestamp_end": "00:05:48",
+        "scene_title": "Signature dish challenge begins",
+        "description": "Ramsay explains the signature dish challenge and tells the chefs this plate is their first introduction to him.  That framing makes the challenge personal as well as competitive: each contestant now has to prove technique, taste, and identity in a single dish.",
+        "match_type": "semantic",
+        "relevance_score": "66",
+        "scene_description": "Ramsay explains the signature dish challenge and tells the chefs this plate is their first introduction to him.  That framing makes the challenge personal as well as competitive: each contestant now has to prove technique, taste, and identity in a single dish.",
+        "alignment_reasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Amanda, Amber, Ann Marie drive the semantic beat \"Signature dish challenge begins\" in Ep 1. The episode's main competition starts here, and Ramsay defines what success means. Watch for Gordon Ramsay, Amanda, Amber, Ann Marie in Ep 1. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "signature dish challenge",
+          "East Coast launch",
+          "Foxwoods",
+          "team formation",
+          "Red Team win"
+        ],
+        "characters_present": [
+          "Gordon Ramsay",
+          "Amanda",
+          "Amber",
+          "Ann Marie",
+          "Anthony"
+        ],
+        "match_signals": [
+          "signature dish challenge",
+          "East Coast launch"
+        ]
+      }
+    ]
+  },
+  "resolved_clips": [
+    {
+      "id": "chef-confrontation-0",
+      "assetId": "hk-ep03",
+      "assetReference": "hk-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/hk-ep03",
+      "startSec": 2328,
+      "endSec": 2510,
+      "thumbnailUrl": "https://i.ytimg.com/vi/GAV2plfsiBA/maxresdefault.jpg",
+      "title": "Corbin is eliminated after the Egypt-Corbin confrontation",
+      "sceneTitle": "Corbin is eliminated after the Egypt-Corbin confrontation",
+      "description": "At elimination, Corbin argues Egypt shut him out and made communication impossible, while Egypt counters that Corbin shrank and whispered instead of leading.  Ramsay ultimately decides Corbin was too disconnected and not ready to be a head chef, eliminates him, and warns the blue team that their numbers are dwindling.",
+      "matchType": "audio",
+      "relevanceScore": "96",
+      "matchScore": "96",
+      "sceneDescription": "At elimination, Corbin argues Egypt shut him out and made communication impossible, while Egypt counters that Corbin shrank and whispered instead of leading.  Ramsay ultimately decides Corbin was too disconnected and not ready to be a head chef, eliminates him, and warns the blue team that their numbers are dwindling.",
+      "alignmentReasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Egypt, Corbin, Kyle drive the audio beat \"Corbin is eliminated after the Egypt-Corbin confrontation\" in Ep 3. This closes the episode’s competitive arc while reinforcing the season’s larger blue-team instability and Egypt-centered tension. Watch for Gordon Ramsay, Egypt, Corbin, Kyle in Ep 3. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "seafood challenge",
+        "seafood tower",
+        "medical withdrawal",
+        "injury",
+        "team collapse"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Egypt",
+        "Corbin",
+        "Kyle",
+        "Brandon",
+        "Anthony",
+        "Ann Marie"
+      ],
+      "matchSignals": [
+        "seafood challenge",
+        "seafood tower"
+      ]
+    },
+    {
+      "id": "chef-confrontation-1",
+      "assetId": "hk-ep04",
+      "assetReference": "hk-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/hk-ep04",
+      "startSec": 654,
+      "endSec": 1022,
+      "thumbnailUrl": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
+      "title": "Brandon clinches the Blue Team challenge win",
+      "sceneTitle": "Brandon clinches the Blue Team challenge win",
+      "description": "Chef Dan Barber joins Ramsay to judge the dishes head-to-head.  Amanda is immediately exposed for missing her pickle, several matchups stay close, Egypt edges Meghan, Whit beats Michael after the judges criticize his shell-on prawns drowned in sauce, Brittany ties the score, and Brandon’s pork chop with pickled beets wins the final point over Magali.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "94",
+      "matchScore": "94",
+      "sceneDescription": "Chef Dan Barber joins Ramsay to judge the dishes head-to-head.  Amanda is immediately exposed for missing her pickle, several matchups stay close, Egypt edges Meghan, Whit beats Michael after the judges criticize his shell-on prawns drowned in sauce, Brittany ties the score, and Brandon’s pork chop with pickled beets wins the final point over Magali.",
+      "alignmentReasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Dan Barber, Amanda, Lulu drive the text_on_screen beat \"Brandon clinches the Blue Team challenge win\" in Ep 4. The judging sequence resolves the challenge and highlights who is rising and who is slipping. Brandon’s winning dish and Michael’s flawed one both carry forward into the episode’s larger arc. Watch for Gordon Ramsay, Dan Barber, Amanda, Lulu in Ep 4. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "pickling challenge",
+        "pickleball",
+        "team swap",
+        "Lulu joins Blue Team",
+        "Dan Barber"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Dan Barber",
+        "Amanda",
+        "Lulu",
+        "Ann Marie",
+        "Joe",
+        "Hannah",
+        "Kyle",
+        "Meghan",
+        "Egypt",
+        "Whit",
+        "Michael",
+        "Brittany",
+        "Anthony",
+        "Magali",
+        "Brandon"
+      ],
+      "matchSignals": [
+        "pickling challenge",
+        "pickleball"
+      ]
+    },
+    {
+      "id": "chef-confrontation-2",
+      "assetId": "hk-ep04",
+      "assetReference": "hk-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/hk-ep04",
+      "startSec": 1972,
+      "endSec": 1993,
+      "thumbnailUrl": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
+      "title": "Ramsay ejects the Blue Team from service",
+      "sceneTitle": "Ramsay ejects the Blue Team from service",
+      "description": "After the second raw lamb, Ramsay marches the Blue Team into the pantry, questions their passion, and throws them out of service.  The punishment is not just anger; it is a formal declaration that the team has failed the night completely.",
+      "matchType": "visual",
+      "relevanceScore": "92",
+      "matchScore": "92",
+      "sceneDescription": "After the second raw lamb, Ramsay marches the Blue Team into the pantry, questions their passion, and throws them out of service.  The punishment is not just anger; it is a formal declaration that the team has failed the night completely.",
+      "alignmentReasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Joe, Lulu, Egypt drive the visual beat \"Ramsay ejects the Blue Team from service\" in Ep 4. This is the episode’s decisive service beat and the clearest consequence of everything Blue has been doing wrong since the top of the hour. Watch for Gordon Ramsay, Joe, Lulu, Egypt in Ep 4. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "pickling challenge",
+        "pickleball",
+        "team swap",
+        "Lulu joins Blue Team",
+        "Dan Barber"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Joe",
+        "Lulu",
+        "Egypt",
+        "Michael",
+        "Kyle",
+        "Anthony",
+        "Brandon",
+        "Vernon Davis"
+      ],
+      "matchSignals": [
+        "pickling challenge",
+        "pickleball"
+      ]
+    },
+    {
+      "id": "chef-confrontation-3",
+      "assetId": "hk-ep01",
+      "assetReference": "hk-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/hk-ep01",
+      "startSec": 94,
+      "endSec": 204,
+      "thumbnailUrl": "https://i.ytimg.com/vi/n3k6NV9qRsQ/maxresdefault.jpg",
+      "title": "East Coast season launch",
+      "sceneTitle": "East Coast season launch",
+      "description": "The premiere opens with the contestants arriving at the U. S.",
+      "matchType": "semantic",
+      "relevanceScore": "90",
+      "matchScore": "90",
+      "sceneDescription": "The premiere opens with the contestants arriving at the U. S.",
+      "alignmentReasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Amanda, Amber, Ann Marie drive the semantic beat \"East Coast season launch\" in Ep 1. This beat establishes the season's identity, stakes, and tone before any cooking begins. Watch for Gordon Ramsay, Amanda, Amber, Ann Marie in Ep 1. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "signature dish challenge",
+        "East Coast launch",
+        "Foxwoods",
+        "team formation",
+        "Red Team win"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Amanda",
+        "Amber",
+        "Ann Marie",
+        "Anthony",
+        "Brandon",
+        "Brittany",
+        "Corbin",
+        "Egypt",
+        "Hannah",
+        "Joe",
+        "Kyle",
+        "Lulu",
+        "Magali",
+        "Meghan",
+        "Michael",
+        "Shant",
+        "Uri",
+        "Whit"
+      ],
+      "matchSignals": [
+        "signature dish challenge",
+        "East Coast launch"
+      ]
+    },
+    {
+      "id": "chef-confrontation-4",
+      "assetId": "hk-ep01",
+      "assetReference": "hk-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/hk-ep01",
+      "startSec": 2000,
+      "endSec": 2310,
+      "thumbnailUrl": "https://i.ytimg.com/vi/n3k6NV9qRsQ/maxresdefault.jpg",
+      "title": "Reward bonds the women; punishment divides the men",
+      "sceneTitle": "Reward bonds the women; punishment divides the men",
+      "description": "After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side.",
+      "matchType": "audio",
+      "relevanceScore": "88",
+      "matchScore": "88",
+      "sceneDescription": "After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side.",
+      "alignmentReasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Brittany, Ann Marie, Hannah drive the audio beat \"Reward bonds the women; punishment divides the men\" in Ep 1. This beat turns a challenge result into lasting team chemistry consequences. Watch for Gordon Ramsay, Brittany, Ann Marie, Hannah in Ep 1. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "signature dish challenge",
+        "East Coast launch",
+        "Foxwoods",
+        "team formation",
+        "Red Team win"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Brittany",
+        "Ann Marie",
+        "Hannah",
+        "Magali",
+        "Meghan",
+        "Whit",
+        "James Avery",
+        "Corbin",
+        "Egypt",
+        "Joe",
+        "Michael",
+        "Shant",
+        "Uri"
+      ],
+      "matchSignals": [
+        "signature dish challenge",
+        "East Coast launch"
+      ]
+    },
+    {
+      "id": "chef-confrontation-5",
+      "assetId": "hk-ep02",
+      "assetReference": "hk-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/hk-ep02",
+      "startSec": 78,
+      "endSec": 118,
+      "thumbnailUrl": "https://i.ytimg.com/vi/bX-EzNRe-ws/maxresdefault.jpg",
+      "title": "Flamethrower kickoff",
+      "sceneTitle": "Flamethrower kickoff",
+      "description": "Ramsay stages the episode with a flamethrower, igniting the Hell’s Kitchen pitchfork and framing the night as the season’s first big escalation.  The theatrical opening matters because it leads directly into the reveal that rewards and punishments will now carry strategic consequences.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "86",
+      "matchScore": "86",
+      "sceneDescription": "Ramsay stages the episode with a flamethrower, igniting the Hell’s Kitchen pitchfork and framing the night as the season’s first big escalation.  The theatrical opening matters because it leads directly into the reveal that rewards and punishments will now carry strategic consequences.",
+      "alignmentReasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Brittany, Amanda, Ann Marie drive the text_on_screen beat \"Flamethrower kickoff\" in Ep 2. This opening resets the tone from premiere introductions to real competition stakes and visually defines the ‘fiery’ identity of the episode. Watch for Gordon Ramsay, Brittany, Amanda, Ann Marie in Ep 2. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass",
+        "opening night service",
+        "first elimination",
+        "Amber eliminated"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Brittany",
+        "Amanda",
+        "Ann Marie",
+        "Shant",
+        "Egypt"
+      ],
+      "matchSignals": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass"
+      ]
+    },
+    {
+      "id": "chef-confrontation-6",
+      "assetId": "hk-ep02",
+      "assetReference": "hk-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/hk-ep02",
+      "startSec": 135,
+      "endSec": 183,
+      "thumbnailUrl": "https://i.ytimg.com/vi/bX-EzNRe-ws/maxresdefault.jpg",
+      "title": "Punishment Pass introduced",
+      "sceneTitle": "Punishment Pass introduced",
+      "description": "Sous chefs James and Michelle bring out the Punishment Pass briefcases, and Ramsay explains the rule: the holder can skip a future punishment and send someone from the winning team in their place.  That mechanic instantly changes the challenge from a one-episode contest into a season-long power play.",
+      "matchType": "visual",
+      "relevanceScore": "84",
+      "matchScore": "84",
+      "sceneDescription": "Sous chefs James and Michelle bring out the Punishment Pass briefcases, and Ramsay explains the rule: the holder can skip a future punishment and send someone from the winning team in their place.  That mechanic instantly changes the challenge from a one-episode contest into a season-long power play.",
+      "alignmentReasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Sous Chef James, Sous Chef Michelle, Amber drive the visual beat \"Punishment Pass introduced\" in Ep 2. This is the first appearance of a season mechanic that affects future episodes, alliances, and risk-taking. Watch for Gordon Ramsay, Sous Chef James, Sous Chef Michelle, Amber in Ep 2. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass",
+        "opening night service",
+        "first elimination",
+        "Amber eliminated"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Sous Chef James",
+        "Sous Chef Michelle",
+        "Amber",
+        "Brandon",
+        "Whit",
+        "Egypt",
+        "Shant"
+      ],
+      "matchSignals": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass"
+      ]
+    },
+    {
+      "id": "chef-confrontation-7",
+      "assetId": "hk-ep02",
+      "assetReference": "hk-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/hk-ep02",
+      "startSec": 2051,
+      "endSec": 2097,
+      "thumbnailUrl": "https://i.ytimg.com/vi/bX-EzNRe-ws/maxresdefault.jpg",
+      "title": "Red team collapse completes the double ejection",
+      "sceneTitle": "Red team collapse completes the double ejection",
+      "description": "Ramsay tries to salvage the night with the women, but then finds raw chicken at the pass as well.  He calls the red team’s performance an embarrassment and ejects them too, proving the first East Coast service has beaten both brigades.",
+      "matchType": "semantic",
+      "relevanceScore": "82",
+      "matchScore": "82",
+      "sceneDescription": "Ramsay tries to salvage the night with the women, but then finds raw chicken at the pass as well.  He calls the red team’s performance an embarrassment and ejects them too, proving the first East Coast service has beaten both brigades.",
+      "alignmentReasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Hannah, Magali, Amber drive the semantic beat \"Red team collapse completes the double ejection\" in Ep 2. The episode’s major twist is that neither team can claim competence; both kitchens fail hard enough to be expelled. Watch for Gordon Ramsay, Hannah, Magali, Amber in Ep 2. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass",
+        "opening night service",
+        "first elimination",
+        "Amber eliminated"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Hannah",
+        "Magali",
+        "Amber",
+        "Whit",
+        "Lulu",
+        "Ann Marie"
+      ],
+      "matchSignals": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass"
+      ]
+    },
+    {
+      "id": "chef-confrontation-8",
+      "assetId": "hk-ep03",
+      "assetReference": "hk-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/hk-ep03",
+      "startSec": 1260,
+      "endSec": 1320,
+      "thumbnailUrl": "https://i.ytimg.com/vi/GAV2plfsiBA/maxresdefault.jpg",
+      "title": "Uri withdraws after Ramsay announces Shant is gone",
+      "sceneTitle": "Uri withdraws after Ramsay announces Shant is gone",
+      "description": "Before service, Ramsay announces that Shant has gone to the hospital and will not continue.  Uri then tells Ramsay his back injury is so severe that standing is difficult and continuing would only make it worse; when Ramsay asks if he is declaring himself unfit, Uri says yes.",
+      "matchType": "audio",
+      "relevanceScore": "80",
+      "matchScore": "80",
+      "sceneDescription": "Before service, Ramsay announces that Shant has gone to the hospital and will not continue.  Uri then tells Ramsay his back injury is so severe that standing is difficult and continuing would only make it worse; when Ramsay asks if he is declaring himself unfit, Uri says yes.",
+      "alignmentReasoning": "This scene matches \"Chef confrontation with contestant\" because Uri, James Avery, Gordon Ramsay, Ann Marie drive the audio beat \"Uri withdraws after Ramsay announces Shant is gone\" in Ep 3. This is the episode’s pivotal structural moment: the blue team loses a second chef before dinner service even begins. Watch for Uri, James Avery, Gordon Ramsay, Ann Marie in Ep 3. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "seafood challenge",
+        "seafood tower",
+        "medical withdrawal",
+        "injury",
+        "team collapse"
+      ],
+      "charactersPresent": [
+        "Uri",
+        "James Avery",
+        "Gordon Ramsay",
+        "Ann Marie",
+        "Brittany",
+        "Magali",
+        "Lulu",
+        "Meghan",
+        "Joe",
+        "Anthony",
+        "Kyle",
+        "Michael"
+      ],
+      "matchSignals": [
+        "seafood challenge",
+        "seafood tower"
+      ]
+    },
+    {
+      "id": "chef-confrontation-9",
+      "assetId": "hk-ep03",
+      "assetReference": "hk-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/hk-ep03",
+      "startSec": 1921,
+      "endSec": 2028,
+      "thumbnailUrl": "https://i.ytimg.com/vi/GAV2plfsiBA/maxresdefault.jpg",
+      "title": "Raw lamb and a dining-room apology humiliate the blue team",
+      "sceneTitle": "Raw lamb and a dining-room apology humiliate the blue team",
+      "description": "The chef’s-table ticket for Matthew Judon becomes the blue team’s worst failure.  Ramsay sends Corbin to help Brandon on meat, then explodes when Corbin stands idle and later when the lamb arrives raw; the team is forced into the dining room to apologize directly to waiting guests.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "78",
+      "matchScore": "78",
+      "sceneDescription": "The chef’s-table ticket for Matthew Judon becomes the blue team’s worst failure.  Ramsay sends Corbin to help Brandon on meat, then explodes when Corbin stands idle and later when the lamb arrives raw; the team is forced into the dining room to apologize directly to waiting guests.",
+      "alignmentReasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Brandon, Corbin, Egypt drive the text_on_screen beat \"Raw lamb and a dining-room apology humiliate the blue team\" in Ep 3. This is the service low point and the clearest evidence Ramsay uses that the blue team lost the night. Watch for Gordon Ramsay, Brandon, Corbin, Egypt in Ep 3. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "seafood challenge",
+        "seafood tower",
+        "medical withdrawal",
+        "injury",
+        "team collapse"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Brandon",
+        "Corbin",
+        "Egypt",
+        "Michael",
+        "Joe",
+        "Anthony",
+        "Kyle",
+        "Matthew Judon"
+      ],
+      "matchSignals": [
+        "seafood challenge",
+        "seafood tower"
+      ]
+    },
+    {
+      "id": "chef-confrontation-10",
+      "assetId": "hk-ep05",
+      "assetReference": "hk-ep05",
+      "episodeLabel": "Ep 5",
+      "videoSrc": "/api/media/hk-ep05",
+      "startSec": 1114,
+      "endSec": 1193,
+      "thumbnailUrl": "https://i.ytimg.com/vi/NKTyf08aXUY/maxresdefault.jpg",
+      "title": "Reward, punishment, and Brandon’s loyalty choice",
+      "sceneTitle": "Reward, punishment, and Brandon’s loyalty choice",
+      "description": "Ramsay awards the Red Team a bowling outing plus HexClad cookware in the dorms, while sentencing the Blue Team to hand-grind huge amounts of beef.  He then offers Brandon the chance to use his Punishment Pass, but Brandon chooses loyalty over comfort and stays with his team.",
+      "matchType": "visual",
+      "relevanceScore": "76",
+      "matchScore": "76",
+      "sceneDescription": "Ramsay awards the Red Team a bowling outing plus HexClad cookware in the dorms, while sentencing the Blue Team to hand-grind huge amounts of beef.  He then offers Brandon the chance to use his Punishment Pass, but Brandon chooses loyalty over comfort and stays with his team.",
+      "alignmentReasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Brandon, Egypt, Joe drive the visual beat \"Reward, punishment, and Brandon’s loyalty choice\" in Ep 5. This beat matters because it sharpens team dynamics: Red gets confidence, Blue gets work, and Brandon gains social capital by declining the pass. Watch for Gordon Ramsay, Brandon, Egypt, Joe in Ep 5. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "burger challenge",
+        "George Motz",
+        "Egypt",
+        "Gordon Ramsay",
+        "homesickness"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Brandon",
+        "Egypt",
+        "Joe",
+        "Kyle",
+        "Anthony",
+        "Amanda",
+        "Ann Marie",
+        "Brittany",
+        "Hannah",
+        "Magali",
+        "Meghan",
+        "Whit"
+      ],
+      "matchSignals": [
+        "burger challenge",
+        "George Motz"
+      ]
+    },
+    {
+      "id": "chef-confrontation-11",
+      "assetId": "hk-ep05",
+      "assetReference": "hk-ep05",
+      "episodeLabel": "Ep 5",
+      "videoSrc": "/api/media/hk-ep05",
+      "startSec": 2384,
+      "endSec": 2485,
+      "thumbnailUrl": "https://i.ytimg.com/vi/NKTyf08aXUY/maxresdefault.jpg",
+      "title": "Both teams win; no elimination",
+      "sceneTitle": "Both teams win; no elimination",
+      "description": "At lineup, Ramsay says there were still communication issues but that both teams delivered the rebound he demanded.  He first names the Blue Team winners, then immediately adds that the Red Team wins too, giving everyone a pass and eliminating no one.",
+      "matchType": "semantic",
+      "relevanceScore": "74",
+      "matchScore": "74",
+      "sceneDescription": "At lineup, Ramsay says there were still communication issues but that both teams delivered the rebound he demanded.  He first names the Blue Team winners, then immediately adds that the Red Team wins too, giving everyone a pass and eliminating no one.",
+      "alignmentReasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Brandon, Ann Marie, Meghan drive the semantic beat \"Both teams win; no elimination\" in Ep 5. This ending is series-important because it halts the cycle of failure and sends the cast into the next phase with confidence and unfinished rivalries intact. Watch for Gordon Ramsay, Brandon, Ann Marie, Meghan in Ep 5. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "burger challenge",
+        "George Motz",
+        "Egypt",
+        "Gordon Ramsay",
+        "homesickness"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Brandon",
+        "Ann Marie",
+        "Meghan",
+        "Joe",
+        "Hannah",
+        "Kyle",
+        "Whit",
+        "Anthony",
+        "Lulu",
+        "Egypt",
+        "Magali"
+      ],
+      "matchSignals": [
+        "burger challenge",
+        "George Motz"
+      ]
+    },
+    {
+      "id": "chef-confrontation-12",
+      "assetId": "hk-ep02",
+      "assetReference": "hk-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/hk-ep02",
+      "startSec": 1978,
+      "endSec": 2022,
+      "thumbnailUrl": "https://i.ytimg.com/vi/bX-EzNRe-ws/maxresdefault.jpg",
+      "title": "Blue team ejected after raw Wellington and cold salmon",
+      "sceneTitle": "Blue team ejected after raw Wellington and cold salmon",
+      "description": "Ramsay inspects the blue team’s entrees, finds the salmon cold, then cuts into the Wellingtons and discovers they are raw.  He marches the entire team into the back hallway, identifies Joe and Egypt in the collapse, and throws every man out of the kitchen.",
+      "matchType": "audio",
+      "relevanceScore": "72",
+      "matchScore": "72",
+      "sceneDescription": "Ramsay inspects the blue team’s entrees, finds the salmon cold, then cuts into the Wellingtons and discovers they are raw.  He marches the entire team into the back hallway, identifies Joe and Egypt in the collapse, and throws every man out of the kitchen.",
+      "alignmentReasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Egypt, Joe, Brandon drive the audio beat \"Blue team ejected after raw Wellington and cold salmon\" in Ep 2. This is the pivotal beat because it converts a shaky service into an unrecoverable meltdown. It crystallizes the season’s early blue-team arc: Egypt trying to lead loudly, teammates losing faith in the communication, and Ramsay deciding the problem is systemic rather than one bad dish. Central figures: Gordon Ramsay, Egypt, Joe, Brandon. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass",
+        "opening night service",
+        "first elimination",
+        "Amber eliminated"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Egypt",
+        "Joe",
+        "Brandon",
+        "Michael",
+        "Kyle",
+        "Corbin",
+        "Shant",
+        "Anthony",
+        "Uri"
+      ],
+      "matchSignals": [
+        "Fiery Flambé Challenge",
+        "Punishment Pass"
+      ]
+    },
+    {
+      "id": "chef-confrontation-13",
+      "assetId": "hk-ep04",
+      "assetReference": "hk-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/hk-ep04",
+      "startSec": 1972,
+      "endSec": 1993,
+      "thumbnailUrl": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
+      "title": "Blue Team is thrown out after the second raw lamb",
+      "sceneTitle": "Blue Team is thrown out after the second raw lamb",
+      "description": "After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry.  He tears into them for showing no bounce-back ability and then throws them out of service, forcing them to leave the kitchen in disgrace.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "70",
+      "matchScore": "70",
+      "sceneDescription": "After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry.  He tears into them for showing no bounce-back ability and then throws them out of service, forcing them to leave the kitchen in disgrace.",
+      "alignmentReasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Joe, Lulu, Egypt drive the text_on_screen beat \"Blue Team is thrown out after the second raw lamb\" in Ep 4. This is the pivotal beat because it turns a rough service into a defining team failure with direct consequences. It sets up the nomination arguments, explains why a Blue Team chef is most vulnerable, and marks the season’s clearest evidence so far that the Blue Team’s dysfunction is structural rather than accidental. Central figures: Gordon Ramsay, Joe, Lulu, Egypt. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "pickling challenge",
+        "pickleball",
+        "team swap",
+        "Lulu joins Blue Team",
+        "Dan Barber"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Joe",
+        "Lulu",
+        "Egypt",
+        "Michael",
+        "Kyle",
+        "Anthony",
+        "Brandon",
+        "Vernon Davis"
+      ],
+      "matchSignals": [
+        "pickling challenge",
+        "pickleball"
+      ]
+    },
+    {
+      "id": "chef-confrontation-14",
+      "assetId": "hk-ep01",
+      "assetReference": "hk-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/hk-ep01",
+      "startSec": 212,
+      "endSec": 284,
+      "thumbnailUrl": "https://i.ytimg.com/vi/n3k6NV9qRsQ/maxresdefault.jpg",
+      "title": "Sous chefs and prize revealed",
+      "sceneTitle": "Sous chefs and prize revealed",
+      "description": "Ramsay introduces Blue Team sous chef James Avery and Red Team sous chef Michelle Tribble, then announces the prize: the winner will become head chef at Hell's Kitchen at Foxwoods Resort Casino.  The chefs react with excitement because the reward is a real executive position, not just bragging rights.",
+      "matchType": "visual",
+      "relevanceScore": "68",
+      "matchScore": "68",
+      "sceneDescription": "Ramsay introduces Blue Team sous chef James Avery and Red Team sous chef Michelle Tribble, then announces the prize: the winner will become head chef at Hell's Kitchen at Foxwoods Resort Casino.  The chefs react with excitement because the reward is a real executive position, not just bragging rights.",
+      "alignmentReasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, James Avery, Michelle Tribble, Brandon drive the visual beat \"Sous chefs and prize revealed\" in Ep 1. This locks in the team structure and gives the whole season its central goal. Watch for Gordon Ramsay, James Avery, Michelle Tribble, Brandon in Ep 1. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "signature dish challenge",
+        "East Coast launch",
+        "Foxwoods",
+        "team formation",
+        "Red Team win"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "James Avery",
+        "Michelle Tribble",
+        "Brandon",
+        "Hannah"
+      ],
+      "matchSignals": [
+        "signature dish challenge",
+        "East Coast launch"
+      ]
+    },
+    {
+      "id": "chef-confrontation-15",
+      "assetId": "hk-ep01",
+      "assetReference": "hk-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/hk-ep01",
+      "startSec": 326,
+      "endSec": 348,
+      "thumbnailUrl": "https://i.ytimg.com/vi/n3k6NV9qRsQ/maxresdefault.jpg",
+      "title": "Signature dish challenge begins",
+      "sceneTitle": "Signature dish challenge begins",
+      "description": "Ramsay explains the signature dish challenge and tells the chefs this plate is their first introduction to him.  That framing makes the challenge personal as well as competitive: each contestant now has to prove technique, taste, and identity in a single dish.",
+      "matchType": "semantic",
+      "relevanceScore": "66",
+      "matchScore": "66",
+      "sceneDescription": "Ramsay explains the signature dish challenge and tells the chefs this plate is their first introduction to him.  That framing makes the challenge personal as well as competitive: each contestant now has to prove technique, taste, and identity in a single dish.",
+      "alignmentReasoning": "This scene matches \"Chef confrontation with contestant\" because Gordon Ramsay, Amanda, Amber, Ann Marie drive the semantic beat \"Signature dish challenge begins\" in Ep 1. The episode's main competition starts here, and Ramsay defines what success means. Watch for Gordon Ramsay, Amanda, Amber, Ann Marie in Ep 1. For viewers searching chef confrontation with contestant, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "signature dish challenge",
+        "East Coast launch",
+        "Foxwoods",
+        "team formation",
+        "Red Team win"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Amanda",
+        "Amber",
+        "Ann Marie",
+        "Anthony"
+      ],
+      "matchSignals": [
+        "signature dish challenge",
+        "East Coast launch"
+      ]
+    }
+  ],
+  "session_id": "sess_seed_hells_kitchen_chef-confrontation",
+  "explore_presentation": {
+    "featured_title": "Ramsay vs. the brigade",
+    "featured_subtitle": "Direct chef confrontations Jockey matched to your query",
+    "rails": [
+      {
+        "id": "head-to-head",
+        "title": "Head to Head",
+        "subtitle": "Face-to-face kitchen standoffs",
+        "startIndex": 4,
+        "endIndex": 7
+      },
+      {
+        "id": "call-outs",
+        "title": "Call-Outs",
+        "subtitle": "Contestants singled out at the pass",
+        "startIndex": 8,
+        "endIndex": 11
+      },
+      {
+        "id": "fallout",
+        "title": "Fallout",
+        "subtitle": "Aftermath and team friction",
+        "startIndex": 12,
+        "endIndex": 15
+      }
+    ]
+  }
+}

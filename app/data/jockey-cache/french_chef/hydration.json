@@ -1,0 +1,712 @@
+{
+  "request": {
+    "model": "jockey1.0",
+    "capability": "hydration"
+  },
+  "response": {
+    "assets": [
+      {
+        "asset_reference": "chef-ep04",
+        "title_suggested": "Boeuf Bourguignon | The French Chef Season 7 | Julia Child",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Educational",
+          "Documentary",
+          "Cooking"
+        ],
+        "mood": [
+          "Warm",
+          "Instructional",
+          "Charming"
+        ],
+        "characters": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "scene_types": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up"
+        ],
+        "audio_events": [
+          "Narration",
+          "Kitchen sounds",
+          "Audience laughter"
+        ],
+        "topics": [
+          "French cuisine",
+          "Technique",
+          "Home cooking"
+        ],
+        "summary": "Julia Child walks viewers through a classic French preparation in Ep 4, with Guest Assistant assisting as she demonstrates technique, narrates each stage, and closes with her signature tasting moment.",
+        "cast_analysis": [
+          {
+            "name": "Julia Child",
+            "role": "Host / instructor",
+            "description": "Demonstrates French technique on camera in Ep 4 with warmth and humor."
+          },
+          {
+            "name": "Guest Assistant",
+            "role": "Kitchen helper",
+            "description": "Hands Julia tools and ingredients during the demonstration."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:34",
+            "timestamp_end": "2:52",
+            "label": "Introduction",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Welcoming → instructive",
+            "action_description": "Julia introduces the dish and lists ingredients to the home viewer."
+          },
+          {
+            "timestamp_start": "2:52",
+            "timestamp_end": "6:18",
+            "label": "Knife work",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Calm → precise focus",
+            "action_description": "Julia demonstrates julienne cuts while narrating safety and grip for beginners."
+          },
+          {
+            "timestamp_start": "6:18",
+            "timestamp_end": "9:45",
+            "label": "Sauté stage",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Patient → enthusiastic",
+            "action_description": "Julia browns aromatics, explaining heat control as butter foams in the pan."
+          },
+          {
+            "timestamp_start": "9:45",
+            "timestamp_end": "13:11",
+            "label": "Wine reduction",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Instructional → playful",
+            "action_description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir."
+          },
+          {
+            "timestamp_start": "13:11",
+            "timestamp_end": "16:38",
+            "label": "Braise",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Steady → anticipatory",
+            "action_description": "Julia covers the pot, describing how collagen breaks down over time."
+          },
+          {
+            "timestamp_start": "16:38",
+            "timestamp_end": "20:04",
+            "label": "Side preparation",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Collaborative → lighthearted",
+            "action_description": "Julia assigns the assistant a simple garnish while she tastes for salt."
+          },
+          {
+            "timestamp_start": "20:04",
+            "timestamp_end": "23:31",
+            "label": "Plating",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Pride → satisfaction",
+            "action_description": "Julia plates the boeuf bourguignon, naming each component for the viewer."
+          },
+          {
+            "timestamp_start": "23:31",
+            "timestamp_end": "26:40",
+            "label": "Tasting & sign-off",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Joy → warm closure",
+            "action_description": "Julia tastes, exclaims delight, and encourages viewers to try the recipe at home."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "16:38",
+          "timestamp_end": "20:04",
+          "title": "Side preparation",
+          "characters_present": [
+            "Julia Child",
+            "Guest Assistant"
+          ],
+          "reasoning": "Editorially, \"Side preparation\" is the pivot of Ep 4: Julia Child and Guest Assistant drive the collaborative → lighthearted arc. Julia assigns the assistant a simple garnish while she tastes for salt. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Introduction",
+            "timestamp_start": "0:34"
+          },
+          {
+            "label": "Knife work",
+            "timestamp_start": "2:52"
+          },
+          {
+            "label": "Sauté stage",
+            "timestamp_start": "6:18"
+          },
+          {
+            "label": "Wine reduction",
+            "timestamp_start": "9:45"
+          },
+          {
+            "label": "Braise",
+            "timestamp_start": "13:11"
+          },
+          {
+            "label": "Side preparation",
+            "timestamp_start": "16:38"
+          },
+          {
+            "label": "Plating",
+            "timestamp_start": "20:04"
+          },
+          {
+            "label": "Tasting & sign-off",
+            "timestamp_start": "23:31"
+          }
+        ]
+      },
+      {
+        "asset_reference": "chef-ep01",
+        "title_suggested": "Lasagne a la Francaise | The French Chef Season 7 | Julia Child",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Educational",
+          "Documentary",
+          "Cooking"
+        ],
+        "mood": [
+          "Warm",
+          "Instructional",
+          "Charming"
+        ],
+        "characters": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "scene_types": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up"
+        ],
+        "audio_events": [
+          "Narration",
+          "Kitchen sounds",
+          "Audience laughter"
+        ],
+        "topics": [
+          "French cuisine",
+          "Technique",
+          "Home cooking"
+        ],
+        "summary": "Julia Child walks viewers through a classic French preparation in Ep 1, with Guest Assistant assisting as she demonstrates technique, narrates each stage, and closes with her signature tasting moment.",
+        "cast_analysis": [
+          {
+            "name": "Julia Child",
+            "role": "Host / instructor",
+            "description": "Demonstrates French technique on camera in Ep 1 with warmth and humor."
+          },
+          {
+            "name": "Guest Assistant",
+            "role": "Kitchen helper",
+            "description": "Hands Julia tools and ingredients during the demonstration."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:34",
+            "timestamp_end": "2:52",
+            "label": "Introduction",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Welcoming → instructive",
+            "action_description": "Julia introduces the dish and lists ingredients to the home viewer."
+          },
+          {
+            "timestamp_start": "2:52",
+            "timestamp_end": "6:18",
+            "label": "Knife work",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Calm → precise focus",
+            "action_description": "Julia demonstrates julienne cuts while narrating safety and grip for beginners."
+          },
+          {
+            "timestamp_start": "6:18",
+            "timestamp_end": "9:44",
+            "label": "Sauté stage",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Patient → enthusiastic",
+            "action_description": "Julia browns aromatics, explaining heat control as butter foams in the pan."
+          },
+          {
+            "timestamp_start": "9:44",
+            "timestamp_end": "13:11",
+            "label": "Wine reduction",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Instructional → playful",
+            "action_description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir."
+          },
+          {
+            "timestamp_start": "13:11",
+            "timestamp_end": "16:37",
+            "label": "Braise",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Steady → anticipatory",
+            "action_description": "Julia covers the pot, describing how collagen breaks down over time."
+          },
+          {
+            "timestamp_start": "16:37",
+            "timestamp_end": "20:04",
+            "label": "Side preparation",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Collaborative → lighthearted",
+            "action_description": "Julia assigns the assistant a simple garnish while she tastes for salt."
+          },
+          {
+            "timestamp_start": "20:04",
+            "timestamp_end": "23:30",
+            "label": "Plating",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Pride → satisfaction",
+            "action_description": "Julia plates the boeuf bourguignon, naming each component for the viewer."
+          },
+          {
+            "timestamp_start": "23:30",
+            "timestamp_end": "26:39",
+            "label": "Tasting & sign-off",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Joy → warm closure",
+            "action_description": "Julia tastes, exclaims delight, and encourages viewers to try the recipe at home."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "16:37",
+          "timestamp_end": "20:04",
+          "title": "Side preparation",
+          "characters_present": [
+            "Julia Child",
+            "Guest Assistant"
+          ],
+          "reasoning": "Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc. Julia assigns the assistant a simple garnish while she tastes for salt. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Introduction",
+            "timestamp_start": "0:34"
+          },
+          {
+            "label": "Knife work",
+            "timestamp_start": "2:52"
+          },
+          {
+            "label": "Sauté stage",
+            "timestamp_start": "6:18"
+          },
+          {
+            "label": "Wine reduction",
+            "timestamp_start": "9:44"
+          },
+          {
+            "label": "Braise",
+            "timestamp_start": "13:11"
+          },
+          {
+            "label": "Side preparation",
+            "timestamp_start": "16:37"
+          },
+          {
+            "label": "Plating",
+            "timestamp_start": "20:04"
+          },
+          {
+            "label": "Tasting & sign-off",
+            "timestamp_start": "23:30"
+          }
+        ]
+      },
+      {
+        "asset_reference": "chef-ep02",
+        "title_suggested": "Cake With A Halo | The French Chef Season 7 | Julia Child",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Educational",
+          "Documentary",
+          "Cooking"
+        ],
+        "mood": [
+          "Warm",
+          "Instructional",
+          "Charming"
+        ],
+        "characters": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "scene_types": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up"
+        ],
+        "audio_events": [
+          "Narration",
+          "Kitchen sounds",
+          "Audience laughter"
+        ],
+        "topics": [
+          "French cuisine",
+          "Technique",
+          "Home cooking"
+        ],
+        "summary": "Julia Child walks viewers through a classic French preparation in Ep 2, with Guest Assistant assisting as she demonstrates technique, narrates each stage, and closes with her signature tasting moment.",
+        "cast_analysis": [
+          {
+            "name": "Julia Child",
+            "role": "Host / instructor",
+            "description": "Demonstrates French technique on camera in Ep 2 with warmth and humor."
+          },
+          {
+            "name": "Guest Assistant",
+            "role": "Kitchen helper",
+            "description": "Hands Julia tools and ingredients during the demonstration."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:34",
+            "timestamp_end": "2:51",
+            "label": "Introduction",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Welcoming → instructive",
+            "action_description": "Julia introduces the dish and lists ingredients to the home viewer."
+          },
+          {
+            "timestamp_start": "2:51",
+            "timestamp_end": "6:18",
+            "label": "Knife work",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Calm → precise focus",
+            "action_description": "Julia demonstrates julienne cuts while narrating safety and grip for beginners."
+          },
+          {
+            "timestamp_start": "6:18",
+            "timestamp_end": "9:44",
+            "label": "Sauté stage",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Patient → enthusiastic",
+            "action_description": "Julia browns aromatics, explaining heat control as butter foams in the pan."
+          },
+          {
+            "timestamp_start": "9:44",
+            "timestamp_end": "13:10",
+            "label": "Wine reduction",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Instructional → playful",
+            "action_description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir."
+          },
+          {
+            "timestamp_start": "13:10",
+            "timestamp_end": "16:37",
+            "label": "Braise",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Steady → anticipatory",
+            "action_description": "Julia covers the pot, describing how collagen breaks down over time."
+          },
+          {
+            "timestamp_start": "16:37",
+            "timestamp_end": "20:03",
+            "label": "Side preparation",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Collaborative → lighthearted",
+            "action_description": "Julia assigns the assistant a simple garnish while she tastes for salt."
+          },
+          {
+            "timestamp_start": "20:03",
+            "timestamp_end": "23:29",
+            "label": "Plating",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Pride → satisfaction",
+            "action_description": "Julia plates the boeuf bourguignon, naming each component for the viewer."
+          },
+          {
+            "timestamp_start": "23:29",
+            "timestamp_end": "26:38",
+            "label": "Tasting & sign-off",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Joy → warm closure",
+            "action_description": "Julia tastes, exclaims delight, and encourages viewers to try the recipe at home."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "20:03",
+          "timestamp_end": "23:29",
+          "title": "Plating",
+          "characters_present": [
+            "Julia Child"
+          ],
+          "reasoning": "Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc. Julia plates the boeuf bourguignon, naming each component for the viewer. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Introduction",
+            "timestamp_start": "0:34"
+          },
+          {
+            "label": "Knife work",
+            "timestamp_start": "2:51"
+          },
+          {
+            "label": "Sauté stage",
+            "timestamp_start": "6:18"
+          },
+          {
+            "label": "Wine reduction",
+            "timestamp_start": "9:44"
+          },
+          {
+            "label": "Braise",
+            "timestamp_start": "13:10"
+          },
+          {
+            "label": "Side preparation",
+            "timestamp_start": "16:37"
+          },
+          {
+            "label": "Plating",
+            "timestamp_start": "20:03"
+          },
+          {
+            "label": "Tasting & sign-off",
+            "timestamp_start": "23:29"
+          }
+        ]
+      },
+      {
+        "asset_reference": "chef-ep03",
+        "title_suggested": "Hamburger Dinner | The French Chef Season 7 | Julia Child",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Educational",
+          "Documentary",
+          "Cooking"
+        ],
+        "mood": [
+          "Warm",
+          "Instructional",
+          "Charming"
+        ],
+        "characters": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "scene_types": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up"
+        ],
+        "audio_events": [
+          "Narration",
+          "Kitchen sounds",
+          "Audience laughter"
+        ],
+        "topics": [
+          "French cuisine",
+          "Technique",
+          "Home cooking"
+        ],
+        "summary": "Julia Child walks viewers through a classic French preparation in Ep 3, with Guest Assistant assisting as she demonstrates technique, narrates each stage, and closes with her signature tasting moment.",
+        "cast_analysis": [
+          {
+            "name": "Julia Child",
+            "role": "Host / instructor",
+            "description": "Demonstrates French technique on camera in Ep 3 with warmth and humor."
+          },
+          {
+            "name": "Guest Assistant",
+            "role": "Kitchen helper",
+            "description": "Hands Julia tools and ingredients during the demonstration."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:34",
+            "timestamp_end": "2:52",
+            "label": "Introduction",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Welcoming → instructive",
+            "action_description": "Julia introduces the dish and lists ingredients to the home viewer."
+          },
+          {
+            "timestamp_start": "2:52",
+            "timestamp_end": "6:18",
+            "label": "Knife work",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Calm → precise focus",
+            "action_description": "Julia demonstrates julienne cuts while narrating safety and grip for beginners."
+          },
+          {
+            "timestamp_start": "6:18",
+            "timestamp_end": "9:45",
+            "label": "Sauté stage",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Patient → enthusiastic",
+            "action_description": "Julia browns aromatics, explaining heat control as butter foams in the pan."
+          },
+          {
+            "timestamp_start": "9:45",
+            "timestamp_end": "13:11",
+            "label": "Wine reduction",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Instructional → playful",
+            "action_description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir."
+          },
+          {
+            "timestamp_start": "13:11",
+            "timestamp_end": "16:38",
+            "label": "Braise",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Steady → anticipatory",
+            "action_description": "Julia covers the pot, describing how collagen breaks down over time."
+          },
+          {
+            "timestamp_start": "16:38",
+            "timestamp_end": "20:04",
+            "label": "Side preparation",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Collaborative → lighthearted",
+            "action_description": "Julia assigns the assistant a simple garnish while she tastes for salt."
+          },
+          {
+            "timestamp_start": "20:04",
+            "timestamp_end": "23:31",
+            "label": "Plating",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Pride → satisfaction",
+            "action_description": "Julia plates the boeuf bourguignon, naming each component for the viewer."
+          },
+          {
+            "timestamp_start": "23:31",
+            "timestamp_end": "26:40",
+            "label": "Tasting & sign-off",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Joy → warm closure",
+            "action_description": "Julia tastes, exclaims delight, and encourages viewers to try the recipe at home."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "13:11",
+          "timestamp_end": "16:38",
+          "title": "Braise",
+          "characters_present": [
+            "Julia Child"
+          ],
+          "reasoning": "Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc. Julia covers the pot, describing how collagen breaks down over time. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Introduction",
+            "timestamp_start": "0:34"
+          },
+          {
+            "label": "Knife work",
+            "timestamp_start": "2:52"
+          },
+          {
+            "label": "Sauté stage",
+            "timestamp_start": "6:18"
+          },
+          {
+            "label": "Wine reduction",
+            "timestamp_start": "9:45"
+          },
+          {
+            "label": "Braise",
+            "timestamp_start": "13:11"
+          },
+          {
+            "label": "Side preparation",
+            "timestamp_start": "16:38"
+          },
+          {
+            "label": "Plating",
+            "timestamp_start": "20:04"
+          },
+          {
+            "label": "Tasting & sign-off",
+            "timestamp_start": "23:31"
+          }
+        ]
+      }
+    ]
+  }
+}

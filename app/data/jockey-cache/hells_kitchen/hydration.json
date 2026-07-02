@@ -1,0 +1,1073 @@
+{
+  "request": {
+    "model": "jockey1.0",
+    "capability": "hydration"
+  },
+  "response": {
+    "assets": [
+      {
+        "asset_reference": "hk-ep01",
+        "title_suggested": "Signature Dish Challenge | Hell's Kitchen | S23 E1 | Uncensored | US | FULL EPIS",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Reality",
+          "Competition"
+        ],
+        "mood": [
+          "Intense",
+          "Dramatic",
+          "High-energy"
+        ],
+        "characters": [
+          "Gordon Ramsay",
+          "Red Team Captain",
+          "Blue Team Captain",
+          "Sous Chef"
+        ],
+        "scene_types": [
+          "Kitchen challenge",
+          "Elimination",
+          "Confrontation"
+        ],
+        "audio_events": [
+          "Shouting",
+          "Sizzle",
+          "Dramatic sting"
+        ],
+        "topics": [
+          "Culinary competition",
+          "Team dynamics",
+          "Elimination"
+        ],
+        "summary": "In Ep 1, Gordon Ramsay drives a high-stakes service while Red Team Captain and the brigade captains clash over execution. Blue Team Captain face mounting pressure culminating in a ceremony where Gordon Ramsay names who survives.",
+        "cast_analysis": [
+          {
+            "name": "Gordon Ramsay",
+            "role": "Host / Head Chef",
+            "description": "Runs the kitchen, delivers eliminations, escalates pressure on teams."
+          },
+          {
+            "name": "Red Team Captain",
+            "role": "Contestant lead",
+            "description": "Leads the red brigade in Ep 1; clashes with Ramsay during service."
+          },
+          {
+            "name": "Blue Team Captain",
+            "role": "Contestant lead",
+            "description": "Commands the blue brigade; competes for menu control in Ep 1."
+          },
+          {
+            "name": "Sous Chef",
+            "role": "Kitchen staff",
+            "description": "Supports Ramsay and relays orders during dinner service."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:51",
+            "timestamp_end": "3:27",
+            "label": "Cold open briefing",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Neutral → anticipatory",
+            "action_description": "Ramsay outlines the signature-dish challenge; both captains react with competitive bravado."
+          },
+          {
+            "timestamp_start": "3:27",
+            "timestamp_end": "7:46",
+            "label": "Prep montage",
+            "characters_present": [
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Confidence → friction",
+            "action_description": "Teams plate prototypes; captains argue over timing and garnish choices within earshot of Ramsay."
+          },
+          {
+            "timestamp_start": "7:46",
+            "timestamp_end": "12:05",
+            "label": "First Ramsay pass",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain"
+            ],
+            "emotional_arc": "Pride → humiliation",
+            "action_description": "Ramsay inspects the red station, tosses a poorly seared protein, and singles out the captain by name."
+          },
+          {
+            "timestamp_start": "12:05",
+            "timestamp_end": "16:24",
+            "label": "Service countdown",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Sous Chef",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Tension → panic",
+            "action_description": "Doors open; Ramsay barks expediting calls while the blue captain struggles to fire appetizers on time."
+          },
+          {
+            "timestamp_start": "16:24",
+            "timestamp_end": "20:44",
+            "label": "Dinner-table blowup",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Frustration → explosive anger",
+            "action_description": "A mis-fired table triggers a three-way confrontation at the pass; Ramsay threatens to shut down the red kitchen."
+          },
+          {
+            "timestamp_start": "20:44",
+            "timestamp_end": "25:03",
+            "label": "Recovery beat",
+            "characters_present": [
+              "Blue Team Captain",
+              "Sous Chef"
+            ],
+            "emotional_arc": "Despair → determined focus",
+            "action_description": "The blue captain regroups the line, re-fires entrees, and earns a rare nod from the sous chef."
+          },
+          {
+            "timestamp_start": "25:03",
+            "timestamp_end": "31:06",
+            "label": "Elimination setup",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Anxiety → dread",
+            "action_description": "Ramsay gathers both teams and previews the elimination criteria, naming the weakest performers."
+          },
+          {
+            "timestamp_start": "31:06",
+            "timestamp_end": "36:43",
+            "label": "Elimination ceremony",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Dread → grief / relief",
+            "action_description": "Ramsay calls forward the bottom contestants; the red captain pleads for one more chance before a jacket is removed."
+          },
+          {
+            "timestamp_start": "36:43",
+            "timestamp_end": "41:02",
+            "label": "Closing reflection",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Exhaustion → resolve",
+            "action_description": "Ramsay debriefs survivors; the blue captain vows to lead differently next service."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "20:44",
+          "timestamp_end": "25:03",
+          "title": "Recovery beat",
+          "characters_present": [
+            "Blue Team Captain",
+            "Sous Chef"
+          ],
+          "reasoning": "Editorially, \"Recovery beat\" is the pivot of Ep 1: Blue Team Captain and Sous Chef drive the despair → determined focus arc. The blue captain regroups the line, re-fires entrees, and earns a rare nod from the sous chef. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Cold open briefing",
+            "timestamp_start": "0:51"
+          },
+          {
+            "label": "Prep montage",
+            "timestamp_start": "3:27"
+          },
+          {
+            "label": "First Ramsay pass",
+            "timestamp_start": "7:46"
+          },
+          {
+            "label": "Service countdown",
+            "timestamp_start": "12:05"
+          },
+          {
+            "label": "Dinner-table blowup",
+            "timestamp_start": "16:24"
+          },
+          {
+            "label": "Recovery beat",
+            "timestamp_start": "20:44"
+          },
+          {
+            "label": "Elimination setup",
+            "timestamp_start": "25:03"
+          },
+          {
+            "label": "Elimination ceremony",
+            "timestamp_start": "31:06"
+          },
+          {
+            "label": "Closing reflection",
+            "timestamp_start": "36:43"
+          }
+        ]
+      },
+      {
+        "asset_reference": "hk-ep02",
+        "title_suggested": "🔥 Fiery Flambé Challenge 🔥 Hell's Kitchen | S23 E2 | Uncensored | US | FULL EP",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Reality",
+          "Competition"
+        ],
+        "mood": [
+          "Intense",
+          "Dramatic",
+          "High-energy"
+        ],
+        "characters": [
+          "Gordon Ramsay",
+          "Red Team Captain",
+          "Blue Team Captain",
+          "Sous Chef"
+        ],
+        "scene_types": [
+          "Kitchen challenge",
+          "Elimination",
+          "Confrontation"
+        ],
+        "audio_events": [
+          "Shouting",
+          "Sizzle",
+          "Dramatic sting"
+        ],
+        "topics": [
+          "Culinary competition",
+          "Team dynamics",
+          "Elimination"
+        ],
+        "summary": "In Ep 2, Gordon Ramsay drives a high-stakes service while Red Team Captain and the brigade captains clash over execution. Blue Team Captain face mounting pressure culminating in a ceremony where Gordon Ramsay names who survives.",
+        "cast_analysis": [
+          {
+            "name": "Gordon Ramsay",
+            "role": "Host / Head Chef",
+            "description": "Runs the kitchen, delivers eliminations, escalates pressure on teams."
+          },
+          {
+            "name": "Red Team Captain",
+            "role": "Contestant lead",
+            "description": "Leads the red brigade in Ep 2; clashes with Ramsay during service."
+          },
+          {
+            "name": "Blue Team Captain",
+            "role": "Contestant lead",
+            "description": "Commands the blue brigade; competes for menu control in Ep 2."
+          },
+          {
+            "name": "Sous Chef",
+            "role": "Kitchen staff",
+            "description": "Supports Ramsay and relays orders during dinner service."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:51",
+            "timestamp_end": "3:27",
+            "label": "Cold open briefing",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Neutral → anticipatory",
+            "action_description": "Ramsay outlines the signature-dish challenge; both captains react with competitive bravado."
+          },
+          {
+            "timestamp_start": "3:27",
+            "timestamp_end": "7:46",
+            "label": "Prep montage",
+            "characters_present": [
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Confidence → friction",
+            "action_description": "Teams plate prototypes; captains argue over timing and garnish choices within earshot of Ramsay."
+          },
+          {
+            "timestamp_start": "7:46",
+            "timestamp_end": "12:05",
+            "label": "First Ramsay pass",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain"
+            ],
+            "emotional_arc": "Pride → humiliation",
+            "action_description": "Ramsay inspects the red station, tosses a poorly seared protein, and singles out the captain by name."
+          },
+          {
+            "timestamp_start": "12:05",
+            "timestamp_end": "16:24",
+            "label": "Service countdown",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Sous Chef",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Tension → panic",
+            "action_description": "Doors open; Ramsay barks expediting calls while the blue captain struggles to fire appetizers on time."
+          },
+          {
+            "timestamp_start": "16:24",
+            "timestamp_end": "20:44",
+            "label": "Dinner-table blowup",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Frustration → explosive anger",
+            "action_description": "A mis-fired table triggers a three-way confrontation at the pass; Ramsay threatens to shut down the red kitchen."
+          },
+          {
+            "timestamp_start": "20:44",
+            "timestamp_end": "25:03",
+            "label": "Recovery beat",
+            "characters_present": [
+              "Blue Team Captain",
+              "Sous Chef"
+            ],
+            "emotional_arc": "Despair → determined focus",
+            "action_description": "The blue captain regroups the line, re-fires entrees, and earns a rare nod from the sous chef."
+          },
+          {
+            "timestamp_start": "25:03",
+            "timestamp_end": "31:06",
+            "label": "Elimination setup",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Anxiety → dread",
+            "action_description": "Ramsay gathers both teams and previews the elimination criteria, naming the weakest performers."
+          },
+          {
+            "timestamp_start": "31:06",
+            "timestamp_end": "36:43",
+            "label": "Elimination ceremony",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Dread → grief / relief",
+            "action_description": "Ramsay calls forward the bottom contestants; the red captain pleads for one more chance before a jacket is removed."
+          },
+          {
+            "timestamp_start": "36:43",
+            "timestamp_end": "41:02",
+            "label": "Closing reflection",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Exhaustion → resolve",
+            "action_description": "Ramsay debriefs survivors; the blue captain vows to lead differently next service."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "25:03",
+          "timestamp_end": "31:06",
+          "title": "Elimination setup",
+          "characters_present": [
+            "Gordon Ramsay",
+            "Red Team Captain",
+            "Blue Team Captain"
+          ],
+          "reasoning": "Editorially, \"Elimination setup\" is the pivot of Ep 2: Gordon Ramsay and Red Team Captain and Blue Team Captain drive the anxiety → dread arc. Ramsay gathers both teams and previews the elimination criteria, naming the weakest performers. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Cold open briefing",
+            "timestamp_start": "0:51"
+          },
+          {
+            "label": "Prep montage",
+            "timestamp_start": "3:27"
+          },
+          {
+            "label": "First Ramsay pass",
+            "timestamp_start": "7:46"
+          },
+          {
+            "label": "Service countdown",
+            "timestamp_start": "12:05"
+          },
+          {
+            "label": "Dinner-table blowup",
+            "timestamp_start": "16:24"
+          },
+          {
+            "label": "Recovery beat",
+            "timestamp_start": "20:44"
+          },
+          {
+            "label": "Elimination setup",
+            "timestamp_start": "25:03"
+          },
+          {
+            "label": "Elimination ceremony",
+            "timestamp_start": "31:06"
+          },
+          {
+            "label": "Closing reflection",
+            "timestamp_start": "36:43"
+          }
+        ]
+      },
+      {
+        "asset_reference": "hk-ep03",
+        "title_suggested": "🦞 Seafood Showdown 🦀 Hell's Kitchen | S23 E3 | Uncensored | US | FULL EPISODE",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Reality",
+          "Competition"
+        ],
+        "mood": [
+          "Intense",
+          "Dramatic",
+          "High-energy"
+        ],
+        "characters": [
+          "Gordon Ramsay",
+          "Red Team Captain",
+          "Blue Team Captain",
+          "Sous Chef"
+        ],
+        "scene_types": [
+          "Kitchen challenge",
+          "Elimination",
+          "Confrontation"
+        ],
+        "audio_events": [
+          "Shouting",
+          "Sizzle",
+          "Dramatic sting"
+        ],
+        "topics": [
+          "Culinary competition",
+          "Team dynamics",
+          "Elimination"
+        ],
+        "summary": "In Ep 3, Gordon Ramsay drives a high-stakes service while Red Team Captain and the brigade captains clash over execution. Blue Team Captain face mounting pressure culminating in a ceremony where Gordon Ramsay names who survives.",
+        "cast_analysis": [
+          {
+            "name": "Gordon Ramsay",
+            "role": "Host / Head Chef",
+            "description": "Runs the kitchen, delivers eliminations, escalates pressure on teams."
+          },
+          {
+            "name": "Red Team Captain",
+            "role": "Contestant lead",
+            "description": "Leads the red brigade in Ep 3; clashes with Ramsay during service."
+          },
+          {
+            "name": "Blue Team Captain",
+            "role": "Contestant lead",
+            "description": "Commands the blue brigade; competes for menu control in Ep 3."
+          },
+          {
+            "name": "Sous Chef",
+            "role": "Kitchen staff",
+            "description": "Supports Ramsay and relays orders during dinner service."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:51",
+            "timestamp_end": "3:27",
+            "label": "Cold open briefing",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Neutral → anticipatory",
+            "action_description": "Ramsay outlines the signature-dish challenge; both captains react with competitive bravado."
+          },
+          {
+            "timestamp_start": "3:27",
+            "timestamp_end": "7:46",
+            "label": "Prep montage",
+            "characters_present": [
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Confidence → friction",
+            "action_description": "Teams plate prototypes; captains argue over timing and garnish choices within earshot of Ramsay."
+          },
+          {
+            "timestamp_start": "7:46",
+            "timestamp_end": "12:05",
+            "label": "First Ramsay pass",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain"
+            ],
+            "emotional_arc": "Pride → humiliation",
+            "action_description": "Ramsay inspects the red station, tosses a poorly seared protein, and singles out the captain by name."
+          },
+          {
+            "timestamp_start": "12:05",
+            "timestamp_end": "16:24",
+            "label": "Service countdown",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Sous Chef",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Tension → panic",
+            "action_description": "Doors open; Ramsay barks expediting calls while the blue captain struggles to fire appetizers on time."
+          },
+          {
+            "timestamp_start": "16:24",
+            "timestamp_end": "20:44",
+            "label": "Dinner-table blowup",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Frustration → explosive anger",
+            "action_description": "A mis-fired table triggers a three-way confrontation at the pass; Ramsay threatens to shut down the red kitchen."
+          },
+          {
+            "timestamp_start": "20:44",
+            "timestamp_end": "25:03",
+            "label": "Recovery beat",
+            "characters_present": [
+              "Blue Team Captain",
+              "Sous Chef"
+            ],
+            "emotional_arc": "Despair → determined focus",
+            "action_description": "The blue captain regroups the line, re-fires entrees, and earns a rare nod from the sous chef."
+          },
+          {
+            "timestamp_start": "25:03",
+            "timestamp_end": "31:06",
+            "label": "Elimination setup",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Anxiety → dread",
+            "action_description": "Ramsay gathers both teams and previews the elimination criteria, naming the weakest performers."
+          },
+          {
+            "timestamp_start": "31:06",
+            "timestamp_end": "36:43",
+            "label": "Elimination ceremony",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Dread → grief / relief",
+            "action_description": "Ramsay calls forward the bottom contestants; the red captain pleads for one more chance before a jacket is removed."
+          },
+          {
+            "timestamp_start": "36:43",
+            "timestamp_end": "41:02",
+            "label": "Closing reflection",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Exhaustion → resolve",
+            "action_description": "Ramsay debriefs survivors; the blue captain vows to lead differently next service."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "16:24",
+          "timestamp_end": "20:44",
+          "title": "Dinner-table blowup",
+          "characters_present": [
+            "Gordon Ramsay",
+            "Red Team Captain",
+            "Blue Team Captain"
+          ],
+          "reasoning": "Editorially, \"Dinner-table blowup\" is the pivot of Ep 3: Gordon Ramsay and Red Team Captain and Blue Team Captain drive the frustration → explosive anger arc. A mis-fired table triggers a three-way confrontation at the pass; Ramsay threatens to shut down the red kitchen. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Cold open briefing",
+            "timestamp_start": "0:51"
+          },
+          {
+            "label": "Prep montage",
+            "timestamp_start": "3:27"
+          },
+          {
+            "label": "First Ramsay pass",
+            "timestamp_start": "7:46"
+          },
+          {
+            "label": "Service countdown",
+            "timestamp_start": "12:05"
+          },
+          {
+            "label": "Dinner-table blowup",
+            "timestamp_start": "16:24"
+          },
+          {
+            "label": "Recovery beat",
+            "timestamp_start": "20:44"
+          },
+          {
+            "label": "Elimination setup",
+            "timestamp_start": "25:03"
+          },
+          {
+            "label": "Elimination ceremony",
+            "timestamp_start": "31:06"
+          },
+          {
+            "label": "Closing reflection",
+            "timestamp_start": "36:43"
+          }
+        ]
+      },
+      {
+        "asset_reference": "hk-ep04",
+        "title_suggested": "Pickle, Pickle, Pickle | Hell's Kitchen | S23 E4 | Uncensored | US | FULL EPISOD",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Reality",
+          "Competition"
+        ],
+        "mood": [
+          "Intense",
+          "Dramatic",
+          "High-energy"
+        ],
+        "characters": [
+          "Gordon Ramsay",
+          "Red Team Captain",
+          "Blue Team Captain",
+          "Sous Chef"
+        ],
+        "scene_types": [
+          "Kitchen challenge",
+          "Elimination",
+          "Confrontation"
+        ],
+        "audio_events": [
+          "Shouting",
+          "Sizzle",
+          "Dramatic sting"
+        ],
+        "topics": [
+          "Culinary competition",
+          "Team dynamics",
+          "Elimination"
+        ],
+        "summary": "In Ep 4, Gordon Ramsay drives a high-stakes service while Red Team Captain and the brigade captains clash over execution. Blue Team Captain face mounting pressure culminating in a ceremony where Gordon Ramsay names who survives.",
+        "cast_analysis": [
+          {
+            "name": "Gordon Ramsay",
+            "role": "Host / Head Chef",
+            "description": "Runs the kitchen, delivers eliminations, escalates pressure on teams."
+          },
+          {
+            "name": "Red Team Captain",
+            "role": "Contestant lead",
+            "description": "Leads the red brigade in Ep 4; clashes with Ramsay during service."
+          },
+          {
+            "name": "Blue Team Captain",
+            "role": "Contestant lead",
+            "description": "Commands the blue brigade; competes for menu control in Ep 4."
+          },
+          {
+            "name": "Sous Chef",
+            "role": "Kitchen staff",
+            "description": "Supports Ramsay and relays orders during dinner service."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:51",
+            "timestamp_end": "3:27",
+            "label": "Cold open briefing",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Neutral → anticipatory",
+            "action_description": "Ramsay outlines the signature-dish challenge; both captains react with competitive bravado."
+          },
+          {
+            "timestamp_start": "3:27",
+            "timestamp_end": "7:46",
+            "label": "Prep montage",
+            "characters_present": [
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Confidence → friction",
+            "action_description": "Teams plate prototypes; captains argue over timing and garnish choices within earshot of Ramsay."
+          },
+          {
+            "timestamp_start": "7:46",
+            "timestamp_end": "12:05",
+            "label": "First Ramsay pass",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain"
+            ],
+            "emotional_arc": "Pride → humiliation",
+            "action_description": "Ramsay inspects the red station, tosses a poorly seared protein, and singles out the captain by name."
+          },
+          {
+            "timestamp_start": "12:05",
+            "timestamp_end": "16:24",
+            "label": "Service countdown",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Sous Chef",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Tension → panic",
+            "action_description": "Doors open; Ramsay barks expediting calls while the blue captain struggles to fire appetizers on time."
+          },
+          {
+            "timestamp_start": "16:24",
+            "timestamp_end": "20:44",
+            "label": "Dinner-table blowup",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Frustration → explosive anger",
+            "action_description": "A mis-fired table triggers a three-way confrontation at the pass; Ramsay threatens to shut down the red kitchen."
+          },
+          {
+            "timestamp_start": "20:44",
+            "timestamp_end": "25:03",
+            "label": "Recovery beat",
+            "characters_present": [
+              "Blue Team Captain",
+              "Sous Chef"
+            ],
+            "emotional_arc": "Despair → determined focus",
+            "action_description": "The blue captain regroups the line, re-fires entrees, and earns a rare nod from the sous chef."
+          },
+          {
+            "timestamp_start": "25:03",
+            "timestamp_end": "31:06",
+            "label": "Elimination setup",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Anxiety → dread",
+            "action_description": "Ramsay gathers both teams and previews the elimination criteria, naming the weakest performers."
+          },
+          {
+            "timestamp_start": "31:06",
+            "timestamp_end": "36:43",
+            "label": "Elimination ceremony",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Dread → grief / relief",
+            "action_description": "Ramsay calls forward the bottom contestants; the red captain pleads for one more chance before a jacket is removed."
+          },
+          {
+            "timestamp_start": "36:43",
+            "timestamp_end": "41:02",
+            "label": "Closing reflection",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Exhaustion → resolve",
+            "action_description": "Ramsay debriefs survivors; the blue captain vows to lead differently next service."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "20:44",
+          "timestamp_end": "25:03",
+          "title": "Recovery beat",
+          "characters_present": [
+            "Blue Team Captain",
+            "Sous Chef"
+          ],
+          "reasoning": "Editorially, \"Recovery beat\" is the pivot of Ep 4: Blue Team Captain and Sous Chef drive the despair → determined focus arc. The blue captain regroups the line, re-fires entrees, and earns a rare nod from the sous chef. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Cold open briefing",
+            "timestamp_start": "0:51"
+          },
+          {
+            "label": "Prep montage",
+            "timestamp_start": "3:27"
+          },
+          {
+            "label": "First Ramsay pass",
+            "timestamp_start": "7:46"
+          },
+          {
+            "label": "Service countdown",
+            "timestamp_start": "12:05"
+          },
+          {
+            "label": "Dinner-table blowup",
+            "timestamp_start": "16:24"
+          },
+          {
+            "label": "Recovery beat",
+            "timestamp_start": "20:44"
+          },
+          {
+            "label": "Elimination setup",
+            "timestamp_start": "25:03"
+          },
+          {
+            "label": "Elimination ceremony",
+            "timestamp_start": "31:06"
+          },
+          {
+            "label": "Closing reflection",
+            "timestamp_start": "36:43"
+          }
+        ]
+      },
+      {
+        "asset_reference": "hk-ep05",
+        "title_suggested": "🍔 Fabulous Burgers 🍔 Hell's Kitchen | S23 E5 | Uncensored | US | FULL EPISODE",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Reality",
+          "Competition"
+        ],
+        "mood": [
+          "Intense",
+          "Dramatic",
+          "High-energy"
+        ],
+        "characters": [
+          "Gordon Ramsay",
+          "Red Team Captain",
+          "Blue Team Captain",
+          "Sous Chef"
+        ],
+        "scene_types": [
+          "Kitchen challenge",
+          "Elimination",
+          "Confrontation"
+        ],
+        "audio_events": [
+          "Shouting",
+          "Sizzle",
+          "Dramatic sting"
+        ],
+        "topics": [
+          "Culinary competition",
+          "Team dynamics",
+          "Elimination"
+        ],
+        "summary": "In Ep 5, Gordon Ramsay drives a high-stakes service while Red Team Captain and the brigade captains clash over execution. Blue Team Captain face mounting pressure culminating in a ceremony where Gordon Ramsay names who survives.",
+        "cast_analysis": [
+          {
+            "name": "Gordon Ramsay",
+            "role": "Host / Head Chef",
+            "description": "Runs the kitchen, delivers eliminations, escalates pressure on teams."
+          },
+          {
+            "name": "Red Team Captain",
+            "role": "Contestant lead",
+            "description": "Leads the red brigade in Ep 5; clashes with Ramsay during service."
+          },
+          {
+            "name": "Blue Team Captain",
+            "role": "Contestant lead",
+            "description": "Commands the blue brigade; competes for menu control in Ep 5."
+          },
+          {
+            "name": "Sous Chef",
+            "role": "Kitchen staff",
+            "description": "Supports Ramsay and relays orders during dinner service."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:51",
+            "timestamp_end": "3:27",
+            "label": "Cold open briefing",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Neutral → anticipatory",
+            "action_description": "Ramsay outlines the signature-dish challenge; both captains react with competitive bravado."
+          },
+          {
+            "timestamp_start": "3:27",
+            "timestamp_end": "7:46",
+            "label": "Prep montage",
+            "characters_present": [
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Confidence → friction",
+            "action_description": "Teams plate prototypes; captains argue over timing and garnish choices within earshot of Ramsay."
+          },
+          {
+            "timestamp_start": "7:46",
+            "timestamp_end": "12:05",
+            "label": "First Ramsay pass",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain"
+            ],
+            "emotional_arc": "Pride → humiliation",
+            "action_description": "Ramsay inspects the red station, tosses a poorly seared protein, and singles out the captain by name."
+          },
+          {
+            "timestamp_start": "12:05",
+            "timestamp_end": "16:24",
+            "label": "Service countdown",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Sous Chef",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Tension → panic",
+            "action_description": "Doors open; Ramsay barks expediting calls while the blue captain struggles to fire appetizers on time."
+          },
+          {
+            "timestamp_start": "16:24",
+            "timestamp_end": "20:44",
+            "label": "Dinner-table blowup",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Frustration → explosive anger",
+            "action_description": "A mis-fired table triggers a three-way confrontation at the pass; Ramsay threatens to shut down the red kitchen."
+          },
+          {
+            "timestamp_start": "20:44",
+            "timestamp_end": "25:03",
+            "label": "Recovery beat",
+            "characters_present": [
+              "Blue Team Captain",
+              "Sous Chef"
+            ],
+            "emotional_arc": "Despair → determined focus",
+            "action_description": "The blue captain regroups the line, re-fires entrees, and earns a rare nod from the sous chef."
+          },
+          {
+            "timestamp_start": "25:03",
+            "timestamp_end": "31:06",
+            "label": "Elimination setup",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Anxiety → dread",
+            "action_description": "Ramsay gathers both teams and previews the elimination criteria, naming the weakest performers."
+          },
+          {
+            "timestamp_start": "31:06",
+            "timestamp_end": "36:43",
+            "label": "Elimination ceremony",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Dread → grief / relief",
+            "action_description": "Ramsay calls forward the bottom contestants; the red captain pleads for one more chance before a jacket is removed."
+          },
+          {
+            "timestamp_start": "36:43",
+            "timestamp_end": "41:02",
+            "label": "Closing reflection",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Exhaustion → resolve",
+            "action_description": "Ramsay debriefs survivors; the blue captain vows to lead differently next service."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "25:03",
+          "timestamp_end": "31:06",
+          "title": "Elimination setup",
+          "characters_present": [
+            "Gordon Ramsay",
+            "Red Team Captain",
+            "Blue Team Captain"
+          ],
+          "reasoning": "Editorially, \"Elimination setup\" is the pivot of Ep 5: Gordon Ramsay and Red Team Captain and Blue Team Captain drive the anxiety → dread arc. Ramsay gathers both teams and previews the elimination criteria, naming the weakest performers. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Cold open briefing",
+            "timestamp_start": "0:51"
+          },
+          {
+            "label": "Prep montage",
+            "timestamp_start": "3:27"
+          },
+          {
+            "label": "First Ramsay pass",
+            "timestamp_start": "7:46"
+          },
+          {
+            "label": "Service countdown",
+            "timestamp_start": "12:05"
+          },
+          {
+            "label": "Dinner-table blowup",
+            "timestamp_start": "16:24"
+          },
+          {
+            "label": "Recovery beat",
+            "timestamp_start": "20:44"
+          },
+          {
+            "label": "Elimination setup",
+            "timestamp_start": "25:03"
+          },
+          {
+            "label": "Elimination ceremony",
+            "timestamp_start": "31:06"
+          },
+          {
+            "label": "Closing reflection",
+            "timestamp_start": "36:43"
+          }
+        ]
+      }
+    ]
+  }
+}

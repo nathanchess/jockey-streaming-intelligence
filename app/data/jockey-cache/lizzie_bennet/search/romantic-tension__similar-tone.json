@@ -1,0 +1,111 @@
+{
+  "request": {
+    "model": "jockey1.0",
+    "query": "now find all scenes with a similar emotional tone"
+  },
+  "response": {
+    "query_interpretation": "Similar emotional tone across library",
+    "total_results": 3,
+    "results": [
+      {
+        "asset_reference": "lbd-ep01",
+        "timestamp_start": "7:00",
+        "timestamp_end": "7:45",
+        "description": "Scene with matching emotional tone in Ep 1",
+        "match_type": "semantic",
+        "relevance_score": "88",
+        "scene_description": "Emotionally aligned moment in Ep 1",
+        "alignment_reasoning": "Shares pacing, mood, and interpersonal tension with the prior search result.",
+        "match_signals": [
+          "semantic",
+          "emotional tone"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep02",
+        "timestamp_start": "8:00",
+        "timestamp_end": "8:45",
+        "description": "Scene with matching emotional tone in Ep 2",
+        "match_type": "semantic",
+        "relevance_score": "86",
+        "scene_description": "Emotionally aligned moment in Ep 2",
+        "alignment_reasoning": "Shares pacing, mood, and interpersonal tension with the prior search result.",
+        "match_signals": [
+          "semantic",
+          "emotional tone"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep03",
+        "timestamp_start": "9:00",
+        "timestamp_end": "9:45",
+        "description": "Scene with matching emotional tone in Ep 3",
+        "match_type": "semantic",
+        "relevance_score": "84",
+        "scene_description": "Emotionally aligned moment in Ep 3",
+        "alignment_reasoning": "Shares pacing, mood, and interpersonal tension with the prior search result.",
+        "match_signals": [
+          "semantic",
+          "emotional tone"
+        ]
+      }
+    ]
+  },
+  "resolved_clips": [
+    {
+      "id": "romantic-tension-followup-0",
+      "assetId": "lbd-ep01",
+      "assetReference": "lbd-ep01",
+      "videoSrc": "/api/media/lbd-ep01",
+      "startSec": 420,
+      "endSec": 465,
+      "thumbnailUrl": "https://i.ytimg.com/vi/KisuGP2lcPs/maxresdefault.jpg",
+      "title": "Similar tone · Ep 1",
+      "description": "Scene with matching emotional tone",
+      "matchType": "semantic",
+      "relevanceScore": "88",
+      "alignmentReasoning": "Shares emotional tone with the featured pick.",
+      "matchSignals": [
+        "semantic",
+        "emotional tone"
+      ]
+    },
+    {
+      "id": "romantic-tension-followup-1",
+      "assetId": "lbd-ep02",
+      "assetReference": "lbd-ep02",
+      "videoSrc": "/api/media/lbd-ep02",
+      "startSec": 480,
+      "endSec": 525,
+      "thumbnailUrl": "https://i.ytimg.com/vi/6Yq7aJ2uVBg/maxresdefault.jpg",
+      "title": "Similar tone · Ep 2",
+      "description": "Scene with matching emotional tone",
+      "matchType": "semantic",
+      "relevanceScore": "86",
+      "alignmentReasoning": "Shares emotional tone with the featured pick.",
+      "matchSignals": [
+        "semantic",
+        "emotional tone"
+      ]
+    },
+    {
+      "id": "romantic-tension-followup-2",
+      "assetId": "lbd-ep03",
+      "assetReference": "lbd-ep03",
+      "videoSrc": "/api/media/lbd-ep03",
+      "startSec": 540,
+      "endSec": 585,
+      "thumbnailUrl": "https://i.ytimg.com/vi/e926p_3UXes/maxresdefault.jpg",
+      "title": "Similar tone · Ep 3",
+      "description": "Scene with matching emotional tone",
+      "matchType": "semantic",
+      "relevanceScore": "84",
+      "alignmentReasoning": "Shares emotional tone with the featured pick.",
+      "matchSignals": [
+        "semantic",
+        "emotional tone"
+      ]
+    }
+  ],
+  "session_id": "sess_seed_lizzie_bennet_romantic-tension_followup"
+}

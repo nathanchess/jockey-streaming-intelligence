@@ -1,0 +1,923 @@
+{
+  "request": {
+    "model": "jockey1.0",
+    "intent": "90-min drama block, 18-34 female demo, prime-time competition energy"
+  },
+  "response": {
+    "viewer_intent_interpretation": "90-min drama block, 18-34 female demo, prime-time competition energy",
+    "recommended_rail": [
+      {
+        "rank": 1,
+        "asset_reference": "chef-ep03",
+        "title": "Braise",
+        "clip_start": "13:11",
+        "clip_end": "16:38",
+        "rationale": "FAST Programmer · Braise — Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Braise\" in Ep 3 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Julia Child drive the beat: Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc.  Julia covers the pot, describing how collagen breaks down over time. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Braise",
+        "clip_description": "Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc.  Julia covers the pot, describing how collagen breaks down over time.",
+        "characters_present": [
+          "Julia Child"
+        ],
+        "sub_clip_focus": "Braise — Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Julia Child"
+        ],
+        "audience_fit_score": 98,
+        "interest_match_score": 94,
+        "avoidance_score": 92
+      },
+      {
+        "rank": 2,
+        "asset_reference": "chef-ep01",
+        "title": "Knife work",
+        "clip_start": "2:52",
+        "clip_end": "6:18",
+        "rationale": "FAST Programmer · Knife work — Julia demonstrates julienne cuts while narrating safety and grip for beginners",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Knife work\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Guest Assistant drive the beat: Julia demonstrates julienne cuts while narrating safety and grip for beginners. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Knife work",
+        "clip_description": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+        "characters_present": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "sub_clip_focus": "Knife work — Julia demonstrates julienne cuts while narrating safety and grip for beginners",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Guest Assistant"
+        ],
+        "audience_fit_score": 96,
+        "interest_match_score": 92,
+        "avoidance_score": 90
+      },
+      {
+        "rank": 3,
+        "asset_reference": "chef-ep01",
+        "title": "Braise",
+        "clip_start": "13:11",
+        "clip_end": "16:37",
+        "rationale": "FAST Programmer · Braise — Julia covers the pot, describing how collagen breaks down over time",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Braise\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Julia Child drive the beat: Julia covers the pot, describing how collagen breaks down over time. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Braise",
+        "clip_description": "Julia covers the pot, describing how collagen breaks down over time.",
+        "characters_present": [
+          "Julia Child"
+        ],
+        "sub_clip_focus": "Braise — Julia covers the pot, describing how collagen breaks down over time",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Julia Child"
+        ],
+        "audience_fit_score": 94,
+        "interest_match_score": 90,
+        "avoidance_score": 88
+      },
+      {
+        "rank": 4,
+        "asset_reference": "chef-ep02",
+        "title": "Knife work",
+        "clip_start": "2:51",
+        "clip_end": "6:18",
+        "rationale": "FAST Programmer · Knife work — Julia demonstrates julienne cuts while narrating safety and grip for beginners",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Knife work\" in Ep 2 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Guest Assistant drive the beat: Julia demonstrates julienne cuts while narrating safety and grip for beginners. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Knife work",
+        "clip_description": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+        "characters_present": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "sub_clip_focus": "Knife work — Julia demonstrates julienne cuts while narrating safety and grip for beginners",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Guest Assistant"
+        ],
+        "audience_fit_score": 92,
+        "interest_match_score": 88,
+        "avoidance_score": 86
+      },
+      {
+        "rank": 5,
+        "asset_reference": "chef-ep02",
+        "title": "Braise",
+        "clip_start": "13:10",
+        "clip_end": "16:37",
+        "rationale": "FAST Programmer · Braise — Julia covers the pot, describing how collagen breaks down over time",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Braise\" in Ep 2 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Julia Child drive the beat: Julia covers the pot, describing how collagen breaks down over time. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Braise",
+        "clip_description": "Julia covers the pot, describing how collagen breaks down over time.",
+        "characters_present": [
+          "Julia Child"
+        ],
+        "sub_clip_focus": "Braise — Julia covers the pot, describing how collagen breaks down over time",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Julia Child"
+        ],
+        "audience_fit_score": 90,
+        "interest_match_score": 86,
+        "avoidance_score": 84
+      },
+      {
+        "rank": 6,
+        "asset_reference": "chef-ep03",
+        "title": "Knife work",
+        "clip_start": "2:52",
+        "clip_end": "6:18",
+        "rationale": "FAST Programmer · Knife work — Julia demonstrates julienne cuts while narrating safety and grip for beginners",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Knife work\" in Ep 3 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Guest Assistant drive the beat: Julia demonstrates julienne cuts while narrating safety and grip for beginners. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Knife work",
+        "clip_description": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+        "characters_present": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "sub_clip_focus": "Knife work — Julia demonstrates julienne cuts while narrating safety and grip for beginners",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Guest Assistant"
+        ],
+        "audience_fit_score": 88,
+        "interest_match_score": 84,
+        "avoidance_score": 82
+      },
+      {
+        "rank": 7,
+        "asset_reference": "chef-ep04",
+        "title": "Knife work",
+        "clip_start": "2:52",
+        "clip_end": "6:18",
+        "rationale": "FAST Programmer · Knife work — Julia demonstrates julienne cuts while narrating safety and grip for beginners",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Knife work\" in Ep 4 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Guest Assistant drive the beat: Julia demonstrates julienne cuts while narrating safety and grip for beginners. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Knife work",
+        "clip_description": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+        "characters_present": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "sub_clip_focus": "Knife work — Julia demonstrates julienne cuts while narrating safety and grip for beginners",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Guest Assistant"
+        ],
+        "audience_fit_score": 86,
+        "interest_match_score": 82,
+        "avoidance_score": 80
+      },
+      {
+        "rank": 8,
+        "asset_reference": "chef-ep04",
+        "title": "Braise",
+        "clip_start": "13:11",
+        "clip_end": "16:38",
+        "rationale": "FAST Programmer · Braise — Julia covers the pot, describing how collagen breaks down over time",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Braise\" in Ep 4 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Julia Child drive the beat: Julia covers the pot, describing how collagen breaks down over time. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Braise",
+        "clip_description": "Julia covers the pot, describing how collagen breaks down over time.",
+        "characters_present": [
+          "Julia Child"
+        ],
+        "sub_clip_focus": "Braise — Julia covers the pot, describing how collagen breaks down over time",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Julia Child"
+        ],
+        "audience_fit_score": 84,
+        "interest_match_score": 80,
+        "avoidance_score": 78
+      },
+      {
+        "rank": 9,
+        "asset_reference": "chef-ep01",
+        "title": "Side preparation",
+        "clip_start": "16:37",
+        "clip_end": "20:04",
+        "rationale": "FAST Programmer · Side preparation — Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Side preparation\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Guest Assistant drive the beat: Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Side preparation",
+        "clip_description": "Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+        "characters_present": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "sub_clip_focus": "Side preparation — Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Guest Assistant"
+        ],
+        "audience_fit_score": 82,
+        "interest_match_score": 78,
+        "avoidance_score": 78
+      },
+      {
+        "rank": 10,
+        "asset_reference": "chef-ep02",
+        "title": "Plating",
+        "clip_start": "20:03",
+        "clip_end": "23:29",
+        "rationale": "FAST Programmer · Plating — Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "Cooking demonstration",
+          "Instruction"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Plating\" in Ep 2 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Julia Child drive the beat: Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Plating",
+        "clip_description": "Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer.",
+        "characters_present": [
+          "Julia Child"
+        ],
+        "sub_clip_focus": "Plating — Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Julia Child"
+        ],
+        "audience_fit_score": 80,
+        "interest_match_score": 76,
+        "avoidance_score": 78
+      }
+    ]
+  },
+  "resolved_clips": [
+    {
+      "id": "fast_programmer-rail-0",
+      "assetId": "chef-ep03",
+      "assetReference": "chef-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/chef-ep03",
+      "startSec": 791,
+      "endSec": 998,
+      "thumbnailUrl": "https://i.ytimg.com/vi/dMeqIWwF5yk/maxresdefault.jpg",
+      "title": "Braise",
+      "sceneTitle": "Braise",
+      "description": "Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc.  Julia covers the pot, describing how collagen breaks down over time.",
+      "sceneDescription": "Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc.  Julia covers the pot, describing how collagen breaks down over time.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Braise\" in Ep 3 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Julia Child drive the beat: Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc.  Julia covers the pot, describing how collagen breaks down over time. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Braise",
+      "subClipFocus": "Braise — Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc",
+      "rank": 1,
+      "personalizationMetadata": {
+        "clipDescription": "Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc.  Julia covers the pot, describing how collagen breaks down over time.",
+        "reasoning": "For a FAST Programmer viewer, \"Braise\" in Ep 3 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Julia Child drive the beat: Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc.  Julia covers the pot, describing how collagen breaks down over time. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Julia Child"
+        ],
+        "fitScores": {
+          "audienceFit": 98,
+          "interestMatch": 94,
+          "avoidanceConfidence": 92
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-1",
+      "assetId": "chef-ep01",
+      "assetReference": "chef-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/chef-ep01",
+      "startSec": 172,
+      "endSec": 378,
+      "thumbnailUrl": "https://i.ytimg.com/vi/vijibDontnU/maxresdefault.jpg",
+      "title": "Knife work",
+      "sceneTitle": "Knife work",
+      "description": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+      "sceneDescription": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child",
+        "Guest Assistant"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Knife work\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Guest Assistant drive the beat: Julia demonstrates julienne cuts while narrating safety and grip for beginners. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Knife work",
+      "subClipFocus": "Knife work — Julia demonstrates julienne cuts while narrating safety and grip for beginners",
+      "rank": 2,
+      "personalizationMetadata": {
+        "clipDescription": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+        "reasoning": "For a FAST Programmer viewer, \"Knife work\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Guest Assistant drive the beat: Julia demonstrates julienne cuts while narrating safety and grip for beginners. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Guest Assistant"
+        ],
+        "fitScores": {
+          "audienceFit": 96,
+          "interestMatch": 92,
+          "avoidanceConfidence": 90
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-2",
+      "assetId": "chef-ep01",
+      "assetReference": "chef-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/chef-ep01",
+      "startSec": 791,
+      "endSec": 997,
+      "thumbnailUrl": "https://i.ytimg.com/vi/vijibDontnU/maxresdefault.jpg",
+      "title": "Braise",
+      "sceneTitle": "Braise",
+      "description": "Julia covers the pot, describing how collagen breaks down over time.",
+      "sceneDescription": "Julia covers the pot, describing how collagen breaks down over time.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Braise\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Julia Child drive the beat: Julia covers the pot, describing how collagen breaks down over time. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Braise",
+      "subClipFocus": "Braise — Julia covers the pot, describing how collagen breaks down over time",
+      "rank": 3,
+      "personalizationMetadata": {
+        "clipDescription": "Julia covers the pot, describing how collagen breaks down over time.",
+        "reasoning": "For a FAST Programmer viewer, \"Braise\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Julia Child drive the beat: Julia covers the pot, describing how collagen breaks down over time. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Julia Child"
+        ],
+        "fitScores": {
+          "audienceFit": 94,
+          "interestMatch": 90,
+          "avoidanceConfidence": 88
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-3",
+      "assetId": "chef-ep02",
+      "assetReference": "chef-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/chef-ep02",
+      "startSec": 171,
+      "endSec": 378,
+      "thumbnailUrl": "https://i.ytimg.com/vi/677kAOMwTmo/maxresdefault.jpg",
+      "title": "Knife work",
+      "sceneTitle": "Knife work",
+      "description": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+      "sceneDescription": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child",
+        "Guest Assistant"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Knife work\" in Ep 2 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Guest Assistant drive the beat: Julia demonstrates julienne cuts while narrating safety and grip for beginners. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Knife work",
+      "subClipFocus": "Knife work — Julia demonstrates julienne cuts while narrating safety and grip for beginners",
+      "rank": 4,
+      "personalizationMetadata": {
+        "clipDescription": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+        "reasoning": "For a FAST Programmer viewer, \"Knife work\" in Ep 2 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Guest Assistant drive the beat: Julia demonstrates julienne cuts while narrating safety and grip for beginners. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Guest Assistant"
+        ],
+        "fitScores": {
+          "audienceFit": 92,
+          "interestMatch": 88,
+          "avoidanceConfidence": 86
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-4",
+      "assetId": "chef-ep02",
+      "assetReference": "chef-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/chef-ep02",
+      "startSec": 790,
+      "endSec": 997,
+      "thumbnailUrl": "https://i.ytimg.com/vi/677kAOMwTmo/maxresdefault.jpg",
+      "title": "Braise",
+      "sceneTitle": "Braise",
+      "description": "Julia covers the pot, describing how collagen breaks down over time.",
+      "sceneDescription": "Julia covers the pot, describing how collagen breaks down over time.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Braise\" in Ep 2 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Julia Child drive the beat: Julia covers the pot, describing how collagen breaks down over time. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Braise",
+      "subClipFocus": "Braise — Julia covers the pot, describing how collagen breaks down over time",
+      "rank": 5,
+      "personalizationMetadata": {
+        "clipDescription": "Julia covers the pot, describing how collagen breaks down over time.",
+        "reasoning": "For a FAST Programmer viewer, \"Braise\" in Ep 2 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Julia Child drive the beat: Julia covers the pot, describing how collagen breaks down over time. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Julia Child"
+        ],
+        "fitScores": {
+          "audienceFit": 90,
+          "interestMatch": 86,
+          "avoidanceConfidence": 84
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-5",
+      "assetId": "chef-ep03",
+      "assetReference": "chef-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/chef-ep03",
+      "startSec": 172,
+      "endSec": 378,
+      "thumbnailUrl": "https://i.ytimg.com/vi/dMeqIWwF5yk/maxresdefault.jpg",
+      "title": "Knife work",
+      "sceneTitle": "Knife work",
+      "description": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+      "sceneDescription": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child",
+        "Guest Assistant"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Knife work\" in Ep 3 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Guest Assistant drive the beat: Julia demonstrates julienne cuts while narrating safety and grip for beginners. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Knife work",
+      "subClipFocus": "Knife work — Julia demonstrates julienne cuts while narrating safety and grip for beginners",
+      "rank": 6,
+      "personalizationMetadata": {
+        "clipDescription": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+        "reasoning": "For a FAST Programmer viewer, \"Knife work\" in Ep 3 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Guest Assistant drive the beat: Julia demonstrates julienne cuts while narrating safety and grip for beginners. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Guest Assistant"
+        ],
+        "fitScores": {
+          "audienceFit": 88,
+          "interestMatch": 84,
+          "avoidanceConfidence": 82
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-6",
+      "assetId": "chef-ep04",
+      "assetReference": "chef-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/chef-ep04",
+      "startSec": 172,
+      "endSec": 378,
+      "thumbnailUrl": "https://i.ytimg.com/vi/uruT8FPpeKc/maxresdefault.jpg",
+      "title": "Knife work",
+      "sceneTitle": "Knife work",
+      "description": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+      "sceneDescription": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child",
+        "Guest Assistant"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Knife work\" in Ep 4 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Guest Assistant drive the beat: Julia demonstrates julienne cuts while narrating safety and grip for beginners. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Knife work",
+      "subClipFocus": "Knife work — Julia demonstrates julienne cuts while narrating safety and grip for beginners",
+      "rank": 7,
+      "personalizationMetadata": {
+        "clipDescription": "Julia demonstrates julienne cuts while narrating safety and grip for beginners.",
+        "reasoning": "For a FAST Programmer viewer, \"Knife work\" in Ep 4 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Guest Assistant drive the beat: Julia demonstrates julienne cuts while narrating safety and grip for beginners. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Guest Assistant"
+        ],
+        "fitScores": {
+          "audienceFit": 86,
+          "interestMatch": 82,
+          "avoidanceConfidence": 80
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-7",
+      "assetId": "chef-ep04",
+      "assetReference": "chef-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/chef-ep04",
+      "startSec": 791,
+      "endSec": 998,
+      "thumbnailUrl": "https://i.ytimg.com/vi/uruT8FPpeKc/maxresdefault.jpg",
+      "title": "Braise",
+      "sceneTitle": "Braise",
+      "description": "Julia covers the pot, describing how collagen breaks down over time.",
+      "sceneDescription": "Julia covers the pot, describing how collagen breaks down over time.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Braise\" in Ep 4 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Julia Child drive the beat: Julia covers the pot, describing how collagen breaks down over time. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Braise",
+      "subClipFocus": "Braise — Julia covers the pot, describing how collagen breaks down over time",
+      "rank": 8,
+      "personalizationMetadata": {
+        "clipDescription": "Julia covers the pot, describing how collagen breaks down over time.",
+        "reasoning": "For a FAST Programmer viewer, \"Braise\" in Ep 4 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Julia Child drive the beat: Julia covers the pot, describing how collagen breaks down over time. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Julia Child"
+        ],
+        "fitScores": {
+          "audienceFit": 84,
+          "interestMatch": 80,
+          "avoidanceConfidence": 78
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-8",
+      "assetId": "chef-ep01",
+      "assetReference": "chef-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/chef-ep01",
+      "startSec": 997,
+      "endSec": 1204,
+      "thumbnailUrl": "https://i.ytimg.com/vi/vijibDontnU/maxresdefault.jpg",
+      "title": "Side preparation",
+      "sceneTitle": "Side preparation",
+      "description": "Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+      "sceneDescription": "Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child",
+        "Guest Assistant"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Side preparation\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Guest Assistant drive the beat: Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Side preparation",
+      "subClipFocus": "Side preparation — Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc",
+      "rank": 9,
+      "personalizationMetadata": {
+        "clipDescription": "Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt.",
+        "reasoning": "For a FAST Programmer viewer, \"Side preparation\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Guest Assistant drive the beat: Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc.  Julia assigns the assistant a simple garnish while she tastes for salt. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Guest Assistant"
+        ],
+        "fitScores": {
+          "audienceFit": 82,
+          "interestMatch": 78,
+          "avoidanceConfidence": 78
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-9",
+      "assetId": "chef-ep02",
+      "assetReference": "chef-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/chef-ep02",
+      "startSec": 1203,
+      "endSec": 1409,
+      "thumbnailUrl": "https://i.ytimg.com/vi/677kAOMwTmo/maxresdefault.jpg",
+      "title": "Plating",
+      "sceneTitle": "Plating",
+      "description": "Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer.",
+      "sceneDescription": "Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "Cooking demonstration",
+        "Instruction"
+      ],
+      "charactersPresent": [
+        "Julia Child"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Plating\" in Ep 2 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Julia Child drive the beat: Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Plating",
+      "subClipFocus": "Plating — Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc",
+      "rank": 10,
+      "personalizationMetadata": {
+        "clipDescription": "Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer.",
+        "reasoning": "For a FAST Programmer viewer, \"Plating\" in Ep 2 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Julia Child drive the beat: Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc.  Julia plates the boeuf bourguignon, naming each component for the viewer. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Julia Child"
+        ],
+        "fitScores": {
+          "audienceFit": 80,
+          "interestMatch": 76,
+          "avoidanceConfidence": 78
+        }
+      }
+    }
+  ]
+}

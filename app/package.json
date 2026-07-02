@@ -1,0 +1,40 @@
+{
+  "name": "streaming-intelligence-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "npm run sync-manifest && npm run seed-cache && next build",
+    "start": "next start",
+    "lint": "eslint",
+    "sync-manifest": "tsx ../scripts/sync-manifest.ts",
+    "sync-jockey-v2": "tsx ../scripts/sync-jockey-v2.ts",
+    "seed-cache": "tsx ../scripts/seed-cache.ts",
+    "upload-playback": "tsx ../scripts/upload-playback-blob.ts",
+    "warm-cache": "tsx ../scripts/warm-jockey-cache.ts",
+    "prepare-data": "npm run sync-manifest && npm run seed-cache",
+    "test": "playwright test",
+    "test:api": "playwright test tests/api",
+    "test:e2e": "playwright test tests/e2e",
+    "test:demo-video": "playwright test tests/e2e/demo-flow.spec.ts && tsx ../scripts/copy-test-artifacts.ts"
+  },
+  "dependencies": {
+    "@twelvelabs-io/react": "0.21.0",
+    "next": "15.3.3",
+    "react": "19.2.7",
+    "react-dom": "19.2.7",
+    "zustand": "^5.0.5"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.3",
+    "tailwindcss": "^4",
+    "tsx": "^4.19.4",
+    "typescript": "^5"
+  }
+}

@@ -1,0 +1,31 @@
+---
+description: Use TwelveLabs official UI (@twelvelabs-io/react from GitHub Packages). Trigger with "use twelvelabs ui", /tl-ui, or /twelvelabs-ui.
+globs:
+  - app/**/*.tsx
+  - app/**/*.css
+alwaysApply: false
+---
+
+# TwelveLabs UI in this project
+
+This demo uses the **published** package — not a local `file:` dependency.
+
+- Package: `@twelvelabs-io/react@0.21.0` (pinned in `app/package.json`)
+- Registry auth: `app/.npmrc` + `REGISTRY_TOKEN` from `~/.cursor/secrets/.env.registry` (global) or repo `.env.registry`
+- Runtime secrets: `app/.env.local` (`TL_API_KEY`, `KNOWLEDGE_STORE_IDS` only)
+
+When editing UI, follow the **twelvelabs-ui** agent skill (`~/.cursor/skills/twelvelabs-ui/SKILL.md`):
+
+1. Import only from `@twelvelabs-io/react`
+2. Use semantic token classes — no hardcoded hex
+3. Keep `globals.css` import order: tailwind → tokens → theme
+4. Read `node_modules/@twelvelabs-io/react/dist/index.d.mts` for public API
+
+Before `npm install` in `app/`:
+
+```powershell
+cd <repo-root>
+. .\scripts\load-registry-env.ps1
+cd app
+npm install
+```

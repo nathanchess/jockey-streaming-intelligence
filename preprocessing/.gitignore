@@ -1,0 +1,7 @@
+.env
+videos/
+videos/**/*
+*.info.json
+output/telemetry/*.jsonl
+
+# Keep registry, snapshot, checkpoint, and manifest (with Jockey IDs) in git.

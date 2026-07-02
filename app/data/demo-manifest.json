@@ -1,0 +1,4479 @@
+{
+  "updated_at": "2026-07-02T20:36:06.500Z",
+  "stores": {
+    "hells_kitchen": {
+      "knowledge_store_id": "ks_019f075d-93e6-7083-9ec4-023e915533c0",
+      "name": "hells-kitchen-demo",
+      "display_name": "Hell's Kitchen",
+      "vertical": "fast",
+      "asset_ids": [
+        "hk-ep01",
+        "hk-ep02",
+        "hk-ep03",
+        "hk-ep04",
+        "hk-ep05"
+      ]
+    },
+    "lizzie_bennet": {
+      "knowledge_store_id": "ks_019f0840-8cef-7582-95a3-c0db24b9b3ba",
+      "name": "lizzie-bennet-demo",
+      "display_name": "The Lizzie Bennet Diaries",
+      "vertical": "micro_drama",
+      "asset_ids": [
+        "lbd-ep01",
+        "lbd-ep02",
+        "lbd-ep03",
+        "lbd-ep04",
+        "lbd-ep05"
+      ]
+    },
+    "omeleto_reserve": {
+      "knowledge_store_id": "ks_019f0849-d963-7272-a4c7-280feb37aa1f",
+      "name": "omeleto-reserve-demo",
+      "display_name": "The Reserve (Omeleto)",
+      "vertical": "micro_drama",
+      "asset_ids": [
+        "omeleto-ep01",
+        "omeleto-ep02",
+        "omeleto-ep03",
+        "omeleto-ep04"
+      ]
+    },
+    "french_chef": {
+      "knowledge_store_id": "ks_019f0752-ff8c-7183-a43b-cf0d59188886",
+      "name": "french-chef-demo",
+      "display_name": "The French Chef with Julia Child",
+      "vertical": "archive",
+      "asset_ids": [
+        "chef-ep04",
+        "chef-ep01",
+        "chef-ep02",
+        "chef-ep03"
+      ]
+    }
+  },
+  "assets": {
+    "hk-ep01": {
+      "id": "hk-ep01",
+      "store_key": "hells_kitchen",
+      "series": "Hell's Kitchen",
+      "episode_label": "Ep 1",
+      "vertical": "fast",
+      "url": "https://www.youtube.com/watch?v=n3k6NV9qRsQ",
+      "messy_metadata": {
+        "title": "Episode 1"
+      },
+      "hydrated_metadata": {
+        "asset_reference": "hk-ep01",
+        "title_suggested": "Signature Dish Challenge | Hell's Kitchen | S23 E1 | Uncensored | US | FULL EPIS",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Reality",
+          "Competition"
+        ],
+        "mood": [
+          "Intense",
+          "Dramatic",
+          "High-energy"
+        ],
+        "characters": [
+          "Gordon Ramsay",
+          "Red Team Captain",
+          "Blue Team Captain",
+          "Sous Chef"
+        ],
+        "scene_types": [
+          "Kitchen challenge",
+          "Elimination",
+          "Confrontation"
+        ],
+        "audio_events": [
+          "Shouting",
+          "Sizzle",
+          "Dramatic sting"
+        ],
+        "topics": [
+          "Culinary competition",
+          "Team dynamics",
+          "Elimination"
+        ],
+        "summary": "In Ep 1, Gordon Ramsay drives a high-stakes service while Red Team Captain and the brigade captains clash over execution. Blue Team Captain face mounting pressure culminating in a ceremony where Gordon Ramsay names who survives.",
+        "cast_analysis": [
+          {
+            "name": "Gordon Ramsay",
+            "role": "Host / Head Chef",
+            "description": "Runs the kitchen, delivers eliminations, escalates pressure on teams."
+          },
+          {
+            "name": "Red Team Captain",
+            "role": "Contestant lead",
+            "description": "Leads the red brigade in Ep 1; clashes with Ramsay during service."
+          },
+          {
+            "name": "Blue Team Captain",
+            "role": "Contestant lead",
+            "description": "Commands the blue brigade; competes for menu control in Ep 1."
+          },
+          {
+            "name": "Sous Chef",
+            "role": "Kitchen staff",
+            "description": "Supports Ramsay and relays orders during dinner service."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:51",
+            "timestamp_end": "3:27",
+            "label": "Cold open briefing",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Neutral → anticipatory",
+            "action_description": "Ramsay outlines the signature-dish challenge; both captains react with competitive bravado."
+          },
+          {
+            "timestamp_start": "3:27",
+            "timestamp_end": "7:46",
+            "label": "Prep montage",
+            "characters_present": [
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Confidence → friction",
+            "action_description": "Teams plate prototypes; captains argue over timing and garnish choices within earshot of Ramsay."
+          },
+          {
+            "timestamp_start": "7:46",
+            "timestamp_end": "12:05",
+            "label": "First Ramsay pass",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain"
+            ],
+            "emotional_arc": "Pride → humiliation",
+            "action_description": "Ramsay inspects the red station, tosses a poorly seared protein, and singles out the captain by name."
+          },
+          {
+            "timestamp_start": "12:05",
+            "timestamp_end": "16:24",
+            "label": "Service countdown",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Sous Chef",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Tension → panic",
+            "action_description": "Doors open; Ramsay barks expediting calls while the blue captain struggles to fire appetizers on time."
+          },
+          {
+            "timestamp_start": "16:24",
+            "timestamp_end": "20:44",
+            "label": "Dinner-table blowup",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Frustration → explosive anger",
+            "action_description": "A mis-fired table triggers a three-way confrontation at the pass; Ramsay threatens to shut down the red kitchen."
+          },
+          {
+            "timestamp_start": "20:44",
+            "timestamp_end": "25:03",
+            "label": "Recovery beat",
+            "characters_present": [
+              "Blue Team Captain",
+              "Sous Chef"
+            ],
+            "emotional_arc": "Despair → determined focus",
+            "action_description": "The blue captain regroups the line, re-fires entrees, and earns a rare nod from the sous chef."
+          },
+          {
+            "timestamp_start": "25:03",
+            "timestamp_end": "31:06",
+            "label": "Elimination setup",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Anxiety → dread",
+            "action_description": "Ramsay gathers both teams and previews the elimination criteria, naming the weakest performers."
+          },
+          {
+            "timestamp_start": "31:06",
+            "timestamp_end": "36:43",
+            "label": "Elimination ceremony",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Dread → grief / relief",
+            "action_description": "Ramsay calls forward the bottom contestants; the red captain pleads for one more chance before a jacket is removed."
+          },
+          {
+            "timestamp_start": "36:43",
+            "timestamp_end": "41:02",
+            "label": "Closing reflection",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Exhaustion → resolve",
+            "action_description": "Ramsay debriefs survivors; the blue captain vows to lead differently next service."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "20:44",
+          "timestamp_end": "25:03",
+          "title": "Recovery beat",
+          "characters_present": [
+            "Blue Team Captain",
+            "Sous Chef"
+          ],
+          "reasoning": "Editorially, \"Recovery beat\" is the pivot of Ep 1: Blue Team Captain and Sous Chef drive the despair → determined focus arc. The blue captain regroups the line, re-fires entrees, and earns a rare nod from the sous chef. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Cold open briefing",
+            "timestamp_start": "0:51"
+          },
+          {
+            "label": "Prep montage",
+            "timestamp_start": "3:27"
+          },
+          {
+            "label": "First Ramsay pass",
+            "timestamp_start": "7:46"
+          },
+          {
+            "label": "Service countdown",
+            "timestamp_start": "12:05"
+          },
+          {
+            "label": "Dinner-table blowup",
+            "timestamp_start": "16:24"
+          },
+          {
+            "label": "Recovery beat",
+            "timestamp_start": "20:44"
+          },
+          {
+            "label": "Elimination setup",
+            "timestamp_start": "25:03"
+          },
+          {
+            "label": "Elimination ceremony",
+            "timestamp_start": "31:06"
+          },
+          {
+            "label": "Closing reflection",
+            "timestamp_start": "36:43"
+          }
+        ]
+      },
+      "youtube_metadata": {
+        "youtube_id": "n3k6NV9qRsQ",
+        "original_title": "Signature Dish Challenge | Hell's Kitchen | S23 E1 | Uncensored | US | FULL EPISODE",
+        "upload_date": "20260501",
+        "published_at": "2026-05-01",
+        "duration_sec": 2592,
+        "channel": "Kitchen Nightmares - Full Episodes",
+        "thumbnail_url": "https://i.ytimg.com/vi/n3k6NV9qRsQ/maxresdefault.jpg",
+        "webpage_url": "https://www.youtube.com/watch?v=n3k6NV9qRsQ",
+        "playlist_id": "PLW5iCJIwM9Z_7oMp0PYQbHU8evfsm170k",
+        "playlist_index": 1
+      },
+      "processing": {
+        "local_path": "videos\\hk-ep01.mp4",
+        "file_size_mb": 172.03,
+        "resolution": "1280x720",
+        "encode_strategy": "skipped_existing",
+        "source_size_mb": 172.03
+      },
+      "jockey": {
+        "knowledge_store_id": "ks_019f075d-93e6-7083-9ec4-023e915533c0",
+        "store_key": "hells_kitchen",
+        "asset_id": "6a3f5360e88aeaea42b74c70",
+        "item_id": "ksi_019f075d-ba7a-7a81-89cd-1e819f1e0423",
+        "asset_status": "ready",
+        "item_status": "ready",
+        "indexed_at": "2026-06-27T05:37:11Z",
+        "alias_item_ids": [
+          "ksi_019f0773-23ca-7fa1-b393-25b9d1243152"
+        ]
+      },
+      "embed_url": "https://www.youtube.com/embed/n3k6NV9qRsQ?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
+      "thumbnail_url": "https://i.ytimg.com/vi/n3k6NV9qRsQ/maxresdefault.jpg",
+      "duration_sec": 2592
+    },
+    "hk-ep02": {
+      "id": "hk-ep02",
+      "store_key": "hells_kitchen",
+      "series": "Hell's Kitchen",
+      "episode_label": "Ep 2",
+      "vertical": "fast",
+      "url": "https://www.youtube.com/watch?v=bX-EzNRe-ws",
+      "messy_metadata": {
+        "title": "Episode 2"
+      },
+      "hydrated_metadata": {
+        "asset_reference": "hk-ep02",
+        "title_suggested": "🔥 Fiery Flambé Challenge 🔥 Hell's Kitchen | S23 E2 | Uncensored | US | FULL EP",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Reality",
+          "Competition"
+        ],
+        "mood": [
+          "Intense",
+          "Dramatic",
+          "High-energy"
+        ],
+        "characters": [
+          "Gordon Ramsay",
+          "Red Team Captain",
+          "Blue Team Captain",
+          "Sous Chef"
+        ],
+        "scene_types": [
+          "Kitchen challenge",
+          "Elimination",
+          "Confrontation"
+        ],
+        "audio_events": [
+          "Shouting",
+          "Sizzle",
+          "Dramatic sting"
+        ],
+        "topics": [
+          "Culinary competition",
+          "Team dynamics",
+          "Elimination"
+        ],
+        "summary": "In Ep 2, Gordon Ramsay drives a high-stakes service while Red Team Captain and the brigade captains clash over execution. Blue Team Captain face mounting pressure culminating in a ceremony where Gordon Ramsay names who survives.",
+        "cast_analysis": [
+          {
+            "name": "Gordon Ramsay",
+            "role": "Host / Head Chef",
+            "description": "Runs the kitchen, delivers eliminations, escalates pressure on teams."
+          },
+          {
+            "name": "Red Team Captain",
+            "role": "Contestant lead",
+            "description": "Leads the red brigade in Ep 2; clashes with Ramsay during service."
+          },
+          {
+            "name": "Blue Team Captain",
+            "role": "Contestant lead",
+            "description": "Commands the blue brigade; competes for menu control in Ep 2."
+          },
+          {
+            "name": "Sous Chef",
+            "role": "Kitchen staff",
+            "description": "Supports Ramsay and relays orders during dinner service."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:51",
+            "timestamp_end": "3:27",
+            "label": "Cold open briefing",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Neutral → anticipatory",
+            "action_description": "Ramsay outlines the signature-dish challenge; both captains react with competitive bravado."
+          },
+          {
+            "timestamp_start": "3:27",
+            "timestamp_end": "7:46",
+            "label": "Prep montage",
+            "characters_present": [
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Confidence → friction",
+            "action_description": "Teams plate prototypes; captains argue over timing and garnish choices within earshot of Ramsay."
+          },
+          {
+            "timestamp_start": "7:46",
+            "timestamp_end": "12:05",
+            "label": "First Ramsay pass",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain"
+            ],
+            "emotional_arc": "Pride → humiliation",
+            "action_description": "Ramsay inspects the red station, tosses a poorly seared protein, and singles out the captain by name."
+          },
+          {
+            "timestamp_start": "12:05",
+            "timestamp_end": "16:24",
+            "label": "Service countdown",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Sous Chef",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Tension → panic",
+            "action_description": "Doors open; Ramsay barks expediting calls while the blue captain struggles to fire appetizers on time."
+          },
+          {
+            "timestamp_start": "16:24",
+            "timestamp_end": "20:44",
+            "label": "Dinner-table blowup",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Frustration → explosive anger",
+            "action_description": "A mis-fired table triggers a three-way confrontation at the pass; Ramsay threatens to shut down the red kitchen."
+          },
+          {
+            "timestamp_start": "20:44",
+            "timestamp_end": "25:03",
+            "label": "Recovery beat",
+            "characters_present": [
+              "Blue Team Captain",
+              "Sous Chef"
+            ],
+            "emotional_arc": "Despair → determined focus",
+            "action_description": "The blue captain regroups the line, re-fires entrees, and earns a rare nod from the sous chef."
+          },
+          {
+            "timestamp_start": "25:03",
+            "timestamp_end": "31:06",
+            "label": "Elimination setup",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Anxiety → dread",
+            "action_description": "Ramsay gathers both teams and previews the elimination criteria, naming the weakest performers."
+          },
+          {
+            "timestamp_start": "31:06",
+            "timestamp_end": "36:43",
+            "label": "Elimination ceremony",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Dread → grief / relief",
+            "action_description": "Ramsay calls forward the bottom contestants; the red captain pleads for one more chance before a jacket is removed."
+          },
+          {
+            "timestamp_start": "36:43",
+            "timestamp_end": "41:02",
+            "label": "Closing reflection",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Exhaustion → resolve",
+            "action_description": "Ramsay debriefs survivors; the blue captain vows to lead differently next service."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "25:03",
+          "timestamp_end": "31:06",
+          "title": "Elimination setup",
+          "characters_present": [
+            "Gordon Ramsay",
+            "Red Team Captain",
+            "Blue Team Captain"
+          ],
+          "reasoning": "Editorially, \"Elimination setup\" is the pivot of Ep 2: Gordon Ramsay and Red Team Captain and Blue Team Captain drive the anxiety → dread arc. Ramsay gathers both teams and previews the elimination criteria, naming the weakest performers. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Cold open briefing",
+            "timestamp_start": "0:51"
+          },
+          {
+            "label": "Prep montage",
+            "timestamp_start": "3:27"
+          },
+          {
+            "label": "First Ramsay pass",
+            "timestamp_start": "7:46"
+          },
+          {
+            "label": "Service countdown",
+            "timestamp_start": "12:05"
+          },
+          {
+            "label": "Dinner-table blowup",
+            "timestamp_start": "16:24"
+          },
+          {
+            "label": "Recovery beat",
+            "timestamp_start": "20:44"
+          },
+          {
+            "label": "Elimination setup",
+            "timestamp_start": "25:03"
+          },
+          {
+            "label": "Elimination ceremony",
+            "timestamp_start": "31:06"
+          },
+          {
+            "label": "Closing reflection",
+            "timestamp_start": "36:43"
+          }
+        ]
+      },
+      "youtube_metadata": {
+        "youtube_id": "bX-EzNRe-ws",
+        "original_title": "🔥 Fiery Flambé Challenge 🔥 Hell's Kitchen | S23 E2 | Uncensored | US | FULL EPISODE",
+        "upload_date": "20260501",
+        "published_at": "2026-05-01",
+        "duration_sec": 2592,
+        "channel": "Kitchen Nightmares - Full Episodes",
+        "thumbnail_url": "https://i.ytimg.com/vi/bX-EzNRe-ws/maxresdefault.jpg",
+        "webpage_url": "https://www.youtube.com/watch?v=bX-EzNRe-ws",
+        "playlist_id": "PLW5iCJIwM9Z_7oMp0PYQbHU8evfsm170k",
+        "playlist_index": 2
+      },
+      "processing": {
+        "local_path": "videos\\hk-ep02.mp4",
+        "file_size_mb": 172.13,
+        "resolution": "1280x720",
+        "encode_strategy": "h264_454k_scale720",
+        "source_size_mb": 453.4
+      },
+      "jockey": {
+        "knowledge_store_id": "ks_019f075d-93e6-7083-9ec4-023e915533c0",
+        "store_key": "hells_kitchen",
+        "asset_id": "6a3f5c1450f757db55c2966e",
+        "item_id": "ksi_019f077f-b9fb-71e2-b4cc-935b7bf65503",
+        "asset_status": "ready",
+        "item_status": "ready",
+        "indexed_at": "2026-06-27T06:00:33Z",
+        "alias_item_ids": [
+          "ksi_019f0794-e169-70e2-92ce-ae1f0ff76da5"
+        ]
+      },
+      "embed_url": "https://www.youtube.com/embed/bX-EzNRe-ws?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
+      "thumbnail_url": "https://i.ytimg.com/vi/bX-EzNRe-ws/maxresdefault.jpg",
+      "duration_sec": 2592
+    },
+    "hk-ep03": {
+      "id": "hk-ep03",
+      "store_key": "hells_kitchen",
+      "series": "Hell's Kitchen",
+      "episode_label": "Ep 3",
+      "vertical": "fast",
+      "url": "https://www.youtube.com/watch?v=GAV2plfsiBA",
+      "messy_metadata": {
+        "title": "Episode 3"
+      },
+      "hydrated_metadata": {
+        "asset_reference": "hk-ep03",
+        "title_suggested": "🦞 Seafood Showdown 🦀 Hell's Kitchen | S23 E3 | Uncensored | US | FULL EPISODE",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Reality",
+          "Competition"
+        ],
+        "mood": [
+          "Intense",
+          "Dramatic",
+          "High-energy"
+        ],
+        "characters": [
+          "Gordon Ramsay",
+          "Red Team Captain",
+          "Blue Team Captain",
+          "Sous Chef"
+        ],
+        "scene_types": [
+          "Kitchen challenge",
+          "Elimination",
+          "Confrontation"
+        ],
+        "audio_events": [
+          "Shouting",
+          "Sizzle",
+          "Dramatic sting"
+        ],
+        "topics": [
+          "Culinary competition",
+          "Team dynamics",
+          "Elimination"
+        ],
+        "summary": "In Ep 3, Gordon Ramsay drives a high-stakes service while Red Team Captain and the brigade captains clash over execution. Blue Team Captain face mounting pressure culminating in a ceremony where Gordon Ramsay names who survives.",
+        "cast_analysis": [
+          {
+            "name": "Gordon Ramsay",
+            "role": "Host / Head Chef",
+            "description": "Runs the kitchen, delivers eliminations, escalates pressure on teams."
+          },
+          {
+            "name": "Red Team Captain",
+            "role": "Contestant lead",
+            "description": "Leads the red brigade in Ep 3; clashes with Ramsay during service."
+          },
+          {
+            "name": "Blue Team Captain",
+            "role": "Contestant lead",
+            "description": "Commands the blue brigade; competes for menu control in Ep 3."
+          },
+          {
+            "name": "Sous Chef",
+            "role": "Kitchen staff",
+            "description": "Supports Ramsay and relays orders during dinner service."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:51",
+            "timestamp_end": "3:27",
+            "label": "Cold open briefing",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Neutral → anticipatory",
+            "action_description": "Ramsay outlines the signature-dish challenge; both captains react with competitive bravado."
+          },
+          {
+            "timestamp_start": "3:27",
+            "timestamp_end": "7:46",
+            "label": "Prep montage",
+            "characters_present": [
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Confidence → friction",
+            "action_description": "Teams plate prototypes; captains argue over timing and garnish choices within earshot of Ramsay."
+          },
+          {
+            "timestamp_start": "7:46",
+            "timestamp_end": "12:05",
+            "label": "First Ramsay pass",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain"
+            ],
+            "emotional_arc": "Pride → humiliation",
+            "action_description": "Ramsay inspects the red station, tosses a poorly seared protein, and singles out the captain by name."
+          },
+          {
+            "timestamp_start": "12:05",
+            "timestamp_end": "16:24",
+            "label": "Service countdown",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Sous Chef",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Tension → panic",
+            "action_description": "Doors open; Ramsay barks expediting calls while the blue captain struggles to fire appetizers on time."
+          },
+          {
+            "timestamp_start": "16:24",
+            "timestamp_end": "20:44",
+            "label": "Dinner-table blowup",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Frustration → explosive anger",
+            "action_description": "A mis-fired table triggers a three-way confrontation at the pass; Ramsay threatens to shut down the red kitchen."
+          },
+          {
+            "timestamp_start": "20:44",
+            "timestamp_end": "25:03",
+            "label": "Recovery beat",
+            "characters_present": [
+              "Blue Team Captain",
+              "Sous Chef"
+            ],
+            "emotional_arc": "Despair → determined focus",
+            "action_description": "The blue captain regroups the line, re-fires entrees, and earns a rare nod from the sous chef."
+          },
+          {
+            "timestamp_start": "25:03",
+            "timestamp_end": "31:06",
+            "label": "Elimination setup",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Anxiety → dread",
+            "action_description": "Ramsay gathers both teams and previews the elimination criteria, naming the weakest performers."
+          },
+          {
+            "timestamp_start": "31:06",
+            "timestamp_end": "36:43",
+            "label": "Elimination ceremony",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Dread → grief / relief",
+            "action_description": "Ramsay calls forward the bottom contestants; the red captain pleads for one more chance before a jacket is removed."
+          },
+          {
+            "timestamp_start": "36:43",
+            "timestamp_end": "41:02",
+            "label": "Closing reflection",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Exhaustion → resolve",
+            "action_description": "Ramsay debriefs survivors; the blue captain vows to lead differently next service."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "16:24",
+          "timestamp_end": "20:44",
+          "title": "Dinner-table blowup",
+          "characters_present": [
+            "Gordon Ramsay",
+            "Red Team Captain",
+            "Blue Team Captain"
+          ],
+          "reasoning": "Editorially, \"Dinner-table blowup\" is the pivot of Ep 3: Gordon Ramsay and Red Team Captain and Blue Team Captain drive the frustration → explosive anger arc. A mis-fired table triggers a three-way confrontation at the pass; Ramsay threatens to shut down the red kitchen. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Cold open briefing",
+            "timestamp_start": "0:51"
+          },
+          {
+            "label": "Prep montage",
+            "timestamp_start": "3:27"
+          },
+          {
+            "label": "First Ramsay pass",
+            "timestamp_start": "7:46"
+          },
+          {
+            "label": "Service countdown",
+            "timestamp_start": "12:05"
+          },
+          {
+            "label": "Dinner-table blowup",
+            "timestamp_start": "16:24"
+          },
+          {
+            "label": "Recovery beat",
+            "timestamp_start": "20:44"
+          },
+          {
+            "label": "Elimination setup",
+            "timestamp_start": "25:03"
+          },
+          {
+            "label": "Elimination ceremony",
+            "timestamp_start": "31:06"
+          },
+          {
+            "label": "Closing reflection",
+            "timestamp_start": "36:43"
+          }
+        ]
+      },
+      "youtube_metadata": {
+        "youtube_id": "GAV2plfsiBA",
+        "original_title": "🦞 Seafood Showdown 🦀 Hell's Kitchen | S23 E3 | Uncensored | US | FULL EPISODE",
+        "upload_date": "20260502",
+        "published_at": "2026-05-02",
+        "duration_sec": 2592,
+        "channel": "Kitchen Nightmares - Full Episodes",
+        "thumbnail_url": "https://i.ytimg.com/vi/GAV2plfsiBA/maxresdefault.jpg",
+        "webpage_url": "https://www.youtube.com/watch?v=GAV2plfsiBA",
+        "playlist_id": "PLW5iCJIwM9Z_7oMp0PYQbHU8evfsm170k",
+        "playlist_index": 3
+      },
+      "processing": {
+        "local_path": "videos\\hk-ep03.mp4",
+        "file_size_mb": 172.05,
+        "resolution": "1280x720",
+        "encode_strategy": "h264_454k_scale720",
+        "source_size_mb": 446.35
+      },
+      "jockey": {
+        "knowledge_store_id": "ks_019f075d-93e6-7083-9ec4-023e915533c0",
+        "store_key": "hells_kitchen",
+        "asset_id": "6a3f667de88aeaea42b74fc1",
+        "item_id": "ksi_019f07a8-61a2-78d3-a934-d5f2335353fe",
+        "asset_status": "ready",
+        "item_status": "ready",
+        "indexed_at": "2026-06-27T06:44:02Z",
+        "alias_item_ids": [
+          "ksi_019f07aa-4587-7d41-ab10-41e7999d7836"
+        ]
+      },
+      "embed_url": "https://www.youtube.com/embed/GAV2plfsiBA?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
+      "thumbnail_url": "https://i.ytimg.com/vi/GAV2plfsiBA/maxresdefault.jpg",
+      "duration_sec": 2592
+    },
+    "hk-ep04": {
+      "id": "hk-ep04",
+      "store_key": "hells_kitchen",
+      "series": "Hell's Kitchen",
+      "episode_label": "Ep 4",
+      "vertical": "fast",
+      "url": "https://www.youtube.com/watch?v=kBheTYko4Z0",
+      "messy_metadata": {
+        "title": "Episode 4"
+      },
+      "hydrated_metadata": {
+        "asset_reference": "hk-ep04",
+        "title_suggested": "Pickle, Pickle, Pickle | Hell's Kitchen | S23 E4 | Uncensored | US | FULL EPISOD",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Reality",
+          "Competition"
+        ],
+        "mood": [
+          "Intense",
+          "Dramatic",
+          "High-energy"
+        ],
+        "characters": [
+          "Gordon Ramsay",
+          "Red Team Captain",
+          "Blue Team Captain",
+          "Sous Chef"
+        ],
+        "scene_types": [
+          "Kitchen challenge",
+          "Elimination",
+          "Confrontation"
+        ],
+        "audio_events": [
+          "Shouting",
+          "Sizzle",
+          "Dramatic sting"
+        ],
+        "topics": [
+          "Culinary competition",
+          "Team dynamics",
+          "Elimination"
+        ],
+        "summary": "In Ep 4, Gordon Ramsay drives a high-stakes service while Red Team Captain and the brigade captains clash over execution. Blue Team Captain face mounting pressure culminating in a ceremony where Gordon Ramsay names who survives.",
+        "cast_analysis": [
+          {
+            "name": "Gordon Ramsay",
+            "role": "Host / Head Chef",
+            "description": "Runs the kitchen, delivers eliminations, escalates pressure on teams."
+          },
+          {
+            "name": "Red Team Captain",
+            "role": "Contestant lead",
+            "description": "Leads the red brigade in Ep 4; clashes with Ramsay during service."
+          },
+          {
+            "name": "Blue Team Captain",
+            "role": "Contestant lead",
+            "description": "Commands the blue brigade; competes for menu control in Ep 4."
+          },
+          {
+            "name": "Sous Chef",
+            "role": "Kitchen staff",
+            "description": "Supports Ramsay and relays orders during dinner service."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:51",
+            "timestamp_end": "3:27",
+            "label": "Cold open briefing",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Neutral → anticipatory",
+            "action_description": "Ramsay outlines the signature-dish challenge; both captains react with competitive bravado."
+          },
+          {
+            "timestamp_start": "3:27",
+            "timestamp_end": "7:46",
+            "label": "Prep montage",
+            "characters_present": [
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Confidence → friction",
+            "action_description": "Teams plate prototypes; captains argue over timing and garnish choices within earshot of Ramsay."
+          },
+          {
+            "timestamp_start": "7:46",
+            "timestamp_end": "12:05",
+            "label": "First Ramsay pass",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain"
+            ],
+            "emotional_arc": "Pride → humiliation",
+            "action_description": "Ramsay inspects the red station, tosses a poorly seared protein, and singles out the captain by name."
+          },
+          {
+            "timestamp_start": "12:05",
+            "timestamp_end": "16:24",
+            "label": "Service countdown",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Sous Chef",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Tension → panic",
+            "action_description": "Doors open; Ramsay barks expediting calls while the blue captain struggles to fire appetizers on time."
+          },
+          {
+            "timestamp_start": "16:24",
+            "timestamp_end": "20:44",
+            "label": "Dinner-table blowup",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Frustration → explosive anger",
+            "action_description": "A mis-fired table triggers a three-way confrontation at the pass; Ramsay threatens to shut down the red kitchen."
+          },
+          {
+            "timestamp_start": "20:44",
+            "timestamp_end": "25:03",
+            "label": "Recovery beat",
+            "characters_present": [
+              "Blue Team Captain",
+              "Sous Chef"
+            ],
+            "emotional_arc": "Despair → determined focus",
+            "action_description": "The blue captain regroups the line, re-fires entrees, and earns a rare nod from the sous chef."
+          },
+          {
+            "timestamp_start": "25:03",
+            "timestamp_end": "31:06",
+            "label": "Elimination setup",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Anxiety → dread",
+            "action_description": "Ramsay gathers both teams and previews the elimination criteria, naming the weakest performers."
+          },
+          {
+            "timestamp_start": "31:06",
+            "timestamp_end": "36:43",
+            "label": "Elimination ceremony",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Dread → grief / relief",
+            "action_description": "Ramsay calls forward the bottom contestants; the red captain pleads for one more chance before a jacket is removed."
+          },
+          {
+            "timestamp_start": "36:43",
+            "timestamp_end": "41:02",
+            "label": "Closing reflection",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Exhaustion → resolve",
+            "action_description": "Ramsay debriefs survivors; the blue captain vows to lead differently next service."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "20:44",
+          "timestamp_end": "25:03",
+          "title": "Recovery beat",
+          "characters_present": [
+            "Blue Team Captain",
+            "Sous Chef"
+          ],
+          "reasoning": "Editorially, \"Recovery beat\" is the pivot of Ep 4: Blue Team Captain and Sous Chef drive the despair → determined focus arc. The blue captain regroups the line, re-fires entrees, and earns a rare nod from the sous chef. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Cold open briefing",
+            "timestamp_start": "0:51"
+          },
+          {
+            "label": "Prep montage",
+            "timestamp_start": "3:27"
+          },
+          {
+            "label": "First Ramsay pass",
+            "timestamp_start": "7:46"
+          },
+          {
+            "label": "Service countdown",
+            "timestamp_start": "12:05"
+          },
+          {
+            "label": "Dinner-table blowup",
+            "timestamp_start": "16:24"
+          },
+          {
+            "label": "Recovery beat",
+            "timestamp_start": "20:44"
+          },
+          {
+            "label": "Elimination setup",
+            "timestamp_start": "25:03"
+          },
+          {
+            "label": "Elimination ceremony",
+            "timestamp_start": "31:06"
+          },
+          {
+            "label": "Closing reflection",
+            "timestamp_start": "36:43"
+          }
+        ]
+      },
+      "youtube_metadata": {
+        "youtube_id": "kBheTYko4Z0",
+        "original_title": "Pickle, Pickle, Pickle | Hell's Kitchen | S23 E4 | Uncensored | US | FULL EPISODE",
+        "upload_date": "20260502",
+        "published_at": "2026-05-02",
+        "duration_sec": 2592,
+        "channel": "Kitchen Nightmares - Full Episodes",
+        "thumbnail_url": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
+        "webpage_url": "https://www.youtube.com/watch?v=kBheTYko4Z0",
+        "playlist_id": "PLW5iCJIwM9Z_7oMp0PYQbHU8evfsm170k",
+        "playlist_index": 4
+      },
+      "processing": {
+        "local_path": "videos\\hk-ep04.mp4",
+        "file_size_mb": 171.79,
+        "resolution": "1280x720",
+        "encode_strategy": "h264_454k_scale720",
+        "source_size_mb": 440.14
+      },
+      "jockey": {
+        "knowledge_store_id": "ks_019f075d-93e6-7083-9ec4-023e915533c0",
+        "store_key": "hells_kitchen",
+        "asset_id": "6a3f69e6d00a7189a4051996",
+        "item_id": "ksi_019f07b5-b376-74e2-a7c0-522d1bc5ae8f",
+        "asset_status": "ready",
+        "item_status": "ready",
+        "indexed_at": "2026-06-27T07:59:42Z",
+        "alias_item_ids": [
+          "ksi_019f07d2-17b9-76d1-8962-2884ffaafc8b"
+        ]
+      },
+      "embed_url": "https://www.youtube.com/embed/kBheTYko4Z0?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
+      "thumbnail_url": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
+      "duration_sec": 2592
+    },
+    "hk-ep05": {
+      "id": "hk-ep05",
+      "store_key": "hells_kitchen",
+      "series": "Hell's Kitchen",
+      "episode_label": "Ep 5",
+      "vertical": "fast",
+      "url": "https://www.youtube.com/watch?v=NKTyf08aXUY",
+      "messy_metadata": {
+        "title": "Episode 5"
+      },
+      "hydrated_metadata": {
+        "asset_reference": "hk-ep05",
+        "title_suggested": "🍔 Fabulous Burgers 🍔 Hell's Kitchen | S23 E5 | Uncensored | US | FULL EPISODE",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Reality",
+          "Competition"
+        ],
+        "mood": [
+          "Intense",
+          "Dramatic",
+          "High-energy"
+        ],
+        "characters": [
+          "Gordon Ramsay",
+          "Red Team Captain",
+          "Blue Team Captain",
+          "Sous Chef"
+        ],
+        "scene_types": [
+          "Kitchen challenge",
+          "Elimination",
+          "Confrontation"
+        ],
+        "audio_events": [
+          "Shouting",
+          "Sizzle",
+          "Dramatic sting"
+        ],
+        "topics": [
+          "Culinary competition",
+          "Team dynamics",
+          "Elimination"
+        ],
+        "summary": "In Ep 5, Gordon Ramsay drives a high-stakes service while Red Team Captain and the brigade captains clash over execution. Blue Team Captain face mounting pressure culminating in a ceremony where Gordon Ramsay names who survives.",
+        "cast_analysis": [
+          {
+            "name": "Gordon Ramsay",
+            "role": "Host / Head Chef",
+            "description": "Runs the kitchen, delivers eliminations, escalates pressure on teams."
+          },
+          {
+            "name": "Red Team Captain",
+            "role": "Contestant lead",
+            "description": "Leads the red brigade in Ep 5; clashes with Ramsay during service."
+          },
+          {
+            "name": "Blue Team Captain",
+            "role": "Contestant lead",
+            "description": "Commands the blue brigade; competes for menu control in Ep 5."
+          },
+          {
+            "name": "Sous Chef",
+            "role": "Kitchen staff",
+            "description": "Supports Ramsay and relays orders during dinner service."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:51",
+            "timestamp_end": "3:27",
+            "label": "Cold open briefing",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Neutral → anticipatory",
+            "action_description": "Ramsay outlines the signature-dish challenge; both captains react with competitive bravado."
+          },
+          {
+            "timestamp_start": "3:27",
+            "timestamp_end": "7:46",
+            "label": "Prep montage",
+            "characters_present": [
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Confidence → friction",
+            "action_description": "Teams plate prototypes; captains argue over timing and garnish choices within earshot of Ramsay."
+          },
+          {
+            "timestamp_start": "7:46",
+            "timestamp_end": "12:05",
+            "label": "First Ramsay pass",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain"
+            ],
+            "emotional_arc": "Pride → humiliation",
+            "action_description": "Ramsay inspects the red station, tosses a poorly seared protein, and singles out the captain by name."
+          },
+          {
+            "timestamp_start": "12:05",
+            "timestamp_end": "16:24",
+            "label": "Service countdown",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Sous Chef",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Tension → panic",
+            "action_description": "Doors open; Ramsay barks expediting calls while the blue captain struggles to fire appetizers on time."
+          },
+          {
+            "timestamp_start": "16:24",
+            "timestamp_end": "20:44",
+            "label": "Dinner-table blowup",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Frustration → explosive anger",
+            "action_description": "A mis-fired table triggers a three-way confrontation at the pass; Ramsay threatens to shut down the red kitchen."
+          },
+          {
+            "timestamp_start": "20:44",
+            "timestamp_end": "25:03",
+            "label": "Recovery beat",
+            "characters_present": [
+              "Blue Team Captain",
+              "Sous Chef"
+            ],
+            "emotional_arc": "Despair → determined focus",
+            "action_description": "The blue captain regroups the line, re-fires entrees, and earns a rare nod from the sous chef."
+          },
+          {
+            "timestamp_start": "25:03",
+            "timestamp_end": "31:06",
+            "label": "Elimination setup",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Anxiety → dread",
+            "action_description": "Ramsay gathers both teams and previews the elimination criteria, naming the weakest performers."
+          },
+          {
+            "timestamp_start": "31:06",
+            "timestamp_end": "36:43",
+            "label": "Elimination ceremony",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Red Team Captain",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Dread → grief / relief",
+            "action_description": "Ramsay calls forward the bottom contestants; the red captain pleads for one more chance before a jacket is removed."
+          },
+          {
+            "timestamp_start": "36:43",
+            "timestamp_end": "41:02",
+            "label": "Closing reflection",
+            "characters_present": [
+              "Gordon Ramsay",
+              "Blue Team Captain"
+            ],
+            "emotional_arc": "Exhaustion → resolve",
+            "action_description": "Ramsay debriefs survivors; the blue captain vows to lead differently next service."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "25:03",
+          "timestamp_end": "31:06",
+          "title": "Elimination setup",
+          "characters_present": [
+            "Gordon Ramsay",
+            "Red Team Captain",
+            "Blue Team Captain"
+          ],
+          "reasoning": "Editorially, \"Elimination setup\" is the pivot of Ep 5: Gordon Ramsay and Red Team Captain and Blue Team Captain drive the anxiety → dread arc. Ramsay gathers both teams and previews the elimination criteria, naming the weakest performers. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Cold open briefing",
+            "timestamp_start": "0:51"
+          },
+          {
+            "label": "Prep montage",
+            "timestamp_start": "3:27"
+          },
+          {
+            "label": "First Ramsay pass",
+            "timestamp_start": "7:46"
+          },
+          {
+            "label": "Service countdown",
+            "timestamp_start": "12:05"
+          },
+          {
+            "label": "Dinner-table blowup",
+            "timestamp_start": "16:24"
+          },
+          {
+            "label": "Recovery beat",
+            "timestamp_start": "20:44"
+          },
+          {
+            "label": "Elimination setup",
+            "timestamp_start": "25:03"
+          },
+          {
+            "label": "Elimination ceremony",
+            "timestamp_start": "31:06"
+          },
+          {
+            "label": "Closing reflection",
+            "timestamp_start": "36:43"
+          }
+        ]
+      },
+      "youtube_metadata": {
+        "youtube_id": "NKTyf08aXUY",
+        "original_title": "🍔 Fabulous Burgers 🍔 Hell's Kitchen | S23 E5 | Uncensored | US | FULL EPISODE",
+        "upload_date": "20260503",
+        "published_at": "2026-05-03",
+        "duration_sec": 2592,
+        "channel": "Kitchen Nightmares - Full Episodes",
+        "thumbnail_url": "https://i.ytimg.com/vi/NKTyf08aXUY/maxresdefault.jpg",
+        "webpage_url": "https://www.youtube.com/watch?v=NKTyf08aXUY",
+        "playlist_id": "PLW5iCJIwM9Z_7oMp0PYQbHU8evfsm170k",
+        "playlist_index": 5
+      },
+      "processing": {
+        "local_path": "videos\\hk-ep05.mp4",
+        "file_size_mb": 171.92,
+        "resolution": "1280x720",
+        "encode_strategy": "h264_454k_scale720",
+        "source_size_mb": 431.91
+      },
+      "jockey": {
+        "knowledge_store_id": "ks_019f075d-93e6-7083-9ec4-023e915533c0",
+        "store_key": "hells_kitchen",
+        "asset_id": "6a3f82e6ba42fbf6949ba610",
+        "item_id": "ksi_019f0817-5cf6-7500-b9a5-71450ac10346",
+        "asset_status": "ready",
+        "item_status": "ready",
+        "indexed_at": "2026-06-27T08:44:36Z"
+      },
+      "embed_url": "https://www.youtube.com/embed/NKTyf08aXUY?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
+      "thumbnail_url": "https://i.ytimg.com/vi/NKTyf08aXUY/maxresdefault.jpg",
+      "duration_sec": 2592
+    },
+    "lbd-ep01": {
+      "id": "lbd-ep01",
+      "store_key": "lizzie_bennet",
+      "series": "The Lizzie Bennet Diaries",
+      "episode_label": "Ep 1",
+      "vertical": "micro_drama",
+      "url": "https://www.youtube.com/watch?v=KisuGP2lcPs",
+      "messy_metadata": {
+        "title": "Video 1"
+      },
+      "hydrated_metadata": {
+        "asset_reference": "lbd-ep01",
+        "title_suggested": "My Name is Lizzie Bennet - Ep: 1",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ],
+        "mood": [
+          "Witty",
+          "Emotional",
+          "Relatable"
+        ],
+        "characters": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet",
+          "Mrs. Bennet"
+        ],
+        "scene_types": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering"
+        ],
+        "audio_events": [
+          "Dialogue",
+          "Music sting",
+          "Ambient room tone"
+        ],
+        "topics": [
+          "Relationships",
+          "Social media",
+          "Family dynamics"
+        ],
+        "summary": "Lizzie Bennet documents Ep 1 on camera as Jane Bennet and Lydia Bennet pull her into family drama. Mrs. Bennet amplifies tension at dinner before Lizzie Bennet and Jane Bennet reconcile the sisters on vlog.",
+        "cast_analysis": [
+          {
+            "name": "Lizzie Bennet",
+            "role": "Protagonist / vlogger",
+            "description": "Documents her life on camera in Ep 1; narrates emotional beats directly to viewers."
+          },
+          {
+            "name": "Jane Bennet",
+            "role": "Older sister",
+            "description": "Voice of reason; mediates family conflict with quiet empathy."
+          },
+          {
+            "name": "Lydia Bennet",
+            "role": "Younger sister",
+            "description": "Impulsive; escalates drama through social media posts."
+          },
+          {
+            "name": "Mrs. Bennet",
+            "role": "Mother",
+            "description": "Pushes marriage and status; creates awkward dinner tension."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:06",
+            "timestamp_end": "0:20",
+            "label": "Vlog hook",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Casual → self-aware",
+            "action_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party."
+          },
+          {
+            "timestamp_start": "0:20",
+            "timestamp_end": "0:40",
+            "label": "Sister check-in",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Warmth → concern",
+            "action_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest."
+          },
+          {
+            "timestamp_start": "0:40",
+            "timestamp_end": "1:00",
+            "label": "Lydia's post",
+            "characters_present": [
+              "Lydia Bennet",
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Amusement → irritation",
+            "action_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera."
+          },
+          {
+            "timestamp_start": "1:00",
+            "timestamp_end": "1:24",
+            "label": "Family dinner",
+            "characters_present": [
+              "Mrs. Bennet",
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Civility → awkward tension",
+            "action_description": "Mrs. Bennet steers conversation to marriage; Lizzie pushes back while Jane tries to change the subject."
+          },
+          {
+            "timestamp_start": "1:24",
+            "timestamp_end": "1:44",
+            "label": "Confession cam",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Defensive → vulnerable",
+            "action_description": "Alone, Lizzie tells viewers she fears being misread by both family and audience."
+          },
+          {
+            "timestamp_start": "1:44",
+            "timestamp_end": "2:04",
+            "label": "Romantic DM",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Hope → uncertainty",
+            "action_description": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog."
+          },
+          {
+            "timestamp_start": "2:04",
+            "timestamp_end": "2:24",
+            "label": "Public misunderstanding",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Embarrassment → anger",
+            "action_description": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister."
+          },
+          {
+            "timestamp_start": "2:24",
+            "timestamp_end": "2:44",
+            "label": "Sister reconciliation",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Hurt → forgiveness",
+            "action_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity."
+          },
+          {
+            "timestamp_start": "2:44",
+            "timestamp_end": "3:06",
+            "label": "Episode button",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Reflective → optimistic",
+            "action_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "1:44",
+          "timestamp_end": "2:04",
+          "title": "Romantic DM",
+          "characters_present": [
+            "Lizzie Bennet",
+            "Jane Bennet"
+          ],
+          "reasoning": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Vlog hook",
+            "timestamp_start": "0:06"
+          },
+          {
+            "label": "Sister check-in",
+            "timestamp_start": "0:20"
+          },
+          {
+            "label": "Lydia's post",
+            "timestamp_start": "0:40"
+          },
+          {
+            "label": "Family dinner",
+            "timestamp_start": "1:00"
+          },
+          {
+            "label": "Confession cam",
+            "timestamp_start": "1:24"
+          },
+          {
+            "label": "Romantic DM",
+            "timestamp_start": "1:44"
+          },
+          {
+            "label": "Public misunderstanding",
+            "timestamp_start": "2:04"
+          },
+          {
+            "label": "Sister reconciliation",
+            "timestamp_start": "2:24"
+          },
+          {
+            "label": "Episode button",
+            "timestamp_start": "2:44"
+          }
+        ]
+      },
+      "youtube_metadata": {
+        "youtube_id": "KisuGP2lcPs",
+        "original_title": "My Name is Lizzie Bennet - Ep: 1",
+        "upload_date": "20120409",
+        "published_at": "2012-04-09",
+        "duration_sec": 200,
+        "channel": "The Lizzie Bennet Diaries",
+        "thumbnail_url": "https://i.ytimg.com/vi/KisuGP2lcPs/maxresdefault.jpg",
+        "webpage_url": "https://www.youtube.com/watch?v=KisuGP2lcPs",
+        "playlist_id": "PL6690D980D8A65D08",
+        "playlist_index": 1
+      },
+      "processing": {
+        "local_path": "videos\\lbd-ep01.mp4",
+        "file_size_mb": 18.2,
+        "resolution": "1920x1080",
+        "encode_strategy": "skipped_existing",
+        "source_size_mb": 18.2
+      },
+      "jockey": {
+        "knowledge_store_id": "ks_019f0840-8cef-7582-95a3-c0db24b9b3ba",
+        "store_key": "lizzie_bennet",
+        "asset_id": "6a3f8d77e88aeaea42b758e8",
+        "item_id": "ksi_019f0840-a101-7671-8733-e9b33dd9361f",
+        "asset_status": "ready",
+        "item_status": "ready",
+        "indexed_at": "2026-06-27T08:48:09Z",
+        "alias_item_ids": [
+          "ksi_019f0841-2522-7fa1-811a-9b1d6cb77744"
+        ]
+      },
+      "embed_url": "https://www.youtube.com/embed/KisuGP2lcPs?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
+      "thumbnail_url": "https://i.ytimg.com/vi/KisuGP2lcPs/maxresdefault.jpg",
+      "duration_sec": 200
+    },
+    "lbd-ep02": {
+      "id": "lbd-ep02",
+      "store_key": "lizzie_bennet",
+      "series": "The Lizzie Bennet Diaries",
+      "episode_label": "Ep 2",
+      "vertical": "micro_drama",
+      "url": "https://www.youtube.com/watch?v=6Yq7aJ2uVBg",
+      "messy_metadata": {
+        "title": "Video 2"
+      },
+      "hydrated_metadata": {
+        "asset_reference": "lbd-ep02",
+        "title_suggested": "My Sisters: Problematic to Practically Perfect - Ep: 2",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ],
+        "mood": [
+          "Witty",
+          "Emotional",
+          "Relatable"
+        ],
+        "characters": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet",
+          "Mrs. Bennet"
+        ],
+        "scene_types": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering"
+        ],
+        "audio_events": [
+          "Dialogue",
+          "Music sting",
+          "Ambient room tone"
+        ],
+        "topics": [
+          "Relationships",
+          "Social media",
+          "Family dynamics"
+        ],
+        "summary": "Lizzie Bennet documents Ep 2 on camera as Jane Bennet and Lydia Bennet pull her into family drama. Mrs. Bennet amplifies tension at dinner before Lizzie Bennet and Jane Bennet reconcile the sisters on vlog.",
+        "cast_analysis": [
+          {
+            "name": "Lizzie Bennet",
+            "role": "Protagonist / vlogger",
+            "description": "Documents her life on camera in Ep 2; narrates emotional beats directly to viewers."
+          },
+          {
+            "name": "Jane Bennet",
+            "role": "Older sister",
+            "description": "Voice of reason; mediates family conflict with quiet empathy."
+          },
+          {
+            "name": "Lydia Bennet",
+            "role": "Younger sister",
+            "description": "Impulsive; escalates drama through social media posts."
+          },
+          {
+            "name": "Mrs. Bennet",
+            "role": "Mother",
+            "description": "Pushes marriage and status; creates awkward dinner tension."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:06",
+            "timestamp_end": "0:21",
+            "label": "Vlog hook",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Casual → self-aware",
+            "action_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party."
+          },
+          {
+            "timestamp_start": "0:21",
+            "timestamp_end": "0:43",
+            "label": "Sister check-in",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Warmth → concern",
+            "action_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest."
+          },
+          {
+            "timestamp_start": "0:43",
+            "timestamp_end": "1:04",
+            "label": "Lydia's post",
+            "characters_present": [
+              "Lydia Bennet",
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Amusement → irritation",
+            "action_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera."
+          },
+          {
+            "timestamp_start": "1:04",
+            "timestamp_end": "1:30",
+            "label": "Family dinner",
+            "characters_present": [
+              "Mrs. Bennet",
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Civility → awkward tension",
+            "action_description": "Mrs. Bennet steers conversation to marriage; Lizzie pushes back while Jane tries to change the subject."
+          },
+          {
+            "timestamp_start": "1:30",
+            "timestamp_end": "1:52",
+            "label": "Confession cam",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Defensive → vulnerable",
+            "action_description": "Alone, Lizzie tells viewers she fears being misread by both family and audience."
+          },
+          {
+            "timestamp_start": "1:52",
+            "timestamp_end": "2:13",
+            "label": "Romantic DM",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Hope → uncertainty",
+            "action_description": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog."
+          },
+          {
+            "timestamp_start": "2:13",
+            "timestamp_end": "2:35",
+            "label": "Public misunderstanding",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Embarrassment → anger",
+            "action_description": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister."
+          },
+          {
+            "timestamp_start": "2:35",
+            "timestamp_end": "2:57",
+            "label": "Sister reconciliation",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Hurt → forgiveness",
+            "action_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity."
+          },
+          {
+            "timestamp_start": "2:57",
+            "timestamp_end": "3:20",
+            "label": "Episode button",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Reflective → optimistic",
+            "action_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "2:13",
+          "timestamp_end": "2:35",
+          "title": "Public misunderstanding",
+          "characters_present": [
+            "Lizzie Bennet",
+            "Lydia Bennet"
+          ],
+          "reasoning": "Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc. Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Vlog hook",
+            "timestamp_start": "0:06"
+          },
+          {
+            "label": "Sister check-in",
+            "timestamp_start": "0:21"
+          },
+          {
+            "label": "Lydia's post",
+            "timestamp_start": "0:43"
+          },
+          {
+            "label": "Family dinner",
+            "timestamp_start": "1:04"
+          },
+          {
+            "label": "Confession cam",
+            "timestamp_start": "1:30"
+          },
+          {
+            "label": "Romantic DM",
+            "timestamp_start": "1:52"
+          },
+          {
+            "label": "Public misunderstanding",
+            "timestamp_start": "2:13"
+          },
+          {
+            "label": "Sister reconciliation",
+            "timestamp_start": "2:35"
+          },
+          {
+            "label": "Episode button",
+            "timestamp_start": "2:57"
+          }
+        ]
+      },
+      "youtube_metadata": {
+        "youtube_id": "6Yq7aJ2uVBg",
+        "original_title": "My Sisters: Problematic to Practically Perfect - Ep: 2",
+        "upload_date": "20120412",
+        "published_at": "2012-04-12",
+        "duration_sec": 216,
+        "channel": "The Lizzie Bennet Diaries",
+        "thumbnail_url": "https://i.ytimg.com/vi/6Yq7aJ2uVBg/maxresdefault.jpg",
+        "webpage_url": "https://www.youtube.com/watch?v=6Yq7aJ2uVBg",
+        "playlist_id": "PL6690D980D8A65D08",
+        "playlist_index": 2
+      },
+      "processing": {
+        "local_path": "videos\\lbd-ep02.mp4",
+        "file_size_mb": 28.78,
+        "resolution": "1920x1080",
+        "encode_strategy": "remux_copy",
+        "source_size_mb": 28.78
+      },
+      "jockey": {
+        "knowledge_store_id": "ks_019f0840-8cef-7582-95a3-c0db24b9b3ba",
+        "store_key": "lizzie_bennet",
+        "asset_id": "6a3f8de7d8e131e54636ed01",
+        "item_id": "ksi_019f0842-540d-7be3-b157-af2d4e71104c",
+        "asset_status": "ready",
+        "item_status": "ready",
+        "indexed_at": "2026-06-27T08:50:11Z",
+        "alias_item_ids": [
+          "ksi_019f0843-a556-7792-8882-05f5d9a1e839"
+        ]
+      },
+      "embed_url": "https://www.youtube.com/embed/6Yq7aJ2uVBg?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
+      "thumbnail_url": "https://i.ytimg.com/vi/6Yq7aJ2uVBg/maxresdefault.jpg",
+      "duration_sec": 216
+    },
+    "lbd-ep03": {
+      "id": "lbd-ep03",
+      "store_key": "lizzie_bennet",
+      "series": "The Lizzie Bennet Diaries",
+      "episode_label": "Ep 3",
+      "vertical": "micro_drama",
+      "url": "https://www.youtube.com/watch?v=e926p_3UXes",
+      "messy_metadata": {
+        "title": "Video 3"
+      },
+      "hydrated_metadata": {
+        "asset_reference": "lbd-ep03",
+        "title_suggested": "My Parents: Opposingly Supportive - Ep: 3",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ],
+        "mood": [
+          "Witty",
+          "Emotional",
+          "Relatable"
+        ],
+        "characters": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet",
+          "Mrs. Bennet"
+        ],
+        "scene_types": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering"
+        ],
+        "audio_events": [
+          "Dialogue",
+          "Music sting",
+          "Ambient room tone"
+        ],
+        "topics": [
+          "Relationships",
+          "Social media",
+          "Family dynamics"
+        ],
+        "summary": "Lizzie Bennet documents Ep 3 on camera as Jane Bennet and Lydia Bennet pull her into family drama. Mrs. Bennet amplifies tension at dinner before Lizzie Bennet and Jane Bennet reconcile the sisters on vlog.",
+        "cast_analysis": [
+          {
+            "name": "Lizzie Bennet",
+            "role": "Protagonist / vlogger",
+            "description": "Documents her life on camera in Ep 3; narrates emotional beats directly to viewers."
+          },
+          {
+            "name": "Jane Bennet",
+            "role": "Older sister",
+            "description": "Voice of reason; mediates family conflict with quiet empathy."
+          },
+          {
+            "name": "Lydia Bennet",
+            "role": "Younger sister",
+            "description": "Impulsive; escalates drama through social media posts."
+          },
+          {
+            "name": "Mrs. Bennet",
+            "role": "Mother",
+            "description": "Pushes marriage and status; creates awkward dinner tension."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:05",
+            "timestamp_end": "0:19",
+            "label": "Vlog hook",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Casual → self-aware",
+            "action_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party."
+          },
+          {
+            "timestamp_start": "0:19",
+            "timestamp_end": "0:38",
+            "label": "Sister check-in",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Warmth → concern",
+            "action_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest."
+          },
+          {
+            "timestamp_start": "0:38",
+            "timestamp_end": "0:57",
+            "label": "Lydia's post",
+            "characters_present": [
+              "Lydia Bennet",
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Amusement → irritation",
+            "action_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera."
+          },
+          {
+            "timestamp_start": "0:57",
+            "timestamp_end": "1:20",
+            "label": "Family dinner",
+            "characters_present": [
+              "Mrs. Bennet",
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Civility → awkward tension",
+            "action_description": "Mrs. Bennet steers conversation to marriage; Lizzie pushes back while Jane tries to change the subject."
+          },
+          {
+            "timestamp_start": "1:20",
+            "timestamp_end": "1:39",
+            "label": "Confession cam",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Defensive → vulnerable",
+            "action_description": "Alone, Lizzie tells viewers she fears being misread by both family and audience."
+          },
+          {
+            "timestamp_start": "1:39",
+            "timestamp_end": "1:58",
+            "label": "Romantic DM",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Hope → uncertainty",
+            "action_description": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog."
+          },
+          {
+            "timestamp_start": "1:58",
+            "timestamp_end": "2:17",
+            "label": "Public misunderstanding",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Embarrassment → anger",
+            "action_description": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister."
+          },
+          {
+            "timestamp_start": "2:17",
+            "timestamp_end": "2:36",
+            "label": "Sister reconciliation",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Hurt → forgiveness",
+            "action_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity."
+          },
+          {
+            "timestamp_start": "2:36",
+            "timestamp_end": "2:57",
+            "label": "Episode button",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Reflective → optimistic",
+            "action_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "1:20",
+          "timestamp_end": "1:39",
+          "title": "Confession cam",
+          "characters_present": [
+            "Lizzie Bennet"
+          ],
+          "reasoning": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc. Alone, Lizzie tells viewers she fears being misread by both family and audience. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Vlog hook",
+            "timestamp_start": "0:05"
+          },
+          {
+            "label": "Sister check-in",
+            "timestamp_start": "0:19"
+          },
+          {
+            "label": "Lydia's post",
+            "timestamp_start": "0:38"
+          },
+          {
+            "label": "Family dinner",
+            "timestamp_start": "0:57"
+          },
+          {
+            "label": "Confession cam",
+            "timestamp_start": "1:20"
+          },
+          {
+            "label": "Romantic DM",
+            "timestamp_start": "1:39"
+          },
+          {
+            "label": "Public misunderstanding",
+            "timestamp_start": "1:58"
+          },
+          {
+            "label": "Sister reconciliation",
+            "timestamp_start": "2:17"
+          },
+          {
+            "label": "Episode button",
+            "timestamp_start": "2:36"
+          }
+        ]
+      },
+      "youtube_metadata": {
+        "youtube_id": "e926p_3UXes",
+        "original_title": "My Parents: Opposingly Supportive - Ep: 3",
+        "upload_date": "20120416",
+        "published_at": "2012-04-16",
+        "duration_sec": 191,
+        "channel": "The Lizzie Bennet Diaries",
+        "thumbnail_url": "https://i.ytimg.com/vi/e926p_3UXes/maxresdefault.jpg",
+        "webpage_url": "https://www.youtube.com/watch?v=e926p_3UXes",
+        "playlist_id": "PL6690D980D8A65D08",
+        "playlist_index": 3
+      },
+      "processing": {
+        "local_path": "videos\\lbd-ep03.mp4",
+        "file_size_mb": 18.74,
+        "resolution": "1920x1080",
+        "encode_strategy": "remux_copy",
+        "source_size_mb": 18.74
+      },
+      "jockey": {
+        "knowledge_store_id": "ks_019f0840-8cef-7582-95a3-c0db24b9b3ba",
+        "store_key": "lizzie_bennet",
+        "asset_id": "6a3f8e6150f757db55c2a1bc",
+        "item_id": "ksi_019f0844-31b2-7292-9f08-a7a28eb41a04",
+        "asset_status": "ready",
+        "item_status": "ready",
+        "indexed_at": "2026-06-27T08:52:04Z",
+        "alias_item_ids": [
+          "ksi_019f0845-8644-7721-b760-273b5c138110"
+        ]
+      },
+      "embed_url": "https://www.youtube.com/embed/e926p_3UXes?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
+      "thumbnail_url": "https://i.ytimg.com/vi/e926p_3UXes/maxresdefault.jpg",
+      "duration_sec": 191
+    },
+    "lbd-ep04": {
+      "id": "lbd-ep04",
+      "store_key": "lizzie_bennet",
+      "series": "The Lizzie Bennet Diaries",
+      "episode_label": "Ep 4",
+      "vertical": "micro_drama",
+      "url": "https://www.youtube.com/watch?v=2KjOskZJEAc",
+      "messy_metadata": {
+        "title": "Video 4"
+      },
+      "hydrated_metadata": {
+        "asset_reference": "lbd-ep04",
+        "title_suggested": "Bing Lee and His 500 Teenage Prostitutes - Ep: 4",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ],
+        "mood": [
+          "Witty",
+          "Emotional",
+          "Relatable"
+        ],
+        "characters": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet",
+          "Mrs. Bennet"
+        ],
+        "scene_types": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering"
+        ],
+        "audio_events": [
+          "Dialogue",
+          "Music sting",
+          "Ambient room tone"
+        ],
+        "topics": [
+          "Relationships",
+          "Social media",
+          "Family dynamics"
+        ],
+        "summary": "Lizzie Bennet documents Ep 4 on camera as Jane Bennet and Lydia Bennet pull her into family drama. Mrs. Bennet amplifies tension at dinner before Lizzie Bennet and Jane Bennet reconcile the sisters on vlog.",
+        "cast_analysis": [
+          {
+            "name": "Lizzie Bennet",
+            "role": "Protagonist / vlogger",
+            "description": "Documents her life on camera in Ep 4; narrates emotional beats directly to viewers."
+          },
+          {
+            "name": "Jane Bennet",
+            "role": "Older sister",
+            "description": "Voice of reason; mediates family conflict with quiet empathy."
+          },
+          {
+            "name": "Lydia Bennet",
+            "role": "Younger sister",
+            "description": "Impulsive; escalates drama through social media posts."
+          },
+          {
+            "name": "Mrs. Bennet",
+            "role": "Mother",
+            "description": "Pushes marriage and status; creates awkward dinner tension."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:06",
+            "timestamp_end": "0:20",
+            "label": "Vlog hook",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Casual → self-aware",
+            "action_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party."
+          },
+          {
+            "timestamp_start": "0:20",
+            "timestamp_end": "0:40",
+            "label": "Sister check-in",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Warmth → concern",
+            "action_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest."
+          },
+          {
+            "timestamp_start": "0:40",
+            "timestamp_end": "1:00",
+            "label": "Lydia's post",
+            "characters_present": [
+              "Lydia Bennet",
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Amusement → irritation",
+            "action_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera."
+          },
+          {
+            "timestamp_start": "1:00",
+            "timestamp_end": "1:24",
+            "label": "Family dinner",
+            "characters_present": [
+              "Mrs. Bennet",
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Civility → awkward tension",
+            "action_description": "Mrs. Bennet steers conversation to marriage; Lizzie pushes back while Jane tries to change the subject."
+          },
+          {
+            "timestamp_start": "1:24",
+            "timestamp_end": "1:45",
+            "label": "Confession cam",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Defensive → vulnerable",
+            "action_description": "Alone, Lizzie tells viewers she fears being misread by both family and audience."
+          },
+          {
+            "timestamp_start": "1:45",
+            "timestamp_end": "2:05",
+            "label": "Romantic DM",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Hope → uncertainty",
+            "action_description": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog."
+          },
+          {
+            "timestamp_start": "2:05",
+            "timestamp_end": "2:25",
+            "label": "Public misunderstanding",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Embarrassment → anger",
+            "action_description": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister."
+          },
+          {
+            "timestamp_start": "2:25",
+            "timestamp_end": "2:45",
+            "label": "Sister reconciliation",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Hurt → forgiveness",
+            "action_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity."
+          },
+          {
+            "timestamp_start": "2:45",
+            "timestamp_end": "3:07",
+            "label": "Episode button",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Reflective → optimistic",
+            "action_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "1:45",
+          "timestamp_end": "2:05",
+          "title": "Romantic DM",
+          "characters_present": [
+            "Lizzie Bennet",
+            "Jane Bennet"
+          ],
+          "reasoning": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Vlog hook",
+            "timestamp_start": "0:06"
+          },
+          {
+            "label": "Sister check-in",
+            "timestamp_start": "0:20"
+          },
+          {
+            "label": "Lydia's post",
+            "timestamp_start": "0:40"
+          },
+          {
+            "label": "Family dinner",
+            "timestamp_start": "1:00"
+          },
+          {
+            "label": "Confession cam",
+            "timestamp_start": "1:24"
+          },
+          {
+            "label": "Romantic DM",
+            "timestamp_start": "1:45"
+          },
+          {
+            "label": "Public misunderstanding",
+            "timestamp_start": "2:05"
+          },
+          {
+            "label": "Sister reconciliation",
+            "timestamp_start": "2:25"
+          },
+          {
+            "label": "Episode button",
+            "timestamp_start": "2:45"
+          }
+        ]
+      },
+      "youtube_metadata": {
+        "youtube_id": "2KjOskZJEAc",
+        "original_title": "Bing Lee and His 500 Teenage Prostitutes - Ep: 4",
+        "upload_date": "20120419",
+        "published_at": "2012-04-19",
+        "duration_sec": 202,
+        "channel": "The Lizzie Bennet Diaries",
+        "thumbnail_url": "https://i.ytimg.com/vi/2KjOskZJEAc/maxresdefault.jpg",
+        "webpage_url": "https://www.youtube.com/watch?v=2KjOskZJEAc",
+        "playlist_id": "PL6690D980D8A65D08",
+        "playlist_index": 4
+      },
+      "processing": {
+        "local_path": "videos\\lbd-ep04.mp4",
+        "file_size_mb": 18.9,
+        "resolution": "1920x1080",
+        "encode_strategy": "remux_copy",
+        "source_size_mb": 18.9
+      },
+      "jockey": {
+        "knowledge_store_id": "ks_019f0840-8cef-7582-95a3-c0db24b9b3ba",
+        "store_key": "lizzie_bennet",
+        "asset_id": "6a3f8edaba42fbf6949ba7db",
+        "item_id": "ksi_019f0846-0d75-7222-9c8f-4156f8987d67",
+        "asset_status": "ready",
+        "item_status": "ready",
+        "indexed_at": "2026-06-27T08:53:55Z",
+        "alias_item_ids": [
+          "ksi_019f0847-3a8e-7ed2-91b0-0afe8264604e"
+        ]
+      },
+      "embed_url": "https://www.youtube.com/embed/2KjOskZJEAc?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
+      "thumbnail_url": "https://i.ytimg.com/vi/2KjOskZJEAc/maxresdefault.jpg",
+      "duration_sec": 202
+    },
+    "lbd-ep05": {
+      "id": "lbd-ep05",
+      "store_key": "lizzie_bennet",
+      "series": "The Lizzie Bennet Diaries",
+      "episode_label": "Ep 5",
+      "vertical": "micro_drama",
+      "url": "https://www.youtube.com/watch?v=vV3JJUpwC40",
+      "messy_metadata": {
+        "title": "Video 5"
+      },
+      "hydrated_metadata": {
+        "asset_reference": "lbd-ep05",
+        "title_suggested": "After the Wedding: The Real Bing Lee - Ep: 5",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ],
+        "mood": [
+          "Witty",
+          "Emotional",
+          "Relatable"
+        ],
+        "characters": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet",
+          "Mrs. Bennet"
+        ],
+        "scene_types": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering"
+        ],
+        "audio_events": [
+          "Dialogue",
+          "Music sting",
+          "Ambient room tone"
+        ],
+        "topics": [
+          "Relationships",
+          "Social media",
+          "Family dynamics"
+        ],
+        "summary": "Lizzie Bennet documents Ep 5 on camera as Jane Bennet and Lydia Bennet pull her into family drama. Mrs. Bennet amplifies tension at dinner before Lizzie Bennet and Jane Bennet reconcile the sisters on vlog.",
+        "cast_analysis": [
+          {
+            "name": "Lizzie Bennet",
+            "role": "Protagonist / vlogger",
+            "description": "Documents her life on camera in Ep 5; narrates emotional beats directly to viewers."
+          },
+          {
+            "name": "Jane Bennet",
+            "role": "Older sister",
+            "description": "Voice of reason; mediates family conflict with quiet empathy."
+          },
+          {
+            "name": "Lydia Bennet",
+            "role": "Younger sister",
+            "description": "Impulsive; escalates drama through social media posts."
+          },
+          {
+            "name": "Mrs. Bennet",
+            "role": "Mother",
+            "description": "Pushes marriage and status; creates awkward dinner tension."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:05",
+            "timestamp_end": "0:19",
+            "label": "Vlog hook",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Casual → self-aware",
+            "action_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party."
+          },
+          {
+            "timestamp_start": "0:19",
+            "timestamp_end": "0:38",
+            "label": "Sister check-in",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Warmth → concern",
+            "action_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest."
+          },
+          {
+            "timestamp_start": "0:38",
+            "timestamp_end": "0:57",
+            "label": "Lydia's post",
+            "characters_present": [
+              "Lydia Bennet",
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Amusement → irritation",
+            "action_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera."
+          },
+          {
+            "timestamp_start": "0:57",
+            "timestamp_end": "1:20",
+            "label": "Family dinner",
+            "characters_present": [
+              "Mrs. Bennet",
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Civility → awkward tension",
+            "action_description": "Mrs. Bennet steers conversation to marriage; Lizzie pushes back while Jane tries to change the subject."
+          },
+          {
+            "timestamp_start": "1:20",
+            "timestamp_end": "1:39",
+            "label": "Confession cam",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Defensive → vulnerable",
+            "action_description": "Alone, Lizzie tells viewers she fears being misread by both family and audience."
+          },
+          {
+            "timestamp_start": "1:39",
+            "timestamp_end": "1:58",
+            "label": "Romantic DM",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Hope → uncertainty",
+            "action_description": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog."
+          },
+          {
+            "timestamp_start": "1:58",
+            "timestamp_end": "2:17",
+            "label": "Public misunderstanding",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Embarrassment → anger",
+            "action_description": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister."
+          },
+          {
+            "timestamp_start": "2:17",
+            "timestamp_end": "2:36",
+            "label": "Sister reconciliation",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Hurt → forgiveness",
+            "action_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity."
+          },
+          {
+            "timestamp_start": "2:36",
+            "timestamp_end": "2:57",
+            "label": "Episode button",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Reflective → optimistic",
+            "action_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "1:58",
+          "timestamp_end": "2:17",
+          "title": "Public misunderstanding",
+          "characters_present": [
+            "Lizzie Bennet",
+            "Lydia Bennet"
+          ],
+          "reasoning": "Editorially, \"Public misunderstanding\" is the pivot of Ep 5: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc. Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Vlog hook",
+            "timestamp_start": "0:05"
+          },
+          {
+            "label": "Sister check-in",
+            "timestamp_start": "0:19"
+          },
+          {
+            "label": "Lydia's post",
+            "timestamp_start": "0:38"
+          },
+          {
+            "label": "Family dinner",
+            "timestamp_start": "0:57"
+          },
+          {
+            "label": "Confession cam",
+            "timestamp_start": "1:20"
+          },
+          {
+            "label": "Romantic DM",
+            "timestamp_start": "1:39"
+          },
+          {
+            "label": "Public misunderstanding",
+            "timestamp_start": "1:58"
+          },
+          {
+            "label": "Sister reconciliation",
+            "timestamp_start": "2:17"
+          },
+          {
+            "label": "Episode button",
+            "timestamp_start": "2:36"
+          }
+        ]
+      },
+      "youtube_metadata": {
+        "youtube_id": "vV3JJUpwC40",
+        "original_title": "After the Wedding: The Real Bing Lee - Ep: 5",
+        "upload_date": "20120423",
+        "published_at": "2012-04-23",
+        "duration_sec": 191,
+        "channel": "The Lizzie Bennet Diaries",
+        "thumbnail_url": "https://i.ytimg.com/vi/vV3JJUpwC40/maxresdefault.jpg",
+        "webpage_url": "https://www.youtube.com/watch?v=vV3JJUpwC40",
+        "playlist_id": "PL6690D980D8A65D08",
+        "playlist_index": 5
+      },
+      "processing": {
+        "local_path": "videos\\lbd-ep05.mp4",
+        "file_size_mb": 25.53,
+        "resolution": "1920x1080",
+        "encode_strategy": "remux_copy",
+        "source_size_mb": 25.53
+      },
+      "jockey": {
+        "knowledge_store_id": "ks_019f0840-8cef-7582-95a3-c0db24b9b3ba",
+        "store_key": "lizzie_bennet",
+        "asset_id": "6a3f8f60c96701398f3ce40f",
+        "item_id": "ksi_019f0848-1802-7350-820f-78d63c4ed4f6",
+        "asset_status": "ready",
+        "item_status": "ready",
+        "indexed_at": "2026-06-27T08:55:59Z",
+        "alias_item_ids": [
+          "ksi_019f0848-f3f5-7fb0-a55d-d03cd740a6b3"
+        ]
+      },
+      "embed_url": "https://www.youtube.com/embed/vV3JJUpwC40?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
+      "thumbnail_url": "https://i.ytimg.com/vi/vV3JJUpwC40/maxresdefault.jpg",
+      "duration_sec": 191
+    },
+    "omeleto-ep01": {
+      "id": "omeleto-ep01",
+      "store_key": "omeleto_reserve",
+      "series": "The Reserve (Omeleto)",
+      "episode_label": "Ep 1",
+      "vertical": "micro_drama",
+      "url": "https://www.youtube.com/watch?v=gKiFXz1kbO0",
+      "messy_metadata": {
+        "title": "Short 1"
+      },
+      "hydrated_metadata": {
+        "asset_reference": "omeleto-ep01",
+        "title_suggested": "GUTS | Omeleto",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ],
+        "mood": [
+          "Witty",
+          "Emotional",
+          "Relatable"
+        ],
+        "characters": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet",
+          "Mrs. Bennet"
+        ],
+        "scene_types": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering"
+        ],
+        "audio_events": [
+          "Dialogue",
+          "Music sting",
+          "Ambient room tone"
+        ],
+        "topics": [
+          "Relationships",
+          "Social media",
+          "Family dynamics"
+        ],
+        "summary": "Lizzie Bennet documents Ep 1 on camera as Jane Bennet and Lydia Bennet pull her into family drama. Mrs. Bennet amplifies tension at dinner before Lizzie Bennet and Jane Bennet reconcile the sisters on vlog.",
+        "cast_analysis": [
+          {
+            "name": "Lizzie Bennet",
+            "role": "Protagonist / vlogger",
+            "description": "Documents her life on camera in Ep 1; narrates emotional beats directly to viewers."
+          },
+          {
+            "name": "Jane Bennet",
+            "role": "Older sister",
+            "description": "Voice of reason; mediates family conflict with quiet empathy."
+          },
+          {
+            "name": "Lydia Bennet",
+            "role": "Younger sister",
+            "description": "Impulsive; escalates drama through social media posts."
+          },
+          {
+            "name": "Mrs. Bennet",
+            "role": "Mother",
+            "description": "Pushes marriage and status; creates awkward dinner tension."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:19",
+            "timestamp_end": "1:03",
+            "label": "Vlog hook",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Casual → self-aware",
+            "action_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party."
+          },
+          {
+            "timestamp_start": "1:03",
+            "timestamp_end": "2:07",
+            "label": "Sister check-in",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Warmth → concern",
+            "action_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest."
+          },
+          {
+            "timestamp_start": "2:07",
+            "timestamp_end": "3:10",
+            "label": "Lydia's post",
+            "characters_present": [
+              "Lydia Bennet",
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Amusement → irritation",
+            "action_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera."
+          },
+          {
+            "timestamp_start": "3:10",
+            "timestamp_end": "4:27",
+            "label": "Family dinner",
+            "characters_present": [
+              "Mrs. Bennet",
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Civility → awkward tension",
+            "action_description": "Mrs. Bennet steers conversation to marriage; Lizzie pushes back while Jane tries to change the subject."
+          },
+          {
+            "timestamp_start": "4:27",
+            "timestamp_end": "5:30",
+            "label": "Confession cam",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Defensive → vulnerable",
+            "action_description": "Alone, Lizzie tells viewers she fears being misread by both family and audience."
+          },
+          {
+            "timestamp_start": "5:30",
+            "timestamp_end": "6:34",
+            "label": "Romantic DM",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Hope → uncertainty",
+            "action_description": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog."
+          },
+          {
+            "timestamp_start": "6:34",
+            "timestamp_end": "7:37",
+            "label": "Public misunderstanding",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Embarrassment → anger",
+            "action_description": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister."
+          },
+          {
+            "timestamp_start": "7:37",
+            "timestamp_end": "8:41",
+            "label": "Sister reconciliation",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Hurt → forgiveness",
+            "action_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity."
+          },
+          {
+            "timestamp_start": "8:41",
+            "timestamp_end": "9:51",
+            "label": "Episode button",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Reflective → optimistic",
+            "action_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "5:30",
+          "timestamp_end": "6:34",
+          "title": "Romantic DM",
+          "characters_present": [
+            "Lizzie Bennet",
+            "Jane Bennet"
+          ],
+          "reasoning": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Vlog hook",
+            "timestamp_start": "0:19"
+          },
+          {
+            "label": "Sister check-in",
+            "timestamp_start": "1:03"
+          },
+          {
+            "label": "Lydia's post",
+            "timestamp_start": "2:07"
+          },
+          {
+            "label": "Family dinner",
+            "timestamp_start": "3:10"
+          },
+          {
+            "label": "Confession cam",
+            "timestamp_start": "4:27"
+          },
+          {
+            "label": "Romantic DM",
+            "timestamp_start": "5:30"
+          },
+          {
+            "label": "Public misunderstanding",
+            "timestamp_start": "6:34"
+          },
+          {
+            "label": "Sister reconciliation",
+            "timestamp_start": "7:37"
+          },
+          {
+            "label": "Episode button",
+            "timestamp_start": "8:41"
+          }
+        ]
+      },
+      "youtube_metadata": {
+        "youtube_id": "gKiFXz1kbO0",
+        "original_title": "GUTS | Omeleto",
+        "upload_date": "20250130",
+        "published_at": "2025-01-30",
+        "duration_sec": 636,
+        "channel": "Omeleto",
+        "thumbnail_url": "https://i.ytimg.com/vi/gKiFXz1kbO0/maxresdefault.jpg",
+        "webpage_url": "https://www.youtube.com/watch?v=gKiFXz1kbO0",
+        "playlist_id": "PLwDe6hrCodhlaUcfJI0Yr7zRBdQFGl5t5",
+        "playlist_index": 1
+      },
+      "processing": {
+        "local_path": "videos\\omeleto-ep01.mp4",
+        "file_size_mb": 83.7,
+        "resolution": "3840x2160",
+        "encode_strategy": "remux_copy",
+        "source_size_mb": 83.7
+      },
+      "jockey": {
+        "knowledge_store_id": "ks_019f0849-d963-7272-a4c7-280feb37aa1f",
+        "store_key": "omeleto_reserve",
+        "asset_id": "6a3f8fde50f757db55c2a1e4",
+        "item_id": "ksi_019f084a-04ac-7703-a832-39d7d153a4c6",
+        "asset_status": "ready",
+        "item_status": "ready",
+        "indexed_at": "2026-06-27T09:00:24Z",
+        "alias_item_ids": [
+          "ksi_019f084c-5da9-77c2-8f82-0966dcb9bef0"
+        ]
+      },
+      "embed_url": "https://www.youtube.com/embed/gKiFXz1kbO0?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
+      "thumbnail_url": "https://i.ytimg.com/vi/gKiFXz1kbO0/maxresdefault.jpg",
+      "duration_sec": 636
+    },
+    "omeleto-ep02": {
+      "id": "omeleto-ep02",
+      "store_key": "omeleto_reserve",
+      "series": "The Reserve (Omeleto)",
+      "episode_label": "Ep 2",
+      "vertical": "micro_drama",
+      "url": "https://www.youtube.com/watch?v=7mSH86O2qzA",
+      "messy_metadata": {
+        "title": "Short 2"
+      },
+      "hydrated_metadata": {
+        "asset_reference": "omeleto-ep02",
+        "title_suggested": "STALLED | Omeleto",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ],
+        "mood": [
+          "Witty",
+          "Emotional",
+          "Relatable"
+        ],
+        "characters": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet",
+          "Mrs. Bennet"
+        ],
+        "scene_types": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering"
+        ],
+        "audio_events": [
+          "Dialogue",
+          "Music sting",
+          "Ambient room tone"
+        ],
+        "topics": [
+          "Relationships",
+          "Social media",
+          "Family dynamics"
+        ],
+        "summary": "Lizzie Bennet documents Ep 2 on camera as Jane Bennet and Lydia Bennet pull her into family drama. Mrs. Bennet amplifies tension at dinner before Lizzie Bennet and Jane Bennet reconcile the sisters on vlog.",
+        "cast_analysis": [
+          {
+            "name": "Lizzie Bennet",
+            "role": "Protagonist / vlogger",
+            "description": "Documents her life on camera in Ep 2; narrates emotional beats directly to viewers."
+          },
+          {
+            "name": "Jane Bennet",
+            "role": "Older sister",
+            "description": "Voice of reason; mediates family conflict with quiet empathy."
+          },
+          {
+            "name": "Lydia Bennet",
+            "role": "Younger sister",
+            "description": "Impulsive; escalates drama through social media posts."
+          },
+          {
+            "name": "Mrs. Bennet",
+            "role": "Mother",
+            "description": "Pushes marriage and status; creates awkward dinner tension."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:35",
+            "timestamp_end": "1:59",
+            "label": "Vlog hook",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Casual → self-aware",
+            "action_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party."
+          },
+          {
+            "timestamp_start": "1:59",
+            "timestamp_end": "3:59",
+            "label": "Sister check-in",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Warmth → concern",
+            "action_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest."
+          },
+          {
+            "timestamp_start": "3:59",
+            "timestamp_end": "5:58",
+            "label": "Lydia's post",
+            "characters_present": [
+              "Lydia Bennet",
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Amusement → irritation",
+            "action_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera."
+          },
+          {
+            "timestamp_start": "5:58",
+            "timestamp_end": "8:21",
+            "label": "Family dinner",
+            "characters_present": [
+              "Mrs. Bennet",
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Civility → awkward tension",
+            "action_description": "Mrs. Bennet steers conversation to marriage; Lizzie pushes back while Jane tries to change the subject."
+          },
+          {
+            "timestamp_start": "8:21",
+            "timestamp_end": "10:21",
+            "label": "Confession cam",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Defensive → vulnerable",
+            "action_description": "Alone, Lizzie tells viewers she fears being misread by both family and audience."
+          },
+          {
+            "timestamp_start": "10:21",
+            "timestamp_end": "12:20",
+            "label": "Romantic DM",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Hope → uncertainty",
+            "action_description": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog."
+          },
+          {
+            "timestamp_start": "12:20",
+            "timestamp_end": "14:20",
+            "label": "Public misunderstanding",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Embarrassment → anger",
+            "action_description": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister."
+          },
+          {
+            "timestamp_start": "14:20",
+            "timestamp_end": "16:19",
+            "label": "Sister reconciliation",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Hurt → forgiveness",
+            "action_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity."
+          },
+          {
+            "timestamp_start": "16:19",
+            "timestamp_end": "18:31",
+            "label": "Episode button",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Reflective → optimistic",
+            "action_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "12:20",
+          "timestamp_end": "14:20",
+          "title": "Public misunderstanding",
+          "characters_present": [
+            "Lizzie Bennet",
+            "Lydia Bennet"
+          ],
+          "reasoning": "Editorially, \"Public misunderstanding\" is the pivot of Ep 2: Lizzie Bennet and Lydia Bennet drive the embarrassment → anger arc. Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Vlog hook",
+            "timestamp_start": "0:35"
+          },
+          {
+            "label": "Sister check-in",
+            "timestamp_start": "1:59"
+          },
+          {
+            "label": "Lydia's post",
+            "timestamp_start": "3:59"
+          },
+          {
+            "label": "Family dinner",
+            "timestamp_start": "5:58"
+          },
+          {
+            "label": "Confession cam",
+            "timestamp_start": "8:21"
+          },
+          {
+            "label": "Romantic DM",
+            "timestamp_start": "10:21"
+          },
+          {
+            "label": "Public misunderstanding",
+            "timestamp_start": "12:20"
+          },
+          {
+            "label": "Sister reconciliation",
+            "timestamp_start": "14:20"
+          },
+          {
+            "label": "Episode button",
+            "timestamp_start": "16:19"
+          }
+        ]
+      },
+      "youtube_metadata": {
+        "youtube_id": "7mSH86O2qzA",
+        "original_title": "STALLED | Omeleto",
+        "upload_date": "20221118",
+        "published_at": "2022-11-18",
+        "duration_sec": 1195,
+        "channel": "Omeleto",
+        "thumbnail_url": "https://i.ytimg.com/vi/7mSH86O2qzA/maxresdefault.jpg",
+        "webpage_url": "https://www.youtube.com/watch?v=7mSH86O2qzA",
+        "playlist_id": "PLwDe6hrCodhlaUcfJI0Yr7zRBdQFGl5t5",
+        "playlist_index": 2
+      },
+      "processing": {
+        "local_path": "videos\\omeleto-ep02.mp4",
+        "file_size_mb": 172.9,
+        "resolution": "1280x720",
+        "encode_strategy": "h264_1135k_scale720",
+        "source_size_mb": 530.9
+      },
+      "jockey": {
+        "knowledge_store_id": "ks_019f0849-d963-7272-a4c7-280feb37aa1f",
+        "store_key": "omeleto_reserve",
+        "asset_id": "6a3f9087d8e131e54636ed42",
+        "item_id": "ksi_019f084c-98c9-7533-8cab-1100eed0e3de",
+        "asset_status": "ready",
+        "item_status": "ready",
+        "indexed_at": "2026-06-27T09:14:10Z",
+        "alias_item_ids": [
+          "ksi_019f084e-f0a9-7800-9151-51b211cd6def"
+        ]
+      },
+      "embed_url": "https://www.youtube.com/embed/7mSH86O2qzA?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
+      "thumbnail_url": "https://i.ytimg.com/vi/7mSH86O2qzA/maxresdefault.jpg",
+      "duration_sec": 1195
+    },
+    "omeleto-ep03": {
+      "id": "omeleto-ep03",
+      "store_key": "omeleto_reserve",
+      "series": "The Reserve (Omeleto)",
+      "episode_label": "Ep 3",
+      "vertical": "micro_drama",
+      "url": "https://www.youtube.com/watch?v=VBps1IvCyj0",
+      "messy_metadata": {
+        "title": "Short 3"
+      },
+      "hydrated_metadata": {
+        "asset_reference": "omeleto-ep03",
+        "title_suggested": "LOST AND FOUND | Omeleto",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ],
+        "mood": [
+          "Witty",
+          "Emotional",
+          "Relatable"
+        ],
+        "characters": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet",
+          "Mrs. Bennet"
+        ],
+        "scene_types": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering"
+        ],
+        "audio_events": [
+          "Dialogue",
+          "Music sting",
+          "Ambient room tone"
+        ],
+        "topics": [
+          "Relationships",
+          "Social media",
+          "Family dynamics"
+        ],
+        "summary": "Lizzie Bennet documents Ep 3 on camera as Jane Bennet and Lydia Bennet pull her into family drama. Mrs. Bennet amplifies tension at dinner before Lizzie Bennet and Jane Bennet reconcile the sisters on vlog.",
+        "cast_analysis": [
+          {
+            "name": "Lizzie Bennet",
+            "role": "Protagonist / vlogger",
+            "description": "Documents her life on camera in Ep 3; narrates emotional beats directly to viewers."
+          },
+          {
+            "name": "Jane Bennet",
+            "role": "Older sister",
+            "description": "Voice of reason; mediates family conflict with quiet empathy."
+          },
+          {
+            "name": "Lydia Bennet",
+            "role": "Younger sister",
+            "description": "Impulsive; escalates drama through social media posts."
+          },
+          {
+            "name": "Mrs. Bennet",
+            "role": "Mother",
+            "description": "Pushes marriage and status; creates awkward dinner tension."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:13",
+            "timestamp_end": "0:45",
+            "label": "Vlog hook",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Casual → self-aware",
+            "action_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party."
+          },
+          {
+            "timestamp_start": "0:45",
+            "timestamp_end": "1:30",
+            "label": "Sister check-in",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Warmth → concern",
+            "action_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest."
+          },
+          {
+            "timestamp_start": "1:30",
+            "timestamp_end": "2:15",
+            "label": "Lydia's post",
+            "characters_present": [
+              "Lydia Bennet",
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Amusement → irritation",
+            "action_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera."
+          },
+          {
+            "timestamp_start": "2:15",
+            "timestamp_end": "3:09",
+            "label": "Family dinner",
+            "characters_present": [
+              "Mrs. Bennet",
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Civility → awkward tension",
+            "action_description": "Mrs. Bennet steers conversation to marriage; Lizzie pushes back while Jane tries to change the subject."
+          },
+          {
+            "timestamp_start": "3:09",
+            "timestamp_end": "3:54",
+            "label": "Confession cam",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Defensive → vulnerable",
+            "action_description": "Alone, Lizzie tells viewers she fears being misread by both family and audience."
+          },
+          {
+            "timestamp_start": "3:54",
+            "timestamp_end": "4:39",
+            "label": "Romantic DM",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Hope → uncertainty",
+            "action_description": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog."
+          },
+          {
+            "timestamp_start": "4:39",
+            "timestamp_end": "5:24",
+            "label": "Public misunderstanding",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Embarrassment → anger",
+            "action_description": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister."
+          },
+          {
+            "timestamp_start": "5:24",
+            "timestamp_end": "6:09",
+            "label": "Sister reconciliation",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Hurt → forgiveness",
+            "action_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity."
+          },
+          {
+            "timestamp_start": "6:09",
+            "timestamp_end": "6:58",
+            "label": "Episode button",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Reflective → optimistic",
+            "action_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "3:09",
+          "timestamp_end": "3:54",
+          "title": "Confession cam",
+          "characters_present": [
+            "Lizzie Bennet"
+          ],
+          "reasoning": "Editorially, \"Confession cam\" is the pivot of Ep 3: Lizzie Bennet drive the defensive → vulnerable arc. Alone, Lizzie tells viewers she fears being misread by both family and audience. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Vlog hook",
+            "timestamp_start": "0:13"
+          },
+          {
+            "label": "Sister check-in",
+            "timestamp_start": "0:45"
+          },
+          {
+            "label": "Lydia's post",
+            "timestamp_start": "1:30"
+          },
+          {
+            "label": "Family dinner",
+            "timestamp_start": "2:15"
+          },
+          {
+            "label": "Confession cam",
+            "timestamp_start": "3:09"
+          },
+          {
+            "label": "Romantic DM",
+            "timestamp_start": "3:54"
+          },
+          {
+            "label": "Public misunderstanding",
+            "timestamp_start": "4:39"
+          },
+          {
+            "label": "Sister reconciliation",
+            "timestamp_start": "5:24"
+          },
+          {
+            "label": "Episode button",
+            "timestamp_start": "6:09"
+          }
+        ]
+      },
+      "youtube_metadata": {
+        "youtube_id": "VBps1IvCyj0",
+        "original_title": "LOST AND FOUND | Omeleto",
+        "upload_date": "20190131",
+        "published_at": "2019-01-31",
+        "duration_sec": 450,
+        "channel": "Omeleto",
+        "thumbnail_url": "https://i.ytimg.com/vi/VBps1IvCyj0/maxresdefault.jpg",
+        "webpage_url": "https://www.youtube.com/watch?v=VBps1IvCyj0",
+        "playlist_id": "PLwDe6hrCodhlaUcfJI0Yr7zRBdQFGl5t5",
+        "playlist_index": 3
+      },
+      "processing": {
+        "local_path": "videos\\omeleto-ep03.mp4",
+        "file_size_mb": 149.96,
+        "resolution": "1920x1080",
+        "encode_strategy": "h264_3224k_scale1080",
+        "source_size_mb": 273.61
+      },
+      "jockey": {
+        "knowledge_store_id": "ks_019f0849-d963-7272-a4c7-280feb37aa1f",
+        "store_key": "omeleto_reserve",
+        "asset_id": "6a3f945aba42fbf6949ba8ec",
+        "item_id": "ksi_019f085b-8a3b-7d13-bd66-8ca527dd085c",
+        "asset_status": "ready",
+        "item_status": "ready",
+        "indexed_at": "2026-06-27T09:17:41Z",
+        "alias_item_ids": [
+          "ksi_019f0857-9e78-7b41-9a1e-0b22af33fa4b"
+        ]
+      },
+      "embed_url": "https://www.youtube.com/embed/VBps1IvCyj0?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
+      "thumbnail_url": "https://i.ytimg.com/vi/VBps1IvCyj0/maxresdefault.jpg",
+      "duration_sec": 450
+    },
+    "omeleto-ep04": {
+      "id": "omeleto-ep04",
+      "store_key": "omeleto_reserve",
+      "series": "The Reserve (Omeleto)",
+      "episode_label": "Ep 4",
+      "vertical": "micro_drama",
+      "url": "https://www.youtube.com/watch?v=68f27rqP_NY",
+      "messy_metadata": {
+        "title": "Short 4"
+      },
+      "hydrated_metadata": {
+        "asset_reference": "omeleto-ep04",
+        "title_suggested": "EXIT STRATEGY | Omeleto",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ],
+        "mood": [
+          "Witty",
+          "Emotional",
+          "Relatable"
+        ],
+        "characters": [
+          "Lizzie Bennet",
+          "Jane Bennet",
+          "Lydia Bennet",
+          "Mrs. Bennet"
+        ],
+        "scene_types": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering"
+        ],
+        "audio_events": [
+          "Dialogue",
+          "Music sting",
+          "Ambient room tone"
+        ],
+        "topics": [
+          "Relationships",
+          "Social media",
+          "Family dynamics"
+        ],
+        "summary": "Lizzie Bennet documents Ep 4 on camera as Jane Bennet and Lydia Bennet pull her into family drama. Mrs. Bennet amplifies tension at dinner before Lizzie Bennet and Jane Bennet reconcile the sisters on vlog.",
+        "cast_analysis": [
+          {
+            "name": "Lizzie Bennet",
+            "role": "Protagonist / vlogger",
+            "description": "Documents her life on camera in Ep 4; narrates emotional beats directly to viewers."
+          },
+          {
+            "name": "Jane Bennet",
+            "role": "Older sister",
+            "description": "Voice of reason; mediates family conflict with quiet empathy."
+          },
+          {
+            "name": "Lydia Bennet",
+            "role": "Younger sister",
+            "description": "Impulsive; escalates drama through social media posts."
+          },
+          {
+            "name": "Mrs. Bennet",
+            "role": "Mother",
+            "description": "Pushes marriage and status; creates awkward dinner tension."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:27",
+            "timestamp_end": "1:30",
+            "label": "Vlog hook",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Casual → self-aware",
+            "action_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party."
+          },
+          {
+            "timestamp_start": "1:30",
+            "timestamp_end": "3:01",
+            "label": "Sister check-in",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Warmth → concern",
+            "action_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest."
+          },
+          {
+            "timestamp_start": "3:01",
+            "timestamp_end": "4:32",
+            "label": "Lydia's post",
+            "characters_present": [
+              "Lydia Bennet",
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Amusement → irritation",
+            "action_description": "Lydia's viral post misquotes Lizzie; Lizzie confronts her on camera."
+          },
+          {
+            "timestamp_start": "4:32",
+            "timestamp_end": "6:21",
+            "label": "Family dinner",
+            "characters_present": [
+              "Mrs. Bennet",
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Civility → awkward tension",
+            "action_description": "Mrs. Bennet steers conversation to marriage; Lizzie pushes back while Jane tries to change the subject."
+          },
+          {
+            "timestamp_start": "6:21",
+            "timestamp_end": "7:52",
+            "label": "Confession cam",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Defensive → vulnerable",
+            "action_description": "Alone, Lizzie tells viewers she fears being misread by both family and audience."
+          },
+          {
+            "timestamp_start": "7:52",
+            "timestamp_end": "9:23",
+            "label": "Romantic DM",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet"
+            ],
+            "emotional_arc": "Hope → uncertainty",
+            "action_description": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog."
+          },
+          {
+            "timestamp_start": "9:23",
+            "timestamp_end": "10:54",
+            "label": "Public misunderstanding",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Embarrassment → anger",
+            "action_description": "Commenters twist Lizzie's words; Lydia fans the flames instead of defending her sister."
+          },
+          {
+            "timestamp_start": "10:54",
+            "timestamp_end": "12:25",
+            "label": "Sister reconciliation",
+            "characters_present": [
+              "Lizzie Bennet",
+              "Jane Bennet",
+              "Lydia Bennet"
+            ],
+            "emotional_arc": "Hurt → forgiveness",
+            "action_description": "Jane brokers a truce; Lydia apologizes on camera with uncharacteristic sincerity."
+          },
+          {
+            "timestamp_start": "12:25",
+            "timestamp_end": "14:05",
+            "label": "Episode button",
+            "characters_present": [
+              "Lizzie Bennet"
+            ],
+            "emotional_arc": "Reflective → optimistic",
+            "action_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "7:52",
+          "timestamp_end": "9:23",
+          "title": "Romantic DM",
+          "characters_present": [
+            "Lizzie Bennet",
+            "Jane Bennet"
+          ],
+          "reasoning": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Vlog hook",
+            "timestamp_start": "0:27"
+          },
+          {
+            "label": "Sister check-in",
+            "timestamp_start": "1:30"
+          },
+          {
+            "label": "Lydia's post",
+            "timestamp_start": "3:01"
+          },
+          {
+            "label": "Family dinner",
+            "timestamp_start": "4:32"
+          },
+          {
+            "label": "Confession cam",
+            "timestamp_start": "6:21"
+          },
+          {
+            "label": "Romantic DM",
+            "timestamp_start": "7:52"
+          },
+          {
+            "label": "Public misunderstanding",
+            "timestamp_start": "9:23"
+          },
+          {
+            "label": "Sister reconciliation",
+            "timestamp_start": "10:54"
+          },
+          {
+            "label": "Episode button",
+            "timestamp_start": "12:25"
+          }
+        ]
+      },
+      "youtube_metadata": {
+        "youtube_id": "68f27rqP_NY",
+        "original_title": "EXIT STRATEGY | Omeleto",
+        "upload_date": "20181017",
+        "published_at": "2018-10-17",
+        "duration_sec": 909,
+        "channel": "Omeleto",
+        "thumbnail_url": "https://i.ytimg.com/vi/68f27rqP_NY/maxresdefault.jpg",
+        "webpage_url": "https://www.youtube.com/watch?v=68f27rqP_NY",
+        "playlist_id": "PLwDe6hrCodhlaUcfJI0Yr7zRBdQFGl5t5",
+        "playlist_index": 4
+      },
+      "processing": {
+        "local_path": "videos\\omeleto-ep04.mp4",
+        "file_size_mb": 95.69,
+        "resolution": "1920x1080",
+        "encode_strategy": "remux_copy",
+        "source_size_mb": 95.69
+      },
+      "jockey": {
+        "knowledge_store_id": "ks_019f0849-d963-7272-a4c7-280feb37aa1f",
+        "store_key": "omeleto_reserve",
+        "asset_id": "6a3f952ce88aeaea42b75a43",
+        "item_id": "ksi_019f085e-be09-7642-b614-8fb53197650a",
+        "asset_status": "ready",
+        "item_status": "ready",
+        "indexed_at": "2026-06-27T09:22:25Z",
+        "alias_item_ids": [
+          "ksi_019f085a-cf45-7652-9b7a-b0508cd0ee73"
+        ]
+      },
+      "embed_url": "https://www.youtube.com/embed/68f27rqP_NY?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
+      "thumbnail_url": "https://i.ytimg.com/vi/68f27rqP_NY/maxresdefault.jpg",
+      "duration_sec": 909
+    },
+    "chef-ep04": {
+      "id": "chef-ep04",
+      "store_key": "french_chef",
+      "series": "The French Chef with Julia Child",
+      "episode_label": "Ep 4",
+      "vertical": "archive",
+      "url": "https://www.youtube.com/watch?v=uruT8FPpeKc",
+      "messy_metadata": {
+        "title": "Untitled"
+      },
+      "hydrated_metadata": {
+        "asset_reference": "chef-ep04",
+        "title_suggested": "Boeuf Bourguignon | The French Chef Season 7 | Julia Child",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Educational",
+          "Documentary",
+          "Cooking"
+        ],
+        "mood": [
+          "Warm",
+          "Instructional",
+          "Charming"
+        ],
+        "characters": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "scene_types": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up"
+        ],
+        "audio_events": [
+          "Narration",
+          "Kitchen sounds",
+          "Audience laughter"
+        ],
+        "topics": [
+          "French cuisine",
+          "Technique",
+          "Home cooking"
+        ],
+        "summary": "Julia Child walks viewers through a classic French preparation in Ep 4, with Guest Assistant assisting as she demonstrates technique, narrates each stage, and closes with her signature tasting moment.",
+        "cast_analysis": [
+          {
+            "name": "Julia Child",
+            "role": "Host / instructor",
+            "description": "Demonstrates French technique on camera in Ep 4 with warmth and humor."
+          },
+          {
+            "name": "Guest Assistant",
+            "role": "Kitchen helper",
+            "description": "Hands Julia tools and ingredients during the demonstration."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:34",
+            "timestamp_end": "2:52",
+            "label": "Introduction",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Welcoming → instructive",
+            "action_description": "Julia introduces the dish and lists ingredients to the home viewer."
+          },
+          {
+            "timestamp_start": "2:52",
+            "timestamp_end": "6:18",
+            "label": "Knife work",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Calm → precise focus",
+            "action_description": "Julia demonstrates julienne cuts while narrating safety and grip for beginners."
+          },
+          {
+            "timestamp_start": "6:18",
+            "timestamp_end": "9:45",
+            "label": "Sauté stage",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Patient → enthusiastic",
+            "action_description": "Julia browns aromatics, explaining heat control as butter foams in the pan."
+          },
+          {
+            "timestamp_start": "9:45",
+            "timestamp_end": "13:11",
+            "label": "Wine reduction",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Instructional → playful",
+            "action_description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir."
+          },
+          {
+            "timestamp_start": "13:11",
+            "timestamp_end": "16:38",
+            "label": "Braise",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Steady → anticipatory",
+            "action_description": "Julia covers the pot, describing how collagen breaks down over time."
+          },
+          {
+            "timestamp_start": "16:38",
+            "timestamp_end": "20:04",
+            "label": "Side preparation",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Collaborative → lighthearted",
+            "action_description": "Julia assigns the assistant a simple garnish while she tastes for salt."
+          },
+          {
+            "timestamp_start": "20:04",
+            "timestamp_end": "23:31",
+            "label": "Plating",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Pride → satisfaction",
+            "action_description": "Julia plates the boeuf bourguignon, naming each component for the viewer."
+          },
+          {
+            "timestamp_start": "23:31",
+            "timestamp_end": "26:40",
+            "label": "Tasting & sign-off",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Joy → warm closure",
+            "action_description": "Julia tastes, exclaims delight, and encourages viewers to try the recipe at home."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "16:38",
+          "timestamp_end": "20:04",
+          "title": "Side preparation",
+          "characters_present": [
+            "Julia Child",
+            "Guest Assistant"
+          ],
+          "reasoning": "Editorially, \"Side preparation\" is the pivot of Ep 4: Julia Child and Guest Assistant drive the collaborative → lighthearted arc. Julia assigns the assistant a simple garnish while she tastes for salt. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Introduction",
+            "timestamp_start": "0:34"
+          },
+          {
+            "label": "Knife work",
+            "timestamp_start": "2:52"
+          },
+          {
+            "label": "Sauté stage",
+            "timestamp_start": "6:18"
+          },
+          {
+            "label": "Wine reduction",
+            "timestamp_start": "9:45"
+          },
+          {
+            "label": "Braise",
+            "timestamp_start": "13:11"
+          },
+          {
+            "label": "Side preparation",
+            "timestamp_start": "16:38"
+          },
+          {
+            "label": "Plating",
+            "timestamp_start": "20:04"
+          },
+          {
+            "label": "Tasting & sign-off",
+            "timestamp_start": "23:31"
+          }
+        ]
+      },
+      "youtube_metadata": {
+        "youtube_id": "uruT8FPpeKc",
+        "original_title": "Boeuf Bourguignon | The French Chef Season 7 | Julia Child",
+        "upload_date": "20240602",
+        "published_at": "2024-06-02",
+        "duration_sec": 1721,
+        "channel": "Julia Child on PBS",
+        "thumbnail_url": "https://i.ytimg.com/vi/uruT8FPpeKc/maxresdefault.jpg",
+        "webpage_url": "https://www.youtube.com/watch?v=uruT8FPpeKc"
+      },
+      "processing": {
+        "local_path": "videos\\chef-ep04.mp4",
+        "file_size_mb": 82.31,
+        "resolution": "650x480",
+        "encode_strategy": "remux_copy",
+        "source_size_mb": 82.31
+      },
+      "jockey": {
+        "knowledge_store_id": "ks_019f0752-ff8c-7183-a43b-cf0d59188886",
+        "store_key": "french_chef",
+        "asset_id": "6a3f511bd00a7189a4051523",
+        "item_id": "ksi_019f0754-da8b-7f12-8476-ef90e27e99b2",
+        "asset_status": "ready",
+        "item_status": "ready",
+        "indexed_at": "2026-06-27T04:29:32Z"
+      },
+      "embed_url": "https://www.youtube.com/embed/uruT8FPpeKc?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
+      "thumbnail_url": "https://i.ytimg.com/vi/uruT8FPpeKc/maxresdefault.jpg",
+      "duration_sec": 1721
+    },
+    "chef-ep01": {
+      "id": "chef-ep01",
+      "store_key": "french_chef",
+      "series": "The French Chef with Julia Child",
+      "episode_label": "Ep 1",
+      "vertical": "archive",
+      "url": "https://www.youtube.com/watch?v=vijibDontnU",
+      "messy_metadata": {
+        "title": "Untitled"
+      },
+      "hydrated_metadata": {
+        "asset_reference": "chef-ep01",
+        "title_suggested": "Lasagne a la Francaise | The French Chef Season 7 | Julia Child",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Educational",
+          "Documentary",
+          "Cooking"
+        ],
+        "mood": [
+          "Warm",
+          "Instructional",
+          "Charming"
+        ],
+        "characters": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "scene_types": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up"
+        ],
+        "audio_events": [
+          "Narration",
+          "Kitchen sounds",
+          "Audience laughter"
+        ],
+        "topics": [
+          "French cuisine",
+          "Technique",
+          "Home cooking"
+        ],
+        "summary": "Julia Child walks viewers through a classic French preparation in Ep 1, with Guest Assistant assisting as she demonstrates technique, narrates each stage, and closes with her signature tasting moment.",
+        "cast_analysis": [
+          {
+            "name": "Julia Child",
+            "role": "Host / instructor",
+            "description": "Demonstrates French technique on camera in Ep 1 with warmth and humor."
+          },
+          {
+            "name": "Guest Assistant",
+            "role": "Kitchen helper",
+            "description": "Hands Julia tools and ingredients during the demonstration."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:34",
+            "timestamp_end": "2:52",
+            "label": "Introduction",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Welcoming → instructive",
+            "action_description": "Julia introduces the dish and lists ingredients to the home viewer."
+          },
+          {
+            "timestamp_start": "2:52",
+            "timestamp_end": "6:18",
+            "label": "Knife work",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Calm → precise focus",
+            "action_description": "Julia demonstrates julienne cuts while narrating safety and grip for beginners."
+          },
+          {
+            "timestamp_start": "6:18",
+            "timestamp_end": "9:44",
+            "label": "Sauté stage",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Patient → enthusiastic",
+            "action_description": "Julia browns aromatics, explaining heat control as butter foams in the pan."
+          },
+          {
+            "timestamp_start": "9:44",
+            "timestamp_end": "13:11",
+            "label": "Wine reduction",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Instructional → playful",
+            "action_description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir."
+          },
+          {
+            "timestamp_start": "13:11",
+            "timestamp_end": "16:37",
+            "label": "Braise",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Steady → anticipatory",
+            "action_description": "Julia covers the pot, describing how collagen breaks down over time."
+          },
+          {
+            "timestamp_start": "16:37",
+            "timestamp_end": "20:04",
+            "label": "Side preparation",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Collaborative → lighthearted",
+            "action_description": "Julia assigns the assistant a simple garnish while she tastes for salt."
+          },
+          {
+            "timestamp_start": "20:04",
+            "timestamp_end": "23:30",
+            "label": "Plating",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Pride → satisfaction",
+            "action_description": "Julia plates the boeuf bourguignon, naming each component for the viewer."
+          },
+          {
+            "timestamp_start": "23:30",
+            "timestamp_end": "26:39",
+            "label": "Tasting & sign-off",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Joy → warm closure",
+            "action_description": "Julia tastes, exclaims delight, and encourages viewers to try the recipe at home."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "16:37",
+          "timestamp_end": "20:04",
+          "title": "Side preparation",
+          "characters_present": [
+            "Julia Child",
+            "Guest Assistant"
+          ],
+          "reasoning": "Editorially, \"Side preparation\" is the pivot of Ep 1: Julia Child and Guest Assistant drive the collaborative → lighthearted arc. Julia assigns the assistant a simple garnish while she tastes for salt. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Introduction",
+            "timestamp_start": "0:34"
+          },
+          {
+            "label": "Knife work",
+            "timestamp_start": "2:52"
+          },
+          {
+            "label": "Sauté stage",
+            "timestamp_start": "6:18"
+          },
+          {
+            "label": "Wine reduction",
+            "timestamp_start": "9:44"
+          },
+          {
+            "label": "Braise",
+            "timestamp_start": "13:11"
+          },
+          {
+            "label": "Side preparation",
+            "timestamp_start": "16:37"
+          },
+          {
+            "label": "Plating",
+            "timestamp_start": "20:04"
+          },
+          {
+            "label": "Tasting & sign-off",
+            "timestamp_start": "23:30"
+          }
+        ]
+      },
+      "youtube_metadata": {
+        "youtube_id": "vijibDontnU",
+        "original_title": "Lasagne a la Francaise | The French Chef Season 7 | Julia Child",
+        "upload_date": "20240317",
+        "published_at": "2024-03-17",
+        "duration_sec": 1720,
+        "channel": "Julia Child on PBS",
+        "thumbnail_url": "https://i.ytimg.com/vi/vijibDontnU/maxresdefault.jpg",
+        "webpage_url": "https://www.youtube.com/watch?v=vijibDontnU"
+      },
+      "processing": {
+        "local_path": "videos\\chef-ep01.mp4",
+        "file_size_mb": 66.08,
+        "resolution": "650x480",
+        "encode_strategy": "skipped_existing",
+        "source_size_mb": 66.08
+      },
+      "jockey": {
+        "knowledge_store_id": "ks_019f0752-ff8c-7183-a43b-cf0d59188886",
+        "store_key": "french_chef",
+        "asset_id": "6a3f51a1ba42fbf6949b9af4",
+        "item_id": "ksi_019f0756-e65a-7803-9707-086538b3e6c3",
+        "asset_status": "ready",
+        "item_status": "ready",
+        "indexed_at": "2026-06-27T04:32:07Z"
+      },
+      "embed_url": "https://www.youtube.com/embed/vijibDontnU?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
+      "thumbnail_url": "https://i.ytimg.com/vi/vijibDontnU/maxresdefault.jpg",
+      "duration_sec": 1720
+    },
+    "chef-ep02": {
+      "id": "chef-ep02",
+      "store_key": "french_chef",
+      "series": "The French Chef with Julia Child",
+      "episode_label": "Ep 2",
+      "vertical": "archive",
+      "url": "https://www.youtube.com/watch?v=677kAOMwTmo",
+      "messy_metadata": {
+        "title": "Untitled"
+      },
+      "hydrated_metadata": {
+        "asset_reference": "chef-ep02",
+        "title_suggested": "Cake With A Halo | The French Chef Season 7 | Julia Child",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Educational",
+          "Documentary",
+          "Cooking"
+        ],
+        "mood": [
+          "Warm",
+          "Instructional",
+          "Charming"
+        ],
+        "characters": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "scene_types": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up"
+        ],
+        "audio_events": [
+          "Narration",
+          "Kitchen sounds",
+          "Audience laughter"
+        ],
+        "topics": [
+          "French cuisine",
+          "Technique",
+          "Home cooking"
+        ],
+        "summary": "Julia Child walks viewers through a classic French preparation in Ep 2, with Guest Assistant assisting as she demonstrates technique, narrates each stage, and closes with her signature tasting moment.",
+        "cast_analysis": [
+          {
+            "name": "Julia Child",
+            "role": "Host / instructor",
+            "description": "Demonstrates French technique on camera in Ep 2 with warmth and humor."
+          },
+          {
+            "name": "Guest Assistant",
+            "role": "Kitchen helper",
+            "description": "Hands Julia tools and ingredients during the demonstration."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:34",
+            "timestamp_end": "2:51",
+            "label": "Introduction",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Welcoming → instructive",
+            "action_description": "Julia introduces the dish and lists ingredients to the home viewer."
+          },
+          {
+            "timestamp_start": "2:51",
+            "timestamp_end": "6:18",
+            "label": "Knife work",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Calm → precise focus",
+            "action_description": "Julia demonstrates julienne cuts while narrating safety and grip for beginners."
+          },
+          {
+            "timestamp_start": "6:18",
+            "timestamp_end": "9:44",
+            "label": "Sauté stage",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Patient → enthusiastic",
+            "action_description": "Julia browns aromatics, explaining heat control as butter foams in the pan."
+          },
+          {
+            "timestamp_start": "9:44",
+            "timestamp_end": "13:10",
+            "label": "Wine reduction",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Instructional → playful",
+            "action_description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir."
+          },
+          {
+            "timestamp_start": "13:10",
+            "timestamp_end": "16:37",
+            "label": "Braise",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Steady → anticipatory",
+            "action_description": "Julia covers the pot, describing how collagen breaks down over time."
+          },
+          {
+            "timestamp_start": "16:37",
+            "timestamp_end": "20:03",
+            "label": "Side preparation",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Collaborative → lighthearted",
+            "action_description": "Julia assigns the assistant a simple garnish while she tastes for salt."
+          },
+          {
+            "timestamp_start": "20:03",
+            "timestamp_end": "23:29",
+            "label": "Plating",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Pride → satisfaction",
+            "action_description": "Julia plates the boeuf bourguignon, naming each component for the viewer."
+          },
+          {
+            "timestamp_start": "23:29",
+            "timestamp_end": "26:38",
+            "label": "Tasting & sign-off",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Joy → warm closure",
+            "action_description": "Julia tastes, exclaims delight, and encourages viewers to try the recipe at home."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "20:03",
+          "timestamp_end": "23:29",
+          "title": "Plating",
+          "characters_present": [
+            "Julia Child"
+          ],
+          "reasoning": "Editorially, \"Plating\" is the pivot of Ep 2: Julia Child drive the pride → satisfaction arc. Julia plates the boeuf bourguignon, naming each component for the viewer. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Introduction",
+            "timestamp_start": "0:34"
+          },
+          {
+            "label": "Knife work",
+            "timestamp_start": "2:51"
+          },
+          {
+            "label": "Sauté stage",
+            "timestamp_start": "6:18"
+          },
+          {
+            "label": "Wine reduction",
+            "timestamp_start": "9:44"
+          },
+          {
+            "label": "Braise",
+            "timestamp_start": "13:10"
+          },
+          {
+            "label": "Side preparation",
+            "timestamp_start": "16:37"
+          },
+          {
+            "label": "Plating",
+            "timestamp_start": "20:03"
+          },
+          {
+            "label": "Tasting & sign-off",
+            "timestamp_start": "23:29"
+          }
+        ]
+      },
+      "youtube_metadata": {
+        "youtube_id": "677kAOMwTmo",
+        "original_title": "Cake With A Halo | The French Chef Season 7 | Julia Child",
+        "upload_date": "20240218",
+        "published_at": "2024-02-18",
+        "duration_sec": 1719,
+        "channel": "Julia Child on PBS",
+        "thumbnail_url": "https://i.ytimg.com/vi/677kAOMwTmo/maxresdefault.jpg",
+        "webpage_url": "https://www.youtube.com/watch?v=677kAOMwTmo"
+      },
+      "processing": {
+        "local_path": "videos\\chef-ep02.mp4",
+        "file_size_mb": 80.55,
+        "resolution": "650x480",
+        "encode_strategy": "remux_copy",
+        "source_size_mb": 80.55
+      },
+      "jockey": {
+        "knowledge_store_id": "ks_019f0752-ff8c-7183-a43b-cf0d59188886",
+        "store_key": "french_chef",
+        "asset_id": "6a3f523bd00a7189a4051562",
+        "item_id": "ksi_019f0759-3fd5-7d11-9944-9dd5ca7ddf47",
+        "asset_status": "ready",
+        "item_status": "ready",
+        "indexed_at": "2026-06-27T04:34:20Z"
+      },
+      "embed_url": "https://www.youtube.com/embed/677kAOMwTmo?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
+      "thumbnail_url": "https://i.ytimg.com/vi/677kAOMwTmo/maxresdefault.jpg",
+      "duration_sec": 1719
+    },
+    "chef-ep03": {
+      "id": "chef-ep03",
+      "store_key": "french_chef",
+      "series": "The French Chef with Julia Child",
+      "episode_label": "Ep 3",
+      "vertical": "archive",
+      "url": "https://www.youtube.com/watch?v=dMeqIWwF5yk",
+      "messy_metadata": {
+        "title": "Untitled"
+      },
+      "hydrated_metadata": {
+        "asset_reference": "chef-ep03",
+        "title_suggested": "Hamburger Dinner | The French Chef Season 7 | Julia Child",
+        "content_rating_signal": "TV-PG",
+        "genre": [
+          "Educational",
+          "Documentary",
+          "Cooking"
+        ],
+        "mood": [
+          "Warm",
+          "Instructional",
+          "Charming"
+        ],
+        "characters": [
+          "Julia Child",
+          "Guest Assistant"
+        ],
+        "scene_types": [
+          "Cooking demonstration",
+          "Instruction",
+          "Technique close-up"
+        ],
+        "audio_events": [
+          "Narration",
+          "Kitchen sounds",
+          "Audience laughter"
+        ],
+        "topics": [
+          "French cuisine",
+          "Technique",
+          "Home cooking"
+        ],
+        "summary": "Julia Child walks viewers through a classic French preparation in Ep 3, with Guest Assistant assisting as she demonstrates technique, narrates each stage, and closes with her signature tasting moment.",
+        "cast_analysis": [
+          {
+            "name": "Julia Child",
+            "role": "Host / instructor",
+            "description": "Demonstrates French technique on camera in Ep 3 with warmth and humor."
+          },
+          {
+            "name": "Guest Assistant",
+            "role": "Kitchen helper",
+            "description": "Hands Julia tools and ingredients during the demonstration."
+          }
+        ],
+        "episode_timeline": [
+          {
+            "timestamp_start": "0:34",
+            "timestamp_end": "2:52",
+            "label": "Introduction",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Welcoming → instructive",
+            "action_description": "Julia introduces the dish and lists ingredients to the home viewer."
+          },
+          {
+            "timestamp_start": "2:52",
+            "timestamp_end": "6:18",
+            "label": "Knife work",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Calm → precise focus",
+            "action_description": "Julia demonstrates julienne cuts while narrating safety and grip for beginners."
+          },
+          {
+            "timestamp_start": "6:18",
+            "timestamp_end": "9:45",
+            "label": "Sauté stage",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Patient → enthusiastic",
+            "action_description": "Julia browns aromatics, explaining heat control as butter foams in the pan."
+          },
+          {
+            "timestamp_start": "9:45",
+            "timestamp_end": "13:11",
+            "label": "Wine reduction",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Instructional → playful",
+            "action_description": "Julia deglazes, jokes about measuring wine, and invites the assistant to stir."
+          },
+          {
+            "timestamp_start": "13:11",
+            "timestamp_end": "16:38",
+            "label": "Braise",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Steady → anticipatory",
+            "action_description": "Julia covers the pot, describing how collagen breaks down over time."
+          },
+          {
+            "timestamp_start": "16:38",
+            "timestamp_end": "20:04",
+            "label": "Side preparation",
+            "characters_present": [
+              "Julia Child",
+              "Guest Assistant"
+            ],
+            "emotional_arc": "Collaborative → lighthearted",
+            "action_description": "Julia assigns the assistant a simple garnish while she tastes for salt."
+          },
+          {
+            "timestamp_start": "20:04",
+            "timestamp_end": "23:31",
+            "label": "Plating",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Pride → satisfaction",
+            "action_description": "Julia plates the boeuf bourguignon, naming each component for the viewer."
+          },
+          {
+            "timestamp_start": "23:31",
+            "timestamp_end": "26:40",
+            "label": "Tasting & sign-off",
+            "characters_present": [
+              "Julia Child"
+            ],
+            "emotional_arc": "Joy → warm closure",
+            "action_description": "Julia tastes, exclaims delight, and encourages viewers to try the recipe at home."
+          }
+        ],
+        "most_important_scene": {
+          "timestamp_start": "13:11",
+          "timestamp_end": "16:38",
+          "title": "Braise",
+          "characters_present": [
+            "Julia Child"
+          ],
+          "reasoning": "Editorially, \"Braise\" is the pivot of Ep 3: Julia Child drive the steady → anticipatory arc. Julia covers the pot, describing how collagen breaks down over time. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow."
+        },
+        "scene_timestamps": [
+          {
+            "label": "Introduction",
+            "timestamp_start": "0:34"
+          },
+          {
+            "label": "Knife work",
+            "timestamp_start": "2:52"
+          },
+          {
+            "label": "Sauté stage",
+            "timestamp_start": "6:18"
+          },
+          {
+            "label": "Wine reduction",
+            "timestamp_start": "9:45"
+          },
+          {
+            "label": "Braise",
+            "timestamp_start": "13:11"
+          },
+          {
+            "label": "Side preparation",
+            "timestamp_start": "16:38"
+          },
+          {
+            "label": "Plating",
+            "timestamp_start": "20:04"
+          },
+          {
+            "label": "Tasting & sign-off",
+            "timestamp_start": "23:31"
+          }
+        ]
+      },
+      "youtube_metadata": {
+        "youtube_id": "dMeqIWwF5yk",
+        "original_title": "Hamburger Dinner | The French Chef Season 7 | Julia Child",
+        "upload_date": "20240225",
+        "published_at": "2024-02-25",
+        "duration_sec": 1721,
+        "channel": "Julia Child on PBS",
+        "thumbnail_url": "https://i.ytimg.com/vi/dMeqIWwF5yk/maxresdefault.jpg",
+        "webpage_url": "https://www.youtube.com/watch?v=dMeqIWwF5yk"
+      },
+      "processing": {
+        "local_path": "videos\\chef-ep03.mp4",
+        "file_size_mb": 66.88,
+        "resolution": "650x480",
+        "encode_strategy": "remux_copy",
+        "source_size_mb": 66.88
+      },
+      "jockey": {
+        "knowledge_store_id": "ks_019f0752-ff8c-7183-a43b-cf0d59188886",
+        "store_key": "french_chef",
+        "asset_id": "6a3f52c0d00a7189a4051569",
+        "item_id": "ksi_019f075b-460d-7c73-8e9b-34409576651b",
+        "asset_status": "ready",
+        "item_status": "ready",
+        "indexed_at": "2026-06-27T04:36:43Z"
+      },
+      "embed_url": "https://www.youtube.com/embed/dMeqIWwF5yk?controls=0&modestbranding=1&rel=0&disablekb=1&fs=0&enablejsapi=1",
+      "thumbnail_url": "https://i.ytimg.com/vi/dMeqIWwF5yk/maxresdefault.jpg",
+      "duration_sec": 1721
+    }
+  }
+}

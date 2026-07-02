@@ -1,0 +1,972 @@
+{
+  "request": {
+    "model": "jockey1.0",
+    "query": "Romantic tension scene"
+  },
+  "response": {
+    "query_interpretation": "Searching for scenes matching: Romantic tension scene",
+    "total_results": 16,
+    "results": [
+      {
+        "asset_reference": "lbd-ep01",
+        "timestamp_start": "1:44",
+        "timestamp_end": "2:04",
+        "scene_title": "Romantic DM",
+        "description": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "match_type": "visual",
+        "relevance_score": "96",
+        "scene_description": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "alignment_reasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet, Jane Bennet drive the visual beat \"Romantic DM\" in Ep 1. Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet, Jane Bennet. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep04",
+        "timestamp_start": "1:45",
+        "timestamp_end": "2:05",
+        "scene_title": "Romantic DM",
+        "description": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "match_type": "semantic",
+        "relevance_score": "94",
+        "scene_description": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "alignment_reasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet, Jane Bennet drive the semantic beat \"Romantic DM\" in Ep 4. Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet, Jane Bennet. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep02",
+        "timestamp_start": "1:52",
+        "timestamp_end": "2:13",
+        "scene_title": "Romantic DM",
+        "description": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "match_type": "audio",
+        "relevance_score": "92",
+        "scene_description": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "alignment_reasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet, Jane Bennet drive the audio beat \"Romantic DM\" in Ep 2. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. Watch for Lizzie Bennet, Jane Bennet in Ep 2. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep03",
+        "timestamp_start": "1:39",
+        "timestamp_end": "1:58",
+        "scene_title": "Romantic DM",
+        "description": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "match_type": "text_on_screen",
+        "relevance_score": "90",
+        "scene_description": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "alignment_reasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet, Jane Bennet drive the text_on_screen beat \"Romantic DM\" in Ep 3. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. Watch for Lizzie Bennet, Jane Bennet in Ep 3. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep05",
+        "timestamp_start": "1:39",
+        "timestamp_end": "1:58",
+        "scene_title": "Romantic DM",
+        "description": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "match_type": "visual",
+        "relevance_score": "88",
+        "scene_description": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+        "alignment_reasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet, Jane Bennet drive the visual beat \"Romantic DM\" in Ep 5. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. Watch for Lizzie Bennet, Jane Bennet in Ep 5. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep01",
+        "timestamp_start": "0:06",
+        "timestamp_end": "0:20",
+        "scene_title": "Vlog hook",
+        "description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+        "match_type": "semantic",
+        "relevance_score": "86",
+        "scene_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+        "alignment_reasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet drive the semantic beat \"Vlog hook\" in Ep 1. Lizzie opens with a breezy recap, then admits something felt off after last night's party. Watch for Lizzie Bennet in Ep 1. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep01",
+        "timestamp_start": "0:20",
+        "timestamp_end": "0:40",
+        "scene_title": "Sister check-in",
+        "description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+        "match_type": "audio",
+        "relevance_score": "84",
+        "scene_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+        "alignment_reasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet, Jane Bennet drive the audio beat \"Sister check-in\" in Ep 1. Jane visits Lizzie's room; they decode a cryptic text from a love interest. Watch for Lizzie Bennet, Jane Bennet in Ep 1. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep01",
+        "timestamp_start": "2:44",
+        "timestamp_end": "3:06",
+        "scene_title": "Episode button",
+        "description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+        "match_type": "text_on_screen",
+        "relevance_score": "82",
+        "scene_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+        "alignment_reasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet drive the text_on_screen beat \"Episode button\" in Ep 1. Lizzie closes the vlog teasing next week's reveal while texting the love interest. Watch for Lizzie Bennet in Ep 1. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep02",
+        "timestamp_start": "0:06",
+        "timestamp_end": "0:21",
+        "scene_title": "Vlog hook",
+        "description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+        "match_type": "visual",
+        "relevance_score": "80",
+        "scene_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+        "alignment_reasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet drive the visual beat \"Vlog hook\" in Ep 2. Lizzie opens with a breezy recap, then admits something felt off after last night's party. Watch for Lizzie Bennet in Ep 2. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep02",
+        "timestamp_start": "0:21",
+        "timestamp_end": "0:43",
+        "scene_title": "Sister check-in",
+        "description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+        "match_type": "semantic",
+        "relevance_score": "78",
+        "scene_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+        "alignment_reasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet, Jane Bennet drive the semantic beat \"Sister check-in\" in Ep 2. Jane visits Lizzie's room; they decode a cryptic text from a love interest. Watch for Lizzie Bennet, Jane Bennet in Ep 2. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep02",
+        "timestamp_start": "2:57",
+        "timestamp_end": "3:20",
+        "scene_title": "Episode button",
+        "description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+        "match_type": "audio",
+        "relevance_score": "76",
+        "scene_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+        "alignment_reasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet drive the audio beat \"Episode button\" in Ep 2. Lizzie closes the vlog teasing next week's reveal while texting the love interest. Watch for Lizzie Bennet in Ep 2. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep03",
+        "timestamp_start": "0:05",
+        "timestamp_end": "0:19",
+        "scene_title": "Vlog hook",
+        "description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+        "match_type": "text_on_screen",
+        "relevance_score": "74",
+        "scene_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+        "alignment_reasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet drive the text_on_screen beat \"Vlog hook\" in Ep 3. Lizzie opens with a breezy recap, then admits something felt off after last night's party. Watch for Lizzie Bennet in Ep 3. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep03",
+        "timestamp_start": "0:19",
+        "timestamp_end": "0:38",
+        "scene_title": "Sister check-in",
+        "description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+        "match_type": "visual",
+        "relevance_score": "72",
+        "scene_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+        "alignment_reasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet, Jane Bennet drive the visual beat \"Sister check-in\" in Ep 3. Jane visits Lizzie's room; they decode a cryptic text from a love interest. Watch for Lizzie Bennet, Jane Bennet in Ep 3. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep03",
+        "timestamp_start": "2:36",
+        "timestamp_end": "2:57",
+        "scene_title": "Episode button",
+        "description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+        "match_type": "semantic",
+        "relevance_score": "70",
+        "scene_description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+        "alignment_reasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet drive the semantic beat \"Episode button\" in Ep 3. Lizzie closes the vlog teasing next week's reveal while texting the love interest. Watch for Lizzie Bennet in Ep 3. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep04",
+        "timestamp_start": "0:06",
+        "timestamp_end": "0:20",
+        "scene_title": "Vlog hook",
+        "description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+        "match_type": "audio",
+        "relevance_score": "68",
+        "scene_description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+        "alignment_reasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet drive the audio beat \"Vlog hook\" in Ep 4. Lizzie opens with a breezy recap, then admits something felt off after last night's party. Watch for Lizzie Bennet in Ep 4. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      },
+      {
+        "asset_reference": "lbd-ep04",
+        "timestamp_start": "0:20",
+        "timestamp_end": "0:40",
+        "scene_title": "Sister check-in",
+        "description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+        "match_type": "text_on_screen",
+        "relevance_score": "66",
+        "scene_description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+        "alignment_reasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet, Jane Bennet drive the text_on_screen beat \"Sister check-in\" in Ep 4. Jane visits Lizzie's room; they decode a cryptic text from a love interest. Watch for Lizzie Bennet, Jane Bennet in Ep 4. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+        "tags": [
+          "Vlog confession",
+          "Dialogue",
+          "Social gathering",
+          "Witty",
+          "Emotional"
+        ],
+        "characters_present": [
+          "Lizzie Bennet",
+          "Jane Bennet"
+        ],
+        "match_signals": [
+          "Vlog confession",
+          "Dialogue"
+        ]
+      }
+    ]
+  },
+  "resolved_clips": [
+    {
+      "id": "romantic-tension-0",
+      "assetId": "lbd-ep01",
+      "assetReference": "lbd-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/lbd-ep01",
+      "startSec": 104,
+      "endSec": 124,
+      "thumbnailUrl": "https://i.ytimg.com/vi/KisuGP2lcPs/maxresdefault.jpg",
+      "title": "Romantic DM",
+      "sceneTitle": "Romantic DM",
+      "description": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "matchType": "visual",
+      "relevanceScore": "96",
+      "matchScore": "96",
+      "sceneDescription": "Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "alignmentReasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet, Jane Bennet drive the visual beat \"Romantic DM\" in Ep 1. Editorially, \"Romantic DM\" is the pivot of Ep 1: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet, Jane Bennet. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "romantic-tension-1",
+      "assetId": "lbd-ep04",
+      "assetReference": "lbd-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/lbd-ep04",
+      "startSec": 105,
+      "endSec": 125,
+      "thumbnailUrl": "https://i.ytimg.com/vi/2KjOskZJEAc/maxresdefault.jpg",
+      "title": "Romantic DM",
+      "sceneTitle": "Romantic DM",
+      "description": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "matchType": "semantic",
+      "relevanceScore": "94",
+      "matchScore": "94",
+      "sceneDescription": "Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc.  Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "alignmentReasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet, Jane Bennet drive the semantic beat \"Romantic DM\" in Ep 4. Editorially, \"Romantic DM\" is the pivot of Ep 4: Lizzie Bennet and Jane Bennet drive the hope → uncertainty arc. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. This beat best represents the episode for clips, discovery, and programming because it names the characters viewers follow. Central figures: Lizzie Bennet, Jane Bennet. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "romantic-tension-2",
+      "assetId": "lbd-ep02",
+      "assetReference": "lbd-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/lbd-ep02",
+      "startSec": 112,
+      "endSec": 133,
+      "thumbnailUrl": "https://i.ytimg.com/vi/6Yq7aJ2uVBg/maxresdefault.jpg",
+      "title": "Romantic DM",
+      "sceneTitle": "Romantic DM",
+      "description": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "matchType": "audio",
+      "relevanceScore": "92",
+      "matchScore": "92",
+      "sceneDescription": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "alignmentReasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet, Jane Bennet drive the audio beat \"Romantic DM\" in Ep 2. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. Watch for Lizzie Bennet, Jane Bennet in Ep 2. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "romantic-tension-3",
+      "assetId": "lbd-ep03",
+      "assetReference": "lbd-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/lbd-ep03",
+      "startSec": 99,
+      "endSec": 118,
+      "thumbnailUrl": "https://i.ytimg.com/vi/e926p_3UXes/maxresdefault.jpg",
+      "title": "Romantic DM",
+      "sceneTitle": "Romantic DM",
+      "description": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "90",
+      "matchScore": "90",
+      "sceneDescription": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "alignmentReasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet, Jane Bennet drive the text_on_screen beat \"Romantic DM\" in Ep 3. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. Watch for Lizzie Bennet, Jane Bennet in Ep 3. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "romantic-tension-4",
+      "assetId": "lbd-ep05",
+      "assetReference": "lbd-ep05",
+      "episodeLabel": "Ep 5",
+      "videoSrc": "/api/media/lbd-ep05",
+      "startSec": 99,
+      "endSec": 118,
+      "thumbnailUrl": "https://i.ytimg.com/vi/vV3JJUpwC40/maxresdefault.jpg",
+      "title": "Romantic DM",
+      "sceneTitle": "Romantic DM",
+      "description": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "matchType": "visual",
+      "relevanceScore": "88",
+      "matchScore": "88",
+      "sceneDescription": "Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog.",
+      "alignmentReasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet, Jane Bennet drive the visual beat \"Romantic DM\" in Ep 5. Jane reads a heartfelt message aloud; Lizzie debates whether to reply on or off vlog. Watch for Lizzie Bennet, Jane Bennet in Ep 5. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "romantic-tension-5",
+      "assetId": "lbd-ep01",
+      "assetReference": "lbd-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/lbd-ep01",
+      "startSec": 6,
+      "endSec": 20,
+      "thumbnailUrl": "https://i.ytimg.com/vi/KisuGP2lcPs/maxresdefault.jpg",
+      "title": "Vlog hook",
+      "sceneTitle": "Vlog hook",
+      "description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+      "matchType": "semantic",
+      "relevanceScore": "86",
+      "matchScore": "86",
+      "sceneDescription": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+      "alignmentReasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet drive the semantic beat \"Vlog hook\" in Ep 1. Lizzie opens with a breezy recap, then admits something felt off after last night's party. Watch for Lizzie Bennet in Ep 1. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "romantic-tension-6",
+      "assetId": "lbd-ep01",
+      "assetReference": "lbd-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/lbd-ep01",
+      "startSec": 20,
+      "endSec": 40,
+      "thumbnailUrl": "https://i.ytimg.com/vi/KisuGP2lcPs/maxresdefault.jpg",
+      "title": "Sister check-in",
+      "sceneTitle": "Sister check-in",
+      "description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+      "matchType": "audio",
+      "relevanceScore": "84",
+      "matchScore": "84",
+      "sceneDescription": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+      "alignmentReasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet, Jane Bennet drive the audio beat \"Sister check-in\" in Ep 1. Jane visits Lizzie's room; they decode a cryptic text from a love interest. Watch for Lizzie Bennet, Jane Bennet in Ep 1. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "romantic-tension-7",
+      "assetId": "lbd-ep01",
+      "assetReference": "lbd-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/lbd-ep01",
+      "startSec": 164,
+      "endSec": 186,
+      "thumbnailUrl": "https://i.ytimg.com/vi/KisuGP2lcPs/maxresdefault.jpg",
+      "title": "Episode button",
+      "sceneTitle": "Episode button",
+      "description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "82",
+      "matchScore": "82",
+      "sceneDescription": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+      "alignmentReasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet drive the text_on_screen beat \"Episode button\" in Ep 1. Lizzie closes the vlog teasing next week's reveal while texting the love interest. Watch for Lizzie Bennet in Ep 1. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "romantic-tension-8",
+      "assetId": "lbd-ep02",
+      "assetReference": "lbd-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/lbd-ep02",
+      "startSec": 6,
+      "endSec": 21,
+      "thumbnailUrl": "https://i.ytimg.com/vi/6Yq7aJ2uVBg/maxresdefault.jpg",
+      "title": "Vlog hook",
+      "sceneTitle": "Vlog hook",
+      "description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+      "matchType": "visual",
+      "relevanceScore": "80",
+      "matchScore": "80",
+      "sceneDescription": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+      "alignmentReasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet drive the visual beat \"Vlog hook\" in Ep 2. Lizzie opens with a breezy recap, then admits something felt off after last night's party. Watch for Lizzie Bennet in Ep 2. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "romantic-tension-9",
+      "assetId": "lbd-ep02",
+      "assetReference": "lbd-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/lbd-ep02",
+      "startSec": 21,
+      "endSec": 43,
+      "thumbnailUrl": "https://i.ytimg.com/vi/6Yq7aJ2uVBg/maxresdefault.jpg",
+      "title": "Sister check-in",
+      "sceneTitle": "Sister check-in",
+      "description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+      "matchType": "semantic",
+      "relevanceScore": "78",
+      "matchScore": "78",
+      "sceneDescription": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+      "alignmentReasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet, Jane Bennet drive the semantic beat \"Sister check-in\" in Ep 2. Jane visits Lizzie's room; they decode a cryptic text from a love interest. Watch for Lizzie Bennet, Jane Bennet in Ep 2. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "romantic-tension-10",
+      "assetId": "lbd-ep02",
+      "assetReference": "lbd-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/lbd-ep02",
+      "startSec": 177,
+      "endSec": 200,
+      "thumbnailUrl": "https://i.ytimg.com/vi/6Yq7aJ2uVBg/maxresdefault.jpg",
+      "title": "Episode button",
+      "sceneTitle": "Episode button",
+      "description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+      "matchType": "audio",
+      "relevanceScore": "76",
+      "matchScore": "76",
+      "sceneDescription": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+      "alignmentReasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet drive the audio beat \"Episode button\" in Ep 2. Lizzie closes the vlog teasing next week's reveal while texting the love interest. Watch for Lizzie Bennet in Ep 2. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "romantic-tension-11",
+      "assetId": "lbd-ep03",
+      "assetReference": "lbd-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/lbd-ep03",
+      "startSec": 5,
+      "endSec": 19,
+      "thumbnailUrl": "https://i.ytimg.com/vi/e926p_3UXes/maxresdefault.jpg",
+      "title": "Vlog hook",
+      "sceneTitle": "Vlog hook",
+      "description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "74",
+      "matchScore": "74",
+      "sceneDescription": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+      "alignmentReasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet drive the text_on_screen beat \"Vlog hook\" in Ep 3. Lizzie opens with a breezy recap, then admits something felt off after last night's party. Watch for Lizzie Bennet in Ep 3. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "romantic-tension-12",
+      "assetId": "lbd-ep03",
+      "assetReference": "lbd-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/lbd-ep03",
+      "startSec": 19,
+      "endSec": 38,
+      "thumbnailUrl": "https://i.ytimg.com/vi/e926p_3UXes/maxresdefault.jpg",
+      "title": "Sister check-in",
+      "sceneTitle": "Sister check-in",
+      "description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+      "matchType": "visual",
+      "relevanceScore": "72",
+      "matchScore": "72",
+      "sceneDescription": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+      "alignmentReasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet, Jane Bennet drive the visual beat \"Sister check-in\" in Ep 3. Jane visits Lizzie's room; they decode a cryptic text from a love interest. Watch for Lizzie Bennet, Jane Bennet in Ep 3. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong visual match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "romantic-tension-13",
+      "assetId": "lbd-ep03",
+      "assetReference": "lbd-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/lbd-ep03",
+      "startSec": 156,
+      "endSec": 177,
+      "thumbnailUrl": "https://i.ytimg.com/vi/e926p_3UXes/maxresdefault.jpg",
+      "title": "Episode button",
+      "sceneTitle": "Episode button",
+      "description": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+      "matchType": "semantic",
+      "relevanceScore": "70",
+      "matchScore": "70",
+      "sceneDescription": "Lizzie closes the vlog teasing next week's reveal while texting the love interest.",
+      "alignmentReasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet drive the semantic beat \"Episode button\" in Ep 3. Lizzie closes the vlog teasing next week's reveal while texting the love interest. Watch for Lizzie Bennet in Ep 3. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong semantic match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "romantic-tension-14",
+      "assetId": "lbd-ep04",
+      "assetReference": "lbd-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/lbd-ep04",
+      "startSec": 6,
+      "endSec": 20,
+      "thumbnailUrl": "https://i.ytimg.com/vi/2KjOskZJEAc/maxresdefault.jpg",
+      "title": "Vlog hook",
+      "sceneTitle": "Vlog hook",
+      "description": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+      "matchType": "audio",
+      "relevanceScore": "68",
+      "matchScore": "68",
+      "sceneDescription": "Lizzie opens with a breezy recap, then admits something felt off after last night's party.",
+      "alignmentReasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet drive the audio beat \"Vlog hook\" in Ep 4. Lizzie opens with a breezy recap, then admits something felt off after last night's party. Watch for Lizzie Bennet in Ep 4. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong audio match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    },
+    {
+      "id": "romantic-tension-15",
+      "assetId": "lbd-ep04",
+      "assetReference": "lbd-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/lbd-ep04",
+      "startSec": 20,
+      "endSec": 40,
+      "thumbnailUrl": "https://i.ytimg.com/vi/2KjOskZJEAc/maxresdefault.jpg",
+      "title": "Sister check-in",
+      "sceneTitle": "Sister check-in",
+      "description": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+      "matchType": "text_on_screen",
+      "relevanceScore": "66",
+      "matchScore": "66",
+      "sceneDescription": "Jane visits Lizzie's room; they decode a cryptic text from a love interest.",
+      "alignmentReasoning": "This scene matches \"Romantic tension scene\" because Lizzie Bennet, Jane Bennet drive the text_on_screen beat \"Sister check-in\" in Ep 4. Jane visits Lizzie's room; they decode a cryptic text from a love interest. Watch for Lizzie Bennet, Jane Bennet in Ep 4. For viewers searching romantic tension scene, the combination of named characters, emotional stakes, and show-specific context makes this a strong text_on_screen match.",
+      "tags": [
+        "Vlog confession",
+        "Dialogue",
+        "Social gathering",
+        "Witty",
+        "Emotional"
+      ],
+      "charactersPresent": [
+        "Lizzie Bennet",
+        "Jane Bennet"
+      ],
+      "matchSignals": [
+        "Vlog confession",
+        "Dialogue"
+      ]
+    }
+  ],
+  "session_id": "sess_seed_lizzie_bennet_romantic-tension",
+  "explore_presentation": {
+    "featured_title": "Will-they-won't-they energy",
+    "featured_subtitle": "Romantic near-misses Jockey matched to your search",
+    "rails": [
+      {
+        "id": "glances",
+        "title": "Glances",
+        "subtitle": "Looks that say everything",
+        "startIndex": 4,
+        "endIndex": 7
+      },
+      {
+        "id": "almost-said-it",
+        "title": "Almost Said It",
+        "subtitle": "Words left unsaid on camera",
+        "startIndex": 8,
+        "endIndex": 11
+      },
+      {
+        "id": "more-sparks",
+        "title": "More Sparks",
+        "subtitle": "Extra romantic tension matches",
+        "startIndex": 12,
+        "endIndex": 15
+      }
+    ]
+  }
+}

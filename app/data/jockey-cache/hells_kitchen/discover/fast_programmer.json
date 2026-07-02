@@ -1,0 +1,1129 @@
+{
+  "request": {
+    "model": "jockey1.0",
+    "intent": "90-min drama block, 18-34 female demo, prime-time competition energy"
+  },
+  "response": {
+    "viewer_intent_interpretation": "90-min drama block, 18-34 female demo, prime-time competition energy",
+    "recommended_rail": [
+      {
+        "rank": 1,
+        "asset_reference": "hk-ep01",
+        "title": "Opening judging sets the tone",
+        "clip_start": "00:15:51",
+        "clip_end": "00:19:26",
+        "rationale": "FAST Programmer · Opening judging sets the tone — Judging opens with steady scores from Ann Marie and Uri, then spikes when Anthony earns the season's first 5",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "signature dish challenge",
+          "East Coast launch"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Opening judging sets the tone\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Ann Marie, Uri drive the beat: Judging opens with steady scores from Ann Marie and Uri, then spikes when Anthony earns the season's first 5.  Magali immediately answers with a 5 of her own, showing that the women are not going to let the men build easy momentum and setting up the challenge as a real seesaw. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Opening judging sets the tone",
+        "clip_description": "Judging opens with steady scores from Ann Marie and Uri, then spikes when Anthony earns the season's first 5.  Magali immediately answers with a 5 of her own, showing that the women are not going to let the men build easy momentum and setting up the challenge as a real seesaw.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "Ann Marie",
+          "Uri",
+          "Anthony",
+          "Magali"
+        ],
+        "sub_clip_focus": "Opening judging sets the tone — Judging opens with steady scores from Ann Marie and Uri, then spikes when Anthony earns the season's first 5",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 4,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "Ann Marie",
+          "Uri"
+        ],
+        "audience_fit_score": 98,
+        "interest_match_score": 94,
+        "avoidance_score": 92
+      },
+      {
+        "rank": 2,
+        "asset_reference": "hk-ep01",
+        "title": "Momentum swings in the middle rounds",
+        "clip_start": "00:20:12",
+        "clip_end": "00:23:14",
+        "rationale": "FAST Programmer · Momentum swings in the middle rounds — The middle judging round is all about instability",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "signature dish challenge",
+          "East Coast launch"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Momentum swings in the middle rounds\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Kyle, Brittany drive the beat: The middle judging round is all about instability.  Kyle earns praise for beautifully cooked fish, Brittany successfully recovers enough to score a 4, Amber stumbles with a 3, and Corbin capitalizes with a 4 that briefly puts the Blue Team ahead. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Momentum swings in the middle rounds",
+        "clip_description": "The middle judging round is all about instability.  Kyle earns praise for beautifully cooked fish, Brittany successfully recovers enough to score a 4, Amber stumbles with a 3, and Corbin capitalizes with a 4 that briefly puts the Blue Team ahead.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "Kyle",
+          "Brittany",
+          "Amber",
+          "Corbin"
+        ],
+        "sub_clip_focus": "Momentum swings in the middle rounds — The middle judging round is all about instability",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "Kyle",
+          "Brittany"
+        ],
+        "audience_fit_score": 96,
+        "interest_match_score": 92,
+        "avoidance_score": 90
+      },
+      {
+        "rank": 3,
+        "asset_reference": "hk-ep01",
+        "title": "Setup for first dinner service",
+        "clip_start": "00:39:00",
+        "clip_end": "00:42:05",
+        "rationale": "FAST Programmer · Setup for first dinner service — Both teams receive recipe books and begin preparing for the first dinner service, carrying very different moods out of the challenge",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "signature dish challenge",
+          "East Coast launch"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Setup for first dinner service\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Anthony, Brittany drive the beat: Both teams receive recipe books and begin preparing for the first dinner service, carrying very different moods out of the challenge.  Ramsay then stages a paparazzi moment outside Hell's Kitchen before revealing a flamethrower and teasing the explosive service to come, ending the premiere by converting opening-week excitement into anxiety. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Setup for first dinner service",
+        "clip_description": "Both teams receive recipe books and begin preparing for the first dinner service, carrying very different moods out of the challenge.  Ramsay then stages a paparazzi moment outside Hell's Kitchen before revealing a flamethrower and teasing the explosive service to come, ending the premiere by converting opening-week excitement into anxiety.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "Anthony",
+          "Brittany",
+          "Michael",
+          "Amanda",
+          "Amber",
+          "Ann Marie",
+          "Brandon",
+          "Corbin",
+          "Egypt",
+          "Hannah",
+          "Joe",
+          "Kyle",
+          "Lulu",
+          "Magali",
+          "Meghan",
+          "Shant",
+          "Uri",
+          "Whit"
+        ],
+        "sub_clip_focus": "Setup for first dinner service — Both teams receive recipe books and begin preparing for the first dinner service, carrying very different moods out of the challenge",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 3,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "Anthony",
+          "Brittany"
+        ],
+        "audience_fit_score": 94,
+        "interest_match_score": 90,
+        "avoidance_score": 88
+      },
+      {
+        "rank": 4,
+        "asset_reference": "hk-ep03",
+        "title": "Red team wins the seafood challenge 6–5",
+        "clip_start": "10:20",
+        "clip_end": "16:00",
+        "rationale": "FAST Programmer · Red team wins the seafood challenge 6–5 — Judging becomes a back-and-forth match",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "seafood challenge",
+          "seafood tower"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Red team wins the seafood challenge 6–5\" in Ep 3 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Egypt, Hannah drive the beat: Judging becomes a back-and-forth match.  Egypt and Hannah split the oyster point; Brittany beats Shant on lobster; Whit beats Uri on squid; Kyle beats Magali on crab; Amanda and Anthony both score on prawns; Michael ties Meghan on mussels; Joe beats Lulu on clams; and the final scallop round goes to Ann Marie over Corbin after Corbin’s scallops are judged overcooked. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Red team wins the seafood challenge 6–5",
+        "clip_description": "Judging becomes a back-and-forth match.  Egypt and Hannah split the oyster point; Brittany beats Shant on lobster; Whit beats Uri on squid; Kyle beats Magali on crab; Amanda and Anthony both score on prawns; Michael ties Meghan on mussels; Joe beats Lulu on clams; and the final scallop round goes to Ann Marie over Corbin after Corbin’s scallops are judged overcooked.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "Egypt",
+          "Hannah",
+          "Shant",
+          "Brittany",
+          "Whit",
+          "Uri",
+          "Magali",
+          "Kyle",
+          "Anthony",
+          "Amanda",
+          "Michael",
+          "Joe",
+          "Lulu",
+          "Meghan",
+          "Ann Marie",
+          "Corbin"
+        ],
+        "sub_clip_focus": "Red team wins the seafood challenge 6–5 — Judging becomes a back-and-forth match",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 6,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "Egypt",
+          "Hannah"
+        ],
+        "audience_fit_score": 92,
+        "interest_match_score": 88,
+        "avoidance_score": 86
+      },
+      {
+        "rank": 5,
+        "asset_reference": "hk-ep04",
+        "title": "Blue Team tension carries over",
+        "clip_start": "02:02",
+        "clip_end": "02:58",
+        "rationale": "FAST Programmer · Blue Team tension carries over — The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "pickling challenge",
+          "pickleball"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Blue Team tension carries over\" in Ep 4 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Brandon, Egypt drive the beat: The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration.  Brandon complains that Egypt is too much in the kitchen, Joe argues the team needs discipline and accountability, and Egypt counters that everyone else needs to raise their level. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Blue Team tension carries over",
+        "clip_description": "The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration.  Brandon complains that Egypt is too much in the kitchen, Joe argues the team needs discipline and accountability, and Egypt counters that everyone else needs to raise their level.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "Brandon",
+          "Egypt",
+          "Joe",
+          "Kyle"
+        ],
+        "sub_clip_focus": "Blue Team tension carries over — The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "Brandon",
+          "Egypt"
+        ],
+        "audience_fit_score": 90,
+        "interest_match_score": 86,
+        "avoidance_score": 84
+      },
+      {
+        "rank": 6,
+        "asset_reference": "hk-ep05",
+        "title": "Hannah ties it after Joe falters",
+        "clip_start": "16:05",
+        "clip_end": "17:12",
+        "rationale": "FAST Programmer · Hannah ties it after Joe falters — Anthony defeats Amanda on pork, but Joe cannot extend the Blue lead because Motz says his short-rib burger is overcooked",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "burger challenge",
+          "George Motz"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Hannah ties it after Joe falters\" in Ep 5 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, George Motz, Anthony drive the beat: Anthony defeats Amanda on pork, but Joe cannot extend the Blue lead because Motz says his short-rib burger is overcooked.  Hannah capitalizes for the Red Team, tying the score. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Hannah ties it after Joe falters",
+        "clip_description": "Anthony defeats Amanda on pork, but Joe cannot extend the Blue lead because Motz says his short-rib burger is overcooked.  Hannah capitalizes for the Red Team, tying the score.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "George Motz",
+          "Anthony",
+          "Amanda",
+          "Joe",
+          "Hannah",
+          "Egypt",
+          "Magali"
+        ],
+        "sub_clip_focus": "Hannah ties it after Joe falters — Anthony defeats Amanda on pork, but Joe cannot extend the Blue lead because Motz says his short-rib burger is overcooked",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "George Motz",
+          "Anthony"
+        ],
+        "audience_fit_score": 88,
+        "interest_match_score": 84,
+        "avoidance_score": 82
+      },
+      {
+        "rank": 7,
+        "asset_reference": "hk-ep01",
+        "title": "Reward bonds the women; punishment divides the men",
+        "clip_start": "00:33:20",
+        "clip_end": "00:38:30",
+        "rationale": "FAST Programmer · Reward bonds the women; punishment divides the men — After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "signature dish challenge",
+          "East Coast launch"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Reward bonds the women; punishment divides the men\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Brittany, Ann Marie drive the beat: After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Reward bonds the women; punishment divides the men",
+        "clip_description": "After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "Brittany",
+          "Ann Marie",
+          "Hannah",
+          "Magali",
+          "Meghan",
+          "Whit",
+          "James Avery",
+          "Corbin",
+          "Egypt",
+          "Joe",
+          "Michael",
+          "Shant",
+          "Uri"
+        ],
+        "sub_clip_focus": "Reward bonds the women; punishment divides the men — After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 5,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "Brittany",
+          "Ann Marie"
+        ],
+        "audience_fit_score": 86,
+        "interest_match_score": 82,
+        "avoidance_score": 80
+      },
+      {
+        "rank": 8,
+        "asset_reference": "hk-ep04",
+        "title": "Both kitchens wobble, but Blue worsens it",
+        "clip_start": "24:22",
+        "clip_end": "26:24",
+        "rationale": "FAST Programmer · Both kitchens wobble, but Blue worsens it — While the Blue Team tries to recover, the Red Team also stumbles when Ann Marie mistakenly puts peas into a risotto that should have had parsley",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "pickling challenge",
+          "pickleball"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Both kitchens wobble, but Blue worsens it\" in Ep 4 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Ann Marie, Hannah drive the beat: While the Blue Team tries to recover, the Red Team also stumbles when Ann Marie mistakenly puts peas into a risotto that should have had parsley.  Ramsay hammers them for the error, but the women remain in service. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Both kitchens wobble, but Blue worsens it",
+        "clip_description": "While the Blue Team tries to recover, the Red Team also stumbles when Ann Marie mistakenly puts peas into a risotto that should have had parsley.  Ramsay hammers them for the error, but the women remain in service.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "Ann Marie",
+          "Hannah",
+          "Sheryl Swoopes",
+          "Michael",
+          "Egypt"
+        ],
+        "sub_clip_focus": "Both kitchens wobble, but Blue worsens it — While the Blue Team tries to recover, the Red Team also stumbles when Ann Marie mistakenly puts peas into a risotto that should have had parsley",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 2,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "Ann Marie",
+          "Hannah"
+        ],
+        "audience_fit_score": 84,
+        "interest_match_score": 80,
+        "avoidance_score": 78
+      },
+      {
+        "rank": 9,
+        "asset_reference": "hk-ep02",
+        "title": "Blue team ejected after raw Wellington and cold salmon",
+        "clip_start": "32:58",
+        "clip_end": "33:42",
+        "rationale": "FAST Programmer · Blue team ejected after raw Wellington and cold salmon — Ramsay inspects the blue team’s entrees, finds the salmon cold, then cuts into the Wellingtons and discovers they are raw",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "Fiery Flambé Challenge",
+          "Punishment Pass"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Blue team ejected after raw Wellington and cold salmon\" in Ep 2 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Egypt, Joe drive the beat: Ramsay inspects the blue team’s entrees, finds the salmon cold, then cuts into the Wellingtons and discovers they are raw.  He marches the entire team into the back hallway, identifies Joe and Egypt in the collapse, and throws every man out of the kitchen. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Blue team ejected after raw Wellington and cold salmon",
+        "clip_description": "Ramsay inspects the blue team’s entrees, finds the salmon cold, then cuts into the Wellingtons and discovers they are raw.  He marches the entire team into the back hallway, identifies Joe and Egypt in the collapse, and throws every man out of the kitchen.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "Egypt",
+          "Joe",
+          "Brandon",
+          "Michael",
+          "Kyle",
+          "Corbin",
+          "Shant",
+          "Anthony",
+          "Uri"
+        ],
+        "sub_clip_focus": "Blue team ejected after raw Wellington and cold salmon — Ramsay inspects the blue team’s entrees, finds the salmon cold, then cuts into the Wellingtons and discovers they are raw",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "Egypt",
+          "Joe"
+        ],
+        "audience_fit_score": 82,
+        "interest_match_score": 78,
+        "avoidance_score": 78
+      },
+      {
+        "rank": 10,
+        "asset_reference": "hk-ep04",
+        "title": "Blue Team is thrown out after the second raw lamb",
+        "clip_start": "32:52",
+        "clip_end": "33:13",
+        "rationale": "FAST Programmer · Blue Team is thrown out after the second raw lamb — After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry",
+        "match_signals": [
+          "prime-time",
+          "18-34",
+          "competition",
+          "pickling challenge",
+          "pickleball"
+        ],
+        "audience_alignment_reasoning": "For a FAST Programmer viewer, \"Blue Team is thrown out after the second raw lamb\" in Ep 4 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Joe, Lulu drive the beat: After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry.  He tears into them for showing no bounce-back ability and then throws them out of service, forcing them to leave the kitchen in disgrace. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "clip_label": "Blue Team is thrown out after the second raw lamb",
+        "clip_description": "After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry.  He tears into them for showing no bounce-back ability and then throws them out of service, forcing them to leave the kitchen in disgrace.",
+        "characters_present": [
+          "Gordon Ramsay",
+          "Joe",
+          "Lulu",
+          "Egypt",
+          "Michael",
+          "Kyle",
+          "Anthony",
+          "Brandon",
+          "Vernon Davis"
+        ],
+        "sub_clip_focus": "Blue Team is thrown out after the second raw lamb — After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry",
+        "matched_audience_interests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clip_length_minutes": 1,
+        "avoided_themes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "character_spotlight": [
+          "Gordon Ramsay",
+          "Joe",
+          "Lulu"
+        ],
+        "audience_fit_score": 80,
+        "interest_match_score": 76,
+        "avoidance_score": 78
+      }
+    ]
+  },
+  "resolved_clips": [
+    {
+      "id": "fast_programmer-rail-0",
+      "assetId": "hk-ep01",
+      "assetReference": "hk-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/hk-ep01",
+      "startSec": 951,
+      "endSec": 1166,
+      "thumbnailUrl": "https://i.ytimg.com/vi/n3k6NV9qRsQ/maxresdefault.jpg",
+      "title": "Opening judging sets the tone",
+      "sceneTitle": "Opening judging sets the tone",
+      "description": "Judging opens with steady scores from Ann Marie and Uri, then spikes when Anthony earns the season's first 5.  Magali immediately answers with a 5 of her own, showing that the women are not going to let the men build easy momentum and setting up the challenge as a real seesaw.",
+      "sceneDescription": "Judging opens with steady scores from Ann Marie and Uri, then spikes when Anthony earns the season's first 5.  Magali immediately answers with a 5 of her own, showing that the women are not going to let the men build easy momentum and setting up the challenge as a real seesaw.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "signature dish challenge",
+        "East Coast launch"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Ann Marie",
+        "Uri",
+        "Anthony",
+        "Magali"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Opening judging sets the tone\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Ann Marie, Uri drive the beat: Judging opens with steady scores from Ann Marie and Uri, then spikes when Anthony earns the season's first 5.  Magali immediately answers with a 5 of her own, showing that the women are not going to let the men build easy momentum and setting up the challenge as a real seesaw. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Opening judging sets the tone",
+      "subClipFocus": "Opening judging sets the tone — Judging opens with steady scores from Ann Marie and Uri, then spikes when Anthony earns the season's first 5",
+      "rank": 1,
+      "personalizationMetadata": {
+        "clipDescription": "Judging opens with steady scores from Ann Marie and Uri, then spikes when Anthony earns the season's first 5.  Magali immediately answers with a 5 of her own, showing that the women are not going to let the men build easy momentum and setting up the challenge as a real seesaw.",
+        "reasoning": "For a FAST Programmer viewer, \"Opening judging sets the tone\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Ann Marie, Uri drive the beat: Judging opens with steady scores from Ann Marie and Uri, then spikes when Anthony earns the season's first 5.  Magali immediately answers with a 5 of her own, showing that the women are not going to let the men build easy momentum and setting up the challenge as a real seesaw. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 4,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "Ann Marie",
+          "Uri"
+        ],
+        "fitScores": {
+          "audienceFit": 98,
+          "interestMatch": 94,
+          "avoidanceConfidence": 92
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-1",
+      "assetId": "hk-ep01",
+      "assetReference": "hk-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/hk-ep01",
+      "startSec": 1212,
+      "endSec": 1394,
+      "thumbnailUrl": "https://i.ytimg.com/vi/n3k6NV9qRsQ/maxresdefault.jpg",
+      "title": "Momentum swings in the middle rounds",
+      "sceneTitle": "Momentum swings in the middle rounds",
+      "description": "The middle judging round is all about instability.  Kyle earns praise for beautifully cooked fish, Brittany successfully recovers enough to score a 4, Amber stumbles with a 3, and Corbin capitalizes with a 4 that briefly puts the Blue Team ahead.",
+      "sceneDescription": "The middle judging round is all about instability.  Kyle earns praise for beautifully cooked fish, Brittany successfully recovers enough to score a 4, Amber stumbles with a 3, and Corbin capitalizes with a 4 that briefly puts the Blue Team ahead.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "signature dish challenge",
+        "East Coast launch"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Kyle",
+        "Brittany",
+        "Amber",
+        "Corbin"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Momentum swings in the middle rounds\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Kyle, Brittany drive the beat: The middle judging round is all about instability.  Kyle earns praise for beautifully cooked fish, Brittany successfully recovers enough to score a 4, Amber stumbles with a 3, and Corbin capitalizes with a 4 that briefly puts the Blue Team ahead. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Momentum swings in the middle rounds",
+      "subClipFocus": "Momentum swings in the middle rounds — The middle judging round is all about instability",
+      "rank": 2,
+      "personalizationMetadata": {
+        "clipDescription": "The middle judging round is all about instability.  Kyle earns praise for beautifully cooked fish, Brittany successfully recovers enough to score a 4, Amber stumbles with a 3, and Corbin capitalizes with a 4 that briefly puts the Blue Team ahead.",
+        "reasoning": "For a FAST Programmer viewer, \"Momentum swings in the middle rounds\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Kyle, Brittany drive the beat: The middle judging round is all about instability.  Kyle earns praise for beautifully cooked fish, Brittany successfully recovers enough to score a 4, Amber stumbles with a 3, and Corbin capitalizes with a 4 that briefly puts the Blue Team ahead. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "Kyle",
+          "Brittany"
+        ],
+        "fitScores": {
+          "audienceFit": 96,
+          "interestMatch": 92,
+          "avoidanceConfidence": 90
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-2",
+      "assetId": "hk-ep01",
+      "assetReference": "hk-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/hk-ep01",
+      "startSec": 2340,
+      "endSec": 2525,
+      "thumbnailUrl": "https://i.ytimg.com/vi/n3k6NV9qRsQ/maxresdefault.jpg",
+      "title": "Setup for first dinner service",
+      "sceneTitle": "Setup for first dinner service",
+      "description": "Both teams receive recipe books and begin preparing for the first dinner service, carrying very different moods out of the challenge.  Ramsay then stages a paparazzi moment outside Hell's Kitchen before revealing a flamethrower and teasing the explosive service to come, ending the premiere by converting opening-week excitement into anxiety.",
+      "sceneDescription": "Both teams receive recipe books and begin preparing for the first dinner service, carrying very different moods out of the challenge.  Ramsay then stages a paparazzi moment outside Hell's Kitchen before revealing a flamethrower and teasing the explosive service to come, ending the premiere by converting opening-week excitement into anxiety.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "signature dish challenge",
+        "East Coast launch"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Anthony",
+        "Brittany",
+        "Michael",
+        "Amanda",
+        "Amber",
+        "Ann Marie",
+        "Brandon",
+        "Corbin",
+        "Egypt",
+        "Hannah",
+        "Joe",
+        "Kyle",
+        "Lulu",
+        "Magali",
+        "Meghan",
+        "Shant",
+        "Uri",
+        "Whit"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Setup for first dinner service\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Anthony, Brittany drive the beat: Both teams receive recipe books and begin preparing for the first dinner service, carrying very different moods out of the challenge.  Ramsay then stages a paparazzi moment outside Hell's Kitchen before revealing a flamethrower and teasing the explosive service to come, ending the premiere by converting opening-week excitement into anxiety. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Setup for first dinner service",
+      "subClipFocus": "Setup for first dinner service — Both teams receive recipe books and begin preparing for the first dinner service, carrying very different moods out of the challenge",
+      "rank": 3,
+      "personalizationMetadata": {
+        "clipDescription": "Both teams receive recipe books and begin preparing for the first dinner service, carrying very different moods out of the challenge.  Ramsay then stages a paparazzi moment outside Hell's Kitchen before revealing a flamethrower and teasing the explosive service to come, ending the premiere by converting opening-week excitement into anxiety.",
+        "reasoning": "For a FAST Programmer viewer, \"Setup for first dinner service\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Anthony, Brittany drive the beat: Both teams receive recipe books and begin preparing for the first dinner service, carrying very different moods out of the challenge.  Ramsay then stages a paparazzi moment outside Hell's Kitchen before revealing a flamethrower and teasing the explosive service to come, ending the premiere by converting opening-week excitement into anxiety. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 3,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "Anthony",
+          "Brittany"
+        ],
+        "fitScores": {
+          "audienceFit": 94,
+          "interestMatch": 90,
+          "avoidanceConfidence": 88
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-3",
+      "assetId": "hk-ep03",
+      "assetReference": "hk-ep03",
+      "episodeLabel": "Ep 3",
+      "videoSrc": "/api/media/hk-ep03",
+      "startSec": 620,
+      "endSec": 960,
+      "thumbnailUrl": "https://i.ytimg.com/vi/GAV2plfsiBA/maxresdefault.jpg",
+      "title": "Red team wins the seafood challenge 6–5",
+      "sceneTitle": "Red team wins the seafood challenge 6–5",
+      "description": "Judging becomes a back-and-forth match.  Egypt and Hannah split the oyster point; Brittany beats Shant on lobster; Whit beats Uri on squid; Kyle beats Magali on crab; Amanda and Anthony both score on prawns; Michael ties Meghan on mussels; Joe beats Lulu on clams; and the final scallop round goes to Ann Marie over Corbin after Corbin’s scallops are judged overcooked.",
+      "sceneDescription": "Judging becomes a back-and-forth match.  Egypt and Hannah split the oyster point; Brittany beats Shant on lobster; Whit beats Uri on squid; Kyle beats Magali on crab; Amanda and Anthony both score on prawns; Michael ties Meghan on mussels; Joe beats Lulu on clams; and the final scallop round goes to Ann Marie over Corbin after Corbin’s scallops are judged overcooked.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "seafood challenge",
+        "seafood tower"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Egypt",
+        "Hannah",
+        "Shant",
+        "Brittany",
+        "Whit",
+        "Uri",
+        "Magali",
+        "Kyle",
+        "Anthony",
+        "Amanda",
+        "Michael",
+        "Joe",
+        "Lulu",
+        "Meghan",
+        "Ann Marie",
+        "Corbin"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Red team wins the seafood challenge 6–5\" in Ep 3 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Egypt, Hannah drive the beat: Judging becomes a back-and-forth match.  Egypt and Hannah split the oyster point; Brittany beats Shant on lobster; Whit beats Uri on squid; Kyle beats Magali on crab; Amanda and Anthony both score on prawns; Michael ties Meghan on mussels; Joe beats Lulu on clams; and the final scallop round goes to Ann Marie over Corbin after Corbin’s scallops are judged overcooked. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Red team wins the seafood challenge 6–5",
+      "subClipFocus": "Red team wins the seafood challenge 6–5 — Judging becomes a back-and-forth match",
+      "rank": 4,
+      "personalizationMetadata": {
+        "clipDescription": "Judging becomes a back-and-forth match.  Egypt and Hannah split the oyster point; Brittany beats Shant on lobster; Whit beats Uri on squid; Kyle beats Magali on crab; Amanda and Anthony both score on prawns; Michael ties Meghan on mussels; Joe beats Lulu on clams; and the final scallop round goes to Ann Marie over Corbin after Corbin’s scallops are judged overcooked.",
+        "reasoning": "For a FAST Programmer viewer, \"Red team wins the seafood challenge 6–5\" in Ep 3 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Egypt, Hannah drive the beat: Judging becomes a back-and-forth match.  Egypt and Hannah split the oyster point; Brittany beats Shant on lobster; Whit beats Uri on squid; Kyle beats Magali on crab; Amanda and Anthony both score on prawns; Michael ties Meghan on mussels; Joe beats Lulu on clams; and the final scallop round goes to Ann Marie over Corbin after Corbin’s scallops are judged overcooked. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 6,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "Egypt",
+          "Hannah"
+        ],
+        "fitScores": {
+          "audienceFit": 92,
+          "interestMatch": 88,
+          "avoidanceConfidence": 86
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-4",
+      "assetId": "hk-ep04",
+      "assetReference": "hk-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/hk-ep04",
+      "startSec": 122,
+      "endSec": 178,
+      "thumbnailUrl": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
+      "title": "Blue Team tension carries over",
+      "sceneTitle": "Blue Team tension carries over",
+      "description": "The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration.  Brandon complains that Egypt is too much in the kitchen, Joe argues the team needs discipline and accountability, and Egypt counters that everyone else needs to raise their level.",
+      "sceneDescription": "The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration.  Brandon complains that Egypt is too much in the kitchen, Joe argues the team needs discipline and accountability, and Egypt counters that everyone else needs to raise their level.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "pickling challenge",
+        "pickleball"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Brandon",
+        "Egypt",
+        "Joe",
+        "Kyle"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Blue Team tension carries over\" in Ep 4 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Brandon, Egypt drive the beat: The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration.  Brandon complains that Egypt is too much in the kitchen, Joe argues the team needs discipline and accountability, and Egypt counters that everyone else needs to raise their level. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Blue Team tension carries over",
+      "subClipFocus": "Blue Team tension carries over — The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration",
+      "rank": 5,
+      "personalizationMetadata": {
+        "clipDescription": "The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration.  Brandon complains that Egypt is too much in the kitchen, Joe argues the team needs discipline and accountability, and Egypt counters that everyone else needs to raise their level.",
+        "reasoning": "For a FAST Programmer viewer, \"Blue Team tension carries over\" in Ep 4 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Brandon, Egypt drive the beat: The episode opens on the aftermath of the previous elimination and the Blue Team’s internal frustration.  Brandon complains that Egypt is too much in the kitchen, Joe argues the team needs discipline and accountability, and Egypt counters that everyone else needs to raise their level. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "Brandon",
+          "Egypt"
+        ],
+        "fitScores": {
+          "audienceFit": 90,
+          "interestMatch": 86,
+          "avoidanceConfidence": 84
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-5",
+      "assetId": "hk-ep05",
+      "assetReference": "hk-ep05",
+      "episodeLabel": "Ep 5",
+      "videoSrc": "/api/media/hk-ep05",
+      "startSec": 965,
+      "endSec": 1032,
+      "thumbnailUrl": "https://i.ytimg.com/vi/NKTyf08aXUY/maxresdefault.jpg",
+      "title": "Hannah ties it after Joe falters",
+      "sceneTitle": "Hannah ties it after Joe falters",
+      "description": "Anthony defeats Amanda on pork, but Joe cannot extend the Blue lead because Motz says his short-rib burger is overcooked.  Hannah capitalizes for the Red Team, tying the score.",
+      "sceneDescription": "Anthony defeats Amanda on pork, but Joe cannot extend the Blue lead because Motz says his short-rib burger is overcooked.  Hannah capitalizes for the Red Team, tying the score.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "burger challenge",
+        "George Motz"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "George Motz",
+        "Anthony",
+        "Amanda",
+        "Joe",
+        "Hannah",
+        "Egypt",
+        "Magali"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Hannah ties it after Joe falters\" in Ep 5 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, George Motz, Anthony drive the beat: Anthony defeats Amanda on pork, but Joe cannot extend the Blue lead because Motz says his short-rib burger is overcooked.  Hannah capitalizes for the Red Team, tying the score. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Hannah ties it after Joe falters",
+      "subClipFocus": "Hannah ties it after Joe falters — Anthony defeats Amanda on pork, but Joe cannot extend the Blue lead because Motz says his short-rib burger is overcooked",
+      "rank": 6,
+      "personalizationMetadata": {
+        "clipDescription": "Anthony defeats Amanda on pork, but Joe cannot extend the Blue lead because Motz says his short-rib burger is overcooked.  Hannah capitalizes for the Red Team, tying the score.",
+        "reasoning": "For a FAST Programmer viewer, \"Hannah ties it after Joe falters\" in Ep 5 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, George Motz, Anthony drive the beat: Anthony defeats Amanda on pork, but Joe cannot extend the Blue lead because Motz says his short-rib burger is overcooked.  Hannah capitalizes for the Red Team, tying the score. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "George Motz",
+          "Anthony"
+        ],
+        "fitScores": {
+          "audienceFit": 88,
+          "interestMatch": 84,
+          "avoidanceConfidence": 82
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-6",
+      "assetId": "hk-ep01",
+      "assetReference": "hk-ep01",
+      "episodeLabel": "Ep 1",
+      "videoSrc": "/api/media/hk-ep01",
+      "startSec": 2000,
+      "endSec": 2310,
+      "thumbnailUrl": "https://i.ytimg.com/vi/n3k6NV9qRsQ/maxresdefault.jpg",
+      "title": "Reward bonds the women; punishment divides the men",
+      "sceneTitle": "Reward bonds the women; punishment divides the men",
+      "description": "After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side.",
+      "sceneDescription": "After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "signature dish challenge",
+        "East Coast launch"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Brittany",
+        "Ann Marie",
+        "Hannah",
+        "Magali",
+        "Meghan",
+        "Whit",
+        "James Avery",
+        "Corbin",
+        "Egypt",
+        "Joe",
+        "Michael",
+        "Shant",
+        "Uri"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Reward bonds the women; punishment divides the men\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Brittany, Ann Marie drive the beat: After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Reward bonds the women; punishment divides the men",
+      "subClipFocus": "Reward bonds the women; punishment divides the men — After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy",
+      "rank": 7,
+      "personalizationMetadata": {
+        "clipDescription": "After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side.",
+        "reasoning": "For a FAST Programmer viewer, \"Reward bonds the women; punishment divides the men\" in Ep 1 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Brittany, Ann Marie drive the beat: After the loss, Ramsay sends the Red Team to a reward dinner with him, where their shared celebration builds immediate camaraderie and 'girl power' energy.  The Blue Team, meanwhile, is first ordered to clean the trashed kitchen and then unload a delivery truck; during the punishment, Uri's choice to handle inventory rather than lift boxes frustrates teammates and sparks the first meaningful internal resentment on the men's side. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 5,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "Brittany",
+          "Ann Marie"
+        ],
+        "fitScores": {
+          "audienceFit": 86,
+          "interestMatch": 82,
+          "avoidanceConfidence": 80
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-7",
+      "assetId": "hk-ep04",
+      "assetReference": "hk-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/hk-ep04",
+      "startSec": 1462,
+      "endSec": 1584,
+      "thumbnailUrl": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
+      "title": "Both kitchens wobble, but Blue worsens it",
+      "sceneTitle": "Both kitchens wobble, but Blue worsens it",
+      "description": "While the Blue Team tries to recover, the Red Team also stumbles when Ann Marie mistakenly puts peas into a risotto that should have had parsley.  Ramsay hammers them for the error, but the women remain in service.",
+      "sceneDescription": "While the Blue Team tries to recover, the Red Team also stumbles when Ann Marie mistakenly puts peas into a risotto that should have had parsley.  Ramsay hammers them for the error, but the women remain in service.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "pickling challenge",
+        "pickleball"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Ann Marie",
+        "Hannah",
+        "Sheryl Swoopes",
+        "Michael",
+        "Egypt"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Both kitchens wobble, but Blue worsens it\" in Ep 4 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Ann Marie, Hannah drive the beat: While the Blue Team tries to recover, the Red Team also stumbles when Ann Marie mistakenly puts peas into a risotto that should have had parsley.  Ramsay hammers them for the error, but the women remain in service. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Both kitchens wobble, but Blue worsens it",
+      "subClipFocus": "Both kitchens wobble, but Blue worsens it — While the Blue Team tries to recover, the Red Team also stumbles when Ann Marie mistakenly puts peas into a risotto that should have had parsley",
+      "rank": 8,
+      "personalizationMetadata": {
+        "clipDescription": "While the Blue Team tries to recover, the Red Team also stumbles when Ann Marie mistakenly puts peas into a risotto that should have had parsley.  Ramsay hammers them for the error, but the women remain in service.",
+        "reasoning": "For a FAST Programmer viewer, \"Both kitchens wobble, but Blue worsens it\" in Ep 4 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Ann Marie, Hannah drive the beat: While the Blue Team tries to recover, the Red Team also stumbles when Ann Marie mistakenly puts peas into a risotto that should have had parsley.  Ramsay hammers them for the error, but the women remain in service. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 2,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "Ann Marie",
+          "Hannah"
+        ],
+        "fitScores": {
+          "audienceFit": 84,
+          "interestMatch": 80,
+          "avoidanceConfidence": 78
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-8",
+      "assetId": "hk-ep02",
+      "assetReference": "hk-ep02",
+      "episodeLabel": "Ep 2",
+      "videoSrc": "/api/media/hk-ep02",
+      "startSec": 1978,
+      "endSec": 2022,
+      "thumbnailUrl": "https://i.ytimg.com/vi/bX-EzNRe-ws/maxresdefault.jpg",
+      "title": "Blue team ejected after raw Wellington and cold salmon",
+      "sceneTitle": "Blue team ejected after raw Wellington and cold salmon",
+      "description": "Ramsay inspects the blue team’s entrees, finds the salmon cold, then cuts into the Wellingtons and discovers they are raw.  He marches the entire team into the back hallway, identifies Joe and Egypt in the collapse, and throws every man out of the kitchen.",
+      "sceneDescription": "Ramsay inspects the blue team’s entrees, finds the salmon cold, then cuts into the Wellingtons and discovers they are raw.  He marches the entire team into the back hallway, identifies Joe and Egypt in the collapse, and throws every man out of the kitchen.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "Fiery Flambé Challenge",
+        "Punishment Pass"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Egypt",
+        "Joe",
+        "Brandon",
+        "Michael",
+        "Kyle",
+        "Corbin",
+        "Shant",
+        "Anthony",
+        "Uri"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Blue team ejected after raw Wellington and cold salmon\" in Ep 2 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Egypt, Joe drive the beat: Ramsay inspects the blue team’s entrees, finds the salmon cold, then cuts into the Wellingtons and discovers they are raw.  He marches the entire team into the back hallway, identifies Joe and Egypt in the collapse, and throws every man out of the kitchen. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Blue team ejected after raw Wellington and cold salmon",
+      "subClipFocus": "Blue team ejected after raw Wellington and cold salmon — Ramsay inspects the blue team’s entrees, finds the salmon cold, then cuts into the Wellingtons and discovers they are raw",
+      "rank": 9,
+      "personalizationMetadata": {
+        "clipDescription": "Ramsay inspects the blue team’s entrees, finds the salmon cold, then cuts into the Wellingtons and discovers they are raw.  He marches the entire team into the back hallway, identifies Joe and Egypt in the collapse, and throws every man out of the kitchen.",
+        "reasoning": "For a FAST Programmer viewer, \"Blue team ejected after raw Wellington and cold salmon\" in Ep 2 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Egypt, Joe drive the beat: Ramsay inspects the blue team’s entrees, finds the salmon cold, then cuts into the Wellingtons and discovers they are raw.  He marches the entire team into the back hallway, identifies Joe and Egypt in the collapse, and throws every man out of the kitchen. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "Egypt",
+          "Joe"
+        ],
+        "fitScores": {
+          "audienceFit": 82,
+          "interestMatch": 78,
+          "avoidanceConfidence": 78
+        }
+      }
+    },
+    {
+      "id": "fast_programmer-rail-9",
+      "assetId": "hk-ep04",
+      "assetReference": "hk-ep04",
+      "episodeLabel": "Ep 4",
+      "videoSrc": "/api/media/hk-ep04",
+      "startSec": 1972,
+      "endSec": 1993,
+      "thumbnailUrl": "https://i.ytimg.com/vi/kBheTYko4Z0/maxresdefault.jpg",
+      "title": "Blue Team is thrown out after the second raw lamb",
+      "sceneTitle": "Blue Team is thrown out after the second raw lamb",
+      "description": "After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry.  He tears into them for showing no bounce-back ability and then throws them out of service, forcing them to leave the kitchen in disgrace.",
+      "sceneDescription": "After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry.  He tears into them for showing no bounce-back ability and then throws them out of service, forcing them to leave the kitchen in disgrace.",
+      "matchSignals": [
+        "prime-time",
+        "18-34",
+        "competition",
+        "pickling challenge",
+        "pickleball"
+      ],
+      "charactersPresent": [
+        "Gordon Ramsay",
+        "Joe",
+        "Lulu",
+        "Egypt",
+        "Michael",
+        "Kyle",
+        "Anthony",
+        "Brandon",
+        "Vernon Davis"
+      ],
+      "audienceAlignmentReasoning": "For a FAST Programmer viewer, \"Blue Team is thrown out after the second raw lamb\" in Ep 4 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Joe, Lulu drive the beat: After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry.  He tears into them for showing no bounce-back ability and then throws them out of service, forcing them to leave the kitchen in disgrace. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+      "clipLabel": "Blue Team is thrown out after the second raw lamb",
+      "subClipFocus": "Blue Team is thrown out after the second raw lamb — After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry",
+      "rank": 10,
+      "personalizationMetadata": {
+        "clipDescription": "After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry.  He tears into them for showing no bounce-back ability and then throws them out of service, forcing them to leave the kitchen in disgrace.",
+        "reasoning": "For a FAST Programmer viewer, \"Blue Team is thrown out after the second raw lamb\" in Ep 4 matches prime-time FAST scheduling with high-energy hooks for the 18-34 female demo. In this window, Gordon Ramsay, Joe, Lulu drive the beat: After the Blue Team serves Vernon Davis a second raw lamb, Gordon Ramsay finally loses patience and marches the entire team into the pantry.  He tears into them for showing no bounce-back ability and then throws them out of service, forcing them to leave the kitchen in disgrace. That aligns with your looking-for signals (prime-time competition energy, 18-34 female demo, 90-min drama block) and keeps your configured character spotlight visible, while steering clear of slow burns, standalone episodes, low-energy beats.",
+        "matchedAudienceInterests": [
+          "prime-time competition energy",
+          "18-34 female demo",
+          "90-min drama block"
+        ],
+        "clipLengthMin": 1,
+        "avoidedThemes": [
+          "slow burns",
+          "standalone episodes",
+          "low-energy beats"
+        ],
+        "characterSpotlight": [
+          "Gordon Ramsay",
+          "Joe",
+          "Lulu"
+        ],
+        "fitScores": {
+          "audienceFit": 80,
+          "interestMatch": 76,
+          "avoidanceConfidence": 78
+        }
+      }
+    }
+  ]
+}
