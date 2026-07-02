@@ -19,6 +19,9 @@ const LABELS: Record<StoreKey, string> = {
   french_chef: "French Chef",
 };
 
+/** Re-enable when multi-library switching is ready for demo. */
+const STORE_SWITCHER_ENABLED = false;
+
 export function StoreSwitcher({
   storeKey,
   collapsed,
@@ -27,6 +30,22 @@ export function StoreSwitcher({
   collapsed?: boolean;
 }) {
   const router = useRouter();
+
+  if (!STORE_SWITCHER_ENABLED) {
+    return (
+      <div
+        data-testid="store-switcher"
+        className={cn(
+          "flex w-full items-center rounded-lg border border-border-secondary bg-surface-muted px-3 py-2 text-sm font-medium text-foreground-subtle",
+          collapsed && "size-9 justify-center px-0",
+        )}
+        title="Library switching is temporarily disabled"
+        aria-disabled="true"
+      >
+        {!collapsed && <span className="truncate">{LABELS[storeKey]}</span>}
+      </div>
+    );
+  }
 
   return (
     <Menu>
