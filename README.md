@@ -18,8 +18,6 @@
   <a href="https://www.twelvelabs.io/developer-hub"><img src="https://img.shields.io/badge/Developer-Hub-0EA5E9?style=for-the-badge" alt="Developer Hub"/></a>
 </p>
 
-> README logo is exported from `@twelvelabs-io/react` (`TwelveLabsLogoMark`). Regenerate after package updates: `node scripts/export-readme-assets.mjs` (from repo root, after `cd app && npm install`).
-
 ---
 
 ## Features
