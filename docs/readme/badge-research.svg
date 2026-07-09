@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="28" role="img" aria-label="Research">
+  <title>Research</title>
+  <rect width="108" height="28" rx="14" fill="#1D1C1B"/>
+  <rect x="1" y="1" width="106" height="26" rx="13" fill="#ECECEC"/>
+  <circle cx="14" cy="14" r="4" fill="#45423F"/>
+  <text x="26" y="18" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" font-weight="600" fill="#1D1C1B">Research</text>
+</svg>

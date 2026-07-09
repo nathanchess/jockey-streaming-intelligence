@@ -12,10 +12,33 @@
 </p>
 
 <p align="center">
-  <a href="https://docs.twelvelabs.io/docs/get-started/introduction"><img src="https://img.shields.io/badge/TwelveLabs-Documentation-D9F99D?style=for-the-badge" alt="Docs"/></a>
-  <a href="https://playground.twelvelabs.io"><img src="https://img.shields.io/badge/API-Playground-635DFF?style=for-the-badge" alt="Playground"/></a>
-  <a href="https://www.twelvelabs.io/research"><img src="https://img.shields.io/badge/Research-Papers-4B5563?style=for-the-badge" alt="Research"/></a>
-  <a href="https://www.twelvelabs.io/developer-hub"><img src="https://img.shields.io/badge/Developer-Hub-0EA5E9?style=for-the-badge" alt="Developer Hub"/></a>
+  <a href="https://docs.twelvelabs.io/docs/get-started/introduction"><img src="docs/readme/badge-docs.svg" alt="Documentation" height="28"/></a>
+  &nbsp;
+  <a href="https://playground.twelvelabs.io"><img src="docs/readme/badge-playground.svg" alt="Playground" height="28"/></a>
+  &nbsp;
+  <a href="https://www.twelvelabs.io/research"><img src="docs/readme/badge-research.svg" alt="Research" height="28"/></a>
+</p>
+
+> README logo and badges use TwelveLabs design tokens from `@twelvelabs-io/react`. Regenerate the logo after package updates: `node scripts/export-readme-assets.mjs` (from repo root, after `cd app && npm install`).
+
+---
+
+## Architecture
+
+### Indexing pipeline
+
+YouTube URLs are fetched, analyzed through the TwelveLabs API, and written into knowledge stores. The result is a collection of knowledge store IDs used by the demo.
+
+<p align="center">
+  <img src="docs/readme/indexing-pipeline-architecture.png" alt="Indexing pipeline architecture" width="900" />
+</p>
+
+### Jockey application pipeline
+
+Indexed knowledge stores power Jockey responses for search, hydration, discovery, and FAST programming — surfaced in the Next.js demo UI.
+
+<p align="center">
+  <img src="docs/readme/jockey-pipeline-architecture.png" alt="Jockey application pipeline architecture" width="900" />
 </p>
 
 ---
@@ -217,7 +240,6 @@ From repo root:
 - [TwelveLabs API docs](https://docs.twelvelabs.io/docs/get-started/introduction) — Jockey, knowledge stores, structured outputs
 - [Models overview](https://www.twelvelabs.io/product/models-overview) — Marengo, Pegasus, Jockey positioning
 - [Playground](https://playground.twelvelabs.io) — API key + try-your-own-video
-- [Developer hub](https://www.twelvelabs.io/developer-hub) — tutorials and sample patterns
 - [Sample apps](https://www.twelvelabs.io/sample-apps) — reference implementations
 - [Research](https://www.twelvelabs.io/research) — model papers and benchmarks
 - [Blog](https://www.twelvelabs.io/blog) — technical walkthroughs (ad engine, metadata pipelines, etc.)
