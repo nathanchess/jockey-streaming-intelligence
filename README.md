@@ -12,18 +12,18 @@
 </p>
 
 <p align="center">
-  <a href="https://docs.twelvelabs.io/docs/get-started/introduction"><img src="docs/readme/badge-docs.svg" alt="Documentation" height="28"/></a>
-  &nbsp;
-  <a href="https://playground.twelvelabs.io"><img src="docs/readme/badge-playground.svg" alt="Playground" height="28"/></a>
-  &nbsp;
-  <a href="https://www.twelvelabs.io/research"><img src="docs/readme/badge-research.svg" alt="Research" height="28"/></a>
+  <a href="https://docs.twelvelabs.io/agents/get-started/quickstart">Documentation</a>
+  ·
+  <a href="https://playground.twelvelabs.io">Playground</a>
+  ·
+  <a href="https://www.twelvelabs.io/research">Research</a>
 </p>
-
-> README logo and badges use TwelveLabs design tokens from `@twelvelabs-io/react`. Regenerate the logo after package updates: `node scripts/export-readme-assets.mjs` (from repo root, after `cd app && npm install`).
 
 ---
 
 ## Architecture
+
+Full system diagram (indexing → knowledge stores → Jockey → demo UI): [Lucidchart architecture](https://lucid.app/lucidchart/7f5c6910-2632-440e-95cb-91e9e16387db/edit?viewport_loc=60%2C-472%2C6008%2C3482%2C0_0&invitationId=inv_37aacc2d-a6c1-4ad0-9aa3-87e4a224b856).
 
 ### Indexing pipeline
 
@@ -227,17 +227,12 @@ Run from `app/`:
 | `npm run build` | Production build |
 | `npm run test` | Playwright API + E2E |
 
-From repo root:
-
-| Command | Description |
-|---------|-------------|
-| `node scripts/export-readme-assets.mjs` | Export README logo from `@twelvelabs-io/react` |
-
 ---
 
 ## Resources
 
-- [TwelveLabs API docs](https://docs.twelvelabs.io/docs/get-started/introduction) — Jockey, knowledge stores, structured outputs
+- [Architecture diagram (Lucid)](https://lucid.app/lucidchart/7f5c6910-2632-440e-95cb-91e9e16387db/edit?viewport_loc=60%2C-472%2C6008%2C3482%2C0_0&invitationId=inv_37aacc2d-a6c1-4ad0-9aa3-87e4a224b856) — end-to-end indexing + Jockey app flow
+- [TwelveLabs documentation](https://docs.twelvelabs.io/agents/get-started/quickstart) — Agents quickstart, Jockey, knowledge stores
 - [Models overview](https://www.twelvelabs.io/product/models-overview) — Marengo, Pegasus, Jockey positioning
 - [Playground](https://playground.twelvelabs.io) — API key + try-your-own-video
 - [Sample apps](https://www.twelvelabs.io/sample-apps) — reference implementations
